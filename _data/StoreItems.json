@@ -1,4 +1,5 @@
-{"items":[{
+{"items":[
+    {
     "abr":"(iv)抗生物質",
     "category":"ドラッグ",
     "defname":"Antibiotics",
@@ -28350,4 +28351,5 @@
     }
 ],
  
- "total":3544}
+ "total":3544
+}

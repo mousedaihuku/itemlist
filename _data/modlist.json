@@ -48,12 +48,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Show Hair With Hats or Hide All Hats",
-    "steamId": "1180826364",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "AUTOMATIC",
     "name": "Gunplay",
     "steamId": "2034896549",
@@ -112,6 +106,12 @@
     "name": "[Vee]Apparel Retexture",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
+    "version": "1.0.0.0"
   },
   {
     "author": "Syrchalis",
@@ -234,12 +234,6 @@
     "version": null
   },
   {
-    "author": "Sierra",
-    "name": "RimTraits - General Traits",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "LadyCookie",
     "name": "Cookie Traits (No Cheats)",
     "steamId": null,
@@ -348,12 +342,6 @@
     "version": null
   },
   {
-    "author": "Oblitus",
-    "name": "Animals Logic",
-    "steamId": "1098354593",
-    "version": "1.0.8084.14260"
-  },
-  {
     "author": "Zylle",
     "name": "Boomalopes Bleed Chemfuel",
     "steamId": null,
@@ -436,12 +424,6 @@
     "name": "Dress Patients 日本語翻訳追加",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Catachat",
-    "name": "Inspiration Tweaks",
-    "steamId": "2117570018",
-    "version": "1.0.0.0"
   },
   {
     "author": "Ben Lubar",
@@ -592,12 +574,6 @@
     "name": "Heat Map",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Arquebus",
-    "name": "Hotseat - Dynamic Storyteller Switcher",
-    "steamId": "2175327693",
-    "version": "1.1.2.0"
   },
   {
     "author": "Argón",
@@ -846,12 +822,6 @@
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Range Finder",
-    "steamId": "1332119637",
-    "version": "2.2.1.0"
-  },
-  {
     "author": "dninemfive",
     "name": "Settlement Descriptions",
     "steamId": null,
@@ -960,12 +930,6 @@
     "version": null
   },
   {
-    "author": "Jaxxa",
-    "name": "ED-EnhancedOptions",
-    "steamId": "1241694757",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
@@ -1026,12 +990,6 @@
     "version": null
   },
   {
-    "author": "Qarsoon Meel",
-    "name": "Dreamer's Dreams",
-    "steamId": "2514986353",
-    "version": "2.3.3"
-  },
-  {
     "author": "InsertKey",
     "name": "ItemListSelector",
     "steamId": null,
@@ -1046,12 +1004,6 @@
   {
     "author": "Faeldrayと original by Willelbini",
     "name": "Pawns Paint! Restored (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "TwoWolfStyle",
-    "name": "Hunting Squad",
     "steamId": null,
     "version": null
   },
@@ -1090,6 +1042,18 @@
     "name": "Relations Tab",
     "steamId": "709317151",
     "version": "2.6.72"
+  },
+  {
+    "author": "Arquebus",
+    "name": "Hotseat - Dynamic Storyteller Switcher",
+    "steamId": "2175327693",
+    "version": "1.1.2.0"
+  },
+  {
+    "author": "民火",
+    "name": "Where is my weapon?",
+    "steamId": "1539028008",
+    "version": "1.0.0.0"
   },
   {
     "author": "balistafreak",
@@ -1596,18 +1560,6 @@
     "version": "1.3.7862.41411"
   },
   {
-    "author": "いのしし_3",
-    "name": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Kurin, The Three Tailed Fox [Deluxe Edition] 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Millap",
     "name": "AOC The Cleanup Devil",
     "steamId": "2469449551",
@@ -1622,6 +1574,18 @@
   {
     "author": "Hadukiと Heli",
     "name": "Ancient Species",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "いのしし_3",
+    "name": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Kurin, The Three Tailed Fox [Deluxe Edition] 日本語翻訳",
     "steamId": null,
     "version": null
   },
@@ -2040,6 +2004,18 @@
     "version": "1.0.0"
   },
   {
+    "author": "gguake",
+    "name": "Apparel BodyType Resolver",
+    "steamId": "2037354634",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Easy Extra Apparel Layers",
+    "steamId": "2212276413",
+    "version": "1.0.0"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -2080,6 +2056,12 @@
     "name": "ToolkitPolls",
     "steamId": "2435838514",
     "version": "1.1.1.6"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Range Finder",
+    "steamId": "1332119637",
+    "version": "2.2.1.0"
   },
   {
     "author": "Cosmo Corban",

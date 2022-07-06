@@ -1056,6 +1056,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Jaxxa",
+    "name": "ED-EnhancedOptions",
+    "steamId": "1241694757",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "PowerSwitch",
+    "steamId": "717632155",
+    "version": "1.2.0"
+  },
+  {
+    "author": "Proxyer",
+    "name": "PowerSwitch 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "balistafreak",
     "name": "Standalone Hot Spring",
     "steamId": null,
@@ -1558,6 +1576,12 @@
     "name": "RimBees",
     "steamId": "1558161673",
     "version": "1.3.7862.41411"
+  },
+  {
+    "author": "Supes",
+    "name": "Parallel Power Grid (Parallel Conduits)",
+    "steamId": "1277677885",
+    "version": "1.9.1.0"
   },
   {
     "author": "Millap",

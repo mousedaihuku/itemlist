@@ -9499,12 +9499,6 @@
 		"defname": "Kurin_OnSkin_Spaceship_Crew_Suit"
 	},
 	{
-		"abr": "クーリンターミネーターロケットランチャー(廃棄予定)",
-		"price": 2542,
-		"category": "遠距離武器",
-		"defname": "Kurin_Special_Rocket_Launcher_Terminator"
-	},
-	{
 		"abr": "クーリンタイフーンロケットランチャー",
 		"price": 2017,
 		"category": "遠距離武器",
@@ -9845,12 +9839,6 @@
 		"price": 50,
 		"category": "調理済",
 		"defname": "Kurin_Cake"
-	},
-	{
-		"abr": "クーリンファブリケーター(廃止)",
-		"price": 458,
-		"category": "生産物",
-		"defname": "Kurin_Fabricator"
 	},
 	{
 		"abr": "クーリンホッパー",
@@ -22387,5 +22375,5 @@
 		"defname": "RB_WildHive_Temperate"
 	},
 	],
-	"total": 3734
+	"total": 3732
 }

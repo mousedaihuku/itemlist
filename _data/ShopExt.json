@@ -6653,7 +6653,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene Lite",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null,
         "conflicts": [
           "宿り木"
@@ -6683,7 +6683,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene Lite",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null,
         "conflicts": [
           "宿り木"
@@ -6713,7 +6713,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene Lite",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null,
         "conflicts": [
           "宿り木"
@@ -6743,7 +6743,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene Lite",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null,
         "conflicts": [
           "宿り木"
@@ -7451,50 +7451,6 @@
       "degree": 0
     },
     {
-      "description": "Timmyは,自分自身をアニマツリーにリンクするために必要な部族の儀式を学び,実践することに時間を費やしてきました.彼は,長い間,自然の素晴らしさに魅了されてきました.",
-      "stats": [
-        "TKUtils.Trait.MeditationDisabled",
-        "TKUtils.Trait.MeditationEnabled",
-        "+2 栽培",
-        "+20% 精神感応性",
-        "-5% 精神的弱さ",
-        "x120% ニューラルヒート回復レート",
-        "x110% ニューラルヒートリミット",
-        "x90% ニューラルヒート量"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dragonian Prime Race2.0",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "TKUtils.Trait.MeditationDisabled",
-          "TKUtils.Trait.MeditationEnabled",
-          "+2 栽培",
-          "+20% 精神感応性",
-          "-5% 精神的弱さ",
-          "x120% ニューラルヒート回復レート",
-          "x110% ニューラルヒートリミット",
-          "x90% ニューラルヒート量"
-        ]
-      },
-      "defName": "DR_Attuned",
-      "name": "同調",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "放火魔ほどではありませんが,火が大好きです.",
       "stats": [
         "TKUtils.Trait.MeditationEnabled"
@@ -7933,6 +7889,108 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmyは生粋のケチャラーです.彼はありとあらゆる食事にケチャップをかけます.ケチャップなしの食事は彼を悲しませるでしょう.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "マヨネーズ大好き",
+        "しょうゆ大好き",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimSeasoning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "マヨネーズ大好き",
+          "しょうゆ大好き",
+          "宿り木"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RimSeasoning_KetchupLover",
+      "name": "ケチャップ大好き",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmyは生粋のマヨラーです.彼はありとあらゆる食事にマヨネーズをかけます.マヨネーズなしの食事は彼を悲しませるでしょう.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "ケチャップ大好き",
+        "しょうゆ大好き",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimSeasoning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ケチャップ大好き",
+          "しょうゆ大好き",
+          "宿り木"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RimSeasoning_MayonnaiseLover",
+      "name": "マヨネーズ大好き",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmyは生粋のショウラーです.彼はありとあらゆる食事にしょうゆをかけます.しょうゆなしの食事は彼を悲しませるでしょう.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "ケチャップ大好き",
+        "マヨネーズ大好き",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimSeasoning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ケチャップ大好き",
+          "マヨネーズ大好き",
+          "宿り木"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RimSeasoning_SoySauseLover",
+      "name": "しょうゆ大好き",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -8084,7 +8142,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Kurin, The Three Tailed Fox, but with only one tail.",
+      "description": "本来は三本の尻尾を持つキツネの遺伝子を持つ種族ですが,尻尾が一本しかありません.",
       "defName": "Kurin_One_Tailed",
       "enabled": true,
       "name": "kurin",
@@ -8768,44 +8826,6 @@
     {
       "data": {
         "stats": [
-          "+60.00 重量",
-          "+50% 燃えやすさ",
-          "+$5800 金額",
-          "+5.20 移動速度",
-          "-45.0C 快適と感じる最低気温",
-          "+45.0C 快適と感じる最高気温 ",
-          "+150% 免疫を得る速度",
-          "+150 輸送能力",
-          "+40.0% アーマー - 突刺系",
-          "+30.0% アーマー - 打撲系",
-          "+40.0% アーマー - 熱系",
-          "+60% 毒に対する感受性",
-          "+110% 食事の早さ",
-          "+45 生肉の量",
-          "+80% 栽培・速度",
-          "+120% 栽培・収率",
-          "+75 生皮の量",
-          "+80% 掘削・速度",
-          "+120% 掘削・収率",
-          "+1.0 回避率(白兵戦)",
-          "+100% 照準時間",
-          "+80.00% 外交力",
-          "+90% 建造・速度",
-          "+125.00% 政治力"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "ドラゴンを彷彿とさせる特徴を持つ美しい種族で,この種族は人間の奴隷商人による密猟か何かの手によって進化したもののようです.\n元々は強力な家畜として,あるいはトランスヒューマニストが身体を作り替える対象として作られたものですが,これらの長命種はあらゆる技術を利用し始めており,ゆっくりではありますが,大規模で複雑な社会集団を形成し始めています.彼らは自然と機嫌がいいのですが,攻撃されるとすぐに機嫌が悪くなることが判明しました.また,小さな体格にもかかわらず,骨や筋肉は一般的な人間に比べてはるかに密度が高く強靱です.一部のドラコニアンは欲張りとまではいえませんが,貴金属や宝石が好む姿が見られます.",
-      "defName": "Dragonian_Prime",
-      "enabled": true,
-      "name": "ドラコニアン",
-      "price": 9667
-    },
-    {
-      "data": {
-        "stats": [
           "+65.00 重量",
           "+100% 燃えやすさ",
           "+$3000 金額",
@@ -8955,6 +8975,82 @@
       "enabled": true,
       "name": "マル",
       "price": 3667
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 重量",
+          "+70% 燃えやすさ",
+          "+$5800 金額",
+          "+5.20 移動速度",
+          "-45.0C 快適と感じる最低気温",
+          "+45.0C 快適と感じる最高気温 ",
+          "+150% 免疫を得る速度",
+          "+150 輸送能力",
+          "+50.0% アーマー - 突刺系",
+          "+40.0% アーマー - 打撲系",
+          "+20.0% アーマー - 熱系",
+          "+60% 毒に対する感受性",
+          "+110% 食事の早さ",
+          "+45 生肉の量",
+          "+80% 栽培・速度",
+          "+120% 栽培・収率",
+          "+75 生皮の量",
+          "+80% 掘削・速度",
+          "+120% 掘削・収率",
+          "+1.0 回避率(白兵戦)",
+          "+125% 照準時間",
+          "+80.00% 外交力",
+          "+90% 建造・速度",
+          "+125.00% 政治力"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "人間とドラゴンの特徴を持った美しい生命体です。主に野外で目撃されます。その銀色髪の毛は、高い強度と柔らかさによって闇市場で高く取引されており、多くの場合、密猟者たたちの標的にされたりします。",
+      "defName": "Dragonian_Male",
+      "enabled": true,
+      "name": "男性 ドラコニアン",
+      "price": 9667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 重量",
+          "+70% 燃えやすさ",
+          "+$5800 金額",
+          "+5.20 移動速度",
+          "-45.0C 快適と感じる最低気温",
+          "+45.0C 快適と感じる最高気温 ",
+          "+150% 免疫を得る速度",
+          "+150 輸送能力",
+          "+40.0% アーマー - 突刺系",
+          "+30.0% アーマー - 打撲系",
+          "+40.0% アーマー - 熱系",
+          "+60% 毒に対する感受性",
+          "+110% 食事の早さ",
+          "+45 生肉の量",
+          "+80% 栽培・速度",
+          "+120% 栽培・収率",
+          "+75 生皮の量",
+          "+80% 掘削・速度",
+          "+120% 掘削・収率",
+          "+1.0 回避率(白兵戦)",
+          "+125% 照準時間",
+          "+80.00% 外交力",
+          "+90% 建造・速度",
+          "+125.00% 政治力"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "人間とドラゴンの特徴を持った美しい生命体です。主に野外で目撃されます。その銀色髪の毛は、高い強度と柔らかさによって闇市場で高く取引されており、多くの場合、密猟者たたちの標的にされたりします。",
+      "defName": "Dragonian_Female",
+      "enabled": true,
+      "name": "女性 ドラコニアン",
+      "price": 9667
     }
   ]
 }

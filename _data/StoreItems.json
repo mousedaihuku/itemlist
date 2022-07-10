@@ -57,7 +57,7 @@
 	{
 		"abr": "ｔシャツ",
 		"price": 143,
-		"category": "下着",
+		"category": "Core",
 		"defname": "Apparel_BasicShirt"
 	},
 	{
@@ -207,7 +207,7 @@
 	{
 		"abr": "ウォーマスク",
 		"price": 101,
-		"category": "帽子",
+		"category": "Core",
 		"defname": "Apparel_WarMask"
 	},
 	{
@@ -303,13 +303,13 @@
 	{
 		"abr": "オーソリティキャップ",
 		"price": 92,
-		"category": "帽子",
+		"category": "Ideology",
 		"defname": "Apparel_AuthorityCap"
 	},
 	{
 		"abr": "カウボーイハット",
 		"price": 94,
-		"category": "帽子",
+		"category": "Core",
 		"defname": "Apparel_CowboyHat"
 	},
 	{
@@ -441,7 +441,7 @@
 	{
 		"abr": "ガンリンク",
 		"price": 575,
-		"category": "帽子",
+		"category": "Royalty",
 		"defname": "Apparel_Gunlink"
 	},
 	{
@@ -843,13 +843,13 @@
 	{
 		"abr": "シールドベルト",
 		"price": 650,
-		"category": "ユーティリティ",
+		"category": "Core",
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
 		"abr": "シェードコーン",
 		"price": 94,
-		"category": "帽子",
+		"category": "Ideology",
 		"defname": "Apparel_Shadecone"
 	},
 	{
@@ -891,13 +891,13 @@
 	{
 		"abr": "ジャケット",
 		"price": 275,
-		"category": "上着",
+		"category": "Core",
 		"defname": "Apparel_Jacket"
 	},
 	{
 		"abr": "ジャンプパック",
 		"price": 1075,
-		"category": "ユーティリティ",
+		"category": "Royalty",
 		"defname": "Apparel_PackJump"
 	},
 	{
@@ -1065,13 +1065,13 @@
 	{
 		"abr": "ズボン",
 		"price": 143,
-		"category": "下着",
+		"category": "Core",
 		"defname": "Apparel_Pants"
 	},
 	{
 		"abr": "スモークポップパック",
 		"price": 277,
-		"category": "ユーティリティ",
+		"category": "Core",
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
@@ -1131,7 +1131,7 @@
 	{
 		"abr": "ダスターコート",
 		"price": 327,
-		"category": "上着",
+		"category": "Core",
 		"defname": "Apparel_Duster"
 	},
 	{
@@ -1209,7 +1209,7 @@
 	{
 		"abr": "テールキャップ",
 		"price": 75,
-		"category": "帽子",
+		"category": "Ideology",
 		"defname": "Apparel_Tailcap"
 	},
 	{
@@ -1371,7 +1371,7 @@
 	{
 		"abr": "ニット帽",
 		"price": 74,
-		"category": "帽子",
+		"category": "Core",
 		"defname": "Apparel_Tuque"
 	},
 	{
@@ -1443,7 +1443,7 @@
 	{
 		"abr": "パーカー",
 		"price": 315,
-		"category": "上着",
+		"category": "Core",
 		"defname": "Apparel_Parka"
 	},
 	{
@@ -1623,7 +1623,7 @@
 	{
 		"abr": "フード",
 		"price": 203,
-		"category": "帽子",
+		"category": "Core",
 		"defname": "Apparel_HatHood"
 	},
 	{
@@ -1713,7 +1713,7 @@
 	{
 		"abr": "ブルカ",
 		"price": 224,
-		"category": "上着",
+		"category": "Ideology",
 		"defname": "Apparel_Burka"
 	},
 	{
@@ -1731,13 +1731,13 @@
 	{
 		"abr": "ブロードラップ",
 		"price": 111,
-		"category": "帽子",
+		"category": "Ideology",
 		"defname": "Apparel_Broadwrap"
 	},
 	{
 		"abr": "フロップハット",
 		"price": 74,
-		"category": "帽子",
+		"category": "Ideology",
 		"defname": "Apparel_Flophat"
 	},
 	{
@@ -1749,7 +1749,7 @@
 	{
 		"abr": "ベール",
 		"price": 75,
-		"category": "帽子",
+		"category": "Core",
 		"defname": "Apparel_WarVeil"
 	},
 	{
@@ -1761,7 +1761,7 @@
 	{
 		"abr": "ヘッドラップ",
 		"price": 75,
-		"category": "帽子",
+		"category": "Ideology",
 		"defname": "Apparel_Headwrap"
 	},
 	{
@@ -1809,7 +1809,7 @@
 	{
 		"abr": "ヘルメット",
 		"price": 153,
-		"category": "帽子",
+		"category": "Core",
 		"defname": "Apparel_SimpleHelmet"
 	},
 	{
@@ -2193,7 +2193,7 @@
 	{
 		"abr": "ローブ",
 		"price": 297,
-		"category": "上着",
+		"category": "Ideology",
 		"defname": "Apparel_Robe"
 	},
 	{
@@ -2235,7 +2235,7 @@
 	{
 		"abr": "一枚布",
 		"price": 211,
-		"category": "下着",
+		"category": "Core",
 		"defname": "Apparel_TribalA"
 	},
 	{
@@ -2289,7 +2289,7 @@
 	{
 		"abr": "低角シールドパック",
 		"price": 717,
-		"category": "ユーティリティ",
+		"category": "Royalty",
 		"defname": "Apparel_PackBroadshield"
 	},
 	{
@@ -2433,13 +2433,13 @@
 	{
 		"abr": "奴隷の革帯",
 		"price": 275,
-		"category": "上着",
+		"category": "Ideology",
 		"defname": "Apparel_BodyStrap"
 	},
 	{
 		"abr": "奴隷の首輪",
 		"price": 94,
-		"category": "帽子",
+		"category": "Ideology",
 		"defname": "Apparel_Collar"
 	},
 	{
@@ -2475,13 +2475,13 @@
 	{
 		"abr": "山高帽",
 		"price": 77,
-		"category": "帽子",
+		"category": "Core",
 		"defname": "Apparel_BowlerHat"
 	},
 	{
 		"abr": "工作台",
 		"price": 333,
-		"category": "生産物",
+		"category": "",
 		"defname": "FueledSmithy"
 	},
 	{
@@ -2823,7 +2823,7 @@
 	{
 		"abr": "狂気の槍",
 		"price": 1083,
-		"category": "ユーティリティ",
+		"category": "Core",
 		"defname": "Apparel_PsychicInsanityLance"
 	},
 	{
@@ -2877,7 +2877,7 @@
 	{
 		"abr": "目隠し布",
 		"price": 74,
-		"category": "目",
+		"category": "Ideology",
 		"defname": "Apparel_Blindfold"
 	},
 	{
@@ -2931,13 +2931,13 @@
 	{
 		"abr": "(アミスラン)アーチャージャケット",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_ArcherJacket"
 	},
 	{
 		"abr": "(アミスラン)アーチャードレス",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_ArcherDress"
 	},
 	{
@@ -2949,55 +2949,55 @@
 	{
 		"abr": "(アミスラン)ヴェール",
 		"price": 34,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_Veil"
 	},
 	{
 		"abr": "(アミスラン)ウッドシールド",
 		"price": 89,
-		"category": "上着の上",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_WoodenShield"
 	},
 	{
 		"abr": "(アミスラン)カイトシールド",
 		"price": 122,
-		"category": "上着の上",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_Shield"
 	},
 	{
 		"abr": "(アミスラン)キャソック",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_NunCassock"
 	},
 	{
 		"abr": "(アミスラン)キャミソール",
 		"price": 85,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_Camisole"
 	},
 	{
 		"abr": "(アミスラン)クラフツマンシャツ",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_CraftsShirt"
 	},
 	{
 		"abr": "(アミスラン)クラフツマンショーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_CraftsShorts"
 	},
 	{
 		"abr": "(アミスラン)クラフツマンハット",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_CraftsHat"
 	},
 	{
 		"abr": "(アミスラン)クラフツマンベスト",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_CraftsVest"
 	},
 	{
@@ -3009,13 +3009,13 @@
 	{
 		"abr": "(アミスラン)クリスタルソードウイング",
 		"price": 342,
-		"category": "武器(外観)",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_CrystalSwordWing"
 	},
 	{
 		"abr": "(アミスラン)クローク",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_Cloak"
 	},
 	{
@@ -3027,43 +3027,43 @@
 	{
 		"abr": "(アミスラン)サバイバルキット",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_SurvivalKit"
 	},
 	{
 		"abr": "(アミスラン)シスターケープ",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_NunScarf"
 	},
 	{
 		"abr": "(アミスラン)シスタードレス",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_NunDress"
 	},
 	{
 		"abr": "(アミスラン)シスターベール",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_NunHabit"
 	},
 	{
 		"abr": "(アミスラン)スカーフ",
 		"price": 34,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_DesertScarf"
 	},
 	{
 		"abr": "(アミスラン)ストッキング",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_NunStockings"
 	},
 	{
 		"abr": "(アミスラン)ソードウイング",
 		"price": 342,
-		"category": "武器(外観)",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_SwordWing"
 	},
 	{
@@ -3075,19 +3075,19 @@
 	{
 		"abr": "(アミスラン)タイトキャミソール",
 		"price": 85,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_Tight"
 	},
 	{
 		"abr": "(アミスラン)タバード",
 		"price": 136,
-		"category": "上着(戦術)",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_Tabard"
 	},
 	{
 		"abr": "(アミスラン)チェストラップ",
 		"price": 51,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_ChestWrap"
 	},
 	{
@@ -3099,7 +3099,7 @@
 	{
 		"abr": "(アミスラン)ドレスシューズ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_DressShoes"
 	},
 	{
@@ -3123,19 +3123,19 @@
 	{
 		"abr": "(アミスラン)ナイトクローク",
 		"price": 136,
-		"category": "上着(戦術)",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_KnightCloak"
 	},
 	{
 		"abr": "(アミスラン)ナイトシールド",
 		"price": 156,
-		"category": "上着の上",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_KnightShield"
 	},
 	{
 		"abr": "(アミスラン)ナイトドレス",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_KnightDress"
 	},
 	{
@@ -3153,67 +3153,67 @@
 	{
 		"abr": "(アミスラン)ナイトリボン",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_KnightHeaddress"
 	},
 	{
 		"abr": "(アミスラン)ニーハイストッキング(フリル)",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_Stockings"
 	},
 	{
 		"abr": "(アミスラン)ハイレグ",
 		"price": 85,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_NunUnderwear"
 	},
 	{
 		"abr": "(アミスラン)バスケット",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_Basket"
 	},
 	{
 		"abr": "(アミスラン)ハンターハット",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_HunterHat"
 	},
 	{
 		"abr": "(アミスラン)ハンチングベレー",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_ArcherHat"
 	},
 	{
 		"abr": "(アミスラン)パンティー",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_Underwear"
 	},
 	{
 		"abr": "(アミスラン)ヒール",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_NunHeels"
 	},
 	{
 		"abr": "(アミスラン)ブーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_Boots"
 	},
 	{
 		"abr": "(アミスラン)フード",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_Hood"
 	},
 	{
 		"abr": "(アミスラン)フォーマルドレス",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_RoyalFormal"
 	},
 	{
@@ -3249,7 +3249,7 @@
 	{
 		"abr": "(アミスラン)ヘアバンド",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_SoldierHairBand"
 	},
 	{
@@ -3261,43 +3261,43 @@
 	{
 		"abr": "(アミスラン)ボンネット",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_Bonnet"
 	},
 	{
 		"abr": "(アミスラン)メイドエプロン",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_MaidApron"
 	},
 	{
 		"abr": "(アミスラン)メイドカチューシャ",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_MaidHairband"
 	},
 	{
 		"abr": "(アミスラン)メイドケープ",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_MaidScarf"
 	},
 	{
 		"abr": "(アミスラン)メイドドレス",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_MaidDress"
 	},
 	{
 		"abr": "(アミスラン)モカシンa",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_MoccasinsA"
 	},
 	{
 		"abr": "(アミスラン)モカシンb",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_MoccasinsB"
 	},
 	{
@@ -3309,7 +3309,7 @@
 	{
 		"abr": "(アミスラン)リックサック",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_Luggage"
 	},
 	{
@@ -3321,19 +3321,19 @@
 	{
 		"abr": "(アミスラン)レギンス",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_StirrupLeggings"
 	},
 	{
 		"abr": "(アミスラン)レザーコルセット",
 		"price": 170,
-		"category": "上着(装甲)",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_LeatherCorset"
 	},
 	{
 		"abr": "(アミスラン)レザーベスト",
 		"price": 170,
-		"category": "上着(装甲)",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_LeatherVest"
 	},
 	{
@@ -3357,7 +3357,7 @@
 	{
 		"abr": "(アミスラン)ロイヤルクローク",
 		"price": 136,
-		"category": "上着(戦術)",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_RoyalCloak"
 	},
 	{
@@ -3375,229 +3375,229 @@
 	{
 		"abr": "(アミスラン)ロングブーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_LongBoots"
 	},
 	{
 		"abr": "(アミスラン)兵士の服",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_SoldierUniform"
 	},
 	{
 		"abr": "(アミスラン)破れたパンタレット",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_TornUnderwearB"
 	},
 	{
 		"abr": "(アミスラン)破れたパンティー",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_TornUnderwearA"
 	},
 	{
 		"abr": "(アミスラン)破れたブラa",
 		"price": 51,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_TornBraA"
 	},
 	{
 		"abr": "(アミスラン)破れたブラb",
 		"price": 51,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_TornBraB"
 	},
 	{
 		"abr": "(アミスラン)破れた靴下",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_TornSocks"
 	},
 	{
 		"abr": "(アミスラン)素朴なエプロン",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantApron"
 	},
 	{
 		"abr": "(アミスラン)素朴なカートル",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantKirtle"
 	},
 	{
 		"abr": "(アミスラン)素朴なクローク",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantCloak"
 	},
 	{
 		"abr": "(アミスラン)素朴なケープa",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantScarfA"
 	},
 	{
 		"abr": "(アミスラン)素朴なケープb",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantScarfB"
 	},
 	{
 		"abr": "(アミスラン)素朴なシュミーズ",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantChemise"
 	},
 	{
 		"abr": "(アミスラン)素朴なスカート",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantSkirt"
 	},
 	{
 		"abr": "(アミスラン)素朴なチュニック",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantTunic"
 	},
 	{
 		"abr": "(アミスラン)素朴なドロワーズ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantShorts"
 	},
 	{
 		"abr": "(アミスラン)素朴なパンツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantPants"
 	},
 	{
 		"abr": "(アミスラン)素朴なブーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantBoots"
 	},
 	{
 		"abr": "(アミスラン)素朴なブラウスa",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantBlouseA"
 	},
 	{
 		"abr": "(アミスラン)素朴なブラウスb",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantBlouseB"
 	},
 	{
 		"abr": "(アミスラン)素朴なローブ",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_PeasantRobe"
 	},
 	{
 		"abr": "(アミスラン)聖女の戦旗",
 		"price": 89,
-		"category": "上着の上",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_WarFlag"
 	},
 	{
 		"abr": "(アミスラン)聖戦旗",
 		"price": 89,
-		"category": "上着の上",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_HolyWarBanner"
 	},
 	{
 		"abr": "(アミスラン)英霊降臨",
 		"price": 1675,
-		"category": "その他",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_KnightSummon"
 	},
 	{
 		"abr": "(アミスラン)靴下(リボン)",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_RibbonSocks"
 	},
 	{
 		"abr": "(アミスラン)麦わら帽",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice ahmislan apparels and factions",
 		"defname": "Anneli_Ahmislan_StrawHat"
 	},
 	{
 		"abr": "(コスプレa)エウルアのクローク",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Eula_Cloak"
 	},
 	{
 		"abr": "(コスプレa)エウルアのコート",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Eula_Coat"
 	},
 	{
 		"abr": "(コスプレa)エウルアのサイハイブーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Eula_Boots"
 	},
 	{
 		"abr": "(コスプレa)エウルアのストッキング",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Eula_Stockings"
 	},
 	{
 		"abr": "(コスプレa)エウルアのソフトアーマー",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Eula_SoftArmor"
 	},
 	{
 		"abr": "(コスプレa)エウルアのタイツ",
 		"price": 85,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Eula_Tights"
 	},
 	{
 		"abr": "(コスプレa)エウルアの髪飾り",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Eula_HairAcc"
 	},
 	{
 		"abr": "(コスプレa)エーギルのクローク",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Agir_Cloak"
 	},
 	{
 		"abr": "(コスプレa)エーギルのショーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Agir_Shorts"
 	},
 	{
 		"abr": "(コスプレa)エーギルのショール",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Agir_Shawl"
 	},
 	{
 		"abr": "(コスプレa)エーギルのタイツ",
 		"price": 119,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Agir_Tights"
 	},
 	{
 		"abr": "(コスプレa)エーギルのビュスティエ",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Agir_Bustier"
 	},
 	{
@@ -3615,343 +3615,343 @@
 	{
 		"abr": "(コスプレa)シリアスのストッキング",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Sirius_Stockings"
 	},
 	{
 		"abr": "(コスプレa)シリアスのヒール",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Sirius_Heels"
 	},
 	{
 		"abr": "(コスプレa)シリアスのヘアバンド",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Sirius_Hairband"
 	},
 	{
 		"abr": "(コスプレa)シリアスのメイド服",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Sirius_Dress"
 	},
 	{
 		"abr": "(コスプレa)シリアスの大剣",
 		"price": 342,
-		"category": "武器(外観)",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Sirius_Sword"
 	},
 	{
 		"abr": "(コスプレa)ヒフミのバック",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Hihumi_Bag"
 	},
 	{
 		"abr": "(コスプレa)ムルマンスクのキャミソール",
 		"price": 85,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Murmansk_Camisole"
 	},
 	{
 		"abr": "(コスプレa)ムルマンスクのサイハイブーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Murmansk_Boots"
 	},
 	{
 		"abr": "(コスプレa)ムルマンスクのタイツ",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Murmansk_Socks"
 	},
 	{
 		"abr": "(コスプレa)ムルマンスクのドレス",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Murmansk_Dress"
 	},
 	{
 		"abr": "(コスプレa)ムルマンスクのファーティペット",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Murmansk_Tippet"
 	},
 	{
 		"abr": "(コスプレa)ムルマンスクの尻尾",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Murmansk_Tails"
 	},
 	{
 		"abr": "(コスプレa)ムルマンスクの帽子",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Murmansk_Hat"
 	},
 	{
 		"abr": "(コスプレa)刻晴のタイツ",
 		"price": 119,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Keqing_Tights"
 	},
 	{
 		"abr": "(コスプレa)刻晴のドレス",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Keqing_Dress"
 	},
 	{
 		"abr": "(コスプレa)刻晴のヒール",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Keqing_Heels"
 	},
 	{
 		"abr": "(コスプレa)刻晴の腰衣",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Keqing_Waistcloth"
 	},
 	{
 		"abr": "(コスプレa)刻晴の袖衣",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Keqing_Sleeves"
 	},
 	{
 		"abr": "(コスプレa)刻晴の髪飾り",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Keqing_HairAcc"
 	},
 	{
 		"abr": "(コスプレa)白洲アズサのガスマスク",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Azusa_GasMask"
 	},
 	{
 		"abr": "(コスプレa)白洲アズサのシューズ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Azusa_Shoes"
 	},
 	{
 		"abr": "(コスプレa)白洲アズサのショーツ",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Azusa_Underwear"
 	},
 	{
 		"abr": "(コスプレa)白洲アズサのセーラー服",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Azusa_Coat"
 	},
 	{
 		"abr": "(コスプレa)白洲アズサのブラジャー",
 		"price": 51,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Azusa_Bra"
 	},
 	{
 		"abr": "(コスプレa)白洲アズサのヘイロー",
 		"price": 19,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Azusa_Halo"
 	},
 	{
 		"abr": "(コスプレa)白洲アズサのワンピース",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Azusa_Dress"
 	},
 	{
 		"abr": "(コスプレa)白洲アズサの翼",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Azusa_Wings"
 	},
 	{
 		"abr": "(コスプレa)白洲アズサの靴下",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Azusa_Socks"
 	},
 	{
 		"abr": "(コスプレa)白洲アズサの髪飾り",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Azusa_HairAcc"
 	},
 	{
 		"abr": "(コスプレa)砂狼シロコのスカート",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Shiroko_Skirt"
 	},
 	{
 		"abr": "(コスプレa)砂狼シロコのスカーフ",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Shiroko_Scarf"
 	},
 	{
 		"abr": "(コスプレa)砂狼シロコのスニーカー",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Shiroko_Sneakers"
 	},
 	{
 		"abr": "(コスプレa)砂狼シロコのブラウス",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Shiroko_Shirt"
 	},
 	{
 		"abr": "(コスプレa)砂狼シロコのブレザー",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Shiroko_Coat"
 	},
 	{
 		"abr": "(コスプレa)砂狼シロコのヘアピン",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Shiroko_Hairpin"
 	},
 	{
 		"abr": "(コスプレa)砂狼シロコのヘイロー",
 		"price": 19,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Shiroko_Halo"
 	},
 	{
 		"abr": "(コスプレa)砂狼シロコの学生カバン",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Shiroko_Bag"
 	},
 	{
 		"abr": "(コスプレa)砂狼シロコの目出し帽",
 		"price": 136,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Shiroko_Balaclava"
 	},
 	{
 		"abr": "(コスプレa)砂狼シロコの靴下",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Shiroko_Socks"
 	},
 	{
 		"abr": "(コスプレa)蛍のサイハイブーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Lumine_Boots"
 	},
 	{
 		"abr": "(コスプレa)蛍のドレス",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Lumine_Dress"
 	},
 	{
 		"abr": "(コスプレa)蛍のブラジャー",
 		"price": 51,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Lumine_Bra"
 	},
 	{
 		"abr": "(コスプレa)蛍のブルーマー",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Lumine_Bloomers"
 	},
 	{
 		"abr": "(コスプレa)蛍のマフラー",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Lumine_Cloak"
 	},
 	{
 		"abr": "(コスプレa)蛍の腰衣",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Lumine_Waistcloth"
 	},
 	{
 		"abr": "(コスプレa)蛍の髪飾り",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Lumine_HairAcc"
 	},
 	{
 		"abr": "(コスプレa)防御陣",
 		"price": 21,
-		"category": "上着(装甲)",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_ProtectionSpell"
 	},
 	{
 		"abr": "(コスプレa)黒舘ハルナのコート",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Haruna_Coat"
 	},
 	{
 		"abr": "(コスプレa)黒舘ハルナのショーツ",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Haruna_Underwear"
 	},
 	{
 		"abr": "(コスプレa)黒舘ハルナのパンスト",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Haruna_Pantyhose"
 	},
 	{
 		"abr": "(コスプレa)黒舘ハルナのハンドバッグ",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Haruna_Handbag"
 	},
 	{
 		"abr": "(コスプレa)黒舘ハルナのヒール",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Haruna_Heels"
 	},
 	{
 		"abr": "(コスプレa)黒舘ハルナのブラジャー",
 		"price": 51,
-		"category": "下着",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Haruna_Bra"
 	},
 	{
 		"abr": "(コスプレa)黒舘ハルナのヘイロー",
 		"price": 19,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Haruna_Halo"
 	},
 	{
 		"abr": "(コスプレa)黒舘ハルナの学生服",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Haruna_Dress"
 	},
 	{
 		"abr": "(コスプレa)黒舘ハルナの帽子",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Haruna_Hat"
 	},
 	{
 		"abr": "(コスプレa)黒舘ハルナの翼",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice cosplay apparels volume A",
 		"defname": "Anneli_CosplayA_Haruna_Wing"
 	},
 	{
@@ -4011,13 +4011,13 @@
 	{
 		"abr": "(ジュニジア)gp-5ガスマスクa",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_GP5_GasMask_A"
 	},
 	{
 		"abr": "(ジュニジア)gp-5ガスマスクb",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_GP5_GasMask_B"
 	},
 	{
@@ -4059,13 +4059,13 @@
 	{
 		"abr": "(ジュニジア)pmk-1ガスマスクa",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_PMK1_GasMask_A"
 	},
 	{
 		"abr": "(ジュニジア)pmk-1ガスマスクb",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_PMK1_GasMask_B"
 	},
 	{
@@ -4083,13 +4083,13 @@
 	{
 		"abr": "(ジュニジア)tシャツ-白",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Adidas_White"
 	},
 	{
 		"abr": "(ジュニジア)tシャツ-黒",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Adidas_Black"
 	},
 	{
@@ -4101,19 +4101,19 @@
 	{
 		"abr": "(ジュニジア)ウシャンカ",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Ushanka_A"
 	},
 	{
 		"abr": "(ジュニジア)ウシャンカ-耳当て",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Ushanka_B"
 	},
 	{
 		"abr": "(ジュニジア)ギター",
 		"price": 73,
-		"category": "その他",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Guitar"
 	},
 	{
@@ -4131,403 +4131,403 @@
 	{
 		"abr": "(ジュニジア)ゴルカジャケット",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_GorkaCoat"
 	},
 	{
 		"abr": "(ジュニジア)ゴルカジャケット-迷彩",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_GorkaCoat_VSR"
 	},
 	{
 		"abr": "(ジュニジア)ゴルカパンツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_GorkaPants"
 	},
 	{
 		"abr": "(ジュニジア)ゴルカパンツ-迷彩",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_GorkaPants_VSR"
 	},
 	{
 		"abr": "(ジュニジア)ゴルカフード",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_GorkaHood"
 	},
 	{
 		"abr": "(ジュニジア)ゴルカフード-迷彩",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_GorkaHood_VSR"
 	},
 	{
 		"abr": "(ジュニジア)ジーンズ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Jeans"
 	},
 	{
 		"abr": "(ジュニジア)ジャージ",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_AdidasCoat_A"
 	},
 	{
 		"abr": "(ジュニジア)ショートジーンズ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_JeanShorts"
 	},
 	{
 		"abr": "(ジュニジア)ショートパンツ-迷彩",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Shorts_VSR"
 	},
 	{
 		"abr": "(ジュニジア)スカーフマスク",
 		"price": 34,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_ScarfMask"
 	},
 	{
 		"abr": "(ジュニジア)スポーツショーツ",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_SportsUnderwear"
 	},
 	{
 		"abr": "(ジュニジア)スポーツブラ",
 		"price": 51,
-		"category": "下着",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_SportsBra"
 	},
 	{
 		"abr": "(ジュニジア)ダウンジャケット",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_DownJacket"
 	},
 	{
 		"abr": "(ジュニジア)タクティカルブーツ-淡",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_TacticalBoots_B"
 	},
 	{
 		"abr": "(ジュニジア)タクティカルブーツ-黒",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_TacticalBoots_A"
 	},
 	{
 		"abr": "(ジュニジア)ダッフルバッグ",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_DuffelBag"
 	},
 	{
 		"abr": "(ジュニジア)ダッフルバッグ-淡",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_DuffelBag_Tan"
 	},
 	{
 		"abr": "(ジュニジア)タンクトップ",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_TankTop"
 	},
 	{
 		"abr": "(ジュニジア)タンクトップ-迷彩",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_TankTop_VSR"
 	},
 	{
 		"abr": "(ジュニジア)デニムジャケット",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_JeanJacket"
 	},
 	{
 		"abr": "(ジュニジア)テルニャシュカ",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_TelnyashkaSweater"
 	},
 	{
 		"abr": "(ジュニジア)テルニャシュカ-タンクトップ",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_TelnyashkaTankTop"
 	},
 	{
 		"abr": "(ジュニジア)トラックパンツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_AdidasPants"
 	},
 	{
 		"abr": "(ジュニジア)ハイソックス",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Socks"
 	},
 	{
 		"abr": "(ジュニジア)バックパック",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_AtakaBackpack"
 	},
 	{
 		"abr": "(ジュニジア)バックパック-淡",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_AtakaBackpack_Tan"
 	},
 	{
 		"abr": "(ジュニジア)バックパック-迷彩",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_AtakaBackpack_VSR"
 	},
 	{
 		"abr": "(ジュニジア)バックパック-黒",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_AtakaBackpack_Black"
 	},
 	{
 		"abr": "(ジュニジア)バンダナ",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_BandanaCap"
 	},
 	{
 		"abr": "(ジュニジア)バンダナ-淡",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_BandanaCap_Tan"
 	},
 	{
 		"abr": "(ジュニジア)バンダナ-迷彩",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_BandanaCap_VSR"
 	},
 	{
 		"abr": "(ジュニジア)パンツ-迷彩",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Pants_VSR"
 	},
 	{
 		"abr": "(ジュニジア)ビーニー",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Beanie"
 	},
 	{
 		"abr": "(ジュニジア)フィールドジャケット",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_SummerCoat_VSR"
 	},
 	{
 		"abr": "(ジュニジア)フットラップ",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Footwraps"
 	},
 	{
 		"abr": "(ジュニジア)フラットキャップ",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_FlatCap"
 	},
 	{
 		"abr": "(ジュニジア)モスクワトレーナー-青",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_MockbaTrainers_A"
 	},
 	{
 		"abr": "(ジュニジア)モスクワトレーナー-黒",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_MockbaTrainers_B"
 	},
 	{
 		"abr": "(ジュニジア)リフチク",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Lifchik"
 	},
 	{
 		"abr": "(ジュニジア)リフチク-淡",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Lifchik_Tan"
 	},
 	{
 		"abr": "(ジュニジア)リフチク-迷彩",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Lifchik_VSR"
 	},
 	{
 		"abr": "(ジュニジア)リフチク-黒",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Lifchik_Black"
 	},
 	{
 		"abr": "(ジュニジア)レザージャケット",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_LeatherJacket"
 	},
 	{
 		"abr": "(ジュニジア)レザーロングブーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_LeatherBoots"
 	},
 	{
 		"abr": "(ジュニジア)前開きジャージ",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_AdidasCoat_B"
 	},
 	{
 		"abr": "(ジュニジア)登山靴",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_HikingBoots"
 	},
 	{
 		"abr": "(ジュニジア)目出し帽",
 		"price": 34,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Balaclava"
 	},
 	{
 		"abr": "(ジュニジア)葉巻",
 		"price": 34,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_Cigar"
 	},
 	{
 		"abr": "(ジュニジア)野戦帽",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_PatrolCap"
 	},
 	{
 		"abr": "(ジュニジア)野戦帽-淡",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_PatrolCap_Tan"
 	},
 	{
 		"abr": "(ジュニジア)野戦帽-迷彩",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_PatrolCap_VSR"
 	},
 	{
 		"abr": "(ジュニジア)野球帽",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_BaseballCap"
 	},
 	{
 		"abr": "(ジュニジア)野球帽-淡",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_BaseballCap_Tan"
 	},
 	{
 		"abr": "(ジュニジア)野球帽-迷彩",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_BaseballCap_VSR"
 	},
 	{
 		"abr": "(ジュニジア)防寒ジャケット",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice jurnizia apparels and factions",
 		"defname": "Anneli_Jurnizia_WinterCoat_VSR"
 	},
 	{
 		"abr": "(ヨルハ)ａ型二号ショーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Shorts"
 	},
 	{
 		"abr": "(ヨルハ)ａ型二号ストッキング",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Stockings_C"
 	},
 	{
 		"abr": "(ヨルハ)ａ型二号ボロ服",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_RebelRags"
 	},
 	{
 		"abr": "(ヨルハ)ｏ型ヴェール",
 		"price": 34,
-		"category": "帽子",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Veil"
 	},
 	{
 		"abr": "(ヨルハ)ｏ型サイハイブーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_TallBoots_A"
 	},
 	{
 		"abr": "(ヨルハ)ｏ型スーツ",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_LeatherArmor_A"
 	},
 	{
 		"abr": "(ヨルハ)ｏ型タイツ-白",
 		"price": 119,
-		"category": "下着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Zentai_A"
 	},
 	{
 		"abr": "(ヨルハ)ｏ型タイツ-黒",
 		"price": 119,
-		"category": "下着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Zentai_B"
 	},
 	{
 		"abr": "(ヨルハ)ｏ型ブーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_AnkleBoots_A"
 	},
 	{
 		"abr": "(ヨルハ)ｏ型マスク-白",
 		"price": 34,
-		"category": "帽子",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Mask_A"
 	},
 	{
 		"abr": "(ヨルハ)ｏ型マスク-黒",
 		"price": 34,
-		"category": "帽子",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Mask_B"
 	},
 	{
@@ -4539,7 +4539,7 @@
 	{
 		"abr": "(ヨルハ)アンクルブーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_AnkleBoots_B"
 	},
 	{
@@ -4551,247 +4551,247 @@
 	{
 		"abr": "(ヨルハ)クローク",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Cloak"
 	},
 	{
 		"abr": "(ヨルハ)コート",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Coat"
 	},
 	{
 		"abr": "(ヨルハ)ジャケット",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_ShortJacket"
 	},
 	{
 		"abr": "(ヨルハ)ショール",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Shawl"
 	},
 	{
 		"abr": "(ヨルハ)タイツ-白",
 		"price": 85,
-		"category": "下着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Tight_A"
 	},
 	{
 		"abr": "(ヨルハ)タイツ-黒",
 		"price": 85,
-		"category": "下着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Tight_B"
 	},
 	{
 		"abr": "(ヨルハ)タイトスカート",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_TightSkirt"
 	},
 	{
 		"abr": "(ヨルハ)デボルポポルパンツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_HealerPants"
 	},
 	{
 		"abr": "(ヨルハ)デボルポポル装束",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_HealerPeplum"
 	},
 	{
 		"abr": "(ヨルハ)パンツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Pants"
 	},
 	{
 		"abr": "(ヨルハ)ポッド042",
 		"price": 342,
-		"category": "その他",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_POD_A"
 	},
 	{
 		"abr": "(ヨルハ)ポッド153",
 		"price": 342,
-		"category": "その他",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_POD_B"
 	},
 	{
 		"abr": "(ヨルハ)レオタード-白",
 		"price": 85,
-		"category": "下着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Leotard_A"
 	},
 	{
 		"abr": "(ヨルハ)レオタード-黒",
 		"price": 85,
-		"category": "下着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Leotard_B"
 	},
 	{
 		"abr": "(ヨルハ)九号ｓ型ソックス",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Socks"
 	},
 	{
 		"abr": "(ヨルハ)九号ｓ型ブーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_TacticalBoots"
 	},
 	{
 		"abr": "(ヨルハ)九号ｓ型ボディバッグ",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Bag"
 	},
 	{
 		"abr": "(ヨルハ)九号ｓ型戦闘用ゴーグル",
 		"price": 34,
-		"category": "帽子",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Blindfold_B"
 	},
 	{
 		"abr": "(ヨルハ)二号ｂ型サイハイブーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_TallBoots_B"
 	},
 	{
 		"abr": "(ヨルハ)二号ｂ型スカート",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Skirt"
 	},
 	{
 		"abr": "(ヨルハ)二号ｂ型ストッキング-淡",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Stockings_B"
 	},
 	{
 		"abr": "(ヨルハ)二号ｂ型ストッキング-黒",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Stockings_A"
 	},
 	{
 		"abr": "(ヨルハ)二号ｂ型ヘアバンド",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Headband"
 	},
 	{
 		"abr": "(ヨルハ)二号ｂ型戦闘服",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_LongDress_A"
 	},
 	{
 		"abr": "(ヨルハ)二号ｂ型戦闘用ゴーグル",
 		"price": 34,
-		"category": "帽子",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Blindfold_A"
 	},
 	{
 		"abr": "(ヨルハ)五一式軍帽:医",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_SideCap"
 	},
 	{
 		"abr": "(ヨルハ)五一式軍帽:軽",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Hood"
 	},
 	{
 		"abr": "(ヨルハ)五一式軍装:術",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_LongDress_B"
 	},
 	{
 		"abr": "(ヨルハ)五一式軍装:軽",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Tuxedo"
 	},
 	{
 		"abr": "(ヨルハ)五一式軍装:重",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Corset"
 	},
 	{
 		"abr": "(ヨルハ)五三式軍帽:術",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_DerbyHat"
 	},
 	{
 		"abr": "(ヨルハ)五三式軍装:重",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_TrenchCoat"
 	},
 	{
 		"abr": "(ヨルハ)五五式軍帽:攻",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Beret"
 	},
 	{
 		"abr": "(ヨルハ)官帽-白",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_PeakedCap_A"
 	},
 	{
 		"abr": "(ヨルハ)官帽-黒",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_PeakedCap_B"
 	},
 	{
 		"abr": "(ヨルハ)戦闘服",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_LeatherArmor_B"
 	},
 	{
 		"abr": "(ヨルハ)花の髪飾り",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_HealerHeadFlower"
 	},
 	{
 		"abr": "(ヨルハ)装備武器",
 		"price": 342,
-		"category": "武器(外観)",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Arms"
 	},
 	{
 		"abr": "(ヨルハ)部隊司令官サイハイブーツ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_TallBoots_C"
 	},
 	{
 		"abr": "(ヨルハ)部隊司令官ジャケット",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_Jacket"
 	},
 	{
 		"abr": "(ヨルハ)部隊司令官服",
 		"price": 170,
-		"category": "着物",
+		"category": "Annelitrice yorha apparels and factions",
 		"defname": "Anneli_Yorha_LongDress_C"
 	},
 	{
@@ -4821,37 +4821,37 @@
 	{
 		"abr": "(学園)ウォークマン",
 		"price": 63,
-		"category": "その他",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_WALKWOMAN"
 	},
 	{
 		"abr": "(学園)うさちゃんスリッパ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_BunnySlippers"
 	},
 	{
 		"abr": "(学園)うさちゃんヘアピン",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Bunny"
 	},
 	{
 		"abr": "(学園)くまさんヘアピン",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Bear"
 	},
 	{
 		"abr": "(学園)くわえ食パン",
 		"price": 34,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Toast"
 	},
 	{
 		"abr": "(学園)けろちゃんヘアピン",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Frog"
 	},
 	{
@@ -4863,7 +4863,7 @@
 	{
 		"abr": "(学園)サバゲ用モール",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_CivilianMOLLE"
 	},
 	{
@@ -4875,127 +4875,127 @@
 	{
 		"abr": "(学園)サンダル",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Slippers"
 	},
 	{
 		"abr": "(学園)サンバイザー",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_VisorHat"
 	},
 	{
 		"abr": "(学園)ジャージ",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Sportswear_A"
 	},
 	{
 		"abr": "(学園)ショーツ",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Underwear"
 	},
 	{
 		"abr": "(学園)スカーフ-灰",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Scarf_A"
 	},
 	{
 		"abr": "(学園)スカーフ-赤",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Scarf_B"
 	},
 	{
 		"abr": "(学園)スクールバッグ-紺",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_ShoulderBag_Blue"
 	},
 	{
 		"abr": "(学園)スクールバッグ-黒",
 		"price": 68,
-		"category": "バッグ",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_ShoulderBag_Black"
 	},
 	{
 		"abr": "(学園)スクール水着-白",
 		"price": 85,
-		"category": "下着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_SwimSuit_A"
 	},
 	{
 		"abr": "(学園)スクール水着-紺",
 		"price": 85,
-		"category": "下着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_SwimSuit_B"
 	},
 	{
 		"abr": "(学園)ストッキング-白",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Stockings_A"
 	},
 	{
 		"abr": "(学園)ストッキング-黒",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Stockings_B"
 	},
 	{
 		"abr": "(学園)スニーカー",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Platforms"
 	},
 	{
 		"abr": "(学園)スポーツブラ",
 		"price": 51,
-		"category": "下着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Bra_B"
 	},
 	{
 		"abr": "(学園)セイフティショーツ",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_SafetyShorts"
 	},
 	{
 		"abr": "(学園)セーター",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Sweater"
 	},
 	{
 		"abr": "(学園)セーラー服-白",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_SailotSuit_A"
 	},
 	{
 		"abr": "(学園)セーラー服-青",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_SailotSuit_C"
 	},
 	{
 		"abr": "(学園)セーラー服-黒",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_SailotSuit_B"
 	},
 	{
 		"abr": "(学園)チアリーダートップス",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_CheerLeaderTop"
 	},
 	{
 		"abr": "(学園)チアリーダーボトムス",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_CheerLeaderDress"
 	},
 	{
@@ -5013,67 +5013,67 @@
 	{
 		"abr": "(学園)ハチマキ",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Hachimaki"
 	},
 	{
 		"abr": "(学園)パンティストッキング-白",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Pantyhose_A"
 	},
 	{
 		"abr": "(学園)パンティストッキング-黒",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Pantyhose_B"
 	},
 	{
 		"abr": "(学園)ピクチャーハット",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_SummerHat"
 	},
 	{
 		"abr": "(学園)ブラウス",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Shirt_A"
 	},
 	{
 		"abr": "(学園)ブラウス-ネクタイ",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Shirt_B"
 	},
 	{
 		"abr": "(学園)ブラジャー",
 		"price": 51,
-		"category": "下着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Bra_A"
 	},
 	{
 		"abr": "(学園)ブルマ",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_GymShorts"
 	},
 	{
 		"abr": "(学園)ブレザー-青",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Suit_Blue_A"
 	},
 	{
 		"abr": "(学園)ブレザー-黒",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Suit_Black_A"
 	},
 	{
 		"abr": "(学園)ヘアバンド",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_HairBand_A"
 	},
 	{
@@ -5097,49 +5097,49 @@
 	{
 		"abr": "(学園)ベレー帽",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Beret"
 	},
 	{
 		"abr": "(学園)ボンタン",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_YankeePants_A"
 	},
 	{
 		"abr": "(学園)ボンタン-チェーン",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_YankeePants_B"
 	},
 	{
 		"abr": "(学園)マスク-白",
 		"price": 34,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Mask_A"
 	},
 	{
 		"abr": "(学園)マスク-黒",
 		"price": 34,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Mask_B"
 	},
 	{
 		"abr": "(学園)ミニスカート-格子柄",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_PleatedSkirt_A_M"
 	},
 	{
 		"abr": "(学園)ミニスカート-灰",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_PleatedSkirt_C_M"
 	},
 	{
 		"abr": "(学園)ミニスカート-藍",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_PleatedSkirt_B_M"
 	},
 	{
@@ -5151,43 +5151,43 @@
 	{
 		"abr": "(学園)リボンヘアバンド",
 		"price": 68,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_HairBand_B"
 	},
 	{
 		"abr": "(学園)ローファー-茶",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_LeatherShoes_Brown"
 	},
 	{
 		"abr": "(学園)ローファー-黒",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_LeatherShoes_Black"
 	},
 	{
 		"abr": "(学園)ロングスカート-格子柄",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_PleatedSkirt_A_L"
 	},
 	{
 		"abr": "(学園)ロングスカート-灰",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_PleatedSkirt_C_L"
 	},
 	{
 		"abr": "(学園)ロングスカート-藍",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_PleatedSkirt_B_L"
 	},
 	{
 		"abr": "(学園)上履き",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Uwabaki"
 	},
 	{
@@ -5199,127 +5199,127 @@
 	{
 		"abr": "(学園)体操服",
 		"price": 102,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_GymShirt"
 	},
 	{
 		"abr": "(学園)刀-白",
 		"price": 170,
-		"category": "武器(外観)",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Katana_A"
 	},
 	{
 		"abr": "(学園)刀-黒",
 		"price": 170,
-		"category": "武器(外観)",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Katana_B"
 	},
 	{
 		"abr": "(学園)前開きジャージ",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Sportswear_B"
 	},
 	{
 		"abr": "(学園)前開きブレザー-青",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Suit_Blue_B"
 	},
 	{
 		"abr": "(学園)前開きブレザー-黒",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Suit_Black_B"
 	},
 	{
 		"abr": "(学園)四本差しの刀-白",
 		"price": 170,
-		"category": "武器(外観)",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_KatanaX4_A"
 	},
 	{
 		"abr": "(学園)四本差しの刀-黒",
 		"price": 170,
-		"category": "武器(外観)",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_KatanaX4_B"
 	},
 	{
 		"abr": "(学園)学ラン",
 		"price": 170,
-		"category": "上着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_YankeeSuit"
 	},
 	{
 		"abr": "(学園)特攻服a",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Cloak_A"
 	},
 	{
 		"abr": "(学園)特攻服b",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Cloak_B"
 	},
 	{
 		"abr": "(学園)特攻服c",
 		"price": 68,
-		"category": "上着(戦術)",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Cloak_C"
 	},
 	{
 		"abr": "(学園)紙袋",
 		"price": 136,
-		"category": "帽子",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Paperbag"
 	},
 	{
 		"abr": "(学園)超ミニスカート-格子柄",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_PleatedSkirt_A_S"
 	},
 	{
 		"abr": "(学園)超ミニスカート-灰",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_PleatedSkirt_C_S"
 	},
 	{
 		"abr": "(学園)超ミニスカート-藍",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_PleatedSkirt_B_S"
 	},
 	{
 		"abr": "(学園)運動靴-赤",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_SportsShoes_B"
 	},
 	{
 		"abr": "(学園)運動靴-黒",
 		"price": 68,
-		"category": "着物",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_SportsShoes_A"
 	},
 	{
 		"abr": "(学園)防刃ベスト",
 		"price": 170,
-		"category": "上着(装甲)",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_StabVest"
 	},
 	{
 		"abr": "(学園)靴下-白",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Socks_A"
 	},
 	{
 		"abr": "(学園)靴下-黒",
 		"price": 34,
-		"category": "下着",
+		"category": "Annelitrice gakuen apparels and factions",
 		"defname": "Anneli_Gakuen_Socks_B"
 	},
 	{
@@ -5439,19 +5439,19 @@
 	{
 		"abr": "aocアップサイクル人形-クジラ",
 		"price": 833,
-		"category": "ユーティリティ",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_Doll_Whale"
 	},
 	{
 		"abr": "aocアロハシャツ",
 		"price": 303,
-		"category": "下着",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_Aloha"
 	},
 	{
 		"abr": "aocオーバーオール",
 		"price": 333,
-		"category": "下着",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_overalls"
 	},
 	{
@@ -5517,7 +5517,7 @@
 	{
 		"abr": "aocゴミ袋スーツ",
 		"price": 333,
-		"category": "下着",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_Trash_clothes"
 	},
 	{
@@ -5529,7 +5529,7 @@
 	{
 		"abr": "aocジャンプスーツ",
 		"price": 333,
-		"category": "下着",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_Jump_Suit"
 	},
 	{
@@ -5565,7 +5565,7 @@
 	{
 		"abr": "aocチャイナドレス",
 		"price": 303,
-		"category": "下着",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_Cdress"
 	},
 	{
@@ -5679,7 +5679,7 @@
 	{
 		"abr": "aocリサイクル軍装バックパック",
 		"price": 125,
-		"category": "ユーティリティ",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_Recyle_Backpacks"
 	},
 	{
@@ -5709,19 +5709,19 @@
 	{
 		"abr": "aoc作業帽",
 		"price": 153,
-		"category": "帽子",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_work_cap"
 	},
 	{
 		"abr": "aoc作業服",
 		"price": 303,
-		"category": "下着",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_work_clothes"
 	},
 	{
 		"abr": "aoc冬服",
 		"price": 367,
-		"category": "下着",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_winter_clothes"
 	},
 	{
@@ -5757,7 +5757,7 @@
 	{
 		"abr": "aoc看護帽",
 		"price": 223,
-		"category": "帽子",
+		"category": "AOC the cleanup devil",
 		"defname": "AOCHealHat"
 	},
 	{
@@ -5787,13 +5787,13 @@
 	{
 		"abr": "aoc軍装クリーナーパック",
 		"price": 125,
-		"category": "ユーティリティ",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_Cleaner_Backpacks"
 	},
 	{
 		"abr": "aoc軍装バックパック",
 		"price": 125,
-		"category": "ユーティリティ",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_Battle_Backpacks"
 	},
 	{
@@ -5805,13 +5805,13 @@
 	{
 		"abr": "aoc防寒ゴミ袋コート",
 		"price": 842,
-		"category": "上着",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_Wintercoat"
 	},
 	{
 		"abr": "aoc防寒帽",
 		"price": 270,
-		"category": "帽子",
+		"category": "AOC the cleanup devil",
 		"defname": "AOC_winter_hat"
 	},
 	{
@@ -5829,7 +5829,7 @@
 	{
 		"abr": "aoc麦わら帽子",
 		"price": 42,
-		"category": "帽子",
+		"category": "AOC the cleanup devil",
 		"defname": "AOCStraw"
 	},
 	{
@@ -5919,7 +5919,7 @@
 	{
 		"abr": "dbドクタースーツ",
 		"price": 1333,
-		"category": "上着",
+		"category": "Xeva faction",
 		"defname": "XEA_Medical"
 	},
 	{
@@ -6015,13 +6015,13 @@
 	{
 		"abr": "dr普通のドレス",
 		"price": 992,
-		"category": "下着",
+		"category": "Dragonian race",
 		"defname": "DR_BasicDress"
 	},
 	{
 		"abr": "dr普通の服",
 		"price": 958,
-		"category": "下着",
+		"category": "Dragonian race",
 		"defname": "DR_BasicWear"
 	},
 	{
@@ -6045,7 +6045,7 @@
 	{
 		"abr": "fffシェフスーツ",
 		"price": 1333,
-		"category": "上着",
+		"category": "Xeva faction",
 		"defname": "XEA_Chef"
 	},
 	{
@@ -6063,7 +6063,7 @@
 	{
 		"abr": "hc-1シールド",
 		"price": 4000,
-		"category": "ユーティリティ",
+		"category": "Glitter tech",
 		"defname": "Apparel_HC1Shield"
 	},
 	{
@@ -6321,115 +6321,115 @@
 	{
 		"abr": "rbインテリ眼鏡",
 		"price": 105,
-		"category": "帽子",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Glasses"
 	},
 	{
 		"abr": "rbウサ耳付きジャケット",
 		"price": 392,
-		"category": "ケープ",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Earjacket"
 	},
 	{
 		"abr": "rbカジュアルシャツ",
 		"price": 286,
-		"category": "下着",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_CasualTshirt"
 	},
 	{
 		"abr": "rbキャミソール",
 		"price": 39,
-		"category": "下着",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Camisole"
 	},
 	{
 		"abr": "rbコック帽",
 		"price": 206,
-		"category": "帽子",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Cookhat"
 	},
 	{
 		"abr": "rbコック服",
 		"price": 750,
-		"category": "下着",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Cookwear"
 	},
 	{
 		"abr": "rbサマーカーディガン",
 		"price": 683,
-		"category": "ケープ",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Summerouter"
 	},
 	{
 		"abr": "rbサマーハット",
 		"price": 238,
-		"category": "帽子",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Summerhat"
 	},
 	{
 		"abr": "rbスタージャンパー",
 		"price": 392,
-		"category": "ケープ",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Starjacket"
 	},
 	{
 		"abr": "rbタイ付制服",
 		"price": 342,
-		"category": "下着",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Casualtieshirt"
 	},
 	{
 		"abr": "rbネックマフラー",
 		"price": 130,
-		"category": "ネック",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Neckscarf"
 	},
 	{
 		"abr": "rbファッションベレー帽",
 		"price": 113,
-		"category": "帽子",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Fashionhat"
 	},
 	{
 		"abr": "rbブレザー",
 		"price": 330,
-		"category": "ケープ",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Blazer"
 	},
 	{
 		"abr": "rbヘアリボン",
 		"price": 59,
-		"category": "帽子",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Headribbon"
 	},
 	{
 		"abr": "rbリボン付制服",
 		"price": 342,
-		"category": "下着",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Casualribbonshirt"
 	},
 	{
 		"abr": "rb冬用アウタージャケット",
 		"price": 425,
-		"category": "ケープ",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Winterouter"
 	},
 	{
 		"abr": "rb冬用アルパカ帽子",
 		"price": 110,
-		"category": "帽子",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Winterhat"
 	},
 	{
 		"abr": "rb冬用セーター",
 		"price": 375,
-		"category": "下着",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Winterknit"
 	},
 	{
 		"abr": "rb司令官コート",
 		"price": 508,
-		"category": "ケープ",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_HighCloak"
 	},
 	{
@@ -6441,25 +6441,25 @@
 	{
 		"abr": "rb司令官服",
 		"price": 900,
-		"category": "下着",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_SeniorOfficer"
 	},
 	{
 		"abr": "rb士官ベレー帽",
 		"price": 260,
-		"category": "帽子",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Subofficerhat"
 	},
 	{
 		"abr": "rb士官服",
 		"price": 633,
-		"category": "下着",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Subofficer"
 	},
 	{
 		"abr": "rb夏向け上下セット",
 		"price": 342,
-		"category": "下着",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Summerfit"
 	},
 	{
@@ -6477,13 +6477,13 @@
 	{
 		"abr": "rb手縫いエプロン",
 		"price": 209,
-		"category": "ケープ",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Apron"
 	},
 	{
 		"abr": "rb技官つなぎ服",
 		"price": 533,
-		"category": "下着",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Technician"
 	},
 	{
@@ -6501,19 +6501,19 @@
 	{
 		"abr": "rb白衣",
 		"price": 508,
-		"category": "ケープ",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Inteligown"
 	},
 	{
 		"abr": "rb研究職員服",
 		"price": 500,
-		"category": "ケープ",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Energygown"
 	},
 	{
 		"abr": "rb農家の服",
 		"price": 533,
-		"category": "下着",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Handygirl"
 	},
 	{
@@ -6543,19 +6543,19 @@
 	{
 		"abr": "rb鍋帽子",
 		"price": 62,
-		"category": "帽子",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Metalpot"
 	},
 	{
 		"abr": "rb電力管理局職員服",
 		"price": 625,
-		"category": "下着",
+		"category": "Rabbie the moonrabbit race",
 		"defname": "RB_Energymanager"
 	},
 	{
 		"abr": "rkウールの帽子",
 		"price": 98,
-		"category": "帽子",
+		"category": "NewRatkinPlus",
 		"defname": "RK_WoolenHat"
 	},
 	{
@@ -6567,13 +6567,13 @@
 	{
 		"abr": "rkエプロンスカート",
 		"price": 248,
-		"category": "下着",
+		"category": "NewRatkinPlus",
 		"defname": "RK_ApronSkirt"
 	},
 	{
 		"abr": "rkカーディガン",
 		"price": 283,
-		"category": "上着",
+		"category": "NewRatkinPlus",
 		"defname": "RK_Cardigan"
 	},
 	{
@@ -6627,7 +6627,7 @@
 	{
 		"abr": "rkクロスバック",
 		"price": 187,
-		"category": "バックパック",
+		"category": "NewRatkinPlus",
 		"defname": "RK_CrossBack"
 	},
 	{
@@ -6645,49 +6645,49 @@
 	{
 		"abr": "rkコイフ",
 		"price": 121,
-		"category": "帽子",
+		"category": "NewRatkinPlus",
 		"defname": "RK_Coif"
 	},
 	{
 		"abr": "rkサマードレス",
 		"price": 267,
-		"category": "下着",
+		"category": "NewRatkinPlus",
 		"defname": "RK_SummerDress"
 	},
 	{
 		"abr": "rkサンタ帽",
 		"price": 98,
-		"category": "帽子",
+		"category": "NewRatkinPlus",
 		"defname": "RK_SantaHat"
 	},
 	{
 		"abr": "rkサンタ衣装",
 		"price": 342,
-		"category": "上着",
+		"category": "NewRatkinPlus",
 		"defname": "RK_SantaRobe"
 	},
 	{
 		"abr": "rkサンタ袋",
 		"price": 683,
-		"category": "バックパック",
+		"category": "NewRatkinPlus",
 		"defname": "RK_SantaSack"
 	},
 	{
 		"abr": "rkシェフの帽子",
 		"price": 162,
-		"category": "帽子",
+		"category": "NewRatkinPlus",
 		"defname": "RK_ChefHat"
 	},
 	{
 		"abr": "rkシェフの服",
 		"price": 375,
-		"category": "下着",
+		"category": "NewRatkinPlus",
 		"defname": "RK_ChefSuit"
 	},
 	{
 		"abr": "rkシスタードレス",
 		"price": 775,
-		"category": "下着",
+		"category": "NewRatkinPlus",
 		"defname": "RK_SistersDerss"
 	},
 	{
@@ -6723,7 +6723,7 @@
 	{
 		"abr": "rkバックパック",
 		"price": 215,
-		"category": "バックパック",
+		"category": "NewRatkinPlus",
 		"defname": "RK_Backpack"
 	},
 	{
@@ -6771,13 +6771,13 @@
 	{
 		"abr": "rkフラットカラーコート",
 		"price": 742,
-		"category": "下着",
+		"category": "NewRatkinPlus",
 		"defname": "RK_FlatColorCoat"
 	},
 	{
 		"abr": "rkフリルワンピース",
 		"price": 742,
-		"category": "下着",
+		"category": "NewRatkinPlus",
 		"defname": "RK_FrillOnepiece"
 	},
 	{
@@ -6813,13 +6813,13 @@
 	{
 		"abr": "rkヘアーコサージュ",
 		"price": 358,
-		"category": "帽子",
+		"category": "NewRatkinPlus",
 		"defname": "RK_HairCorsage"
 	},
 	{
 		"abr": "rkベール",
 		"price": 392,
-		"category": "帽子",
+		"category": "NewRatkinPlus",
 		"defname": "RK_SistersVeil"
 	},
 	{
@@ -6843,7 +6843,7 @@
 	{
 		"abr": "rkマフラー",
 		"price": 132,
-		"category": "外套",
+		"category": "NewRatkinPlus",
 		"defname": "RK_Muffler"
 	},
 	{
@@ -6861,7 +6861,7 @@
 	{
 		"abr": "rkラットキンアウトドアバック",
 		"price": 311,
-		"category": "バックパック",
+		"category": "NewRatkinPlus",
 		"defname": "RK_OutdoorBackpack"
 	},
 	{
@@ -6873,13 +6873,13 @@
 	{
 		"abr": "rkラットキンのメガネ",
 		"price": 103,
-		"category": "帽子",
+		"category": "NewRatkinPlus",
 		"defname": "RK_ResearchGlasses"
 	},
 	{
 		"abr": "rkラットキンの赤い服",
 		"price": 325,
-		"category": "下着",
+		"category": "NewRatkinPlus",
 		"defname": "RK_WorkerWear"
 	},
 	{
@@ -6897,7 +6897,7 @@
 	{
 		"abr": "rkラットキン耳コス",
 		"price": 342,
-		"category": "帽子",
+		"category": "NewRatkinPlus",
 		"defname": "RK_EarCostume"
 	},
 	{
@@ -6909,7 +6909,7 @@
 	{
 		"abr": "rkリボンヘアバンド",
 		"price": 358,
-		"category": "帽子",
+		"category": "NewRatkinPlus",
 		"defname": "RK_RibbonHairBand"
 	},
 	{
@@ -6927,7 +6927,7 @@
 	{
 		"abr": "rkロッティ帽子",
 		"price": 57,
-		"category": "帽子",
+		"category": "NewRatkinPlus",
 		"defname": "RK_RottiHat"
 	},
 	{
@@ -6939,7 +6939,7 @@
 	{
 		"abr": "rk冬のローブ",
 		"price": 342,
-		"category": "上着",
+		"category": "NewRatkinPlus",
 		"defname": "RK_WinterRobe"
 	},
 	{
@@ -6951,7 +6951,7 @@
 	{
 		"abr": "rk士官制服",
 		"price": 858,
-		"category": "下着",
+		"category": "Ratkin Apparel+",
 		"defname": "RK_MilUniform"
 	},
 	{
@@ -7005,19 +7005,19 @@
 	{
 		"abr": "rk戦列歩兵服",
 		"price": 992,
-		"category": "下着",
+		"category": "Ratkin Apparel+",
 		"defname": "RK_Rifleman"
 	},
 	{
 		"abr": "rk探索帽子",
 		"price": 141,
-		"category": "帽子",
+		"category": "NewRatkinPlus",
 		"defname": "RK_ExplorerHat"
 	},
 	{
 		"abr": "rk探索者の服",
 		"price": 358,
-		"category": "下着",
+		"category": "NewRatkinPlus",
 		"defname": "RK_ExplorerWear"
 	},
 	{
@@ -7047,13 +7047,13 @@
 	{
 		"abr": "rk砂漠スカーフ",
 		"price": 132,
-		"category": "外套",
+		"category": "Ratkin Apparel+",
 		"defname": "RK_Scarf"
 	},
 	{
 		"abr": "rk研究用白衣",
 		"price": 375,
-		"category": "下着",
+		"category": "NewRatkinPlus",
 		"defname": "RK_ResearchGown"
 	},
 	{
@@ -7071,13 +7071,13 @@
 	{
 		"abr": "rk追加スリーブ",
 		"price": 233,
-		"category": "上着",
+		"category": "Ratkin Apparel+",
 		"defname": "RK_Sleeves"
 	},
 	{
 		"abr": "rk鉢巻き",
 		"price": 383,
-		"category": "帽子",
+		"category": "NewRatkinPlus",
 		"defname": "RK_HeadBand"
 	},
 	{
@@ -7095,7 +7095,7 @@
 	{
 		"abr": "rk風呂敷",
 		"price": 683,
-		"category": "バックパック",
+		"category": "NewRatkinPlus",
 		"defname": "RK_Sack"
 	},
 	{
@@ -7107,13 +7107,13 @@
 	{
 		"abr": "rk麦わら帽子",
 		"price": 41,
-		"category": "帽子",
+		"category": "NewRatkinPlus",
 		"defname": "RK_StrawHat"
 	},
 	{
 		"abr": "seデータベース制服",
 		"price": 1333,
-		"category": "上着",
+		"category": "Xeva faction",
 		"defname": "XEA_Research"
 	},
 	{
@@ -7161,7 +7161,7 @@
 	{
 		"abr": "tシャツ（ハーフエルフ）",
 		"price": 147,
-		"category": "Under middle",
+		"category": "Ancient species",
 		"defname": "AS_WHE_TShirts"
 	},
 	{
@@ -7695,7 +7695,7 @@
 	{
 		"abr": "ウィングケープ",
 		"price": 425,
-		"category": "上着",
+		"category": "Dragons descent",
 		"defname": "DD_Apparel_WingCape"
 	},
 	{
@@ -7725,7 +7725,7 @@
 	{
 		"abr": "ウサギさん",
 		"price": 91,
-		"category": "帽子",
+		"category": "Akeron caretaker apparel",
 		"defname": "AKN_MotvatingHat"
 	},
 	{
@@ -8013,7 +8013,7 @@
 	{
 		"abr": "エポナバフコート",
 		"price": 633,
-		"category": "下着",
+		"category": "Epona race renaissance",
 		"defname": "Epona_Apparel_BuffCoat"
 	},
 	{
@@ -8037,31 +8037,31 @@
 	{
 		"abr": "エポナヒーターシールド",
 		"price": 1092,
-		"category": "着物",
+		"category": "Epona race renaissance",
 		"defname": "Epona_Apparel_Shield_Heater_Plain"
 	},
 	{
 		"abr": "エポナヒーターシールド(ヒポグリフ)",
 		"price": 1092,
-		"category": "着物",
+		"category": "Epona race renaissance",
 		"defname": "Epona_Apparel_Shield_Heater_Hippogryph"
 	},
 	{
 		"abr": "エポナヒーターシールド(双剣)",
 		"price": 1092,
-		"category": "着物",
+		"category": "Epona race renaissance",
 		"defname": "Epona_Apparel_Shield_Heater_Swords"
 	},
 	{
 		"abr": "エポナヒーターシールド(杯)",
 		"price": 1092,
-		"category": "着物",
+		"category": "Epona race renaissance",
 		"defname": "Epona_Apparel_Shield_Heater_Wine"
 	},
 	{
 		"abr": "エポナファーケープ",
 		"price": 408,
-		"category": "上着",
+		"category": "Epona race renaissance",
 		"defname": "Epona_Apparel_FurCape"
 	},
 	{
@@ -8169,13 +8169,13 @@
 	{
 		"abr": "エポナ庶民服",
 		"price": 248,
-		"category": "下着",
+		"category": "Epona race renaissance",
 		"defname": "Epona_Apparel_Farmer"
 	},
 	{
 		"abr": "エポナ毒矢筒",
 		"price": 383,
-		"category": "下着",
+		"category": "Epona race renaissance",
 		"defname": "Epona_Apparel_Quiver_Poison"
 	},
 	{
@@ -8199,7 +8199,7 @@
 	{
 		"abr": "エポナ祭司服",
 		"price": 617,
-		"category": "下着",
+		"category": "Epona race renaissance",
 		"defname": "Epona_Apparel_Priest"
 	},
 	{
@@ -8379,19 +8379,19 @@
 	{
 		"abr": "オリオン制服シャツ",
 		"price": 1333,
-		"category": "下着",
+		"category": "Glitter tech",
 		"defname": "Apparel_OCShirt"
 	},
 	{
 		"abr": "オリオン制服ズボン",
 		"price": 1333,
-		"category": "下着",
+		"category": "Glitter tech",
 		"defname": "Apparel_OCPants"
 	},
 	{
 		"abr": "オリオン製ディフェンスシールド",
 		"price": 3500,
-		"category": "ユーティリティ",
+		"category": "Glitter tech",
 		"defname": "Apparel_OCShield"
 	},
 	{
@@ -8445,13 +8445,13 @@
 	{
 		"abr": "ガーターベルト（ハーフエルフ）",
 		"price": 165,
-		"category": "下着",
+		"category": "Ancient species",
 		"defname": "AS_WHE_GarterBelt"
 	},
 	{
 		"abr": "カウボーイブーツ",
 		"price": 204,
-		"category": "下着",
+		"category": "[KV] hand 'n' footwear",
 		"defname": "Apparel_CowboyBoots"
 	},
 	{
@@ -8655,7 +8655,7 @@
 	{
 		"abr": "かんざし",
 		"price": 842,
-		"category": "帽子",
+		"category": "Dragonian race",
 		"defname": "DR_JapanHairAcc"
 	},
 	{
@@ -8673,7 +8673,7 @@
 	{
 		"abr": "キミリジャンプスーツ",
 		"price": 269,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kimiri_OnSkin_Short_Jumpsuit"
 	},
 	{
@@ -8775,13 +8775,13 @@
 	{
 		"abr": "クーリンtシャツ",
 		"price": 191,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_T_Shirt"
 	},
 	{
 		"abr": "クーリンアーマードゴシックドレス",
 		"price": 608,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Armored_Gothic_Dress"
 	},
 	{
@@ -8799,7 +8799,7 @@
 	{
 		"abr": "クーリンウインターハット",
 		"price": 107,
-		"category": "帽子",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Overhead_Winter_Hat"
 	},
 	{
@@ -8811,25 +8811,25 @@
 	{
 		"abr": "クーリンオープンショルダーニット",
 		"price": 236,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Open_Shoulder_Knit"
 	},
 	{
 		"abr": "クーリンオープンニット(前)",
 		"price": 203,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Open_Front_Knit"
 	},
 	{
 		"abr": "クーリンオープンニット(後)",
 		"price": 203,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Open_Back_Knit"
 	},
 	{
 		"abr": "クーリンカーディガン",
 		"price": 298,
-		"category": "上着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Shell_Cardigan"
 	},
 	{
@@ -8841,7 +8841,7 @@
 	{
 		"abr": "クーリンカジュアルシャツ",
 		"price": 315,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Casual_Wear"
 	},
 	{
@@ -8895,7 +8895,7 @@
 	{
 		"abr": "クーリンゴーグル",
 		"price": 190,
-		"category": "帽子",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Overhead_Goggles"
 	},
 	{
@@ -8907,73 +8907,73 @@
 	{
 		"abr": "クーリンサーマルウェア",
 		"price": 683,
-		"category": "肌着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Power_Armor_Thermal_Uderwear"
 	},
 	{
 		"abr": "クーリンサマーハット",
 		"price": 107,
-		"category": "帽子",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Overhead_Summer_Hat"
 	},
 	{
 		"abr": "クーリンサングラス",
 		"price": 68,
-		"category": "帽子",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Overhead_Sunglasses"
 	},
 	{
 		"abr": "クーリンジャンプスーツ",
 		"price": 492,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Work_Jumpsuit"
 	},
 	{
 		"abr": "クーリンショートパンツ",
 		"price": 151,
-		"category": "下衣",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Legs_Shorts"
 	},
 	{
 		"abr": "クーリンシンプルドレス",
 		"price": 400,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Traditional_Simple_Dress"
 	},
 	{
 		"abr": "クーリンスカート",
 		"price": 151,
-		"category": "下衣",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Legs_Skirt"
 	},
 	{
 		"abr": "クーリンスカーフ",
 		"price": 107,
-		"category": "着物",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Middle_Scarf"
 	},
 	{
 		"abr": "クーリンストッキング(ガーター)",
 		"price": 101,
-		"category": "ストッキング",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Stockings_Garterbelt"
 	},
 	{
 		"abr": "クーリンストッキング(白)",
 		"price": 101,
-		"category": "ストッキング",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Stockings_White"
 	},
 	{
 		"abr": "クーリンストッキング(縞)",
 		"price": 101,
-		"category": "ストッキング",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Stockings_Striped"
 	},
 	{
 		"abr": "クーリンストッキング(茶)",
 		"price": 101,
-		"category": "ストッキング",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Stockings_Brown"
 	},
 	{
@@ -9003,7 +9003,7 @@
 	{
 		"abr": "クーリンダウンジャケット",
 		"price": 350,
-		"category": "上着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Shell_Winter_Padding"
 	},
 	{
@@ -9021,31 +9021,31 @@
 	{
 		"abr": "クーリンパーカー",
 		"price": 269,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Hoodie"
 	},
 	{
 		"abr": "クーリンパジャマa",
 		"price": 236,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Pajama_A"
 	},
 	{
 		"abr": "クーリンパジャマb",
 		"price": 236,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Pajama_B"
 	},
 	{
 		"abr": "クーリンパジャマc",
 		"price": 236,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Pajama_C"
 	},
 	{
 		"abr": "クーリンバックパック",
 		"price": 203,
-		"category": "ユーティリティ",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Backpack_Civil"
 	},
 	{
@@ -9075,13 +9075,13 @@
 	{
 		"abr": "クーリンパンスト",
 		"price": 101,
-		"category": "ストッキング",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Stockings_Pantyhose"
 	},
 	{
 		"abr": "クーリンパンツ",
 		"price": 191,
-		"category": "下衣",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Legs_Pants"
 	},
 	{
@@ -9105,13 +9105,13 @@
 	{
 		"abr": "クーリンファンシードレス",
 		"price": 400,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Traditional_Fancy_Dress"
 	},
 	{
 		"abr": "クーリンブラウス",
 		"price": 191,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Shirt"
 	},
 	{
@@ -9123,7 +9123,7 @@
 	{
 		"abr": "クーリンヘアピン",
 		"price": 350,
-		"category": "帽子",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Overhead_Casual_Hair_Pin"
 	},
 	{
@@ -9159,7 +9159,7 @@
 	{
 		"abr": "クーリンホットパンツ",
 		"price": 169,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Hot_Pants"
 	},
 	{
@@ -9177,7 +9177,7 @@
 	{
 		"abr": "クーリンラグジュアリードレス",
 		"price": 400,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Traditional_Luxury_Dress"
 	},
 	{
@@ -9189,49 +9189,49 @@
 	{
 		"abr": "クーリンロングコート",
 		"price": 315,
-		"category": "上着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Shell_Duster"
 	},
 	{
 		"abr": "クーリンロングスカート",
 		"price": 191,
-		"category": "下衣",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Legs_Long_Skirt"
 	},
 	{
 		"abr": "クーリンワンピース",
 		"price": 236,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_One_Piece_Dress"
 	},
 	{
 		"abr": "クーリン下着(白)",
 		"price": 101,
-		"category": "肌着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Underwear_White"
 	},
 	{
 		"abr": "クーリン下着(縞)",
 		"price": 101,
-		"category": "肌着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Underwear_Striped"
 	},
 	{
 		"abr": "クーリン下着(赤)",
 		"price": 101,
-		"category": "肌着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Underwear_Red"
 	},
 	{
 		"abr": "クーリン下着(魅)",
 		"price": 101,
-		"category": "肌着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Underwear_Slim"
 	},
 	{
 		"abr": "クーリン下着(黒)",
 		"price": 101,
-		"category": "肌着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Underwear_Black"
 	},
 	{
@@ -9243,19 +9243,19 @@
 	{
 		"abr": "クーリン伝統的な髪飾り",
 		"price": 358,
-		"category": "帽子",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Overhead_Traditional_Hair_Pin"
 	},
 	{
 		"abr": "クーリン作業用バックパック",
 		"price": 203,
-		"category": "ユーティリティ",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Backpack_Worker"
 	},
 	{
 		"abr": "クーリン修道服",
 		"price": 400,
-		"category": "下着",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_OnSkin_Nun_Dress"
 	},
 	{
@@ -9303,7 +9303,7 @@
 	{
 		"abr": "クーリン軍用バックパック",
 		"price": 248,
-		"category": "ユーティリティ",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Backpack_Military"
 	},
 	{
@@ -9327,7 +9327,7 @@
 	{
 		"abr": "クーリン野球帽",
 		"price": 107,
-		"category": "帽子",
+		"category": "Kurin, the three tailed fox [Deluxe Edition]",
 		"defname": "Kurin_Overhead_Cap"
 	},
 	{
@@ -9519,7 +9519,7 @@
 	{
 		"abr": "グローブ",
 		"price": 92,
-		"category": "下着",
+		"category": "[KV] hand 'n' footwear",
 		"defname": "Apparel_Gloves"
 	},
 	{
@@ -9555,7 +9555,7 @@
 	{
 		"abr": "ケアテイカーフルコート",
 		"price": 600,
-		"category": "上着",
+		"category": "Akeron caretaker apparel",
 		"defname": "AKN_BasicCaretakerFullCloak"
 	},
 	{
@@ -9567,7 +9567,7 @@
 	{
 		"abr": "ケアテイカーベスト",
 		"price": 210,
-		"category": "着物",
+		"category": "Akeron caretaker apparel",
 		"defname": "AKN_BasicCaretakerVest"
 	},
 	{
@@ -9579,13 +9579,13 @@
 	{
 		"abr": "ケアテイカーマント",
 		"price": 297,
-		"category": "上着",
+		"category": "Akeron caretaker apparel",
 		"defname": "AKN_BasicCaretakerCloak"
 	},
 	{
 		"abr": "ケアテイカーユニフォーム",
 		"price": 310,
-		"category": "下着",
+		"category": "Akeron caretaker apparel",
 		"defname": "AKN_BasicCaretakerUniform"
 	},
 	{
@@ -9963,7 +9963,7 @@
 	{
 		"abr": "シールドスカーフ（ハーフエルフ）",
 		"price": 967,
-		"category": "ユーティリティ",
+		"category": "Ancient species",
 		"defname": "AS_WHE_ShieldScarf"
 	},
 	{
@@ -10029,13 +10029,13 @@
 	{
 		"abr": "シフォンヘアバンド",
 		"price": 157,
-		"category": "帽子",
+		"category": "Bori race",
 		"defname": "SP_WorkHairband"
 	},
 	{
 		"abr": "シフォン作業服",
 		"price": 375,
-		"category": "下着",
+		"category": "Bori race",
 		"defname": "SP_WorkClothes"
 	},
 	{
@@ -10047,13 +10047,13 @@
 	{
 		"abr": "シフォン看護帽",
 		"price": 280,
-		"category": "帽子",
+		"category": "Bori race",
 		"defname": "SP_NurseCap"
 	},
 	{
 		"abr": "シフォン看護服",
 		"price": 392,
-		"category": "下着",
+		"category": "Bori race",
 		"defname": "SP_NurseUniform"
 	},
 	{
@@ -10173,7 +10173,7 @@
 	{
 		"abr": "シューズ",
 		"price": 112,
-		"category": "下着",
+		"category": "[KV] hand 'n' footwear",
 		"defname": "Apparel_Shoes"
 	},
 	{
@@ -10203,13 +10203,13 @@
 	{
 		"abr": "ショーツ",
 		"price": 79,
-		"category": "下着",
+		"category": "Xeva faction",
 		"defname": "XEA_Shorts"
 	},
 	{
 		"abr": "ショートパンツ（ハーフエルフ）",
 		"price": 144,
-		"category": "Under middle",
+		"category": "Ancient species",
 		"defname": "AS_WHE_ShortPants"
 	},
 	{
@@ -10311,7 +10311,7 @@
 	{
 		"abr": "シンプルなポンチョ（ハーフエルフ）",
 		"price": 209,
-		"category": "Coat",
+		"category": "Ancient species",
 		"defname": "AS_WHE_SimplePoncho"
 	},
 	{
@@ -10323,19 +10323,19 @@
 	{
 		"abr": "スカーフ（ハーフエルフ）",
 		"price": 318,
-		"category": "Neck",
+		"category": "Ancient species",
 		"defname": "AS_WHE_Scarf"
 	},
 	{
 		"abr": "スカルキャップ",
 		"price": 57,
-		"category": "帽子",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_Skullcap"
 	},
 	{
 		"abr": "スケールヘルメット",
 		"price": 189,
-		"category": "帽子",
+		"category": "Dragons descent",
 		"defname": "DD_Apparel_ScaleHelm"
 	},
 	{
@@ -10395,7 +10395,7 @@
 	{
 		"abr": "ずた袋マスク",
 		"price": 124,
-		"category": "帽子",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_Headbag"
 	},
 	{
@@ -10413,7 +10413,7 @@
 	{
 		"abr": "ストライプニーソックス（ハーフエルフ）",
 		"price": 142,
-		"category": "下着",
+		"category": "Ancient species",
 		"defname": "AS_WHE_StripeNeeso"
 	},
 	{
@@ -10443,7 +10443,7 @@
 	{
 		"abr": "スピードスキンスーツ",
 		"price": 4667,
-		"category": "下着",
+		"category": "Glitter tech",
 		"defname": "Apparel_NanoSpeed"
 	},
 	{
@@ -10455,7 +10455,7 @@
 	{
 		"abr": "スマートインナー（ハーフエルフ）",
 		"price": 272,
-		"category": "下着",
+		"category": "Ancient species",
 		"defname": "AS_WHE_UnderwearE"
 	},
 	{
@@ -10491,7 +10491,7 @@
 	{
 		"abr": "セクシーな下着（ハーフエルフ）",
 		"price": 400,
-		"category": "下着",
+		"category": "Ancient species",
 		"defname": "AS_WHE_UnderwearD"
 	},
 	{
@@ -10689,7 +10689,7 @@
 	{
 		"abr": "タンクトップ（ハーフエルフ）",
 		"price": 162,
-		"category": "Under middle",
+		"category": "Ancient species",
 		"defname": "AS_WHE_TankTop"
 	},
 	{
@@ -10791,13 +10791,13 @@
 	{
 		"abr": "ツバ広帽",
 		"price": 126,
-		"category": "帽子",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_WideHat"
 	},
 	{
 		"abr": "ツバ無し帽",
 		"price": 92,
-		"category": "帽子",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_BrimlessHat"
 	},
 	{
@@ -11133,7 +11133,7 @@
 	{
 		"abr": "ナノタイツ",
 		"price": 500,
-		"category": "下着",
+		"category": "Xeva faction",
 		"defname": "XEA_Tights"
 	},
 	{
@@ -11169,7 +11169,7 @@
 	{
 		"abr": "ニーソックス（ハーフエルフ）",
 		"price": 139,
-		"category": "下着",
+		"category": "Ancient species",
 		"defname": "AS_WHE_Neeso"
 	},
 	{
@@ -11217,7 +11217,7 @@
 	{
 		"abr": "ニャロンシンプルな制服",
 		"price": 34,
-		"category": "下着",
+		"category": "Nyaron race",
 		"defname": "Nr_SUniform"
 	},
 	{
@@ -11253,13 +11253,13 @@
 	{
 		"abr": "ニャロンメイドヘアバンド",
 		"price": 93,
-		"category": "帽子",
+		"category": "Nyaron race",
 		"defname": "Nr_CatMaidBand"
 	},
 	{
 		"abr": "ニャロンメイド服",
 		"price": 322,
-		"category": "上着",
+		"category": "Nyaron race",
 		"defname": "Nr_CatMaid"
 	},
 	{
@@ -11283,7 +11283,7 @@
 	{
 		"abr": "ニンジンバッグ",
 		"price": 62,
-		"category": "下着",
+		"category": "Epona race renaissance",
 		"defname": "Epona_Apparel_Pack_Carrot"
 	},
 	{
@@ -11307,13 +11307,13 @@
 	{
 		"abr": "ネコさん",
 		"price": 91,
-		"category": "帽子",
+		"category": "Akeron caretaker apparel",
 		"defname": "AKN_RestoringHat"
 	},
 	{
 		"abr": "ネコパーカー",
 		"price": 181,
-		"category": "上着",
+		"category": "Nyaron race",
 		"defname": "Nr_CatHoodie"
 	},
 	{
@@ -11355,7 +11355,7 @@
 	{
 		"abr": "パーカー（ハーフエルフ）",
 		"price": 475,
-		"category": "Coat",
+		"category": "Ancient species",
 		"defname": "AS_WHE_Parka"
 	},
 	{
@@ -11619,7 +11619,7 @@
 	{
 		"abr": "パンダさん",
 		"price": 91,
-		"category": "帽子",
+		"category": "Akeron caretaker apparel",
 		"defname": "AKN_ComfortingHat"
 	},
 	{
@@ -11631,7 +11631,7 @@
 	{
 		"abr": "ピースメッセンジャー",
 		"price": 1333,
-		"category": "上着",
+		"category": "Xeva faction",
 		"defname": "XEA_Uniform"
 	},
 	{
@@ -11649,7 +11649,7 @@
 	{
 		"abr": "ビーニー帽",
 		"price": 95,
-		"category": "下着",
+		"category": "Babies and children [1.3]",
 		"defname": "Apparel_Baby_Beanie"
 	},
 	{
@@ -11775,7 +11775,7 @@
 	{
 		"abr": "ピンクのフリル下着（ハーフエルフ）",
 		"price": 322,
-		"category": "下着",
+		"category": "Ancient species",
 		"defname": "AS_WHE_UnderwearB"
 	},
 	{
@@ -11919,7 +11919,7 @@
 	{
 		"abr": "フェズ",
 		"price": 92,
-		"category": "帽子",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_Fez"
 	},
 	{
@@ -12087,7 +12087,7 @@
 	{
 		"abr": "フラワーリボン",
 		"price": 842,
-		"category": "帽子",
+		"category": "Dragonian race",
 		"defname": "DR_FlowerRibon"
 	},
 	{
@@ -12291,13 +12291,13 @@
 	{
 		"abr": "ベアトラップホルダー",
 		"price": 183,
-		"category": "罠ホルダー",
+		"category": "Maru race",
 		"defname": "MR_Apparel_Trap"
 	},
 	{
 		"abr": "ベイビードール（ハーフエルフ）",
 		"price": 383,
-		"category": "下着",
+		"category": "Ancient species",
 		"defname": "AS_WHE_UnderwearF"
 	},
 	{
@@ -12309,7 +12309,7 @@
 	{
 		"abr": "ヘイラコンバットグラス",
 		"price": 1558,
-		"category": "帽子",
+		"category": "Heyra the horned",
 		"defname": "Heyra_Aimbot"
 	},
 	{
@@ -12381,7 +12381,7 @@
 	{
 		"abr": "ヘイラ大鍋",
 		"price": 342,
-		"category": "着物",
+		"category": "Heyra the horned",
 		"defname": "Heyra_Wok"
 	},
 	{
@@ -12549,7 +12549,7 @@
 	{
 		"abr": "ヘイラ鉄兜",
 		"price": 153,
-		"category": "帽子",
+		"category": "Heyra the horned",
 		"defname": "Heyra_Soldierhelmet"
 	},
 	{
@@ -12687,7 +12687,7 @@
 	{
 		"abr": "ヘッドスカーフ",
 		"price": 126,
-		"category": "帽子",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_Headscarf"
 	},
 	{
@@ -12711,7 +12711,7 @@
 	{
 		"abr": "ベビービーニー",
 		"price": 95,
-		"category": "下着",
+		"category": "Babies and children [1.3]",
 		"defname": "Apparel_Newborn_Beanie"
 	},
 	{
@@ -12735,7 +12735,7 @@
 	{
 		"abr": "ヘルメット（ハーフエルフ）",
 		"price": 300,
-		"category": "帽子",
+		"category": "Ancient species",
 		"defname": "AS_WHE_Helmet"
 	},
 	{
@@ -12771,7 +12771,7 @@
 	{
 		"abr": "ボタンシャツ（ハーフエルフ）",
 		"price": 162,
-		"category": "Under middle",
+		"category": "Ancient species",
 		"defname": "AS_WHE_ShirtButton"
 	},
 	{
@@ -12903,19 +12903,19 @@
 	{
 		"abr": "ボリカジュアルシャツ",
 		"price": 286,
-		"category": "下着",
+		"category": "Bori race",
 		"defname": "BD_CasualClothes"
 	},
 	{
 		"abr": "ボリキャスケット帽",
 		"price": 280,
-		"category": "帽子",
+		"category": "Bori race",
 		"defname": "BD_NewsboyCap"
 	},
 	{
 		"abr": "ボリドッグタグ",
 		"price": 167,
-		"category": "首",
+		"category": "Bori race",
 		"defname": "Bori_DogTag"
 	},
 	{
@@ -12927,19 +12927,19 @@
 	{
 		"abr": "ボリポンチョ",
 		"price": 392,
-		"category": "上着",
+		"category": "Bori race",
 		"defname": "BD_WindbreakPoncho"
 	},
 	{
 		"abr": "ボリ作業服",
 		"price": 286,
-		"category": "下着",
+		"category": "Bori race",
 		"defname": "BD_WorkClothes"
 	},
 	{
 		"abr": "ボリ官帽",
 		"price": 508,
-		"category": "帽子",
+		"category": "Bori race",
 		"defname": "BD_PeakedCap"
 	},
 	{
@@ -12951,13 +12951,13 @@
 	{
 		"abr": "ボリ軍帽",
 		"price": 153,
-		"category": "帽子",
+		"category": "Bori race",
 		"defname": "BD_IndHelmet"
 	},
 	{
 		"abr": "ボリ軍服",
 		"price": 375,
-		"category": "着物",
+		"category": "Bori race",
 		"defname": "BD_IndSoldierUniform"
 	},
 	{
@@ -12975,13 +12975,13 @@
 	{
 		"abr": "ボリ軍用防寒コート",
 		"price": 315,
-		"category": "上着",
+		"category": "Bori race",
 		"defname": "BD_MilitaryStyleCoat"
 	},
 	{
 		"abr": "ぼろ",
 		"price": 183,
-		"category": "上着",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_Rags"
 	},
 	{
@@ -13071,13 +13071,13 @@
 	{
 		"abr": "マル作業服",
 		"price": 265,
-		"category": "下着",
+		"category": "Maru race",
 		"defname": "MR_workclothes"
 	},
 	{
 		"abr": "マル周莫衣",
 		"price": 327,
-		"category": "上着",
+		"category": "Maru race",
 		"defname": "MR_durumagi"
 	},
 	{
@@ -13089,13 +13089,13 @@
 	{
 		"abr": "マル工学服",
 		"price": 265,
-		"category": "下着",
+		"category": "Maru race",
 		"defname": "MR_engineeringclothes"
 	},
 	{
 		"abr": "マル採集服",
 		"price": 292,
-		"category": "下着",
+		"category": "Maru race",
 		"defname": "MR_farmclothes"
 	},
 	{
@@ -13107,25 +13107,25 @@
 	{
 		"abr": "マル楽師の羽織",
 		"price": 303,
-		"category": "上着",
+		"category": "Maru race",
 		"defname": "MR_Musiciancoat"
 	},
 	{
 		"abr": "マル楽師帽",
 		"price": 247,
-		"category": "帽子",
+		"category": "Maru race",
 		"defname": "MR_Musicianhat"
 	},
 	{
 		"abr": "マル楽師服",
 		"price": 281,
-		"category": "下着",
+		"category": "Maru race",
 		"defname": "MR_Musicianclo"
 	},
 	{
 		"abr": "マル狩猟コート",
 		"price": 450,
-		"category": "上着",
+		"category": "Maru race",
 		"defname": "MR_HuntingCoat"
 	},
 	{
@@ -13137,31 +13137,31 @@
 	{
 		"abr": "マル狩猟服",
 		"price": 328,
-		"category": "下着",
+		"category": "Maru race",
 		"defname": "MR_huntingsuit"
 	},
 	{
 		"abr": "マル行商帽",
 		"price": 247,
-		"category": "帽子",
+		"category": "Maru race",
 		"defname": "MR_thermalhat"
 	},
 	{
 		"abr": "マル行商服",
 		"price": 265,
-		"category": "下着",
+		"category": "Maru race",
 		"defname": "MR_merchantsclothes"
 	},
 	{
 		"abr": "マル衛生コート",
 		"price": 383,
-		"category": "上着",
+		"category": "Maru race",
 		"defname": "MR_sanitarycoat"
 	},
 	{
 		"abr": "マル衛生服",
 		"price": 300,
-		"category": "下着",
+		"category": "Maru race",
 		"defname": "MR_sanitaryclothing"
 	},
 	{
@@ -13197,7 +13197,7 @@
 	{
 		"abr": "マル調理服",
 		"price": 281,
-		"category": "下着",
+		"category": "Maru race",
 		"defname": "MR_cookclothes"
 	},
 	{
@@ -13215,7 +13215,7 @@
 	{
 		"abr": "マル防寒コート",
 		"price": 433,
-		"category": "上着",
+		"category": "Maru race",
 		"defname": "MR_wintercoat"
 	},
 	{
@@ -13311,19 +13311,19 @@
 	{
 		"abr": "ミホエルテックス下着",
 		"price": 1092,
-		"category": "下着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Under_EltexOne"
 	},
 	{
 		"abr": "ミホカジュアルスーツ",
 		"price": 310,
-		"category": "下着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_OnSkin_Regular"
 	},
 	{
 		"abr": "ミホさらし下着",
 		"price": 79,
-		"category": "下着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Under_Tribal"
 	},
 	{
@@ -13341,7 +13341,7 @@
 	{
 		"abr": "ミホセーラー服",
 		"price": 2000,
-		"category": "下着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_OnSkin_Sailor"
 	},
 	{
@@ -13353,13 +13353,13 @@
 	{
 		"abr": "ミホダウンジャケット",
 		"price": 342,
-		"category": "上着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Shell_Padding"
 	},
 	{
 		"abr": "ミホタクティカルベスト",
 		"price": 284,
-		"category": "着物",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Middle_MilitiaVest"
 	},
 	{
@@ -13413,7 +13413,7 @@
 	{
 		"abr": "ミホニット帽",
 		"price": 79,
-		"category": "帽子",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Hat_Winter"
 	},
 	{
@@ -13515,13 +13515,13 @@
 	{
 		"abr": "ミホミサイルランチャー",
 		"price": 4375,
-		"category": "ユーティリティ",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Special_MissileLauncher"
 	},
 	{
 		"abr": "ミホメガネ",
 		"price": 238,
-		"category": "特別な衣服",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Special_Glasses"
 	},
 	{
@@ -13533,7 +13533,7 @@
 	{
 		"abr": "ミホ下着",
 		"price": 73,
-		"category": "下着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Under_Industrial"
 	},
 	{
@@ -13563,7 +13563,7 @@
 	{
 		"abr": "ミホ伝統外套",
 		"price": 2208,
-		"category": "上着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Shell_OrnatedOne"
 	},
 	{
@@ -13611,7 +13611,7 @@
 	{
 		"abr": "ミホ安全外骨格",
 		"price": 750,
-		"category": "上着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Middle_PoweredWorker"
 	},
 	{
@@ -13635,7 +13635,7 @@
 	{
 		"abr": "ミホ射撃支援デバイス",
 		"price": 1725,
-		"category": "特別な衣服",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Special_TacticalAssist"
 	},
 	{
@@ -13689,19 +13689,19 @@
 	{
 		"abr": "ミホ普段着",
 		"price": 230,
-		"category": "下着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_OnSkin_Simple"
 	},
 	{
 		"abr": "ミホ普段着(ミニ)",
 		"price": 191,
-		"category": "下着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_OnSkin_SimpleShort"
 	},
 	{
 		"abr": "ミホ歩兵パーカー",
 		"price": 700,
-		"category": "上着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Shell_PMC"
 	},
 	{
@@ -13713,7 +13713,7 @@
 	{
 		"abr": "ミホ狩猟服",
 		"price": 383,
-		"category": "下着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_OnSkin_Hunter"
 	},
 	{
@@ -13743,7 +13743,7 @@
 	{
 		"abr": "ミホ軍用双眼鏡",
 		"price": 617,
-		"category": "特別な衣服",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Special_Magnifier"
 	},
 	{
@@ -13773,7 +13773,7 @@
 	{
 		"abr": "ミホ防寒ポンチョ",
 		"price": 197,
-		"category": "上着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Shell_Winter"
 	},
 	{
@@ -13797,7 +13797,7 @@
 	{
 		"abr": "ミホ黒下着",
 		"price": 137,
-		"category": "下着",
+		"category": "Miho, the celestial fox",
 		"defname": "Miho_Apparel_Under_IndustrialBlack"
 	},
 	{
@@ -13869,7 +13869,7 @@
 	{
 		"abr": "メイドカチューシャ（ハーフエルフ）",
 		"price": 183,
-		"category": "帽子",
+		"category": "Ancient species",
 		"defname": "AS_WHE_MaidHairBand"
 	},
 	{
@@ -13965,19 +13965,19 @@
 	{
 		"abr": "モヨオーバーオール",
 		"price": 265,
-		"category": "着物",
+		"category": "Moyo-light in the abyss",
 		"defname": "RedMoyo_WorkSuit"
 	},
 	{
 		"abr": "モヨカウボーイハット",
 		"price": 94,
-		"category": "帽子",
+		"category": "Moyo-from the depth",
 		"defname": "Moyo_CowboyHat"
 	},
 	{
 		"abr": "モヨガスマスク",
 		"price": 246,
-		"category": "帽子",
+		"category": "Moyo-light in the abyss",
 		"defname": "RedMoyo_GasMask"
 	},
 	{
@@ -14001,13 +14001,13 @@
 	{
 		"abr": "モヨジャケット",
 		"price": 275,
-		"category": "上着",
+		"category": "Moyo-from the depth",
 		"defname": "Moyo_Jacket"
 	},
 	{
 		"abr": "モヨシャツとブーツ",
 		"price": 297,
-		"category": "下着",
+		"category": "Moyo-from the depth",
 		"defname": "Moyo_SnB"
 	},
 	{
@@ -14055,13 +14055,13 @@
 	{
 		"abr": "モヨタクティカルヘッドセット",
 		"price": 567,
-		"category": "帽子",
+		"category": "Moyo-light in the abyss",
 		"defname": "RedMoyo_TacticalHeadSet"
 	},
 	{
 		"abr": "モヨダスターコート",
 		"price": 327,
-		"category": "上着",
+		"category": "Moyo-from the depth",
 		"defname": "Moyo_Duster"
 	},
 	{
@@ -14097,7 +14097,7 @@
 	{
 		"abr": "モヨニット帽",
 		"price": 91,
-		"category": "帽子",
+		"category": "Moyo-from the depth",
 		"defname": "Moyo_Tuque"
 	},
 	{
@@ -14109,7 +14109,7 @@
 	{
 		"abr": "モヨパーカー",
 		"price": 315,
-		"category": "上着",
+		"category": "Moyo-from the depth",
 		"defname": "Moyo_Parka"
 	},
 	{
@@ -14181,7 +14181,7 @@
 	{
 		"abr": "モヨボディスーツ",
 		"price": 542,
-		"category": "下着",
+		"category": "Moyo-from the depth",
 		"defname": "Moyo_Bodysuit"
 	},
 	{
@@ -14193,7 +14193,7 @@
 	{
 		"abr": "モヨホロキャミソール",
 		"price": 442,
-		"category": "着物",
+		"category": "Moyo-light in the abyss",
 		"defname": "RedMoyo_HoloCamisole"
 	},
 	{
@@ -14319,7 +14319,7 @@
 	{
 		"abr": "モヨ一枚布",
 		"price": 211,
-		"category": "下着",
+		"category": "Moyo-from the depth",
 		"defname": "Moyo_Tribal"
 	},
 	{
@@ -14349,19 +14349,19 @@
 	{
 		"abr": "モヨ奴隷拘束具",
 		"price": 275,
-		"category": "下着",
+		"category": "Moyo-from the depth",
 		"defname": "Moyo_BodyStrap"
 	},
 	{
 		"abr": "モヨ将校ケープ",
 		"price": 875,
-		"category": "上着",
+		"category": "Moyo-light in the abyss",
 		"defname": "RedMoyo_OfficerCape"
 	},
 	{
 		"abr": "モヨ山高帽",
 		"price": 77,
-		"category": "帽子",
+		"category": "Moyo-from the depth",
 		"defname": "Moyo_BowlerHat"
 	},
 	{
@@ -14421,7 +14421,7 @@
 	{
 		"abr": "モヨ試作型エグゾフレーム",
 		"price": 1525,
-		"category": "下着",
+		"category": "Moyo-from the depth",
 		"defname": "Moyo_Exoframeproto"
 	},
 	{
@@ -14445,7 +14445,7 @@
 	{
 		"abr": "モヨ革帯",
 		"price": 275,
-		"category": "下着",
+		"category": "Moyo-light in the abyss",
 		"defname": "RedMoyo_BodyStrap"
 	},
 	{
@@ -14469,7 +14469,7 @@
 	{
 		"abr": "モヨの奴隷衣装",
 		"price": 842,
-		"category": "上着",
+		"category": "Demi-human slavery",
 		"defname": "Slave_Moyo_Strip"
 	},
 	{
@@ -14487,13 +14487,13 @@
 	{
 		"abr": "モヨメイド服(冬服)",
 		"price": 3333,
-		"category": "上着",
+		"category": "Maid-from the depth",
 		"defname": "MoyoMaid_Winter_Clothing"
 	},
 	{
 		"abr": "モヨメイド服(夏服)",
 		"price": 1667,
-		"category": "上着",
+		"category": "Maid-from the depth",
 		"defname": "MoyoMaid_Summer_Clothing"
 	},
 	{
@@ -14619,13 +14619,13 @@
 	{
 		"abr": "ラットキンの奴隷足枷",
 		"price": 170,
-		"category": "下着",
+		"category": "Demi-human slavery",
 		"defname": "Slave_Ratkin_Fetters"
 	},
 	{
 		"abr": "ラットキンの奴隷首輪",
 		"price": 170,
-		"category": "下着",
+		"category": "Demi-human slavery",
 		"defname": "Slave_Ratkin_Collar"
 	},
 	{
@@ -15033,7 +15033,7 @@
 	{
 		"abr": "ロン四目面具",
 		"price": 80,
-		"category": "帽子",
+		"category": "Heyra the horned",
 		"defname": "Heyra_Rong_MaskA"
 	},
 	{
@@ -15057,7 +15057,7 @@
 	{
 		"abr": "ロン長耳面具",
 		"price": 80,
-		"category": "帽子",
+		"category": "Heyra the horned",
 		"defname": "Heyra_Rong_MaskB"
 	},
 	{
@@ -15111,7 +15111,7 @@
 	{
 		"abr": "ワンジー",
 		"price": 107,
-		"category": "下着",
+		"category": "Babies and children [1.3]",
 		"defname": "Apparel_Baby_Onesie"
 	},
 	{
@@ -15123,7 +15123,7 @@
 	{
 		"abr": "一枚布（ハーフエルフ）",
 		"price": 177,
-		"category": "Under middle",
+		"category": "Ancient species",
 		"defname": "AS_WHE_Tribal"
 	},
 	{
@@ -15141,7 +15141,7 @@
 	{
 		"abr": "下着（ハーフエルフ）",
 		"price": 141,
-		"category": "下着",
+		"category": "Ancient species",
 		"defname": "AS_WHE_UnderwearA"
 	},
 	{
@@ -15327,7 +15327,7 @@
 	{
 		"abr": "仁術の心得",
 		"price": 288,
-		"category": "装飾品",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Omamori_Jin"
 	},
 	{
@@ -15345,7 +15345,7 @@
 	{
 		"abr": "付け角（ハーフエルフ）",
 		"price": 112,
-		"category": "帽子",
+		"category": "Ancient species",
 		"defname": "AS_WHE_Horn"
 	},
 	{
@@ -15519,7 +15519,7 @@
 	{
 		"abr": "凪の勾玉",
 		"price": 10492,
-		"category": "装飾品",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Nagi_no_Magatama"
 	},
 	{
@@ -15981,13 +15981,13 @@
 	{
 		"abr": "可愛いリボン（ハーフエルフ）",
 		"price": 228,
-		"category": "帽子",
+		"category": "Ancient species",
 		"defname": "AS_WHE_CuteRibon"
 	},
 	{
 		"abr": "司教冠",
 		"price": 75,
-		"category": "帽子",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_BishopHat"
 	},
 	{
@@ -16035,7 +16035,7 @@
 	{
 		"abr": "土神の祈り",
 		"price": 288,
-		"category": "装飾品",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Omamori_Tuchi"
 	},
 	{
@@ -16227,7 +16227,7 @@
 	{
 		"abr": "女性の下着",
 		"price": 79,
-		"category": "下着",
+		"category": "Xeva faction",
 		"defname": "XEA_Underwear"
 	},
 	{
@@ -16251,13 +16251,13 @@
 	{
 		"abr": "奴隷の足枷",
 		"price": 170,
-		"category": "上着",
+		"category": "Demi-human slavery",
 		"defname": "DS_Slave_Fetters"
 	},
 	{
 		"abr": "奴隷の首輪",
 		"price": 170,
-		"category": "上着",
+		"category": "Demi-human slavery",
 		"defname": "DS_Slave_Collar"
 	},
 	{
@@ -16401,7 +16401,7 @@
 	{
 		"abr": "妖怪の衣",
 		"price": 177,
-		"category": "着物",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Kimono_Koromo"
 	},
 	{
@@ -16659,13 +16659,13 @@
 	{
 		"abr": "布団セット（1人用）",
 		"price": 204,
-		"category": "無し",
+		"category": "[JPT] soft warm beds",
 		"defname": "SingleBedding"
 	},
 	{
 		"abr": "布団セット（2人用）",
 		"price": 342,
-		"category": "無し",
+		"category": "[JPT] soft warm beds",
 		"defname": "DoubleBedding"
 	},
 	{
@@ -16941,7 +16941,7 @@
 	{
 		"abr": "戦人の覚悟",
 		"price": 288,
-		"category": "装飾品",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Omamori_Ikusa"
 	},
 	{
@@ -17049,7 +17049,7 @@
 	{
 		"abr": "数珠玉の首飾り",
 		"price": 116,
-		"category": "帽子",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_Beads"
 	},
 	{
@@ -17229,7 +17229,7 @@
 	{
 		"abr": "棘付きスカルキャップ",
 		"price": 153,
-		"category": "帽子",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_SpikedSkullcap"
 	},
 	{
@@ -17589,7 +17589,7 @@
 	{
 		"abr": "狐のお面",
 		"price": 129,
-		"category": "帽子",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Omen_Kitune"
 	},
 	{
@@ -17619,7 +17619,7 @@
 	{
 		"abr": "狩人の呪い",
 		"price": 288,
-		"category": "装飾品",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Omamori_Karibito"
 	},
 	{
@@ -17655,7 +17655,7 @@
 	{
 		"abr": "獣の外套",
 		"price": 425,
-		"category": "上着",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Kimono_Gaitou"
 	},
 	{
@@ -17709,7 +17709,7 @@
 	{
 		"abr": "畜産物管理イヤータグ",
 		"price": 59,
-		"category": "帽子",
+		"category": "無し",
 		"defname": "Epona_Apparel_Hat_SlaveEarTag"
 	},
 	{
@@ -17727,7 +17727,7 @@
 	{
 		"abr": "白のベイビードール（ハーフエルフ）",
 		"price": 318,
-		"category": "下着",
+		"category": "Ancient species",
 		"defname": "AS_WHE_UnderwearG"
 	},
 	{
@@ -17979,7 +17979,7 @@
 	{
 		"abr": "竜巻発生装置",
 		"price": 1333,
-		"category": "ユーティリティ",
+		"category": "Core",
 		"defname": "TornadoGenerator"
 	},
 	{
@@ -18099,7 +18099,7 @@
 	{
 		"abr": "精密グローブ",
 		"price": 1500,
-		"category": "下着",
+		"category": "[KV] hand 'n' footwear",
 		"defname": "Apparel_DexterousGloves"
 	},
 	{
@@ -18111,7 +18111,7 @@
 	{
 		"abr": "精神波遮断ヘルメット",
 		"price": 417,
-		"category": "帽子",
+		"category": "Core",
 		"defname": "Apparel_PsychicFoilHelmet"
 	},
 	{
@@ -18501,7 +18501,7 @@
 	{
 		"abr": "舞姫の服",
 		"price": 1333,
-		"category": "上着",
+		"category": "Xeva faction",
 		"defname": "XEA_Dancer"
 	},
 	{
@@ -18519,19 +18519,19 @@
 	{
 		"abr": "花飾り",
 		"price": 558,
-		"category": "帽子",
+		"category": "Dragonian race",
 		"defname": "DR_Hat"
 	},
 	{
 		"abr": "花飾りついた帽子",
 		"price": 558,
-		"category": "帽子",
+		"category": "Dragonian race",
 		"defname": "DR_SunHat"
 	},
 	{
 		"abr": "苦悶の王冠",
 		"price": 91,
-		"category": "帽子",
+		"category": "Ideology",
 		"defname": "Apparel_TortureCrown"
 	},
 	{
@@ -18765,13 +18765,13 @@
 	{
 		"abr": "蜘蛛糸の下穿き",
 		"price": 328,
-		"category": "下着",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Kimono_Shitabaki"
 	},
 	{
 		"abr": "蜘蛛糸の帷子",
 		"price": 328,
-		"category": "下着",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Kimono_Katabira"
 	},
 	{
@@ -18795,7 +18795,7 @@
 	{
 		"abr": "衝撃の槍",
 		"price": 917,
-		"category": "ユーティリティ",
+		"category": "Core",
 		"defname": "Apparel_PsychicShockLance"
 	},
 	{
@@ -18891,7 +18891,7 @@
 	{
 		"abr": "襟付きシャツ",
 		"price": 166,
-		"category": "下着",
+		"category": "Core",
 		"defname": "Apparel_CollarShirt"
 	},
 	{
@@ -18945,13 +18945,13 @@
 	{
 		"abr": "調和の願い",
 		"price": 288,
-		"category": "装飾品",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Omamori_Wa"
 	},
 	{
 		"abr": "豊穣の面",
 		"price": 80,
-		"category": "帽子",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Omen_Warai"
 	},
 	{
@@ -19023,7 +19023,7 @@
 	{
 		"abr": "赤ちゃんのカバーオール",
 		"price": 107,
-		"category": "下着",
+		"category": "Babies and children [1.3]",
 		"defname": "Apparel_Newborn_Onesie"
 	},
 	{
@@ -19047,25 +19047,25 @@
 	{
 		"abr": "軌道ビーム照準器",
 		"price": 2000,
-		"category": "ユーティリティ",
+		"category": "Core",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
 	{
 		"abr": "軌道メカクラスター照準器",
 		"price": 2000,
-		"category": "ユーティリティ",
+		"category": "Royalty",
 		"defname": "OrbitalTargeterMechCluster"
 	},
 	{
 		"abr": "軌道爆撃照準器",
 		"price": 2000,
-		"category": "ユーティリティ",
+		"category": "Core",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
 		"abr": "軍帽",
 		"price": 109,
-		"category": "帽子",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_MilitaryCap"
 	},
 	{
@@ -19161,13 +19161,13 @@
 	{
 		"abr": "部族のブーツ",
 		"price": 135,
-		"category": "下着",
+		"category": "[KV] hand 'n' footwear",
 		"defname": "Apparel_TribalBoots"
 	},
 	{
 		"abr": "部族の髪飾り",
 		"price": 203,
-		"category": "帽子",
+		"category": "Core",
 		"defname": "Apparel_TribalHeaddress"
 	},
 	{
@@ -19251,7 +19251,7 @@
 	{
 		"abr": "鈴付きの首輪",
 		"price": 558,
-		"category": "上着",
+		"category": "Dragonian race",
 		"defname": "DR_Necklace"
 	},
 	{
@@ -19263,7 +19263,7 @@
 	{
 		"abr": "鉄びし入れ",
 		"price": 132,
-		"category": "罠ホルダー",
+		"category": "Maru race",
 		"defname": "MR_Apparel_TrapA"
 	},
 	{
@@ -19317,7 +19317,7 @@
 	{
 		"abr": "閃きの訪れ",
 		"price": 288,
-		"category": "装飾品",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Omamori_Hirameki"
 	},
 	{
@@ -19359,7 +19359,7 @@
 	{
 		"abr": "防火ベルト",
 		"price": 236,
-		"category": "ユーティリティ",
+		"category": "Fire extinguisher (Continued)",
 		"defname": "FireFoam_Belt"
 	},
 	{
@@ -19377,7 +19377,7 @@
 	{
 		"abr": "陽の勾玉",
 		"price": 10492,
-		"category": "装飾品",
+		"category": "妖怪村1.4",
 		"defname": "Yokai_Hi_No_Magatama"
 	},
 	{
@@ -19431,7 +19431,7 @@
 	{
 		"abr": "電動工作台",
 		"price": 492,
-		"category": "生産物",
+		"category": "",
 		"defname": "ElectricSmithy"
 	},
 	{
@@ -19503,25 +19503,25 @@
 	{
 		"abr": "電気スタンド",
 		"price": 65,
-		"category": "家具",
+		"category": "",
 		"defname": "StandingLamp"
 	},
 	{
 		"abr": "電気スタンド(緑)",
 		"price": 65,
-		"category": "家具",
+		"category": "",
 		"defname": "StandingLamp_Green"
 	},
 	{
 		"abr": "電気スタンド(赤色)",
 		"price": 65,
-		"category": "家具",
+		"category": "",
 		"defname": "StandingLamp_Red"
 	},
 	{
 		"abr": "電気スタンド(青)",
 		"price": 65,
-		"category": "家具",
+		"category": "",
 		"defname": "StandingLamp_Blue"
 	},
 	{
@@ -19557,7 +19557,7 @@
 	{
 		"abr": "青いフリル下着（ハーフエルフ）",
 		"price": 322,
-		"category": "下着",
+		"category": "Ancient species",
 		"defname": "AS_WHE_UnderwearC"
 	},
 	{
@@ -19695,7 +19695,7 @@
 	{
 		"abr": "馬面マスク",
 		"price": 145,
-		"category": "帽子",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_HorseMask"
 	},
 	{
@@ -19731,7 +19731,7 @@
 	{
 		"abr": "高官の帽子",
 		"price": 109,
-		"category": "帽子",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_CommisarHat"
 	},
 	{
@@ -19749,7 +19749,7 @@
 	{
 		"abr": "高級ベイビードール（ハーフエルフ）",
 		"price": 318,
-		"category": "下着",
+		"category": "Ancient species",
 		"defname": "AS_WHE_UnderwearI"
 	},
 	{
@@ -19845,7 +19845,7 @@
 	{
 		"abr": "鹿の頭蓋の頭巾",
 		"price": 145,
-		"category": "帽子",
+		"category": "Vanilla ideology expanded - hats and rags",
 		"defname": "VIEHAR_Apparel_DeerSkull"
 	},
 	{
@@ -19857,7 +19857,7 @@
 	{
 		"abr": "黒のベイビードール（ハーフエルフ）",
 		"price": 318,
-		"category": "下着",
+		"category": "Ancient species",
 		"defname": "AS_WHE_UnderwearH"
 	},
 	{
@@ -23292,6 +23292,102 @@
 		"category": "手のこんだ食事",
 		"defname": "ZP_SalmonRiceBall"
 	},
+	{
+		"abr": "drバトルドレスh(男性用)",
+		"price": 1950,
+		"category": "装甲化",
+		"defname": "DR_BattleDressMale"
+	},
+	{
+		"abr": "drバトルヘルメット(男性用)",
+		"price": 320,
+		"category": "装甲化",
+		"defname": "DR_BattleHelmMale"
+	},
+	{
+		"abr": "dr伝統衣装",
+		"price": 958,
+		"category": "Dragonian race",
+		"defname": "DR_MaleDress"
+	},
+	{
+		"abr": "アームチェア",
+		"price": 450,
+		"category": "家具",
+		"defname": "Armchair"
+	},
+	{
+		"abr": "エンドテーブル",
+		"price": 106,
+		"category": "家具",
+		"defname": "EndTable"
+	},
+	{
+		"abr": "スツール",
+		"price": 86,
+		"category": "",
+		"defname": "Stool"
+	},
+	{
+		"abr": "ダイニングチェア",
+		"price": 198,
+		"category": "",
+		"defname": "DiningChair"
+	},
+	{
+		"abr": "ダブルベッド",
+		"price": 292,
+		"category": "家具",
+		"defname": "DoubleBed"
+	},
+	{
+		"abr": "タンス",
+		"price": 179,
+		"category": "",
+		"defname": "Dresser"
+	},
+	{
+		"abr": "テーブル(1x2)",
+		"price": 98,
+		"category": "家具",
+		"defname": "Table1x2c"
+	},
+	{
+		"abr": "テーブル(2x2)",
+		"price": 176,
+		"category": "家具",
+		"defname": "Table2x2c"
+	},
+	{
+		"abr": "テーブル(2x4)",
+		"price": 333,
+		"category": "家具",
+		"defname": "Table2x4c"
+	},
+	{
+		"abr": "テーブル(3x3)",
+		"price": 350,
+		"category": "家具",
+		"defname": "Table3x3c"
+	},
+	{
+		"abr": "ベッド",
+		"price": 155,
+		"category": "家具",
+		"defname": "Bed"
+	},
+	{
+		"abr": "もろみ(醤油)",
+		"price": 4,
+		"category": "醸造・発酵前食品",
+		"defname": "ZP_SoySauceMoromi"
+	},
+	{
+		"abr": "ロッカー",
+		"price": 104,
+		"category": "",
+		"defname": "Shelf"
+	},
 	],
-	"total": 3921
+	"total": 3924
 }

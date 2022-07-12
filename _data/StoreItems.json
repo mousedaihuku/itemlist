@@ -24953,7 +24953,175 @@
 		"price": 16,
 		"category": "家具",
 		"defname": "Lighting_MURWallLightYellow"
+	},
+	{
+		"abr": "100tハンマー",
+		"price": 1408,
+		"category": "白兵戦武器",
+		"defname": "Kijin_100tHammer"
+	},
+	{
+		"abr": "advancedbionickijinhorn",
+		"price": 2892,
+		"category": "ウルトラテック",
+		"defname": "Kijin_AdvancedBionicHorn"
+	},
+	{
+		"abr": "ペルソナ獄炎剣",
+		"price": 5000,
+		"category": "ペルソナ武器",
+		"defname": "Kijin_FlameSword"
+	},
+	{
+		"abr": "塩漬け樽",
+		"price": 84,
+		"category": "生産物",
+		"defname": "SaltingBarrel"
+	},
+	{
+		"abr": "塩漬け肉",
+		"price": 2,
+		"category": "生肉",
+		"defname": "SaltedMeatKijin"
+	},
+	{
+		"abr": "壁灯(黄緑)",
+		"price": 16,
+		"category": "家具",
+		"defname": "Lighting_MURWallLightChartreuse"
+	},
+	{
+		"abr": "女性ドラコニアン",
+		"price": 9667,
+		"category": "Animal",
+		"defname": "Dragonian_Female"
+	},
+	{
+		"abr": "女性ドラコニアンの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Dragonian_Female"
+	},
+	{
+		"abr": "小さいテーブル",
+		"price": 87,
+		"category": "家具",
+		"defname": "RS_smallTable"
+	},
+	{
+		"abr": "小さな造花",
+		"price": 11,
+		"category": "家具",
+		"defname": "RS_tableflower"
+	},
+	{
+		"abr": "強化尻尾(ホラン)",
+		"price": 1717,
+		"category": "強化",
+		"defname": "Horan_BionicTail"
+	},
+	{
+		"abr": "強化爪(ホラン)",
+		"price": 1883,
+		"category": "強化",
+		"defname": "Horan_UpgradeClaw"
+	},
+	{
+		"abr": "強化角(鬼人)",
+		"price": 1808,
+		"category": "強化",
+		"defname": "Kijin_BionicHorn"
+	},
+	{
+		"abr": "御神木",
+		"price": 1167,
+		"category": "アーティファクト",
+		"defname": "SpiritWood"
+	},
+	{
+		"abr": "揚げ物",
+		"price": 17,
+		"category": "調理済",
+		"defname": "RS_fried_Something"
+	},
+	{
+		"abr": "換気扇",
+		"price": 296,
+		"category": "家具",
+		"defname": "RS_KitchenHood"
+	},
+	{
+		"abr": "桃色恋愛化クッキー",
+		"price": 2,
+		"category": "ドラッグ",
+		"defname": "Mincho_PinkFallInLove_Cookie"
+	},
+	{
+		"abr": "深淵の真珠",
+		"price": 25,
+		"category": "原材料",
+		"defname": "DD_AbyssalPearl"
+	},
+	{
+		"abr": "潜在能力開放(視力)装置",
+		"price": 6233,
+		"category": "強化",
+		"defname": "Horan_EyeSightEnlightenedDevice"
+	},
+	{
+		"abr": "焔の護符",
+		"price": 157,
+		"category": "Kijin race 2.0",
+		"defname": "Kijin_FirewardCharm"
+	},
+	{
+		"abr": "焼きプリン",
+		"price": 10,
+		"category": "調理済",
+		"defname": "VAGPBakedpudding"
+	},
+	{
+		"abr": "煙幕帯",
+		"price": 124,
+		"category": "Kijin race 2.0",
+		"defname": "Kijin_SmokeBombBelt"
+	},
+	{
+		"abr": "獄炎の鎧",
+		"price": 8333,
+		"category": "装甲化",
+		"defname": "Kijin_EpicArmor"
+	},
+	{
+		"abr": "獄炎の面",
+		"price": 8333,
+		"category": "装甲化",
+		"defname": "Kijin_EpicHelm"
+	},
+	{
+		"abr": "玉子丼",
+		"price": 30,
+		"category": "調理済",
+		"defname": "RS_eggjuk"
+	},
+	{
+		"abr": "男性ドラコニアン",
+		"price": 9667,
+		"category": "Animal",
+		"defname": "Dragonian_Male"
+	},
+	{
+		"abr": "目玉焼き",
+		"price": 17,
+		"category": "調理済",
+		"defname": "RS_fried_egg"
+	},
+	{
+		"abr": "秘薬ポーション",
+		"price": 30,
+		"category": "ドラッグ",
+		"defname": "Mincho_ArcanePotion"
 	}
 	],
-	"total": 4187
+	"total": 4215
 }

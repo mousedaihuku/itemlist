@@ -7991,6 +7991,36 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmyが調理するものはすべて黒ずんだ料理に変わります.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kijin Race 2.0",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "IncompetentCook",
+      "name": "メシマズ",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -9167,6 +9197,34 @@
       "enabled": true,
       "name": "ミンチョ魔女",
       "price": 3500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 重量",
+          "+20% 燃えやすさ",
+          "+$1500 金額",
+          "+120% 免疫を得る速度",
+          "+5.00 移動速度",
+          "+200% 飢えやすさ",
+          "+200% 食事の早さ",
+          "+2.0 調理・速度",
+          "+45.0C 快適と感じる最高気温 ",
+          "+150 輸送能力",
+          "+10.0 回避率(白兵戦)",
+          "+150% 基本的な作業速度",
+          "+3 名誉値",
+          "+50 生皮の量"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "鬼人は,人間と同じように進化した鬼です.巨大な体と筋肉は小さく縮みましたが,筋肉はより緻密で強くなっています.しかし,その体を維持するためにはたくさん食べる必要があり,少々燃費が悪くなっています.",
+      "defName": "Alien_Kijin",
+      "enabled": true,
+      "name": "鬼人",
+      "price": 2500
     }
   ]
 }

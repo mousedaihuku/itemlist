@@ -198,12 +198,6 @@
     "version": null
   },
   {
-    "author": "Oblitus",
-    "name": "My Little Planet",
-    "steamId": "1117406550",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "uniinu",
     "name": "妖怪村1.4",
     "steamId": null,
@@ -1548,6 +1542,18 @@
     "version": null
   },
   {
+    "author": "cucumpear",
+    "name": "LED Lights",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "LED Lights 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Millap",
     "name": "AOC The Cleanup Devil",
     "steamId": "2469449551",
@@ -1784,6 +1790,12 @@
   {
     "author": "Gloomylynx NukaFrog",
     "name": "Dragonian Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Beepboop",
+    "name": "Dragonian Ageing and Up scaled Textures",
     "steamId": null,
     "version": null
   },

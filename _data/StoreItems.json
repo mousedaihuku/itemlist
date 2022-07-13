@@ -25121,7 +25121,349 @@
 		"price": 30,
 		"category": "ドラッグ",
 		"defname": "Mincho_ArcanePotion"
+	},
+	{
+		"abr": "hidled灯",
+		"price": 164,
+		"category": "家具",
+		"defname": "CCP_HIDLEDLight"
+	},
+	{
+		"abr": "hidled灯(四角形)",
+		"price": 164,
+		"category": "家具",
+		"defname": "CCP_HIDLEDLightSquare"
+	},
+	{
+		"abr": "hidled灯(桃)",
+		"price": 164,
+		"category": "家具",
+		"defname": "CCP_HIDLEDLight_Pink"
+	},
+	{
+		"abr": "hidled灯(紫)",
+		"price": 164,
+		"category": "家具",
+		"defname": "CCP_HIDLEDLight_Violet"
+	},
+	{
+		"abr": "hidled灯(緑)",
+		"price": 164,
+		"category": "家具",
+		"defname": "CCP_HIDLEDLight_Green"
+	},
+	{
+		"abr": "hidled灯(赤)",
+		"price": 164,
+		"category": "家具",
+		"defname": "CCP_HIDLEDLight_Red"
+	},
+	{
+		"abr": "hidled灯(青)",
+		"price": 164,
+		"category": "家具",
+		"defname": "CCP_HIDLEDLight_Blue"
+	},
+	{
+		"abr": "hidled灯(青緑)",
+		"price": 164,
+		"category": "家具",
+		"defname": "CCP_HIDLEDLight_Teal"
+	},
+	{
+		"abr": "hidled灯(黄)",
+		"price": 164,
+		"category": "家具",
+		"defname": "CCP_HIDLEDLight_Yellow"
+	},
+	{
+		"abr": "ledスタンド",
+		"price": 58,
+		"category": "家具",
+		"defname": "CCP_LEDLight"
+	},
+	{
+		"abr": "ledスタンド(桃)",
+		"price": 58,
+		"category": "家具",
+		"defname": "CCP_LEDLight_Pink"
+	},
+	{
+		"abr": "ledスタンド(紫)",
+		"price": 58,
+		"category": "家具",
+		"defname": "CCP_LEDLight_Violet"
+	},
+	{
+		"abr": "ledスタンド(緑)",
+		"price": 58,
+		"category": "家具",
+		"defname": "CCP_LEDLight_Green"
+	},
+	{
+		"abr": "ledスタンド(赤)",
+		"price": 58,
+		"category": "家具",
+		"defname": "CCP_LEDLight_Red"
+	},
+	{
+		"abr": "ledスタンド(青)",
+		"price": 58,
+		"category": "家具",
+		"defname": "CCP_LEDLight_Blue"
+	},
+	{
+		"abr": "ledスタンド(青緑)",
+		"price": 58,
+		"category": "家具",
+		"defname": "CCP_LEDLight_Teal"
+	},
+	{
+		"abr": "ledスタンド(黄)",
+		"price": 58,
+		"category": "家具",
+		"defname": "CCP_LEDLight_Yellow"
+	},
+	{
+		"abr": "led壁灯",
+		"price": 40,
+		"category": "家具",
+		"defname": "CCP_LEDWallLight"
+	},
+	{
+		"abr": "led壁灯(桃)",
+		"price": 40,
+		"category": "家具",
+		"defname": "CCP_LEDWallLight_Pink"
+	},
+	{
+		"abr": "led壁灯(紫)",
+		"price": 40,
+		"category": "家具",
+		"defname": "CCP_LEDWallLight_Violet"
+	},
+	{
+		"abr": "led壁灯(緑)",
+		"price": 40,
+		"category": "家具",
+		"defname": "CCP_LEDWallLight_Green"
+	},
+	{
+		"abr": "led壁灯(赤)",
+		"price": 40,
+		"category": "家具",
+		"defname": "CCP_LEDWallLight_Red"
+	},
+	{
+		"abr": "led壁灯(青)",
+		"price": 40,
+		"category": "家具",
+		"defname": "CCP_LEDWallLight_Blue"
+	},
+	{
+		"abr": "led壁灯(青緑)",
+		"price": 40,
+		"category": "家具",
+		"defname": "CCP_LEDWallLight_Teal"
+	},
+	{
+		"abr": "led壁灯(黄)",
+		"price": 40,
+		"category": "家具",
+		"defname": "CCP_LEDWallLight_Yellow"
+	},
+	{
+		"abr": "led手術灯",
+		"price": 252,
+		"category": "家具",
+		"defname": "CCP_LEDMedLight"
+	},
+	{
+		"abr": "大型hidled灯",
+		"price": 196,
+		"category": "家具",
+		"defname": "CCP_WRHIDLEDLight"
+	},
+	{
+		"abr": "大型hidled灯(四角形)",
+		"price": 196,
+		"category": "家具",
+		"defname": "CCP_WRHIDLEDLightSquare"
+	},
+	{
+		"abr": "大型hidled灯(桃)",
+		"price": 196,
+		"category": "家具",
+		"defname": "CCP_WRHIDLEDLight_Pink"
+	},
+	{
+		"abr": "大型hidled灯(紫)",
+		"price": 196,
+		"category": "家具",
+		"defname": "CCP_WRHIDLEDLight_Violet"
+	},
+	{
+		"abr": "大型hidled灯(緑)",
+		"price": 196,
+		"category": "家具",
+		"defname": "CCP_WRHIDLEDLight_Green"
+	},
+	{
+		"abr": "大型hidled灯(赤)",
+		"price": 196,
+		"category": "家具",
+		"defname": "CCP_WRHIDLEDLight_Red"
+	},
+	{
+		"abr": "大型hidled灯(青)",
+		"price": 196,
+		"category": "家具",
+		"defname": "CCP_WRHIDLEDLight_Blue"
+	},
+	{
+		"abr": "大型hidled灯(青緑)",
+		"price": 196,
+		"category": "家具",
+		"defname": "CCP_WRHIDLEDLight_Teal"
+	},
+	{
+		"abr": "大型hidled灯(黄)",
+		"price": 196,
+		"category": "家具",
+		"defname": "CCP_WRHIDLEDLight_Yellow"
+	},
+	{
+		"abr": "大型ledスタンド",
+		"price": 123,
+		"category": "家具",
+		"defname": "CCP_WRLEDLight"
+	},
+	{
+		"abr": "大型ledスタンド(桃)",
+		"price": 123,
+		"category": "家具",
+		"defname": "CCP_WRLEDLight_Pink"
+	},
+	{
+		"abr": "大型ledスタンド(紫)",
+		"price": 123,
+		"category": "家具",
+		"defname": "CCP_WRLEDLight_Violet"
+	},
+	{
+		"abr": "大型ledスタンド(緑)",
+		"price": 123,
+		"category": "家具",
+		"defname": "CCP_WRLEDLight_Green"
+	},
+	{
+		"abr": "大型ledスタンド(赤)",
+		"price": 123,
+		"category": "家具",
+		"defname": "CCP_WRLEDLight_Red"
+	},
+	{
+		"abr": "大型ledスタンド(青)",
+		"price": 123,
+		"category": "家具",
+		"defname": "CCP_WRLEDLight_Blue"
+	},
+	{
+		"abr": "大型ledスタンド(青緑)",
+		"price": 123,
+		"category": "家具",
+		"defname": "CCP_WRLEDLight_Teal"
+	},
+	{
+		"abr": "大型ledスタンド(黄)",
+		"price": 123,
+		"category": "家具",
+		"defname": "CCP_WRLEDLight_Yellow"
+	},
+	{
+		"abr": "大型led壁灯",
+		"price": 79,
+		"category": "家具",
+		"defname": "CCP_WRLEDWallLight"
+	},
+	{
+		"abr": "大型led壁灯(桃)",
+		"price": 79,
+		"category": "家具",
+		"defname": "CCP_WRLEDWallLight_Pink"
+	},
+	{
+		"abr": "大型led壁灯(紫)",
+		"price": 79,
+		"category": "家具",
+		"defname": "CCP_WRLEDWallLight_Violet"
+	},
+	{
+		"abr": "大型led壁灯(緑)",
+		"price": 79,
+		"category": "家具",
+		"defname": "CCP_WRLEDWallLight_Green"
+	},
+	{
+		"abr": "大型led壁灯(赤)",
+		"price": 79,
+		"category": "家具",
+		"defname": "CCP_WRLEDWallLight_Red"
+	},
+	{
+		"abr": "大型led壁灯(青)",
+		"price": 79,
+		"category": "家具",
+		"defname": "CCP_WRLEDWallLight_Blue"
+	},
+	{
+		"abr": "大型led壁灯(青緑)",
+		"price": 79,
+		"category": "家具",
+		"defname": "CCP_WRLEDWallLight_Teal"
+	},
+	{
+		"abr": "大型led壁灯(黄)",
+		"price": 79,
+		"category": "家具",
+		"defname": "CCP_WRLEDWallLight_Yellow"
+	},
+	{
+		"abr": "手動led太陽灯(中型)",
+		"price": 408,
+		"category": "家具",
+		"defname": "CCP_MLEDGrowLightM"
+	},
+	{
+		"abr": "手動led太陽灯(大型)",
+		"price": 958,
+		"category": "家具",
+		"defname": "CCP_MLEDGrowLight"
+	},
+	{
+		"abr": "手動led太陽灯(小型)",
+		"price": 252,
+		"category": "家具",
+		"defname": "CCP_MLEDGrowLightS"
+	},
+	{
+		"abr": "管理者の机",
+		"price": 508,
+		"category": "生産物",
+		"defname": "FM_ManagerStation"
+	},
+	{
+		"abr": "粘液化クッキー",
+		"price": 2,
+		"category": "ドラッグ",
+		"defname": "Mincho_Slime_Cookie"
+	},
+	{
+		"abr": "紅葉ノ扇",
+		"price": 650,
+		"category": "投擲武器",
+		"defname": "Kijin_Fan"
 	}
 	],
-	"total": 4215
+	"total": 4272
 }

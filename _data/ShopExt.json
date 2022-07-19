@@ -6257,204 +6257,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy はが子供嫌いです",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Children, school and learning",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ChildrenDislikesChildren",
-      "name": "子供嫌い",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy は人狼の子供で、成長して初めて変身する",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Children, school and learning",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ChildrenWerewolfChild",
-      "name": "人狼",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy は植民地時代に生まれた",
-      "stats": [
-        "TKUtils.Trait.MeditationEnabled"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Children, school and learning",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "TKUtils.Trait.MeditationEnabled"
-        ]
-      },
-      "defName": "ChildrenNaturalColonyChild",
-      "name": "天然記念物",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy は若いが働けない",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Children, school and learning",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ChildrenToYoungToWork",
-      "name": "若くて働けない",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy's 心は無垢です。多分それはあなたが以前に厳しい世界を経験したことがないからでしょう。\n彼 共食い、臓器採取、死体の目撃などの暴力行為によってさらにトラウマを感じるでしょう。",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "サイコパス",
-        "流血嗜好者",
-        "食人嗜好者",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Babies and Children [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "サイコパス",
-          "流血嗜好者",
-          "食人嗜好者",
-          "宿り木"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Innocent",
-      "name": "純真",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy ニュータイプに目覚めました。 彼 回避することに長け、そして近接と射撃に+5ポイントを得ます。 ",
-      "stats": [
-        "+5 格闘",
-        "+5 射撃",
-        "+25.0 回避率(白兵戦)",
-        "x20% 罠発動確率"
-      ],
-      "conflicts": [
-        "敏捷な身のこなし",
-        "deftlydodger",
-        "sluggish",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Babies and Children [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "敏捷な身のこなし",
-          "deftlydodger",
-          "sluggish",
-          "宿り木"
-        ],
-        "stats": [
-          "+5 格闘",
-          "+5 射撃",
-          "+25.0 回避率(白兵戦)",
-          "x20% 罠発動確率"
-        ]
-      },
-      "defName": "Newtype",
-      "name": "ニュータイプ",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmyは 異性の人に性的に惹かれます。",
       "stats": [
 
@@ -6906,36 +6708,6 @@
       },
       "defName": "Kimiri_Trait",
       "name": "キミリ",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmyは,AOCグループのセクシーなお掃除悪魔です.彼は,惑星の浄化やテラフォーミングのために製造されたデザインベビーで,以下のような特徴があります.\n強い病気への抵抗力.\n掃除強迫症と定期的な嘔吐.\n3年で行われる惑星適応.\n敏感な精神感応性.\n\n\nセクシーさにこだわります.",
-      "stats": [
-        "TKUtils.Trait.MentalBreak"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "AOC The Cleanup Devil",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "TKUtils.Trait.MentalBreak"
-        ]
-      },
-      "defName": "AOC_CleanUpDevil",
-      "name": "お掃除悪魔",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -8021,6 +7793,36 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmyは,AOCグループのセクシーなお掃除悪魔です.彼は,惑星の浄化やテラフォーミングのために製造されたデザインベビーで,以下のような特徴があります.\n強い病気への抵抗力.\n掃除強迫症と定期的な嘔吐.\n3年で行われる惑星適応.\n敏感な精神感応性.\n\n\nセクシーさにこだわります.",
+      "stats": [
+        "許可されるのはメンタルブレイク\"AOC_VomitEverywhere\"のみです。"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "AOC The Cleanup Devil",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "許可されるのはメンタルブレイク\"AOC_VomitEverywhere\"のみです。"
+        ]
+      },
+      "defName": "AOC_CleanUpDevil",
+      "name": "お掃除悪魔",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -8215,59 +8017,6 @@
       "enabled": true,
       "name": "キミリ",
       "price": 4375
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 重量",
-          "+80% 燃えやすさ",
-          "+$2500 金額",
-          "+5.00 移動速度",
-          "+40% 精神的弱さ",
-          "+30.0C 快適と感じる最高気温 ",
-          "+0.0C 快適と感じる最低気温",
-          "+130% 免疫を得る速度",
-          "+90 輸送能力",
-          "+70 生肉の量",
-          "+50 生皮の量",
-          "+80% 痛みへの限界値",
-          "+150% 精神感応性",
-          "+100% 毒に対する感受性",
-          "+0.8 回避率(白兵戦)",
-          "+1.0 命中率(白兵戦)",
-          "+100% 照準時間",
-          "+1.2 命中率(射撃)",
-          "+110.00% 外交力",
-          "+110% 売値掛け率",
-          "+110.00% 政治力",
-          "+10.00% 商人の勘",
-          "+120% メカノイド・寸断収率",
-          "+120% メカノイド・寸断速度",
-          "+120% 溶解・速度",
-          "+120% 作業・速度",
-          "+90% 食肉加工・収率",
-          "+120% 食肉加工・速度",
-          "+150.00% 食中毒・発生率",
-          "+0.7 調理・速度",
-          "+80% 休息しやすさ",
-          "+100% 栽培・速度",
-          "+110% 研究・速度",
-          "+100% 看護・品質",
-          "+100% 合成・速度",
-          "+100% 外科手術の成功率",
-          "+130% 掘削・速度",
-          "+130% 掘削・収率",
-          "+4 名誉値"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "惑星の浄化のために遺伝子改造された悪魔たちです.環境適応力に優れセクシーです.",
-      "defName": "AOC",
-      "enabled": true,
-      "name": "AOC",
-      "price": 4167
     },
     {
       "data": {
@@ -9225,6 +8974,59 @@
       "enabled": true,
       "name": "鬼人",
       "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 重量",
+          "+80% 燃えやすさ",
+          "+$2500 金額",
+          "+5.00 移動速度",
+          "+40% 精神的弱さ",
+          "+30.0C 快適と感じる最高気温 ",
+          "+0.0C 快適と感じる最低気温",
+          "+130% 免疫を得る速度",
+          "+90 輸送能力",
+          "+70 生肉の量",
+          "+50 生皮の量",
+          "+80% 痛みへの限界値",
+          "+150% 精神感応性",
+          "+100% 毒に対する感受性",
+          "+0.8 回避率(白兵戦)",
+          "+1.0 命中率(白兵戦)",
+          "+100% 照準時間",
+          "+1.2 命中率(射撃)",
+          "+110.00% 外交力",
+          "+110% 売値掛け率",
+          "+110.00% 政治力",
+          "+10.00% 商人の勘",
+          "+120% メカノイド・寸断収率",
+          "+120% メカノイド・寸断速度",
+          "+120% 溶解・速度",
+          "+120% 作業・速度",
+          "+90% 食肉加工・収率",
+          "+120% 食肉加工・速度",
+          "+150.00% 食中毒・発生率",
+          "+0.7 調理・速度",
+          "+80% 休息しやすさ",
+          "+100% 栽培・速度",
+          "+110% 研究・速度",
+          "+100% 看護・品質",
+          "+100% 合成・速度",
+          "+100% 外科手術の成功率",
+          "+130% 掘削・速度",
+          "+130% 掘削・収率",
+          "+4 名誉値"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "惑星の浄化のために遺伝子改造された悪魔たちです.環境適応力に優れセクシーです.",
+      "defName": "AOC",
+      "enabled": true,
+      "name": "AOC",
+      "price": 4167
     }
   ]
 }

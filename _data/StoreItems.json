@@ -2479,12 +2479,6 @@
 		"defname": "Apparel_BowlerHat"
 	},
 	{
-		"abr": "工作台",
-		"price": 333,
-		"category": "",
-		"defname": "FueledSmithy"
-	},
-	{
 		"abr": "巨大な彫刻",
 		"price": 1967,
 		"category": "芸術品",
@@ -5371,474 +5365,6 @@
 		"defname": "AIChip"
 	},
 	{
-		"abr": "aoc",
-		"price": -10,
-		"category": "Animal",
-		"defname": "AOC"
-	},
-	{
-		"abr": "aoc3dプリンター",
-		"price": 758,
-		"category": "生産物",
-		"defname": "AOC_printer"
-	},
-	{
-		"abr": "aoca2e",
-		"price": 1333,
-		"category": "AOC武器",
-		"defname": "AOC_A2E"
-	},
-	{
-		"abr": "aocbluetoothブラックホール",
-		"price": 3333,
-		"category": "遠距離武器",
-		"defname": "AOC_B2H"
-	},
-	{
-		"abr": "aocdhc",
-		"price": 833,
-		"category": "ドラッグ",
-		"defname": "AOC_DHC"
-	},
-	{
-		"abr": "aocf4t",
-		"price": 143,
-		"category": "白兵戦武器",
-		"defname": "AOC_F4T"
-	},
-	{
-		"abr": "aocgwtd",
-		"price": 833,
-		"category": "ドラッグ",
-		"defname": "AOC_GWTD"
-	},
-	{
-		"abr": "aocimc",
-		"price": 58,
-		"category": "ドラッグ",
-		"defname": "AOC_IMC"
-	},
-	{
-		"abr": "aocsaeヘルメット",
-		"price": 1058,
-		"category": "装甲化",
-		"defname": "AOC_SAE_Helmet"
-	},
-	{
-		"abr": "aocscpsk",
-		"price": 3333,
-		"category": "AOC武器",
-		"defname": "AOC_SCP_SK"
-	},
-	{
-		"abr": "aocuwat",
-		"price": 30,
-		"category": "薬",
-		"defname": "AOC_UWAT"
-	},
-	{
-		"abr": "aocアップサイクル人形-クジラ",
-		"price": 833,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_Doll_Whale"
-	},
-	{
-		"abr": "aocアロハシャツ",
-		"price": 303,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_Aloha"
-	},
-	{
-		"abr": "aocオーバーオール",
-		"price": 333,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_overalls"
-	},
-	{
-		"abr": "aocおやつ販売機",
-		"price": 2500,
-		"category": "生産物",
-		"defname": "AOC_vending_machine"
-	},
-	{
-		"abr": "aocキラーキル",
-		"price": 450,
-		"category": "AOC武器",
-		"defname": "AOC_KILLAKILL"
-	},
-	{
-		"abr": "aocクロノール",
-		"price": 7,
-		"category": "ドラッグ",
-		"defname": "AOC_Kronol"
-	},
-	{
-		"abr": "aocケリオンアーマー",
-		"price": 3242,
-		"category": "装甲化",
-		"defname": "AOC_Kellionarmor"
-	},
-	{
-		"abr": "aocケリオンキャノン",
-		"price": 2558,
-		"category": "遠距離武器",
-		"defname": "AOC_KellionCannon"
-	},
-	{
-		"abr": "aocケリオンキャノン-ピューピューver",
-		"price": 2558,
-		"category": "遠距離武器",
-		"defname": "AOC_KellionCannon_Pue"
-	},
-	{
-		"abr": "aocケリオンヘルメット",
-		"price": 1458,
-		"category": "装甲化",
-		"defname": "AOC_KellionHelmet"
-	},
-	{
-		"abr": "aocこたつ",
-		"price": 383,
-		"category": "家具",
-		"defname": "AOC_Kotatsu"
-	},
-	{
-		"abr": "aocゴミ寝袋",
-		"price": 500,
-		"category": "家具",
-		"defname": "AOC_Bedroll"
-	},
-	{
-		"abr": "aocゴミ袋",
-		"price": 167,
-		"category": "迫撃砲弾",
-		"defname": "AOC_Trash"
-	},
-	{
-		"abr": "aocゴミ袋スーツ",
-		"price": 333,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_Trash_clothes"
-	},
-	{
-		"abr": "aocジャガイモバッテリー",
-		"price": 286,
-		"category": "パワー",
-		"defname": "AOC_Potato_Battery"
-	},
-	{
-		"abr": "aocジャンプスーツ",
-		"price": 333,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_Jump_Suit"
-	},
-	{
-		"abr": "aocスペーススーツ",
-		"price": 3692,
-		"category": "装甲化",
-		"defname": "AOC_spacesuit"
-	},
-	{
-		"abr": "aocスペースヘルメット",
-		"price": 1058,
-		"category": "装甲化",
-		"defname": "AOC_spacehelmet"
-	},
-	{
-		"abr": "aocスワッター",
-		"price": 2500,
-		"category": "白兵戦武器",
-		"defname": "AOC_Swatter"
-	},
-	{
-		"abr": "aocダミー育成機",
-		"price": 2500,
-		"category": "生産物",
-		"defname": "AOC_Human_Craft"
-	},
-	{
-		"abr": "aocチキンガン",
-		"price": 1667,
-		"category": "AOC武器",
-		"defname": "AOC_ChickenGun"
-	},
-	{
-		"abr": "aocチャイナドレス",
-		"price": 303,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_Cdress"
-	},
-	{
-		"abr": "aocドゥームアーマー",
-		"price": 3825,
-		"category": "装甲化",
-		"defname": "AOC_Doomarmor"
-	},
-	{
-		"abr": "aocドゥームヘルメット",
-		"price": 1050,
-		"category": "装甲化",
-		"defname": "AOC_DoomHelmet"
-	},
-	{
-		"abr": "aocトランポリン",
-		"price": 800,
-		"category": "娯楽",
-		"defname": "AOC_Trampoline"
-	},
-	{
-		"abr": "aocナノラテックスガスマスク",
-		"price": 733,
-		"category": "装甲化",
-		"defname": "AOC_GasMask"
-	},
-	{
-		"abr": "aocナノラテックススーツ",
-		"price": 2883,
-		"category": "装甲化",
-		"defname": "AOC_NanoSuit"
-	},
-	{
-		"abr": "aocフェザーダスター",
-		"price": 300,
-		"category": "白兵戦武器",
-		"defname": "AOC_ND"
-	},
-	{
-		"abr": "aocフラワーレイ",
-		"price": 96,
-		"category": "ロイヤリティ",
-		"defname": "AOC_AlohaF"
-	},
-	{
-		"abr": "aocフレックスドレス-ベビー・ドゥボエ・ベルーガ4400",
-		"price": 350,
-		"category": "ロイヤリティ",
-		"defname": "AOC_FLEX_Dress"
-	},
-	{
-		"abr": "aocフレックスバトルスーツ-ラ・レジョン・タール4319",
-		"price": 1908,
-		"category": "装甲化",
-		"defname": "AOC_FLEX_Suit"
-	},
-	{
-		"abr": "aocフレックスワイルドコート-オー・セルフ・クルーエラ4700",
-		"price": 3833,
-		"category": "装甲化",
-		"defname": "AOC_FLEX_Coat"
-	},
-	{
-		"abr": "aocフレックス事務服-デミ・ドゥ・カーリッチ4034",
-		"price": 417,
-		"category": "ロイヤリティ",
-		"defname": "AOC_FLEX_clothes"
-	},
-	{
-		"abr": "aocボーンアーマー",
-		"price": 575,
-		"category": "装甲化",
-		"defname": "AOC_bone_armor"
-	},
-	{
-		"abr": "aocマチャムネ！",
-		"price": 63,
-		"category": "調理済",
-		"defname": "AOC_Machamne"
-	},
-	{
-		"abr": "aocモナーアーマー",
-		"price": 1767,
-		"category": "装甲化",
-		"defname": "AOC_Monerarmor"
-	},
-	{
-		"abr": "aocモナーヘルメット",
-		"price": 642,
-		"category": "装甲化",
-		"defname": "AOC_MonerHelmet"
-	},
-	{
-		"abr": "aocモノジャベリン",
-		"price": 3333,
-		"category": "白兵戦武器",
-		"defname": "AOC_Monojavelin"
-	},
-	{
-		"abr": "aocモノスピア",
-		"price": 3333,
-		"category": "白兵戦武器",
-		"defname": "AOC_MonoSpear"
-	},
-	{
-		"abr": "aocリサイクルレンガ",
-		"price": 2,
-		"category": "石材",
-		"defname": "AOC_Recycled_bricks"
-	},
-	{
-		"abr": "aocリサイクル軍装バックパック",
-		"price": 125,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_Recyle_Backpacks"
-	},
-	{
-		"abr": "aocルテラ",
-		"price": 50,
-		"category": "調理済",
-		"defname": "AOC_Rutella"
-	},
-	{
-		"abr": "aocロイヤルスペーススーツ",
-		"price": 3692,
-		"category": "装甲化",
-		"defname": "AOC_spacesuit_Royal"
-	},
-	{
-		"abr": "aocロイヤルスペースヘルメット",
-		"price": 1058,
-		"category": "装甲化",
-		"defname": "AOC_spacehelmetGeneral"
-	},
-	{
-		"abr": "aocロングモノスピア",
-		"price": 3333,
-		"category": "白兵戦武器",
-		"defname": "AOC_LongMonoSpear"
-	},
-	{
-		"abr": "aoc作業帽",
-		"price": 153,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_work_cap"
-	},
-	{
-		"abr": "aoc作業服",
-		"price": 303,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_work_clothes"
-	},
-	{
-		"abr": "aoc冬服",
-		"price": 367,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_winter_clothes"
-	},
-	{
-		"abr": "aoc分別用ごみ箱",
-		"price": 475,
-		"category": "生産物",
-		"defname": "AOC_Recycling"
-	},
-	{
-		"abr": "aoc戦闘帽",
-		"price": 375,
-		"category": "装甲化",
-		"defname": "AOC_war_cap"
-	},
-	{
-		"abr": "aoc戦闘服",
-		"price": 925,
-		"category": "装甲化",
-		"defname": "AOC_war_suits"
-	},
-	{
-		"abr": "aoc栄養カートリッジ",
-		"price": 25,
-		"category": "加工品",
-		"defname": "AOC_Human_CraftF"
-	},
-	{
-		"abr": "aoc洗濯板",
-		"price": 176,
-		"category": "生産物",
-		"defname": "AOC_Laundry_board"
-	},
-	{
-		"abr": "aoc看護帽",
-		"price": 223,
-		"category": "AOC the cleanup devil",
-		"defname": "AOCHealHat"
-	},
-	{
-		"abr": "aoc社員証",
-		"price": 500,
-		"category": "ロイヤリティ",
-		"defname": "AOC_card"
-	},
-	{
-		"abr": "aoc練乳",
-		"price": 50,
-		"category": "調理済",
-		"defname": "AOC_Mealmilk"
-	},
-	{
-		"abr": "aoc腕章",
-		"price": 270,
-		"category": "ロイヤリティ",
-		"defname": "AOC_arm_band"
-	},
-	{
-		"abr": "aoc芳香剤",
-		"price": 244,
-		"category": "家具",
-		"defname": "AOC_diffuser"
-	},
-	{
-		"abr": "aoc軍装クリーナーパック",
-		"price": 125,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_Cleaner_Backpacks"
-	},
-	{
-		"abr": "aoc軍装バックパック",
-		"price": 125,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_Battle_Backpacks"
-	},
-	{
-		"abr": "aoc酸性雨発生器",
-		"price": 2167,
-		"category": "物品",
-		"defname": "AcidRainCaller"
-	},
-	{
-		"abr": "aoc防寒ゴミ袋コート",
-		"price": 842,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_Wintercoat"
-	},
-	{
-		"abr": "aoc防寒帽",
-		"price": 270,
-		"category": "AOC the cleanup devil",
-		"defname": "AOC_winter_hat"
-	},
-	{
-		"abr": "aoc防弾コート",
-		"price": 367,
-		"category": "装甲化",
-		"defname": "AOC_coat"
-	},
-	{
-		"abr": "aoc防弾チョッキ",
-		"price": 1925,
-		"category": "装甲化",
-		"defname": "AOC_FlakVest"
-	},
-	{
-		"abr": "aoc麦わら帽子",
-		"price": 42,
-		"category": "AOC the cleanup devil",
-		"defname": "AOCStraw"
-	},
-	{
-		"abr": "aocの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_AOC"
-	},
-	{
 		"abr": "apb-1ピストル",
 		"price": 3000,
 		"category": "遠距離武器",
@@ -6067,12 +5593,6 @@
 		"defname": "Apparel_HC1Shield"
 	},
 	{
-		"abr": "horsetoy",
-		"price": 321,
-		"category": "おもちゃ",
-		"defname": "Toyhorse_Doll"
-	},
-	{
 		"abr": "ia",
 		"price": 2500,
 		"category": "家畜",
@@ -6281,18 +5801,6 @@
 		"price": 1908,
 		"category": "生産物",
 		"defname": "TableProsthetics"
-	},
-	{
-		"abr": "pパニエル",
-		"price": 50,
-		"category": "調理済",
-		"defname": "S_Paneil"
-	},
-	{
-		"abr": "qkb18k",
-		"price": 3333,
-		"category": "遠距離武器",
-		"defname": "QKB_18K"
 	},
 	{
 		"abr": "raredragonleather",
@@ -7129,18 +6637,6 @@
 		"defname": "EPIA_SyntheticBone"
 	},
 	{
-		"abr": "t.d豆乳",
-		"price": 50,
-		"category": "調理済",
-		"defname": "S_DRAGON"
-	},
-	{
-		"abr": "tcb26k",
-		"price": 492,
-		"category": "遠距離武器",
-		"defname": "TCB_26K"
-	},
-	{
 		"abr": "tシャツ（ハーフエルフ）",
 		"price": 147,
 		"category": "Ancient species",
@@ -7217,12 +6713,6 @@
 		"price": 83,
 		"category": "物品",
 		"defname": "XFMArmorP"
-	},
-	{
-		"abr": "xylophone",
-		"price": 281,
-		"category": "家具",
-		"defname": "BnC_Xylophone"
 	},
 	{
 		"abr": "アーマーラック",
@@ -8347,12 +7837,6 @@
 		"defname": "AQFishInBagThirtyeight"
 	},
 	{
-		"abr": "おもちゃのロボット人形",
-		"price": 321,
-		"category": "おもちゃ",
-		"defname": "Toyrobot_Doll"
-	},
-	{
 		"abr": "オリオン",
 		"price": 25,
 		"category": "原材料",
@@ -8513,12 +7997,6 @@
 		"price": 98,
 		"category": "白兵戦武器",
 		"defname": "Nr_Karambit"
-	},
-	{
-		"abr": "カルテルsmg",
-		"price": 1892,
-		"category": "モヨ遠隔武器",
-		"defname": "Moyo_CartelSMG"
 	},
 	{
 		"abr": "カルテルアルバレスト",
@@ -9361,12 +8839,6 @@
 		"defname": "Kurin_Fabricator_MeatConverter"
 	},
 	{
-		"abr": "クエンティ",
-		"price": 50,
-		"category": "調理済",
-		"defname": "S_ANTY"
-	},
-	{
 		"abr": "グッドvsイービル",
 		"price": 1333,
 		"category": "XF遠隔武器",
@@ -9389,12 +8861,6 @@
 		"price": 1333,
 		"category": "XF遠隔武器",
 		"defname": "XGun_GvE_MM"
-	},
-	{
-		"abr": "くまのぬいぐるみ",
-		"price": 321,
-		"category": "おもちゃ",
-		"defname": "Teddybear_Doll"
 	},
 	{
 		"abr": "クマノミ",
@@ -9721,12 +9187,6 @@
 		"defname": "EggGoldDragonFertilized"
 	},
 	{
-		"abr": "ゴールドモス",
-		"price": 2,
-		"category": "生野菜",
-		"defname": "AOC_gold_moss"
-	},
-	{
 		"abr": "コスモスオリオン織機",
 		"price": 1800,
 		"category": "生産物",
@@ -9755,24 +9215,6 @@
 		"price": 333,
 		"category": "獣耳製品",
 		"defname": "KohimeTears"
-	},
-	{
-		"abr": "ゴミあさり",
-		"price": 333,
-		"category": "家畜",
-		"defname": "FCKrat"
-	},
-	{
-		"abr": "ゴミあさりの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_FCKrat"
-	},
-	{
-		"abr": "ゴミ箱",
-		"price": 34,
-		"category": "娯楽",
-		"defname": "HoleinTrash"
 	},
 	{
 		"abr": "コラーゲン",
@@ -10351,12 +9793,6 @@
 		"defname": "XLAR_SElow"
 	},
 	{
-		"abr": "スタースナック",
-		"price": 50,
-		"category": "調理済",
-		"defname": "S_RABBIT"
-	},
-	{
 		"abr": "スターティア",
 		"price": 25,
 		"category": "物品",
@@ -10673,12 +10109,6 @@
 		"price": 162,
 		"category": "Ancient species",
 		"defname": "AS_WHE_TankTop"
-	},
-	{
-		"abr": "タンコンバー",
-		"price": 50,
-		"category": "調理済",
-		"defname": "S_TC"
 	},
 	{
 		"abr": "タンス",
@@ -11155,12 +10585,6 @@
 		"defname": "AS_WHE_Neeso"
 	},
 	{
-		"abr": "ニセ尻尾(aoc)",
-		"price": 228,
-		"category": "人造",
-		"defname": "AOC_FakeTail"
-	},
-	{
 		"abr": "ニセ尻尾(クーリン)",
 		"price": 442,
 		"category": "人造",
@@ -11257,12 +10681,6 @@
 		"defname": "Nr_Clawbar"
 	},
 	{
-		"abr": "ニャンパリング",
-		"price": 50,
-		"category": "調理済",
-		"defname": "S_CAT"
-	},
-	{
 		"abr": "ニンジンバッグ",
 		"price": 62,
 		"category": "Epona race renaissance",
@@ -11297,12 +10715,6 @@
 		"price": 181,
 		"category": "Nyaron race",
 		"defname": "Nr_CatHoodie"
-	},
-	{
-		"abr": "ネズミ印の一日ナッツ",
-		"price": 50,
-		"category": "調理済",
-		"defname": "S_MOUSE"
 	},
 	{
 		"abr": "ネムリ",
@@ -11491,12 +10903,6 @@
 		"defname": "MealSeafoodPaella"
 	},
 	{
-		"abr": "ハグミー",
-		"price": 67,
-		"category": "ドラッグ",
-		"defname": "Hugme"
-	},
-	{
 		"abr": "はぐれ手長",
 		"price": 667,
 		"category": "家畜",
@@ -11627,12 +11033,6 @@
 		"price": 667,
 		"category": "XF遠隔武器",
 		"defname": "XGun_HeatM"
-	},
-	{
-		"abr": "ビーニー帽",
-		"price": 95,
-		"category": "Babies and children [1.3]",
-		"defname": "Apparel_Baby_Beanie"
 	},
 	{
 		"abr": "ヒスイドラゴン",
@@ -11873,24 +11273,6 @@
 		"price": 2083,
 		"category": "家畜",
 		"defname": "Epona_Pwca"
-	},
-	{
-		"abr": "プープー",
-		"price": 500,
-		"category": "Animal",
-		"defname": "PooPoo"
-	},
-	{
-		"abr": "プープーの卵(有精卵)",
-		"price": 15,
-		"category": "卵(有精卵)",
-		"defname": "EggPooPooFertilized"
-	},
-	{
-		"abr": "プープーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_PooPoo"
 	},
 	{
 		"abr": "フェザーヘルム（エンシェントエルフ）",
@@ -12689,18 +12071,6 @@
 		"price": 117,
 		"category": "ドラッグ",
 		"defname": "PenoxyBlue"
-	},
-	{
-		"abr": "ベビービーニー",
-		"price": 95,
-		"category": "Babies and children [1.3]",
-		"defname": "Apparel_Newborn_Beanie"
-	},
-	{
-		"abr": "ベビーベッド",
-		"price": 105,
-		"category": "家具",
-		"defname": "Crib"
 	},
 	{
 		"abr": "ベリアル-v",
@@ -13819,12 +13189,6 @@
 		"defname": "Yokai_okayu"
 	},
 	{
-		"abr": "ミンチョアイスクリーム",
-		"price": 50,
-		"category": "調理済",
-		"defname": "S_Mincho"
-	},
-	{
 		"abr": "ムール貝(生)",
 		"price": 50,
 		"category": "生の魚",
@@ -14443,12 +13807,6 @@
 		"defname": "RedMoyo_AbyssHelmet"
 	},
 	{
-		"abr": "モヨグミ",
-		"price": 50,
-		"category": "調理済",
-		"defname": "S_MOYO"
-	},
-	{
 		"abr": "モヨの奴隷衣装",
 		"price": 842,
 		"category": "Demi-human slavery",
@@ -14477,12 +13835,6 @@
 		"price": 1667,
 		"category": "Maid-from the depth",
 		"defname": "MoyoMaid_Summer_Clothing"
-	},
-	{
-		"abr": "モルディブ",
-		"price": 117,
-		"category": "ドラッグ",
-		"defname": "Maldive"
 	},
 	{
 		"abr": "モルフィブルー",
@@ -15089,12 +14441,6 @@
 		"price": 250,
 		"category": "家具",
 		"defname": "OneCards"
-	},
-	{
-		"abr": "ワンジー",
-		"price": 107,
-		"category": "Babies and children [1.3]",
-		"defname": "Apparel_Baby_Onesie"
 	},
 	{
 		"abr": "一人用冷蔵庫",
@@ -16237,18 +15583,6 @@
 		"defname": "DS_Slave_Collar"
 	},
 	{
-		"abr": "妊娠促進薬",
-		"price": 25,
-		"category": "ドラッグ",
-		"defname": "FertilityBooster"
-	},
-	{
-		"abr": "妊娠検査薬",
-		"price": 12,
-		"category": "ドラッグ",
-		"defname": "PregnancyTest"
-	},
-	{
 		"abr": "妖の弓",
 		"price": 1867,
 		"category": "弓",
@@ -16447,12 +15781,6 @@
 		"defname": "AS_WAE_KnightDress"
 	},
 	{
-		"abr": "学習机",
-		"price": 281,
-		"category": "生産物",
-		"defname": "SchoolTable"
-	},
-	{
 		"abr": "宝珠",
 		"price": 833,
 		"category": "不活性な遺物",
@@ -16535,12 +15863,6 @@
 		"price": 17,
 		"category": "調理済",
 		"defname": "GrilledTinyFish"
-	},
-	{
-		"abr": "少女の人形",
-		"price": 321,
-		"category": "おもちゃ",
-		"defname": "Girl_Doll"
 	},
 	{
 		"abr": "崩壊少女ストロベリーボム",
@@ -16667,12 +15989,6 @@
 		"price": 4067,
 		"category": "ウルトラテック",
 		"defname": "ExoskeletonSuit"
-	},
-	{
-		"abr": "強化尻尾(aoc)",
-		"price": 1575,
-		"category": "強化",
-		"defname": "AOC_BionicTail"
 	},
 	{
 		"abr": "強化尻尾(キミリ)",
@@ -16859,12 +16175,6 @@
 		"price": 1333,
 		"category": "家畜",
 		"defname": "Miho_Fox_Red"
-	},
-	{
-		"abr": "恐竜の人形",
-		"price": 321,
-		"category": "おもちゃ",
-		"defname": "Dino_Doll"
 	},
 	{
 		"abr": "恒星プラズマサンプル",
@@ -18985,12 +18295,6 @@
 		"defname": "LavishFeast"
 	},
 	{
-		"abr": "赤ちゃんのカバーオール",
-		"price": 107,
-		"category": "Babies and children [1.3]",
-		"defname": "Apparel_Newborn_Onesie"
-	},
-	{
 		"abr": "赤ラミアの卵",
 		"price": 83,
 		"category": "卵(有精卵)",
@@ -19109,12 +18413,6 @@
 		"price": 1417,
 		"category": "加工品",
 		"defname": "Miho_MechItemLogi"
-	},
-	{
-		"abr": "避妊薬",
-		"price": 17,
-		"category": "ドラッグ",
-		"defname": "BirthControl"
 	},
 	{
 		"abr": "部品改造設備",
@@ -19394,12 +18692,6 @@
 	},
 	{
 		"abr": "電動工作台",
-		"price": 492,
-		"category": "",
-		"defname": "ElectricSmithy"
-	},
-	{
-		"abr": "電動工作台",
 		"price": 533,
 		"category": "生産物",
 		"defname": "GL_ElectricSmithy"
@@ -19463,30 +18755,6 @@
 		"price": 383,
 		"category": "生産物",
 		"defname": "GL_ElectricStove"
-	},
-	{
-		"abr": "電気スタンド",
-		"price": 65,
-		"category": "",
-		"defname": "StandingLamp"
-	},
-	{
-		"abr": "電気スタンド(緑)",
-		"price": 65,
-		"category": "",
-		"defname": "StandingLamp_Green"
-	},
-	{
-		"abr": "電気スタンド(赤色)",
-		"price": 65,
-		"category": "",
-		"defname": "StandingLamp_Red"
-	},
-	{
-		"abr": "電気スタンド(青)",
-		"price": 65,
-		"category": "",
-		"defname": "StandingLamp_Blue"
 	},
 	{
 		"abr": "電気ストーブ",
@@ -19622,12 +18890,6 @@
 	},
 	{
 		"abr": "食肉加工台",
-		"price": 302,
-		"category": "",
-		"defname": "TableButcher"
-	},
-	{
-		"abr": "食肉加工台",
 		"price": 279,
 		"category": "生産物",
 		"defname": "GL_TableButcher"
@@ -19649,12 +18911,6 @@
 		"price": 3,
 		"category": "生肉",
 		"defname": "Meat_Horse"
-	},
-	{
-		"abr": "馬蹄ジャーキー",
-		"price": 50,
-		"category": "調理済",
-		"defname": "S_HORSE"
 	},
 	{
 		"abr": "馬面マスク",
@@ -23185,106 +22441,10 @@
 		"defname": "DR_MaleDress"
 	},
 	{
-		"abr": "エンドテーブル",
-		"price": 106,
-		"category": "",
-		"defname": "EndTable"
-	},
-	{
-		"abr": "スツール",
-		"price": 86,
-		"category": "",
-		"defname": "Stool"
-	},
-	{
-		"abr": "ダイニングチェア",
-		"price": 198,
-		"category": "",
-		"defname": "DiningChair"
-	},
-	{
-		"abr": "ダブルベッド",
-		"price": 292,
-		"category": "",
-		"defname": "DoubleBed"
-	},
-	{
-		"abr": "タンス",
-		"price": 179,
-		"category": "",
-		"defname": "Dresser"
-	},
-	{
-		"abr": "テーブル(1x2)",
-		"price": 98,
-		"category": "",
-		"defname": "Table1x2c"
-	},
-	{
-		"abr": "テーブル(2x2)",
-		"price": 176,
-		"category": "",
-		"defname": "Table2x2c"
-	},
-	{
-		"abr": "テーブル(3x3)",
-		"price": 350,
-		"category": "",
-		"defname": "Table3x3c"
-	},
-	{
-		"abr": "ベッド",
-		"price": 155,
-		"category": "",
-		"defname": "Bed"
-	},
-	{
 		"abr": "もろみ(醤油)",
 		"price": 4,
 		"category": "醸造・発酵前食品",
 		"defname": "ZP_SoySauceMoromi"
-	},
-	{
-		"abr": "エッグベネディクト",
-		"price": 33,
-		"category": "",
-		"defname": "VAGPEggsbenedict"
-	},
-	{
-		"abr": "おかゆ",
-		"price": 20,
-		"category": "",
-		"defname": "VAGPRiceporridge"
-	},
-	{
-		"abr": "オムレツ",
-		"price": 33,
-		"category": "",
-		"defname": "VAGPOmelettet"
-	},
-	{
-		"abr": "グラタン",
-		"price": 67,
-		"category": "",
-		"defname": "VAGPGratin"
-	},
-	{
-		"abr": "シチュー",
-		"price": 67,
-		"category": "",
-		"defname": "VAGPStew"
-	},
-	{
-		"abr": "じゃがバター",
-		"price": 33,
-		"category": "",
-		"defname": "VAGPPotatobutter"
-	},
-	{
-		"abr": "ジャンバラヤ",
-		"price": 67,
-		"category": "",
-		"defname": "VAGPJambalaya"
 	},
 	{
 		"abr": "シュラスコ",
@@ -23317,22 +22477,10 @@
 		"defname": "VAGPChocolatedoughnut"
 	},
 	{
-		"abr": "ドリア",
-		"price": 67,
-		"category": "",
-		"defname": "VAGPDria"
-	},
-	{
 		"abr": "ハンバーグステーキ",
 		"price": 33,
 		"category": "調理済",
 		"defname": "VAGPHamburgersteak"
-	},
-	{
-		"abr": "ピカタ",
-		"price": 33,
-		"category": "",
-		"defname": "VAGPPiccata"
 	},
 	{
 		"abr": "ピザ",
@@ -23347,58 +22495,16 @@
 		"defname": "VAGPPancakewithb"
 	},
 	{
-		"abr": "ベリーパイ",
-		"price": 67,
-		"category": "",
-		"defname": "VAGPBerrypie"
-	},
-	{
 		"abr": "ベリー大福",
 		"price": 10,
 		"category": "調理済",
 		"defname": "VAGPRicecakefilled"
 	},
 	{
-		"abr": "ポタージュスープ",
-		"price": 33,
-		"category": "",
-		"defname": "VAGPPotagesoup"
-	},
-	{
 		"abr": "ポップコーン",
 		"price": 20,
 		"category": "調理済",
 		"defname": "VAGPPopcorn"
-	},
-	{
-		"abr": "ミートパイ",
-		"price": 67,
-		"category": "",
-		"defname": "VAGPMeatpie"
-	},
-	{
-		"abr": "メンチカツ",
-		"price": 67,
-		"category": "",
-		"defname": "VAGPMincedMeatCutlet"
-	},
-	{
-		"abr": "リゾット",
-		"price": 33,
-		"category": "",
-		"defname": "VAGPRisotto"
-	},
-	{
-		"abr": "具沢山スープ",
-		"price": 67,
-		"category": "",
-		"defname": "VAGPSoupingredients"
-	},
-	{
-		"abr": "医療用食品",
-		"price": 63,
-		"category": "",
-		"defname": "VAGPMealMedicPack"
 	},
 	{
 		"abr": "壁灯",
@@ -24722,7 +23828,7 @@
 	},
 	{
 		"abr": "ホラン",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Horan"
 	},
@@ -24758,7 +23864,7 @@
 	},
 	{
 		"abr": "ミンチョ",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Mincho_ThingDef"
 	},
@@ -24800,7 +23906,7 @@
 	},
 	{
 		"abr": "ミンチョ魔女",
-		"price": 3500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MinchoWitch"
 	},
@@ -24992,7 +24098,7 @@
 	},
 	{
 		"abr": "女性ドラコニアン",
-		"price": 9667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Dragonian_Female"
 	},
@@ -25106,7 +24212,7 @@
 	},
 	{
 		"abr": "男性ドラコニアン",
-		"price": 9667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Dragonian_Male"
 	},
@@ -25463,7 +24569,427 @@
 		"price": 650,
 		"category": "投擲武器",
 		"defname": "Kijin_Fan"
-	}
+	},
+	{
+		"abr": "ミイラ",
+		"price": 197,
+		"category": "芸術品",
+		"defname": "AM_MummyMale"
+	},
+	{
+		"abr": "ミイラ",
+		"price": 197,
+		"category": "芸術品",
+		"defname": "AM_MummyFemale"
+	},
+	{
+		"abr": "壷",
+		"price": 70,
+		"category": "家具",
+		"defname": "AM_Urn"
+	},
+	{
+		"abr": "미호부족민속옷(b)",
+		"price": 79,
+		"category": "Miho, the celestial fox",
+		"defname": "Miho_Apparel_Under_TribalTwo"
+	},
+	{
+		"abr": "大盛肉野菜炒め",
+		"price": 33,
+		"category": "調理済",
+		"defname": "VAGPSmeatvegelargebowl"
+	},
+	{
+		"abr": "胸当て",
+		"price": 400,
+		"category": "装甲化",
+		"defname": "Kijin_FlakVest"
+	},
+	{
+		"abr": "自動led太陽灯(中型)",
+		"price": 408,
+		"category": "家具",
+		"defname": "CCP_LEDGrowLightM"
+	},
+	{
+		"abr": "自動led太陽灯(大型)",
+		"price": 958,
+		"category": "家具",
+		"defname": "CCP_LEDGrowLight"
+	},
+	{
+		"abr": "自動led太陽灯(小型)",
+		"price": 252,
+		"category": "家具",
+		"defname": "CCP_LEDGrowLightS"
+	},
+	{
+		"abr": "茹でジャガイモ",
+		"price": 20,
+		"category": "調理済",
+		"defname": "VAGPBoiledpotato"
+	},
+	{
+		"abr": "調味料入れ",
+		"price": 33,
+		"category": "家具",
+		"defname": "RS_SpiceJar"
+	},
+	{
+		"abr": "醤油",
+		"price": 8,
+		"category": "調味料",
+		"defname": "ZP_SoySauce"
+	},
+	{
+		"abr": "金の延べ棒",
+		"price": 1667,
+		"category": "原材料",
+		"defname": "GoldBar"
+	},
+	{
+		"abr": "鈴付きのネックレス",
+		"price": 558,
+		"category": "Dragonian race",
+		"defname": "DR_BellNecklace"
+	},
+	{
+		"abr": "銀の延べ棒",
+		"price": 167,
+		"category": "原材料",
+		"defname": "SilverBar"
+	},
+	{
+		"abr": "鍋",
+		"price": 191,
+		"category": "生産物",
+		"defname": "RS_Pot"
+	},
+	{
+		"abr": "闇騎士の兜",
+		"price": 1058,
+		"category": "装甲化",
+		"defname": "Apparel_PowerArmorHelmetDK"
+	},
+	{
+		"abr": "闇騎士の鎧",
+		"price": 3392,
+		"category": "装甲化",
+		"defname": "Apparel_PowerArmorDK"
+	},
+	{
+		"abr": "電動キッチン",
+		"price": 315,
+		"category": "生産物",
+		"defname": "RS_stove"
+	},
+	{
+		"abr": "aoc",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "AOC"
+	},
+	{
+		"abr": "aoc3dプリンター",
+		"price": 758,
+		"category": "生産物",
+		"defname": "AOC_printer"
+	},
+	{
+		"abr": "aoca2e",
+		"price": 1333,
+		"category": "AOC武器",
+		"defname": "AOC_A2E"
+	},
+	{
+		"abr": "aocbluetoothブラックホール",
+		"price": 3333,
+		"category": "遠距離武器",
+		"defname": "AOC_B2H"
+	},
+	{
+		"abr": "aocdhc",
+		"price": 833,
+		"category": "ドラッグ",
+		"defname": "AOC_DHC"
+	},
+	{
+		"abr": "aocf4t",
+		"price": 143,
+		"category": "白兵戦武器",
+		"defname": "AOC_F4T"
+	},
+	{
+		"abr": "aocgwtd",
+		"price": 833,
+		"category": "ドラッグ",
+		"defname": "AOC_GWTD"
+	},
+	{
+		"abr": "aocimc",
+		"price": 58,
+		"category": "ドラッグ",
+		"defname": "AOC_IMC"
+	},
+	{
+		"abr": "aocsaeヘルメット",
+		"price": 1058,
+		"category": "装甲化",
+		"defname": "AOC_SAE_Helmet"
+	},
+	{
+		"abr": "aocscpsk",
+		"price": 3333,
+		"category": "AOC武器",
+		"defname": "AOC_SCP_SK"
+	},
+	{
+		"abr": "aocuwat",
+		"price": 30,
+		"category": "薬",
+		"defname": "AOC_UWAT"
+	},
+	{
+		"abr": "aocアップサイクル人形-クジラ",
+		"price": 833,
+		"category": "AOC the cleanup devil",
+		"defname": "AOC_Doll_Whale"
+	},
+	{
+		"abr": "aocアロハシャツ",
+		"price": 303,
+		"category": "AOC the cleanup devil",
+		"defname": "AOC_Aloha"
+	},
+	{
+		"abr": "aocオーバーオール",
+		"price": 333,
+		"category": "AOC the cleanup devil",
+		"defname": "AOC_overalls"
+	},
+	{
+		"abr": "aocおやつ販売機",
+		"price": 2500,
+		"category": "生産物",
+		"defname": "AOC_vending_machine"
+	},
+	{
+		"abr": "aocキラーキル",
+		"price": 450,
+		"category": "AOC武器",
+		"defname": "AOC_KILLAKILL"
+	},
+	{
+		"abr": "aocクロノール",
+		"price": 7,
+		"category": "ドラッグ",
+		"defname": "AOC_Kronol"
+	},
+	{
+		"abr": "aocケリオンアーマー",
+		"price": 3242,
+		"category": "装甲化",
+		"defname": "AOC_Kellionarmor"
+	},
+	{
+		"abr": "aocケリオンキャノン",
+		"price": 2558,
+		"category": "遠距離武器",
+		"defname": "AOC_KellionCannon"
+	},
+	{
+		"abr": "aocケリオンキャノン-ピューピューver",
+		"price": 2558,
+		"category": "遠距離武器",
+		"defname": "AOC_KellionCannon_Pue"
+	},
+	{
+		"abr": "aocケリオンヘルメット",
+		"price": 1458,
+		"category": "装甲化",
+		"defname": "AOC_KellionHelmet"
+	},
+	{
+		"abr": "aocこたつ",
+		"price": 383,
+		"category": "家具",
+		"defname": "AOC_Kotatsu"
+	},
+	{
+		"abr": "aocゴミ寝袋",
+		"price": 500,
+		"category": "家具",
+		"defname": "AOC_Bedroll"
+	},
+	{
+		"abr": "aocゴミ袋",
+		"price": 167,
+		"category": "迫撃砲弾",
+		"defname": "AOC_Trash"
+	},
+	{
+		"abr": "aocゴミ袋スーツ",
+		"price": 333,
+		"category": "AOC the cleanup devil",
+		"defname": "AOC_Trash_clothes"
+	},
+	{
+		"abr": "aocジャガイモバッテリー",
+		"price": 286,
+		"category": "パワー",
+		"defname": "AOC_Potato_Battery"
+	},
+	{
+		"abr": "aocジャンプスーツ",
+		"price": 333,
+		"category": "AOC the cleanup devil",
+		"defname": "AOC_Jump_Suit"
+	},
+	{
+		"abr": "aocスペーススーツ",
+		"price": 3692,
+		"category": "装甲化",
+		"defname": "AOC_spacesuit"
+	},
+	{
+		"abr": "aocスペースヘルメット",
+		"price": 1058,
+		"category": "装甲化",
+		"defname": "AOC_spacehelmet"
+	},
+	{
+		"abr": "aocスワッター",
+		"price": 2500,
+		"category": "白兵戦武器",
+		"defname": "AOC_Swatter"
+	},
+	{
+		"abr": "aocダミー育成機",
+		"price": 2500,
+		"category": "生産物",
+		"defname": "AOC_Human_Craft"
+	},
+	{
+		"abr": "aocチキンガン",
+		"price": 1667,
+		"category": "AOC武器",
+		"defname": "AOC_ChickenGun"
+	},
+	{
+		"abr": "aocチャイナドレス",
+		"price": 303,
+		"category": "AOC the cleanup devil",
+		"defname": "AOC_Cdress"
+	},
+	{
+		"abr": "aocドゥームアーマー",
+		"price": 3825,
+		"category": "装甲化",
+		"defname": "AOC_Doomarmor"
+	},
+	{
+		"abr": "aocドゥームヘルメット",
+		"price": 1050,
+		"category": "装甲化",
+		"defname": "AOC_DoomHelmet"
+	},
+	{
+		"abr": "aocトランポリン",
+		"price": 800,
+		"category": "娯楽",
+		"defname": "AOC_Trampoline"
+	},
+	{
+		"abr": "aocナノラテックスガスマスク",
+		"price": 733,
+		"category": "装甲化",
+		"defname": "AOC_GasMask"
+	},
+	{
+		"abr": "aocナノラテックススーツ",
+		"price": 2883,
+		"category": "装甲化",
+		"defname": "AOC_NanoSuit"
+	},
+	{
+		"abr": "aocフェザーダスター",
+		"price": 300,
+		"category": "白兵戦武器",
+		"defname": "AOC_ND"
+	},
+	{
+		"abr": "aocフラワーレイ",
+		"price": 96,
+		"category": "ロイヤリティ",
+		"defname": "AOC_AlohaF"
+	},
+	{
+		"abr": "aocフレックスドレス-ベビー・ドゥボエ・ベルーガ4400",
+		"price": 350,
+		"category": "ロイヤリティ",
+		"defname": "AOC_FLEX_Dress"
+	},
+	{
+		"abr": "aocフレックスバトルスーツ-ラ・レジョン・タール4319",
+		"price": 1908,
+		"category": "装甲化",
+		"defname": "AOC_FLEX_Suit"
+	},
+	{
+		"abr": "aocフレックスワイルドコート-オー・セルフ・クルーエラ4700",
+		"price": 3833,
+		"category": "装甲化",
+		"defname": "AOC_FLEX_Coat"
+	},
+	{
+		"abr": "aocフレックス事務服-デミ・ドゥ・カーリッチ4034",
+		"price": 417,
+		"category": "ロイヤリティ",
+		"defname": "AOC_FLEX_clothes"
+	},
+	{
+		"abr": "aocボーンアーマー",
+		"price": 575,
+		"category": "装甲化",
+		"defname": "AOC_bone_armor"
+	},
+	{
+		"abr": "aocマチャムネ！",
+		"price": 63,
+		"category": "調理済",
+		"defname": "AOC_Machamne"
+	},
+	{
+		"abr": "aocモナーアーマー",
+		"price": 1767,
+		"category": "装甲化",
+		"defname": "AOC_Monerarmor"
+	},
+	{
+		"abr": "aocモナーヘルメット",
+		"price": 642,
+		"category": "装甲化",
+		"defname": "AOC_MonerHelmet"
+	},
+	{
+		"abr": "aocモノジャベリン",
+		"price": 3333,
+		"category": "白兵戦武器",
+		"defname": "AOC_Monojavelin"
+	},
+	{
+		"abr": "aocモノスピア",
+		"price": 3333,
+		"category": "白兵戦武器",
+		"defname": "AOC_MonoSpear"
+	},
+	{
+		"abr": "aocリサイクルレンガ",
+		"price": 2,
+		"category": "石材",
+		"defname": "AOC_Recycled_bricks"
+	},
 	],
-	"total": 4272
+	"total": 4253
 }

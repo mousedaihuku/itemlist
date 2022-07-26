@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.3.0.0"
+    "version": "1.4.0.0"
   },
   {
     "author": "Andreas Pardeike",
@@ -963,7 +963,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3136.1"
+    "version": "1.3.3389.1"
   },
   {
     "author": "Proxyer",
@@ -1323,7 +1323,7 @@
     "author": "pelador",
     "name": "Aquarium (Continued)",
     "steamId": "2194463553",
-    "version": "1.3.2"
+    "version": "1.3.3"
   },
   {
     "author": "Oskar Potockiと xrushha",
@@ -2134,18 +2134,6 @@
     "name": "ToolkitPolls",
     "steamId": "2435838514",
     "version": "1.1.1.6"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Performance Analyzer",
-    "steamId": "2038874626",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Proxyer",
-    "name": "Dubs Performance Analyzer 日本語翻訳追加",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "erdelf",

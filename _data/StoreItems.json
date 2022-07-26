@@ -24990,6 +24990,36 @@
 		"category": "石材",
 		"defname": "AOC_Recycled_bricks"
 	},
+	{
+		"abr": "aocリサイクル軍装バックパック",
+		"price": 125,
+		"category": "AOC the cleanup devil",
+		"defname": "AOC_Recyle_Backpacks"
+	},
+	{
+		"abr": "aocルテラ",
+		"price": 50,
+		"category": "調理済",
+		"defname": "AOC_Rutella"
+	},
+	{
+		"abr": "aocゴミ袋(汚)",
+		"price": 250,
+		"category": "投擲武器",
+		"defname": "AOC_Trash_Grenade"
+	},
+	{
+		"abr": "aocロイヤルスペーススーツ",
+		"price": 3692,
+		"category": "装甲化",
+		"defname": "AOC_spacesuit_Royal"
+	},
+	{
+		"abr": "aocロイヤルスペースヘルメット",
+		"price": 1058,
+		"category": "装甲化",
+		"defname": "AOC_spacehelmetGeneral"
+	}
 	],
-	"total": 4253
+	"total": 4258
 }

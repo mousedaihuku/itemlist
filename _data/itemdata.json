@@ -46559,7 +46559,7 @@
     "Mod": "Extend the Cat",
     "KarmaType": null
   },
-  "plumbingValve": {
+  "tigenabe": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -46576,10 +46576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "AnimalgirlRace",
     "KarmaType": null
   },
-  "yuki": {
+  "KohimeTears": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -46596,10 +46596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
-  "siro": {
+  "HanaPerfume": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -46616,10 +46616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
-  "miko": {
+  "AomeDrink": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -46636,10 +46636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
-  "kuro": {
+  "KonHerbs": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -46656,10 +46656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
-  "kon": {
+  "KuroTea": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -46676,10 +46676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
-  "kohime": {
+  "SiroWine": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -46696,10 +46696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
-  "hana": {
+  "YukiBreath": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -46716,10 +46716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
-  "aome": {
+  "MikoWater": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -46736,10 +46736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
-  "akame": {
+  "AkameMilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -46756,7 +46756,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
   "Ooka_Miko": {
@@ -46799,7 +46799,7 @@
     "Mod": "[L] House Maid Nukos",
     "KarmaType": null
   },
-  "xmasantlers": {
+  "akameSoulPower": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -46816,7 +46816,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[L] House Maid Nukos",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
   "Nukoidbell": {
@@ -47319,7 +47319,7 @@
     "Mod": "兽耳助手（Mimikko）",
     "KarmaType": null
   },
-  "zhuer": {
+  "aomeSoulPower": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47336,10 +47336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "虫娘 Insect Girls",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
-  "kuoer": {
+  "hanaSoulPower": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47356,10 +47356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "虫娘 Insect Girls",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
-  "juer": {
+  "konSoulPower": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47376,10 +47376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "虫娘 Insect Girls",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
-  "jiaer": {
+  "kuroSoulPower": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47396,10 +47396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "虫娘 Insect Girls",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
-  "buer": {
+  "siroSoulPower": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47416,10 +47416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "虫娘 Insect Girls",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
-  "baier": {
+  "kohimeSoulPower": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -47436,7 +47436,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "虫娘 Insect Girls",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
   "YR_Sikigami_Racoon": {
@@ -54939,7 +54939,7 @@
     "Mod": "Yuran race",
     "KarmaType": null
   },
-  "tougarasi": {
+  "yukiSoulPower": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -54956,7 +54956,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "AnimalgirlRace",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
   "CurrySpice": {
@@ -55039,7 +55039,7 @@
     "Mod": "AnimalgirlRace",
     "KarmaType": null
   },
-  "tigenabe": {
+  "mikoSoulPower": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55056,7 +55056,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "AnimalgirlRace",
+    "Mod": "kemomimihouse Kz",
     "KarmaType": null
   },
   "VAGPThrumboomeatcutletsandwich": {
@@ -63917,6 +63917,366 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
+    "KarmaType": null
+  },
+  "tougarasi": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "AnimalgirlRace",
+    "KarmaType": null
+  },
+  "baier": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "虫娘 Insect Girls",
+    "KarmaType": null
+  },
+  "buer": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "虫娘 Insect Girls",
+    "KarmaType": null
+  },
+  "jiaer": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "虫娘 Insect Girls",
+    "KarmaType": null
+  },
+  "juer": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "虫娘 Insect Girls",
+    "KarmaType": null
+  },
+  "kuoer": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "虫娘 Insect Girls",
+    "KarmaType": null
+  },
+  "zhuer": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "虫娘 Insect Girls",
+    "KarmaType": null
+  },
+  "xmasantlers": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[L] House Maid Nukos",
+    "KarmaType": null
+  },
+  "akame": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "KarmaType": null
+  },
+  "aome": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "KarmaType": null
+  },
+  "hana": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "KarmaType": null
+  },
+  "kohime": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "KarmaType": null
+  },
+  "kon": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "KarmaType": null
+  },
+  "kuro": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "KarmaType": null
+  },
+  "miko": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "KarmaType": null
+  },
+  "siro": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "KarmaType": null
+  },
+  "yuki": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hardworking KEMOMIMIHOUSE",
+    "KarmaType": null
+  },
+  "plumbingValve": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   }
 }

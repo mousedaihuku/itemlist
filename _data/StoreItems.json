@@ -129,7 +129,7 @@
 	{
 		"abr": "アルパカ毛",
 		"price": 6,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "WoolAlpaca"
 	},
 	{
@@ -1479,7 +1479,7 @@
 	{
 		"abr": "バイソン毛",
 		"price": 4,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "WoolBison"
 	},
 	{
@@ -1917,7 +1917,7 @@
 	{
 		"abr": "マッファロ毛",
 		"price": 4,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "WoolMuffalo"
 	},
 	{
@@ -1989,7 +1989,7 @@
 	{
 		"abr": "メガスロス毛",
 		"price": 4,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "WoolMegasloth"
 	},
 	{
@@ -4275,13 +4275,13 @@
 	{
 		"abr": "アオメの羊毛",
 		"price": 17,
-		"category": "毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "aomeWool"
 	},
 	{
 		"abr": "アカメの羊毛",
 		"price": 17,
-		"category": "毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "akameWool"
 	},
 	{
@@ -4413,7 +4413,7 @@
 	{
 		"abr": "アリス",
 		"price": 10,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "SP_Weave"
 	},
 	{
@@ -5523,7 +5523,7 @@
 	{
 		"abr": "キングハムスター毛",
 		"price": 4,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "RK_Wool_KingHamster"
 	},
 	{
@@ -6249,7 +6249,7 @@
 	{
 		"abr": "クロの毛",
 		"price": 17,
-		"category": "毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "kuroWool"
 	},
 	{
@@ -6447,7 +6447,7 @@
 	{
 		"abr": "コヒメの毛",
 		"price": 50,
-		"category": "毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "kohimeWool"
 	},
 	{
@@ -6465,7 +6465,7 @@
 	{
 		"abr": "コンの髪の毛",
 		"price": 10,
-		"category": "毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "konWool"
 	},
 	{
@@ -6831,7 +6831,7 @@
 	{
 		"abr": "シロの髪の毛",
 		"price": 10,
-		"category": "毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "siroWool"
 	},
 	{
@@ -7353,7 +7353,7 @@
 	{
 		"abr": "ドラコニアン毛",
 		"price": 18,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "WoolDragonian"
 	},
 	{
@@ -7707,7 +7707,7 @@
 	{
 		"abr": "ハナの髪の毛",
 		"price": 13,
-		"category": "毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "hanaWool"
 	},
 	{
@@ -8823,7 +8823,7 @@
 	{
 		"abr": "ミコの金色毛",
 		"price": 20,
-		"category": "毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "mikoWool"
 	},
 	{
@@ -9879,7 +9879,7 @@
 	{
 		"abr": "ユキの鱗",
 		"price": 83,
-		"category": "毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "yukiwool"
 	},
 	{
@@ -12411,7 +12411,7 @@
 	{
 		"abr": "羊毛",
 		"price": 4,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "WoolSheep"
 	},
 	{
@@ -16947,7 +16947,7 @@
 	{
 		"abr": "トワイライト",
 		"price": 4,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "Horan_Twilight"
 	},
 	{
@@ -17011,5 +17011,5 @@
 		"defname": "Meat_Horan"
 	},
 	],
-	"total": 3358
+	"total": 3286
 }

@@ -171,11 +171,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "shipchunkdrop",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "travelergroup",
 		"price": 80,
 		"karmatype": "Good"
@@ -431,5 +426,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 85
 }

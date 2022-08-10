@@ -333,7 +333,7 @@
     "author": "AliceCecil",
     "name": "MyRoom - I want that (Continued)",
     "steamId": "2381546712",
-    "version": "1.3.2"
+    "version": "1.3.3"
   },
   {
     "author": "avilmask",
@@ -822,6 +822,12 @@
     "version": "1.0.06"
   },
   {
+    "author": "DarkFlame7",
+    "name": "Job In Bar",
+    "steamId": "2086300611",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Dingo",
     "name": "No Forced Slowdown",
     "steamId": "1419593453",
@@ -840,16 +846,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "mr_chimick",
-    "name": "Block Unwanted Minutiae",
-    "steamId": "2266225921",
-    "version": "2.8"
-  },
-  {
-    "author": "VouLT",
-    "name": "Better Pawn Control",
-    "steamId": "1541460369",
-    "version": "1.0.0.0"
+    "author": "Liebasam",
+    "name": "We Had a Trader? (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "tikubonn",
@@ -1179,7 +1179,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.3.4"
+    "version": "1.3.5"
   },
   {
     "author": "cucumpear",
@@ -1212,12 +1212,6 @@
     "version": null
   },
   {
-    "author": "Moo",
-    "name": "kemomimihouse Kz",
-    "steamId": "2211305406",
-    "version": "1.0.8169.11413"
-  },
-  {
     "author": "Carny Senpai",
     "name": "Enable Oversized Weapons",
     "steamId": "2543371889",
@@ -1228,6 +1222,18 @@
     "name": "RIMFRIENDS",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "lbmaian",
+    "name": "Begone, Message!",
+    "steamId": "1951637504",
+    "version": "1.5"
+  },
+  {
+    "author": "Moo",
+    "name": "kemomimihouse Kz",
+    "steamId": "2211305406",
+    "version": "1.0.8169.11413"
   },
   {
     "author": "Tosenbo",
@@ -1488,10 +1494,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Velc",
-    "name": "Hardworking KEMOMIMIHOUSE",
-    "steamId": null,
-    "version": null
+    "author": "MooとVelc",
+    "name": "kemomimihouse HardworkingKz",
+    "steamId": "2574995438",
+    "version": "1.0.8174.7713"
   },
   {
     "author": "Dango",
@@ -1593,7 +1599,7 @@
     "author": "Mlie",
     "name": "Tab-sorting",
     "steamId": "2138635288",
-    "version": "1.3.13"
+    "version": "1.3.14"
   },
   {
     "author": "bradson",
@@ -1714,12 +1720,6 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2196"
-  },
-  {
-    "author": "Taranchuk",
-    "name": "Performance Optimizer",
-    "steamId": "2664723367",
-    "version": "1.0.0.0"
   },
   {
     "author": "Lucifel",
@@ -1974,8 +1974,8 @@
     "version": null
   },
   {
-    "author": "Proxyer",
-    "name": "Performance Optimizer 日本語翻訳追加",
+    "author": "Lucifel",
+    "name": "kemomimihouse Kz,HardworkingKz 日本語翻訳",
     "steamId": null,
     "version": null
   },

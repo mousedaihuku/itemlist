@@ -852,6 +852,24 @@
     "version": null
   },
   {
+    "author": "Jaxe",
+    "name": "Animal Food Restrictions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheGoofyOne",
+    "name": "AnimalFoodRestrictionInTab",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Custom Portraits",
+    "steamId": "1569605867",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "tikubonn",
     "name": "RimSeasoning",
     "steamId": "2212032458",
@@ -1677,7 +1695,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.7"
+    "version": "6.2.0.6"
   },
   {
     "author": "swemoney",

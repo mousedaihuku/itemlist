@@ -19403,7 +19403,85 @@
 		"price": 1292,
 		"category": "ロイヤリティ",
 		"defname": "Miho_Apparel_Under_Armor"
+	},
+	{
+		"abr": "ciwsハリケーン",
+		"price": 8783,
+		"category": "防衛",
+		"defname": "Horan_Hurricane_Defence"
+	},
+	{
+		"abr": "rkサークレット",
+		"price": 1450,
+		"category": "装甲化",
+		"defname": "RK_Circlet"
+	},
+	{
+		"abr": "rk多機能ベスト",
+		"price": 392,
+		"category": "Ratkin Apparel+",
+		"defname": "RK_Vest"
+	},
+	{
+		"abr": "rk官僚用の制服",
+		"price": 775,
+		"category": "ロイヤリティ",
+		"defname": "RK_Officer"
+	},
+	{
+		"abr": "rk防衛ユニフォーム",
+		"price": 942,
+		"category": "装甲化",
+		"defname": "RK_GuardsmanA"
+	},
+	{
+		"abr": "rk防衛ユニフォームb型",
+		"price": 1192,
+		"category": "装甲化",
+		"defname": "RK_GuardsmanB"
+	},
+	{
+		"abr": "yuranblackdressbox",
+		"price": 3667,
+		"category": "加工品",
+		"defname": "YR_ClothBox_AddonBlack"
+	},
+	{
+		"abr": "yuranblackdressforornaments",
+		"price": 1833,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Addon_BlackDress"
+	},
+	{
+		"abr": "yurancorolla",
+		"price": 1333,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Flower_AddonA"
+	},
+	{
+		"abr": "yuranhoodt-shirtforornaments",
+		"price": 1833,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Addon_hoodshirt"
+	},
+	{
+		"abr": "yuranthorncorolla",
+		"price": 1333,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Flower_AddonB"
+	},
+	{
+		"abr": "yuranwhitedressbox",
+		"price": 3667,
+		"category": "加工品",
+		"defname": "YR_ClothBox_AddonWhite"
+	},
+	{
+		"abr": "yuranwhitedressforornaments",
+		"price": 1833,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Addon_WhiteDress"
 	}
 	],
-	"total": 3252
+	"total": 3265
 }

@@ -144,16 +144,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Taranchukと Chowder",
-    "name": "Vanilla Traits Expanded",
-    "steamId": "2296404655",
-    "version": "1.0.0.1"
-  },
-  {
     "author": "Rainbeau Flambe (original), Kiame Vivacityと Taranchuk",
     "name": "[KV] More Trait Slots [1.4]",
     "steamId": "",
     "version": "1.0.8330.21987"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity (exDev) & Luca",
+    "name": "[LC] Consolidated Traits",
+    "steamId": "2879753009",
+    "version": "1.0.8335.14924"
+  },
+  {
+    "author": "Lyn the Cookie",
+    "name": "[LYN] Cookie Traits (No Cheats)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Victorique, Auraniと Tarojun",

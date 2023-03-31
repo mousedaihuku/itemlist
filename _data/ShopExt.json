@@ -674,7 +674,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmyは並外れた運動感覚知性の持ち主です.彼は超常的な神の恩寵を受けて,危険と対峙していてもダンスをしているように見えます.",
+      "description": "Timmy has cat-like reflexes, and excels at evading attacks.",
       "stats": [
         "+20.0 回避率(白兵戦)"
       ],
@@ -704,7 +704,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmyは並外れた運動感覚知性の持ち主です.彼は超常的な神の恩寵を受けて,危険と対峙していてもダンスをしているように見えます.",
+      "description": "Timmy is not very good at getting out of the way of blows.",
       "stats": [
         "-10.0 回避率(白兵戦)"
       ],
@@ -2018,7 +2018,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "[LC] Consolidated Traits",
         "karmaTypeForAdding": null
       },
       "defName": "ShootingAccuracy",
@@ -2054,7 +2054,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "[LC] Consolidated Traits",
         "karmaTypeForAdding": null
       },
       "defName": "ShootingAccuracy",
@@ -2066,7 +2066,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmyは,銃で狙いをつけるときに,より時間をかけます.彼は,他の者より発砲頻度は低いですが,狙いはより正確です.",
+      "description": "Timmyは銃器の取り扱い方を知っており、迅速かつ正確に射撃することができます。",
       "stats": [
         "+2 射撃",
         "-50% 照準時間",
@@ -2092,7 +2092,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "[LC] Consolidated Traits",
         "karmaTypeForAdding": null
       },
       "defName": "ShootingAccuracy",
@@ -3723,1630 +3723,6 @@
       },
       "defName": "Yokai_Bloods",
       "name": "サミアの濃血"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは作業中に上の空になることがあります. ",
-      "stats": [],
-      "conflicts": [
-        "仕事中毒",
-        "職人気質",
-        "勤労者",
-        "だらけ癖",
-        "怠け者",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "仕事中毒",
-          "職人気質",
-          "勤労者",
-          "だらけ癖",
-          "怠け者",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_AbsentMinded",
-      "name": "うわの空"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは若干頭のネジが緩んでいますが,科学に傾倒しています. ",
-      "stats": [
-        "x115% 研究・速度"
-      ],
-      "conflicts": [
-        "頭がとろい",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "頭がとろい",
-          "宿り木"
-        ],
-        "stats": [
-          "x115% 研究・速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Eccentric",
-      "name": "エキセントリック"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは,彼のの仕事において完璧を追求しています. 時間をかけてでも良いものを作ろうとしますが,そのぶん低品質のものを作った時に動揺します. ",
-      "stats": [
-        "x65% 基本的な作業速度"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "x65% 基本的な作業速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Perfectionist",
-      "name": "完璧主義者"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "理論上は戦えるのですが, Timmyは逃避本能が強く,彼は戦闘中にすぐ逃げたり隠れたりするでしょう. ",
-      "stats": [],
-      "conflicts": [
-        "格闘家",
-        "質実剛健",
-        "流血嗜好者",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "格闘家",
-          "質実剛健",
-          "流血嗜好者",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Coward",
-      "name": "戦線離脱"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは多くの人よりも精神的・肉体的に不屈の精神を持ち,Rimworldの過酷な環境にも容易に適応することができます. ",
-      "stats": [
-        "-20% 精神的弱さ",
-        "+20% 痛みへの限界値"
-      ],
-      "conflicts": [
-        "弱虫",
-        "戦線離脱",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "弱虫",
-          "戦線離脱",
-          "宿り木"
-        ],
-        "stats": [
-          "-20% 精神的弱さ",
-          "+20% 痛みへの限界値"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Brave",
-      "name": "質実剛健"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyはしばしば何もないところで転んでしまうで,生傷が絶えません. ",
-      "stats": [],
-      "conflicts": [
-        "敏捷な身のこなし",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "敏捷な身のこなし",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Clumsy",
-      "name": "ドジ"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは強い日差しや乾燥した気候が大好きです. 汗をかきながら働いたり,熱帯夜のなかで眠っても気にしないでしょう. ",
-      "stats": [
-        "+10.0C 快適と感じる最高気温"
-      ],
-      "conflicts": [
-        "寒さに強い",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "寒さに強い",
-          "宿り木"
-        ],
-        "stats": [
-          "+10.0C 快適と感じる最高気温"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_HeatInclined",
-      "name": "熱さに強い"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは太陽の見えない寒々しい吹雪の夜が大好きです. 体が冷え込んでも,凍えながら眠ることがあっても気にしないでしょう. ",
-      "stats": [
-        "-10.0C 快適と感じる最低気温"
-      ],
-      "conflicts": [
-        "熱さに強い",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "熱さに強い",
-          "宿り木"
-        ],
-        "stats": [
-          "-10.0C 快適と感じる最低気温"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_ColdInclined",
-      "name": "寒さに強い"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "ベッドのそばで爆発があっても,Timmyは気にせず眠り続けることができます. 昼寝をしている最中に襲撃に遭っても,それに気づかないでしょう. ",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_HeavySleeper",
-      "name": "爆睡"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyの周りはいつも清潔で整理整頓されています. ゴミを散らかすことはなく,掃除をすると幸福になります. ",
-      "stats": [],
-      "conflicts": [
-        "不潔",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "不潔",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Neat",
-      "name": "きれい好き"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyはずさんでだらしなく,周囲にはつねにゴミや汚れが散らかっています. 汚い環境のなかでも気にせず生活することができるでしょう. ",
-      "stats": [],
-      "conflicts": [
-        "きれい好き",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "きれい好き",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Slob",
-      "name": "不潔"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは作業中に休憩をとりません. 彼は自らの健康と睡眠時間を犠牲にしてでも仕事に没頭します. ",
-      "stats": [],
-      "conflicts": [
-        "うわの空",
-        "職人気質",
-        "勤労者",
-        "だらけ癖",
-        "怠け者",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "うわの空",
-          "職人気質",
-          "勤労者",
-          "だらけ癖",
-          "怠け者",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Workaholic",
-      "name": "仕事中毒"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは産まれてこのかたお腹を壊したことはありません. 彼のにとっては腹痛など遠い異国のものと同じようです. ",
-      "stats": [],
-      "conflicts": [
-        "胃腸が弱い",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "胃腸が弱い",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_IronStomach",
-      "name": "悪食"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは動物が虐められることに耐えられません. 彼は動物との交流に強い喜びを感じますが,彼らが死んだときにはひどく落ち込むでしょう. また,家畜を屠殺することができません. ",
-      "stats": [],
-      "conflicts": [
-        "動物虐殺者",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "動物虐殺者",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_AnimalLover",
-      "name": "動物大好き"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは人間の優越性を信じており,動物を殺すことに喜びを感じます. デザートの上のチェリーを食べるときのように. ",
-      "stats": [],
-      "conflicts": [
-        "動物大好き",
-        "飼育員",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "動物大好き",
-          "飼育員",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_AnimalHater",
-      "name": "動物虐殺者"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "体型のせいか,座り方が悪いのかはわかりませんが,Timmyはよく椅子を壊します. ",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_BigBoned",
-      "name": "ホネブト"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは自分のルールにしか従いません. 命令しても,あきれた顔をして適当に作業するでしょう. ",
-      "stats": [],
-      "conflicts": [
-        "指示待ち人間",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "指示待ち人間",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Rebel",
-      "name": "反抗的"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyはつねに明確な指示を求めています. 命令されたときだけ,通常のスピードで作業することができます. ",
-      "stats": [],
-      "conflicts": [
-        "反抗的",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "反抗的",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Submissive",
-      "name": "指示待ち人間"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは敵愾心が強く,ライバルと同じ土を踏むことをすら耐えられません. しかし,ライバルが死んだ暁には大喜びするでしょう. ",
-      "stats": [],
-      "conflicts": [
-        "イイ人",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "イイ人",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Vengeful",
-      "name": "執念深い"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "何らかのトラウマのせいで,Timmyは科学技術を拒んで生きています. そのため機械類を意味もなく殴ったり,科学について研究することを嫌います. また,メカノイドを壊すことが好きです. ",
-      "stats": [
-        "許可されるのはメンタルブレイク\"VTE_TechnophobeTantrum\"のみです。"
-      ],
-      "conflicts": [
-        "義体化願望",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "義体化願望",
-          "宿り木"
-        ],
-        "stats": [
-          "許可されるのはメンタルブレイク\"VTE_TechnophobeTantrum\"のみです。"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Technophobe",
-      "name": "科学恐怖症"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは常に楽しいことを求めてパーティーをします. そして,楽しかった記憶はほかの人より長持ちします. ",
-      "stats": [],
-      "conflicts": [
-        "はぐれ者",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "はぐれ者",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_FunLoving",
-      "name": "パリピ"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは精神的に鈍いようで,物覚えが悪く,会話が苦手です. しかし,いつも幸福な傾向にあります. ",
-      "stats": [
-        "-50% 身につけやすさ",
-        "-50.00% 政治力"
-      ],
-      "conflicts": [
-        "物覚えが早い",
-        "うぬぼれ屋",
-        "エキセントリック",
-        "天才",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "物覚えが早い",
-          "うぬぼれ屋",
-          "エキセントリック",
-          "天才",
-          "宿り木"
-        ],
-        "stats": [
-          "-50% 身につけやすさ",
-          "-50.00% 政治力"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Dunce",
-      "name": "頭がとろい"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは接近戦闘で敵の武装を解くスキルを心得ており,戦場ではその技を遺憾なく発揮します. ",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_MartialArtist",
-      "name": "白刃取り"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは自分自身を上流階級だと思っています. 美術の批評や,社交界のことで頭がいっぱいです. ",
-      "stats": [],
-      "conflicts": [
-        "禁欲",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "禁欲",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Snob",
-      "name": "高慢ちき"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは死体や血を見るたびに吐いてしまう体質で,もはや嘔吐は彼のの生活の一部です. ",
-      "stats": [],
-      "conflicts": [
-        "悪食",
-        "心が死んでいる",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "悪食",
-          "心が死んでいる",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Squeamish",
-      "name": "胃腸が弱い"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyはつねに不安を抱えており,とくに社交的なことが苦手です. 集まりにはめったに参加せず,一人で過ごす時間を必要とします. ",
-      "stats": [
-        "許可されるのはメンタルブレイク\"VTE_PanicFreezing\"のみです。"
-      ],
-      "conflicts": [
-        "パリピ",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "パリピ",
-          "宿り木"
-        ],
-        "stats": [
-          "許可されるのはメンタルブレイク\"VTE_PanicFreezing\"のみです。"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Anxious",
-      "name": "はぐれ者"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "No amount of lovin' is enough lovin' for Timmy. 彼 will tend to jump from partner to partner and tumble between the sheets with them frequently.",
-      "stats": [],
-      "conflicts": [
-        "貞潔",
-        "無性愛者",
-        "ヌーディスト",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "貞潔",
-          "無性愛者",
-          "ヌーディスト",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Insatiable",
-      "name": "連続ロマンチスト"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは交際相手以外と寝ることはなく,別れることも考えません. そして,裸を見られることをほかの人よりも嫌います. ",
-      "stats": [],
-      "conflicts": [
-        "連続ロマンチスト",
-        "ヌーディスト",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "連続ロマンチスト",
-          "ヌーディスト",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Prude",
-      "name": "貞潔"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "ソファとテレビがあればTimmyはそれで幸せです. いにしえのテレビの再放送やCMを観ていても飽きることはなく,そうすると幸福になります. ",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_CouchPotato",
-      "name": "カウチポテト族"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyはネコが大好きです. 自然にネコと惹かれ合いますが,イヌのファンではありません. ",
-      "stats": [],
-      "conflicts": [
-        "イヌ派",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "イヌ派",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_CatPerson",
-      "name": "ネコ派"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyはイヌが大好きです. 自然にイヌと惹かれ合いますが,ネコのファンではありません. ",
-      "stats": [],
-      "conflicts": [
-        "ネコ派",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ネコ派",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_DogPerson",
-      "name": "イヌ派"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは生まれつきの科学者です. 彼らは研究する速度が速く,物事をより思い出すことができます. しかし,彼らは研究専用の部屋がないと動揺し,ストレスを感じます. ",
-      "stats": [
-        "+20% 精神的弱さ",
-        "x130% 研究・速度"
-      ],
-      "conflicts": [
-        "頭がとろい",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "頭がとろい",
-          "宿り木"
-        ],
-        "stats": [
-          "+20% 精神的弱さ",
-          "x130% 研究・速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Prodigy",
-      "name": "天才"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは家畜が生活に必要不可欠な存在で,重要な友人であると信じています. できる限りたくさんの動物を飼うことが好きで,飼いならしや調教に長けています. ",
-      "stats": [
-        "x120% 手懐け成功率",
-        "x120% 調教成功率"
-      ],
-      "conflicts": [
-        "動物虐殺者",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "動物虐殺者",
-          "宿り木"
-        ],
-        "stats": [
-          "x120% 手懐け成功率",
-          "x120% 調教成功率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Menagerist",
-      "name": "飼育員"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "潮風がTimmyの頬を撫でる.  彼は海や大きな川の近くにいると幸福になります. ",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_ChildOfSea",
-      "name": "海派"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "険しい山脈がTimmyをいざなう.  彼は大きな山の近くにいると幸せを感じます. ",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_ChildOfMountain",
-      "name": "山派"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyには秘密がある. 彼は臓器の摘出を楽しんでおり,まばたきすらしません. 臓器を抜き取ることに快楽を覚えていますが,長い間我慢することはできないでしょう.",
-      "stats": [
-        "+20% 外科手術成功率"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+20% 外科手術成功率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_MadSurgeon",
-      "name": "臓器マニア"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは徒手空拳の達人です,そして,酔えば酔うほどその実力を発揮します.",
-      "stats": [
-        "+4 格闘"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+4 格闘"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_DrunkenMaster",
-      "name": "酔拳の使い手"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyはたとえ相手を怒らせることになるとわかっていても,物を盗むことをやめられません.",
-      "stats": [
-        "許可されるのはメンタルブレイク\"VTE_Kleptomaniac\"のみです。"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "許可されるのはメンタルブレイク\"VTE_Kleptomaniac\"のみです。"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Kleptomaniac",
-      "name": "盗み癖"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "スモークリーフはTimmyの人生そのものです. 彼はスモークリーフを手放すぐらいなら死を選ぶでしょう.",
-      "stats": [],
-      "conflicts": [
-        "ドラッグ中毒者",
-        "ドラッグ常用者",
-        "ドラッグ嫌い",
-        "酒豪",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ドラッグ中毒者",
-          "ドラッグ常用者",
-          "ドラッグ嫌い",
-          "酒豪",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Stoner",
-      "name": "ストーナー"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "お酒はTimmyの人生そのものです. 彼はお酒を手放すぐらいなら死を選ぶでしょう.",
-      "stats": [],
-      "conflicts": [
-        "ドラッグ中毒者",
-        "ドラッグ常用者",
-        "ドラッグ嫌い",
-        "酒豪",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ドラッグ中毒者",
-          "ドラッグ常用者",
-          "ドラッグ嫌い",
-          "酒豪",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Lush",
-      "name": "酒豪"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは旅をすることが好きで,あまりにも旅をしていないと不機嫌になります. 旅行中の食料調達も得意です.",
-      "stats": [
-        "+0.2 食料調達量"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+0.2 食料調達量"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Wanderlust",
-      "name": "旅行者"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyにとっての睡眠と覚醒は,ほかの人の常識とは変わっています. 彼はほとんどゾンビのように動き,3日に1度しか睡眠をとりません.",
-      "stats": [
-        "x50% 基本的な作業速度",
-        "x70% 移動速度"
-      ],
-      "conflicts": [
-        "爆睡",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "爆睡",
-          "宿り木"
-        ],
-        "stats": [
-          "x50% 基本的な作業速度",
-          "x70% 移動速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Insomniac",
-      "name": "不眠症"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは生きることに嫌気がさしており,その憂鬱を常に紛らわす必要があります. 彼はひどくダウナーな性格をしているため,友達になることは難しいでしょう. ",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_WorldWeary",
-      "name": "厭世的"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは,あまりにもつらい経験をしたため,心が死んでいます. 動物や入植者の死,家族や囚人の扱いについても,感情が動くことはありません. ",
-      "stats": [],
-      "conflicts": [
-        "胃腸が弱い",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "胃腸が弱い",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Desensitized",
-      "name": "心が死んでいる"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyの唇は,最高の美食によって飾られます. 平凡な食事には中立的ですが,おいしい食事は皿を舐めるまでゆっくりと味わいます.",
-      "stats": [
-        "x70% 食事の早さ"
-      ],
-      "conflicts": [
-        "禁欲",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "禁欲",
-          "宿り木"
-        ],
-        "stats": [
-          "x70% 食事の早さ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_RefinedPalate",
-      "name": "美食家"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは様々な古代の写本を得て,驚くほど学術的な,とくに科学と医療に関しての知見を持っています. ",
-      "stats": [
-        "+4 知力",
-        "+4 医術",
-        "+20% 看護・品質"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+4 知力",
-          "+4 医術",
-          "+20% 看護・品質"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Academian",
-      "name": "学者肌"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyはインフラ整備に命を懸けている,生まれながらにしての土木作業員です.",
-      "stats": [
-        "+4 採掘",
-        "+4 建築",
-        "+20% 掘削・収率",
-        "+20% 建造・速度"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+4 採掘",
-          "+4 建築",
-          "+20% 掘削・収率",
-          "+20% 建造・速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Groundbreaker",
-      "name": "インフラ整備士"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "ITimmyにとって食は芸術です. 彼のの作る料理はありえないほど美しく,なおかつ健康に良いです.",
-      "stats": [
-        "+4 料理",
-        "+4 芸術",
-        "-25.00% 食中毒・発生率"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+4 料理",
-          "+4 芸術",
-          "-25.00% 食中毒・発生率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Gastronomist",
-      "name": "美食学者"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは動植物について深い知識を持っており,あらゆる大地の恵みに感謝しています.",
-      "stats": [
-        "+4 動物",
-        "+4 栽培",
-        "+20% 栽培・収率",
-        "+20% 食肉加工・収率"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+4 動物",
-          "+4 栽培",
-          "+20% 栽培・収率",
-          "+20% 食肉加工・収率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Ecologist",
-      "name": "自然学者"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは自らの商品を売り出そうと躍起になっています. 彼は商魂たくましく,チャンスがあれば喜んで取引するでしょう.",
-      "stats": [
-        "+4 社交",
-        "+4 工芸",
-        "+25.00% 商人の勘"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+4 社交",
-          "+4 工芸",
-          "+25.00% 商人の勘"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Tycoon",
-      "name": "おみやげ屋"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは血液凝固が早いのか,ほかの人よりもゆっくりと出血します.",
-      "stats": [],
-      "conflicts": [
-        "柔肌",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "柔肌",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_ThickSkinned",
-      "name": "タフなヒフ"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは血友病で,ほかの人よりも多く出血します.",
-      "stats": [],
-      "conflicts": [
-        "タフなヒフ",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "タフなヒフ",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_ThinSkinned",
-      "name": "柔肌"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは自分自身を表現することに苦労しており,それに耐えきれなくなると精神崩壊を起こします.",
-      "stats": [],
-      "conflicts": [
-        "鉄の意志",
-        "信念の人",
-        "いくじなし",
-        "精神不安定",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "鉄の意志",
-          "信念の人",
-          "いくじなし",
-          "精神不安定",
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Schizoid",
-      "name": "スキゾイド"
     },
     {
       "canAdd": true,
@@ -15079,6 +13455,3012 @@
       },
       "defName": "TM_SuperSoldier",
       "name": "rom：スーパーソルジャー"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは美しいものを愛し、本当に彼の環境がどのようにものか心配しています。",
+      "stats": [],
+      "conflicts": [
+        "禁欲",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "禁欲",
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Aesthete",
+      "name": "優れた審美眼"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは動物を愛している。 しかし、彼は人間には同じ感情を抱けません。",
+      "stats": [
+        "+4 動物",
+        "-2 社交",
+        "+10% 家畜・収穫速度",
+        "+20% 家畜・収穫収率",
+        "+40.00% 手懐け成功率",
+        "+40.00% 調教成功率",
+        "-40.00% 政治力"
+      ],
+      "conflicts": [
+        "動物嫌い",
+        "肉屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "動物嫌い",
+          "肉屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+4 動物",
+          "-2 社交",
+          "+10% 家畜・収穫速度",
+          "+20% 家畜・収穫収率",
+          "+40.00% 手懐け成功率",
+          "+40.00% 調教成功率",
+          "-40.00% 政治力"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_AnimalLover",
+      "name": "動物愛好家"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは「動物の人」でありません。彼は動物とは相性が悪いです。記録によると、彼らは彼もそれほど好きではありません。",
+      "stats": [
+        "-4 動物",
+        "-10% 家畜・収穫速度",
+        "-20% 家畜・収穫収率",
+        "-40.00% 手懐け成功率",
+        "-40.00% 調教成功率"
+      ],
+      "conflicts": [
+        "動物愛好家",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "動物愛好家",
+          "宿り木"
+        ],
+        "stats": [
+          "-4 動物",
+          "-10% 家畜・収穫速度",
+          "-20% 家畜・収穫収率",
+          "-40.00% 手懐け成功率",
+          "-40.00% 調教成功率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_AnimalHater",
+      "name": "動物嫌い"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは子供のように建設玩具で遊ぶことを愛し、 \"物事をまとめる\"というスリルを今でも楽しみます。しかし、彼は明確な指示がなければ失敗しがちです。",
+      "stats": [
+        "-2 芸術",
+        "+2 建築",
+        "+20% 建造・速度",
+        "+20% 建造・成功率",
+        "-40.00% 手懐け成功率"
+      ],
+      "conflicts": [
+        "無能",
+        "強化されし者",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "無能",
+          "強化されし者",
+          "宿り木"
+        ],
+        "stats": [
+          "-2 芸術",
+          "+2 建築",
+          "+20% 建造・速度",
+          "+20% 建造・成功率",
+          "-40.00% 手懐け成功率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Builder",
+      "name": "建造者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは料理のために肉を用意しています。 彼の屠殺速度は大幅に向上しますが、彼が動物の死体を扱っている場合に限ります。 彼はメカノイドの解体は苦手です。",
+      "stats": [
+        "+2 料理",
+        "+20% 食肉加工・収率",
+        "+40% 食肉加工・速度",
+        "-20% メカノイド・寸断収率",
+        "-40% メカノイド・寸断速度"
+      ],
+      "conflicts": [
+        "動物愛好家",
+        "無能",
+        "強化されし者",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "動物愛好家",
+          "無能",
+          "強化されし者",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 料理",
+          "+20% 食肉加工・収率",
+          "+40% 食肉加工・速度",
+          "-20% メカノイド・寸断収率",
+          "-40% メカノイド・寸断速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Butcher",
+      "name": "肉屋"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは閉所恐怖症です。 彼は狭いスペースを恐れ、採掘には全く向いていません。",
+      "stats": [
+        "-2 採掘",
+        "-20% 掘削・速度",
+        "-20% 掘削・収率"
+      ],
+      "conflicts": [
+        "無能",
+        "強化されし者",
+        "鉱石収集家",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "無能",
+          "強化されし者",
+          "鉱石収集家",
+          "宿り木"
+        ],
+        "stats": [
+          "-2 採掘",
+          "-20% 掘削・速度",
+          "-20% 掘削・収率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Claustrophobic",
+      "name": "閉所恐怖症"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは冷たい気温が大好きです。 彼は冷たいときは他人よりも不満を言いませんが、暑いときは他人よりも不満を言います。",
+      "stats": [
+        "-3.0C 快適と感じる最高気温",
+        "-5.0C 快適と感じる最低気温"
+      ],
+      "conflicts": [
+        "暑さ好き",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "暑さ好き",
+          "宿り木"
+        ],
+        "stats": [
+          "-3.0C 快適と感じる最高気温",
+          "-5.0C 快適と感じる最低気温"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_ColdLover",
+      "name": "寒さ好き"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyの眠りは何人たりとも妨げることが出来ません。彼は軌道爆撃のさなかでも眠ることができます。",
+      "stats": [],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_DeepSleeper",
+      "name": "深い眠り"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "頭空っぽのTimmyは深く考えることはしません。彼の頭の中では成すことについて整理が出来ていないのかも知れません。",
+      "stats": [
+        "-4 知力",
+        "-25% 身につけやすさ",
+        "-20% 研究・速度"
+      ],
+      "conflicts": [
+        "うぬぼれ屋",
+        "物覚えが早い",
+        "発明者",
+        "学者",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "うぬぼれ屋",
+          "物覚えが早い",
+          "発明者",
+          "学者",
+          "宿り木"
+        ],
+        "stats": [
+          "-4 知力",
+          "-25% 身につけやすさ",
+          "-20% 研究・速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Dunce",
+      "name": "間抜け"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは鉄人を自負しているだけあって食品に対する熱い情熱を持っています。 彼の作る料理はかなり美味ですが、より高みを目指しています。",
+      "stats": [
+        "+4 料理",
+        "-0.2 調理・速度",
+        "-40.00% 食中毒・発生率"
+      ],
+      "conflicts": [
+        "無能",
+        "強化されし者",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "無能",
+          "強化されし者",
+          "宿り木"
+        ],
+        "stats": [
+          "+4 料理",
+          "-0.2 調理・速度",
+          "-40.00% 食中毒・発生率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Gourmet",
+      "name": "料理の鉄人"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは暖かい気温が大好きです。 彼は暖かいときは他人よりも不満を言いませんが、寒いときは他人よりも不満を言います。",
+      "stats": [
+        "+5.0C 快適と感じる最高気温",
+        "+3.0C 快適と感じる最低気温"
+      ],
+      "conflicts": [
+        "寒さ好き",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "寒さ好き",
+          "宿り木"
+        ],
+        "stats": [
+          "+5.0C 快適と感じる最高気温",
+          "+3.0C 快適と感じる最低気温"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_HeatLover",
+      "name": "暑さ好き"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "彼は様々な物に興味を持ちます、しかし、Timmyは要領が悪く、いかなる技術を要する労働もあまり上手でありません。",
+      "stats": [
+        "-2 芸術",
+        "-2 建築",
+        "-2 料理",
+        "-2 工芸",
+        "-2 採掘",
+        "-25% 基本的な作業速度",
+        "-20% 家畜・収穫速度",
+        "-20% 家畜・収穫収率",
+        "-20% 食肉加工・収率",
+        "-20% 食肉加工・速度",
+        "-20% メカノイド・寸断収率",
+        "-20% メカノイド・寸断速度",
+        "-20% 建造・速度",
+        "-20% 建造・成功率",
+        "-0.2 調理・速度",
+        "-20% 修理・成功率",
+        "+20.00% 食中毒・発生率",
+        "-20% 掘削・速度",
+        "-20% 掘削・収率",
+        "-20% 栽培・収率",
+        "-20% 栽培・速度",
+        "-20% 作業・速度"
+      ],
+      "conflicts": [
+        "職人気質",
+        "勤労者",
+        "だらけ癖",
+        "怠け者",
+        "建造者",
+        "肉屋",
+        "閉所恐怖症",
+        "料理の鉄人",
+        "発明者",
+        "完璧主義者",
+        "鉱石収集家",
+        "学者",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "職人気質",
+          "勤労者",
+          "だらけ癖",
+          "怠け者",
+          "建造者",
+          "肉屋",
+          "閉所恐怖症",
+          "料理の鉄人",
+          "発明者",
+          "完璧主義者",
+          "鉱石収集家",
+          "学者",
+          "宿り木"
+        ],
+        "stats": [
+          "-2 芸術",
+          "-2 建築",
+          "-2 料理",
+          "-2 工芸",
+          "-2 採掘",
+          "-25% 基本的な作業速度",
+          "-20% 家畜・収穫速度",
+          "-20% 家畜・収穫収率",
+          "-20% 食肉加工・収率",
+          "-20% 食肉加工・速度",
+          "-20% メカノイド・寸断収率",
+          "-20% メカノイド・寸断速度",
+          "-20% 建造・速度",
+          "-20% 建造・成功率",
+          "-0.2 調理・速度",
+          "-20% 修理・成功率",
+          "+20.00% 食中毒・発生率",
+          "-20% 掘削・速度",
+          "-20% 掘削・収率",
+          "-20% 栽培・収率",
+          "-20% 栽培・速度",
+          "-20% 作業・速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Aptitude",
+      "name": "無能"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは異常に調整されています、大抵の労働を人並み以上にこなします。",
+      "stats": [
+        "+2 芸術",
+        "+2 建築",
+        "+2 料理",
+        "+2 工芸",
+        "+2 採掘",
+        "+20% 基本的な作業速度",
+        "+10% 家畜・収穫速度",
+        "+10% 家畜・収穫収率",
+        "+10% 食肉加工・収率",
+        "+10% 食肉加工・速度",
+        "+10% メカノイド・寸断収率",
+        "+10% メカノイド・寸断速度",
+        "+10% 建造・速度",
+        "+10% 建造・成功率",
+        "+0.1 調理・速度",
+        "+10% 修理・成功率",
+        "-10.00% 食中毒・発生率",
+        "+10% 掘削・速度",
+        "+10% 掘削・収率",
+        "+10% 栽培・収率",
+        "+10% 栽培・速度",
+        "+10% 作業・速度"
+      ],
+      "conflicts": [
+        "職人気質",
+        "勤労者",
+        "だらけ癖",
+        "怠け者",
+        "建造者",
+        "肉屋",
+        "閉所恐怖症",
+        "料理の鉄人",
+        "発明者",
+        "完璧主義者",
+        "鉱石収集家",
+        "学者",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "職人気質",
+          "勤労者",
+          "だらけ癖",
+          "怠け者",
+          "建造者",
+          "肉屋",
+          "閉所恐怖症",
+          "料理の鉄人",
+          "発明者",
+          "完璧主義者",
+          "鉱石収集家",
+          "学者",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 芸術",
+          "+2 建築",
+          "+2 料理",
+          "+2 工芸",
+          "+2 採掘",
+          "+20% 基本的な作業速度",
+          "+10% 家畜・収穫速度",
+          "+10% 家畜・収穫収率",
+          "+10% 食肉加工・収率",
+          "+10% 食肉加工・速度",
+          "+10% メカノイド・寸断収率",
+          "+10% メカノイド・寸断速度",
+          "+10% 建造・速度",
+          "+10% 建造・成功率",
+          "+0.1 調理・速度",
+          "+10% 修理・成功率",
+          "-10.00% 食中毒・発生率",
+          "+10% 掘削・速度",
+          "+10% 掘削・収率",
+          "+10% 栽培・収率",
+          "+10% 栽培・速度",
+          "+10% 作業・速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Aptitude",
+      "name": "強化されし者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmyは痛みに対する耐性が高い。",
+      "stats": [
+        "+25% 痛みへの限界値",
+        "-25% 受けるダメージ倍率"
+      ],
+      "conflicts": [
+        "屈強",
+        "弱虫",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "屈強",
+          "弱虫",
+          "宿り木"
+        ],
+        "stats": [
+          "+25% 痛みへの限界値",
+          "-25% 受けるダメージ倍率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_PainThreshold",
+      "name": "不屈"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは痛みに対する耐性が非常に高いです。彼は痛みで動けなくなる事はまずありません。",
+      "stats": [
+        "+15% 痛みへの限界値",
+        "-15% 受けるダメージ倍率"
+      ],
+      "conflicts": [
+        "屈強",
+        "弱虫",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "屈強",
+          "弱虫",
+          "宿り木"
+        ],
+        "stats": [
+          "+15% 痛みへの限界値",
+          "-15% 受けるダメージ倍率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_PainThreshold",
+      "name": "鉄人"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmyはとても痛みに弱いです。",
+      "stats": [
+        "-15% 痛みへの限界値",
+        "+15% 受けるダメージ倍率"
+      ],
+      "conflicts": [
+        "屈強",
+        "弱虫",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "屈強",
+          "弱虫",
+          "宿り木"
+        ],
+        "stats": [
+          "-15% 痛みへの限界値",
+          "+15% 受けるダメージ倍率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_PainThreshold",
+      "name": "痛みに弱い"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "奇妙な新しいアイデアがTimmyの心に現れます。 新技術の研究は彼には簡単に行えますが、彼はすぐに気が散ります。",
+      "stats": [
+        "+2 知力",
+        "+40% 研究・速度",
+        "-20% 基本的な作業速度",
+        "-0.10 移動速度",
+        "+10% 精神感応性",
+        "+10% 精神的弱さ"
+      ],
+      "conflicts": [
+        "無能",
+        "強化されし者",
+        "間抜け",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "無能",
+          "強化されし者",
+          "間抜け",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 知力",
+          "+40% 研究・速度",
+          "-20% 基本的な作業速度",
+          "-0.10 移動速度",
+          "+10% 精神感応性",
+          "+10% 精神的弱さ"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Inventor",
+      "name": "発明者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmyは比較的近くに行かなければ、物事をはっきり見るのが難しいです。",
+      "stats": [
+        "-4.0 命中率(射撃)",
+        "-4.0 命中率(白兵戦)",
+        "-20% 基本的な作業速度"
+      ],
+      "conflicts": [
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "宿り木"
+        ],
+        "stats": [
+          "-4.0 命中率(射撃)",
+          "-4.0 命中率(白兵戦)",
+          "-20% 基本的な作業速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Eyesight",
+      "name": "近視"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは鋭い目を持っており、ターゲットをすばやく見つけることができます。",
+      "stats": [
+        "+2 射撃",
+        "+1.0 命中率(白兵戦)",
+        "+5.0 命中率(射撃)"
+      ],
+      "conflicts": [
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 射撃",
+          "+1.0 命中率(白兵戦)",
+          "+5.0 命中率(射撃)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Eyesight",
+      "name": "鷹の目"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは間違いが非常に気になる。",
+      "stats": [
+        "+2 料理",
+        "-20% 基本的な作業速度",
+        "-50.00% 食中毒・発生率",
+        "+20% 免疫を得る速度",
+        "+20% 外科手術の成功率",
+        "+20% 看護・品質",
+        "-10% 医療・処置速度",
+        "-10% 看護・速度"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "+2 料理",
+          "-20% 基本的な作業速度",
+          "-50.00% 食中毒・発生率",
+          "+20% 免疫を得る速度",
+          "+20% 外科手術の成功率",
+          "+20% 看護・品質",
+          "-10% 医療・処置速度",
+          "-10% 看護・速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_NeatFreak",
+      "name": "異常な程几帳面"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmyは小動物が食事を少しずつかじる様に食べます、そして彼は食事を済ますのに余計な時間がかかります。",
+      "stats": [
+        "-25% 食事の早さ"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "-25% 食事の早さ"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_EatingSpeed",
+      "name": "少しずつかじる人"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは食事をスコップでも使っているかの様に他の人よりずっと早く食べます。",
+      "stats": [
+        "+25% 食事の早さ"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "+25% 食事の早さ"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_EatingSpeed",
+      "name": "大食い"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmyは暗がりをこの世の終わりの様に恐れています。少しでも暗い所に長くいるとどんどん不機嫌になります。",
+      "stats": [],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Nyctophobe",
+      "name": "暗所恐怖症"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyはまったく暗闇を恐れません。",
+      "stats": [],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Nyctophobe",
+      "name": "暗所嗜好"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは、どれだけ時間がかかっても、最も効果的な方法を使用します。 彼は何かをするときに失敗する可能性は低いですが、彼は時間をかけて働きます。",
+      "stats": [
+        "-20% 基本的な作業速度",
+        "-10% 家畜・収穫速度",
+        "+20% 家畜・収穫収率",
+        "+20% 食肉加工・収率",
+        "-10% 食肉加工・速度",
+        "+20% メカノイド・寸断収率",
+        "-10% メカノイド・寸断速度",
+        "-10% 建造・速度",
+        "+20% 建造・成功率",
+        "-0.1 調理・速度",
+        "+20% 修理・成功率",
+        "-20.00% 食中毒・発生率",
+        "-10% 医療・処置速度",
+        "+20% 外科手術の成功率",
+        "+20% 看護・品質",
+        "-10% 看護・速度",
+        "-10% 掘削・速度",
+        "+20% 掘削・収率",
+        "+20% 栽培・収率",
+        "-10% 栽培・速度",
+        "-10% 研究・速度",
+        "-10% 作業・速度"
+      ],
+      "conflicts": [
+        "職人気質",
+        "勤労者",
+        "だらけ癖",
+        "怠け者",
+        "無能",
+        "強化されし者",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "職人気質",
+          "勤労者",
+          "だらけ癖",
+          "怠け者",
+          "無能",
+          "強化されし者",
+          "宿り木"
+        ],
+        "stats": [
+          "-20% 基本的な作業速度",
+          "-10% 家畜・収穫速度",
+          "+20% 家畜・収穫収率",
+          "+20% 食肉加工・収率",
+          "-10% 食肉加工・速度",
+          "+20% メカノイド・寸断収率",
+          "-10% メカノイド・寸断速度",
+          "-10% 建造・速度",
+          "+20% 建造・成功率",
+          "-0.1 調理・速度",
+          "+20% 修理・成功率",
+          "-20.00% 食中毒・発生率",
+          "-10% 医療・処置速度",
+          "+20% 外科手術の成功率",
+          "+20% 看護・品質",
+          "-10% 看護・速度",
+          "-10% 掘削・速度",
+          "+20% 掘削・収率",
+          "+20% 栽培・収率",
+          "-10% 栽培・速度",
+          "-10% 研究・速度",
+          "-10% 作業・速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Perfectionist",
+      "name": "完璧主義者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "志こそ高いものの、残念ながら腕が伴わない医師が中には居ます。 Timmyはその内の一人です。",
+      "stats": [
+        "-2 医術",
+        "-20% 外科手術の成功率",
+        "-20% 看護・品質"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "-2 医術",
+          "-20% 外科手術の成功率",
+          "-20% 看護・品質"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Medic",
+      "name": "ヤブ医者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは、医療の才能を持っているようです。彼の患者の治療は上手くいくでしょう。",
+      "stats": [
+        "+2 医術",
+        "+20% 外科手術の成功率",
+        "+20% 看護・品質"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "+2 医術",
+          "+20% 外科手術の成功率",
+          "+20% 看護・品質"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Medic",
+      "name": "優秀な医者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmyは、医療の才能を持っています。 彼の安定した熟練の手腕と感動的なベッドサイドでのやり方のおかげで、彼の患者は恐怖をほとんど感じません。",
+      "stats": [
+        "+4 医術",
+        "+20% 医療・処置速度",
+        "+40% 外科手術の成功率",
+        "+20% 看護・速度",
+        "+40% 看護・品質"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "+4 医術",
+          "+20% 医療・処置速度",
+          "+40% 外科手術の成功率",
+          "+20% 看護・速度",
+          "+40% 看護・品質"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Medic",
+      "name": "熟練した医者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは岩石の扱いに長けています。 彼の採掘速度は増加しますが、彼は他の分野への関心がありません、他の仕事をしている時には彼は遅くなります。 そして、彼は植物に対して働くことを嫌います。",
+      "stats": [
+        "+2 工芸",
+        "+4 採掘",
+        "-20% 基本的な作業速度",
+        "+40% 掘削・速度",
+        "+20% 掘削・収率",
+        "-50% 栽培・収率",
+        "-40% 栽培・速度",
+        "+40% 地面をならす速度"
+      ],
+      "conflicts": [
+        "無能",
+        "強化されし者",
+        "閉所恐怖症",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "無能",
+          "強化されし者",
+          "閉所恐怖症",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 工芸",
+          "+4 採掘",
+          "-20% 基本的な作業速度",
+          "+40% 掘削・速度",
+          "+20% 掘削・収率",
+          "-50% 栽培・収率",
+          "-40% 栽培・速度",
+          "+40% 地面をならす速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Rockhound",
+      "name": "鉱石収集家"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは現代のダ・ヴィンチで、創造的な心で新しいアイデアを簡単に把握できます。 しかし、実際の肉体的な仕事をしているとき、彼の作業はとてつもなく遅いです。",
+      "stats": [
+        "+4 芸術",
+        "+4 工芸",
+        "+4 知力",
+        "+80% 身につけやすさ",
+        "-60% 基本的な作業速度"
+      ],
+      "conflicts": [
+        "うぬぼれ屋",
+        "物覚えが早い",
+        "無能",
+        "強化されし者",
+        "間抜け",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "うぬぼれ屋",
+          "物覚えが早い",
+          "無能",
+          "強化されし者",
+          "間抜け",
+          "宿り木"
+        ],
+        "stats": [
+          "+4 芸術",
+          "+4 工芸",
+          "+4 知力",
+          "+80% 身につけやすさ",
+          "-60% 基本的な作業速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Savant",
+      "name": "学者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy はいつもかなり早くスキルを習得してきました。",
+      "stats": [
+        "+25% 身につけやすさ"
+      ],
+      "conflicts": [
+        "うぬぼれ屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "うぬぼれ屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+25% 身につけやすさ"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_decentlearner",
+      "name": "まともな学習者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmyは取引で利益を得る事ができません。彼は必要以上に多く支払います、しかし彼は良い取引をしたと思い込みます。",
+      "stats": [
+        "-2 社交",
+        "-20.00% 商人の勘"
+      ],
+      "conflicts": [
+        "やっかい者",
+        "気に障る声",
+        "気持ち悪い息づかい",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "やっかい者",
+          "気に障る声",
+          "気持ち悪い息づかい",
+          "宿り木"
+        ],
+        "stats": [
+          "-2 社交",
+          "-20.00% 商人の勘"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Trader",
+      "name": "青二才"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは値切るのが好きで、腕も悪くないです。彼はほとんどの人よりも良い価格になる傾向があります。",
+      "stats": [
+        "+2 社交",
+        "+20.00% 商人の勘"
+      ],
+      "conflicts": [
+        "やっかい者",
+        "気に障る声",
+        "気持ち悪い息づかい",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "やっかい者",
+          "気に障る声",
+          "気持ち悪い息づかい",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 社交",
+          "+20.00% 商人の勘"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Trader",
+      "name": "交渉人"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmyは、常に最高の取引ができます。",
+      "stats": [
+        "+4 社交",
+        "+40.00% 商人の勘"
+      ],
+      "conflicts": [
+        "やっかい者",
+        "気に障る声",
+        "気持ち悪い息づかい",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "やっかい者",
+          "気に障る声",
+          "気持ち悪い息づかい",
+          "宿り木"
+        ],
+        "stats": [
+          "+4 社交",
+          "+40.00% 商人の勘"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Trader",
+      "name": "熟練の交渉人"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "繊細？外交？だから何？Timmyは単語の意味をほとんど理解していません。",
+      "stats": [
+        "-2 社交",
+        "-15.00% 外交力",
+        "-20.00% 政治力"
+      ],
+      "conflicts": [
+        "やっかい者",
+        "気に障る声",
+        "気持ち悪い息づかい",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "やっかい者",
+          "気に障る声",
+          "気持ち悪い息づかい",
+          "宿り木"
+        ],
+        "stats": [
+          "-2 社交",
+          "-15.00% 外交力",
+          "-20.00% 政治力"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Diplomat",
+      "name": "野生児"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは外交の輪を磨く方法を知っています。",
+      "stats": [
+        "+2 社交",
+        "+15.00% 外交力",
+        "+20.00% 政治力"
+      ],
+      "conflicts": [
+        "やっかい者",
+        "気に障る声",
+        "気持ち悪い息づかい",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "やっかい者",
+          "気に障る声",
+          "気持ち悪い息づかい",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 社交",
+          "+15.00% 外交力",
+          "+20.00% 政治力"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Diplomat",
+      "name": "外交官"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmyは常に緊張した状況を解決することができる方法を知っています。彼は何日間も話すことができます、そして、人々はまだ聞き続けます。",
+      "stats": [
+        "+4 社交",
+        "+30.00% 外交力",
+        "+40.00% 政治力"
+      ],
+      "conflicts": [
+        "やっかい者",
+        "気に障る声",
+        "気持ち悪い息づかい",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "やっかい者",
+          "気に障る声",
+          "気持ち悪い息づかい",
+          "宿り木"
+        ],
+        "stats": [
+          "+4 社交",
+          "+30.00% 外交力",
+          "+40.00% 政治力"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Diplomat",
+      "name": "熟練した外交官"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmyは病気、病原体および有毒降下物に対して脆弱です。",
+      "stats": [
+        "-25% 免疫を得る速度",
+        "-50% 毒耐性"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "-25% 免疫を得る速度",
+          "-50% 毒耐性"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Constitution",
+      "name": "病弱"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは病気、病原体および有毒降下物に対して通常より強いです。",
+      "stats": [
+        "+25% 免疫を得る速度",
+        "+50% 毒耐性"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "+25% 免疫を得る速度",
+          "+50% 毒耐性"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_Constitution",
+      "name": "抗体持ち"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyはひどい庭師です。 彼が成長させる事ができる唯一のものは雑草です。",
+      "stats": [
+        "-2 栽培",
+        "-15% 栽培・収率",
+        "-15% 栽培・速度"
+      ],
+      "conflicts": [
+        "庭師の才能",
+        "無能",
+        "強化されし者",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "庭師の才能",
+          "無能",
+          "強化されし者",
+          "宿り木"
+        ],
+        "stats": [
+          "-2 栽培",
+          "-15% 栽培・収率",
+          "-15% 栽培・速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_BrownThumb",
+      "name": "園芸の才がない"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは庭師として類まれな情熱を持っています。彼は植物と触れ合うたびに気持ちが豊かになります。",
+      "stats": [
+        "+2 栽培",
+        "+15% 栽培・収率",
+        "+15% 栽培・速度"
+      ],
+      "conflicts": [
+        "無能",
+        "強化されし者",
+        "園芸の才がない",
+        "鉱石収集家",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "無能",
+          "強化されし者",
+          "園芸の才がない",
+          "鉱石収集家",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 栽培",
+          "+15% 栽培・収率",
+          "+15% 栽培・速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RCT_GreenThumb",
+      "name": "庭師の才能"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's mind is awaken to the psychic maelstrom.",
+      "stats": [
+        "+0.2 ニューラルヒートリミット",
+        "+0.20 ニューラルヒート回復レート"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "ガンスリンガー",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "羊飼い",
+        "猟師",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "ガンスリンガー",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "羊飼い",
+          "猟師",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+0.2 ニューラルヒートリミット",
+          "+0.20 ニューラルヒート回復レート"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Psionic",
+      "name": "psionic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has seen a lot of death and pain. 彼's not a true psycopath and can enjoy socialization, but 彼's also not affected by the suffering of others.",
+      "stats": [
+        "陰鬱瞑想フォーカスタイプが許可されています。"
+      ],
+      "conflicts": [
+        "サイコパス",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "サイコパス",
+          "宿り木"
+        ],
+        "stats": [
+          "陰鬱瞑想フォーカスタイプが許可されています。"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Jaded",
+      "name": "indifferent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは射撃の名手です。 そしてそれはどんな射撃武器でも。",
+      "stats": [
+        "+2 射撃",
+        "-20% 照準時間",
+        "+0.2 命中率(射撃)"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "羊飼い",
+        "猟師",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "羊飼い",
+          "猟師",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 射撃",
+          "-20% 照準時間",
+          "+0.2 命中率(射撃)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Gunslinger",
+      "name": "ガンスリンガー"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは近接戦闘に長けています。",
+      "stats": [
+        "+2 格闘",
+        "+0.2 命中率(白兵戦)",
+        "+0.3 回避率(白兵戦)"
+      ],
+      "conflicts": [
+        "格闘家",
+        "屈強",
+        "ガンスリンガー",
+        "石工",
+        "羊飼い",
+        "猟師",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "格闘家",
+          "屈強",
+          "ガンスリンガー",
+          "石工",
+          "羊飼い",
+          "猟師",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 格闘",
+          "+0.2 命中率(白兵戦)",
+          "+0.3 回避率(白兵戦)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Fighter",
+      "name": "デュエリスト"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmyは非常に勇敢で、殺すのはかなり難しいです。",
+      "stats": [
+        "+2 格闘",
+        "+20% 痛みへの限界値",
+        "x80% 受けるダメージ倍率"
+      ],
+      "conflicts": [
+        "格闘家",
+        "屈強",
+        "ガンスリンガー",
+        "石工",
+        "羊飼い",
+        "猟師",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "格闘家",
+          "屈強",
+          "ガンスリンガー",
+          "石工",
+          "羊飼い",
+          "猟師",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 格闘",
+          "+20% 痛みへの限界値",
+          "x80% 受けるダメージ倍率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Fighter",
+      "name": "盾持ち"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3,
+      "description": "Timmyは敵に対して痛烈な攻撃を与えます。",
+      "stats": [
+        "+2 格闘",
+        "+0.20 DPS(白兵戦)",
+        "+20% AP値(白兵戦)"
+      ],
+      "conflicts": [
+        "格闘家",
+        "屈強",
+        "ガンスリンガー",
+        "石工",
+        "羊飼い",
+        "猟師",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "格闘家",
+          "屈強",
+          "ガンスリンガー",
+          "石工",
+          "羊飼い",
+          "猟師",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 格闘",
+          "+0.20 DPS(白兵戦)",
+          "+20% AP値(白兵戦)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Fighter",
+      "name": "ファイター"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは建物や家具、機械を作るのが得意です。",
+      "stats": [
+        "+2 建築",
+        "+20% 建造・速度",
+        "+20% 建造・成功率"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "ガンスリンガー",
+        "羊飼い",
+        "猟師",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "ガンスリンガー",
+          "羊飼い",
+          "猟師",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 建築",
+          "+20% 建造・速度",
+          "+20% 建造・成功率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Mason",
+      "name": "石工"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは動物を扱うのが本当に得意です。",
+      "stats": [
+        "+2 動物",
+        "+20% 家畜・収穫収率",
+        "+20% 家畜・収穫速度",
+        "+20.00% 手懐け成功率"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "ガンスリンガー",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "ガンスリンガー",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 動物",
+          "+20% 家畜・収穫収率",
+          "+20% 家畜・収穫速度",
+          "+20.00% 手懐け成功率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Tamer",
+      "name": "羊飼い"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmyは大物狩りを得意としており、様々な仕事のために動物を訓練することもできます。",
+      "stats": [
+        "+2 動物",
+        "+20% 狩り",
+        "+20.00% 調教成功率"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "ガンスリンガー",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "ガンスリンガー",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 動物",
+          "+20% 狩り",
+          "+20.00% 調教成功率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Tamer",
+      "name": "猟師"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは熟練した職人で、素早さと熟練度の両方で仕事をすることができます。",
+      "stats": [
+        "+2 工芸",
+        "+20% 作業・速度",
+        "+20% 溶解・速度"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "羊飼い",
+        "猟師",
+        "ガンスリンガー",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "羊飼い",
+          "猟師",
+          "ガンスリンガー",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 工芸",
+          "+20% 作業・速度",
+          "+20% 溶解・速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Artisan",
+      "name": "工芸職人"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmyは芸術と美への深い理解を持っています。",
+      "stats": [
+        "+3 芸術",
+        "+20% 作業・速度"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "羊飼い",
+        "猟師",
+        "ガンスリンガー",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "羊飼い",
+          "猟師",
+          "ガンスリンガー",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+3 芸術",
+          "+20% 作業・速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Artisan",
+      "name": "匠"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは傷や病気のケアが得意です。",
+      "stats": [
+        "+2 医術",
+        "+20% 看護・品質",
+        "+20% 看護・速度"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "羊飼い",
+        "猟師",
+        "ガンスリンガー",
+        "工芸職人",
+        "匠",
+        "シェフ",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "羊飼い",
+          "猟師",
+          "ガンスリンガー",
+          "工芸職人",
+          "匠",
+          "シェフ",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 医術",
+          "+20% 看護・品質",
+          "+20% 看護・速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Doctor",
+      "name": "ナース"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmyは身体のことを深く理解しており、より高い精度とスピードで手術を行うことができます。",
+      "stats": [
+        "+2 医術",
+        "+20% 医療・処置速度",
+        "+20% 外科手術の成功率"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "羊飼い",
+        "猟師",
+        "ガンスリンガー",
+        "工芸職人",
+        "匠",
+        "シェフ",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "羊飼い",
+          "猟師",
+          "ガンスリンガー",
+          "工芸職人",
+          "匠",
+          "シェフ",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 医術",
+          "+20% 医療・処置速度",
+          "+20% 外科手術の成功率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Doctor",
+      "name": "外科医"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは料理が上手で、本当に美味しい料理を作ることができます。",
+      "stats": [
+        "+2 料理",
+        "+0.2 調理・速度",
+        "-20.00% 食中毒・発生率",
+        "+20% 食肉加工・収率"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "ガンスリンガー",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "羊飼い",
+        "猟師",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "ガンスリンガー",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "羊飼い",
+          "猟師",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 料理",
+          "+0.2 調理・速度",
+          "-20.00% 食中毒・発生率",
+          "+20% 食肉加工・収率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Chef",
+      "name": "シェフ"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは熟練した鉱夫で、鉱物を扱う方法を知っています。",
+      "stats": [
+        "+2 採掘",
+        "+20% 掘削・速度",
+        "+20% 掘削・収率",
+        "x300% 地面をならす速度"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "ガンスリンガー",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "羊飼い",
+        "猟師",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "ガンスリンガー",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "羊飼い",
+          "猟師",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 採掘",
+          "+20% 掘削・速度",
+          "+20% 掘削・収率",
+          "x300% 地面をならす速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Miner",
+      "name": "鉱夫"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは非常にカリスマ性があり、他人を彼らの意志に沿わせることができます。",
+      "stats": [
+        "+2 社交",
+        "+20.00% 政治力",
+        "+20.00% 商人の勘",
+        "+20.00% 外交力"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "ガンスリンガー",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "羊飼い",
+        "猟師",
+        "鉱夫",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "ガンスリンガー",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "羊飼い",
+          "猟師",
+          "鉱夫",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 社交",
+          "+20.00% 政治力",
+          "+20.00% 商人の勘",
+          "+20.00% 外交力"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Diplomat",
+      "name": "外交官"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyはかなり頭が良く、医学化学の仕事をするだけでなく、より速く研究することができます。",
+      "stats": [
+        "+2 知力",
+        "+20% 研究・速度",
+        "+20% 合成・速度"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "ガンスリンガー",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "羊飼い",
+        "猟師",
+        "鉱夫",
+        "外交官",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "ガンスリンガー",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "羊飼い",
+          "猟師",
+          "鉱夫",
+          "外交官",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 知力",
+          "+20% 研究・速度",
+          "+20% 合成・速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Scientist",
+      "name": "科学者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmyは非常に知的で、本当に速く研究することができます。",
+      "stats": [
+        "+2 知力",
+        "x150% 研究・速度"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "ガンスリンガー",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "羊飼い",
+        "猟師",
+        "鉱夫",
+        "外交官",
+        "薬剤師",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "ガンスリンガー",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "羊飼い",
+          "猟師",
+          "鉱夫",
+          "外交官",
+          "薬剤師",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 知力",
+          "x150% 研究・速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Scientist",
+      "name": "研究者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは、植物を使った作業や木を伐採したり、作物を収穫したりするのが得意です。",
+      "stats": [
+        "+2 栽培",
+        "+20% 栽培・速度",
+        "+20% 栽培・収率"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "ガンスリンガー",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "羊飼い",
+        "猟師",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "運び屋",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "ガンスリンガー",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "羊飼い",
+          "猟師",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "運び屋",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 栽培",
+          "+20% 栽培・速度",
+          "+20% 栽培・収率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Herbalist",
+      "name": "薬剤師"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは背筋が強く、重い物を背負っていても素早く動ける。",
+      "stats": [
+        "+0.20 移動速度",
+        "+50 輸送能力"
+      ],
+      "conflicts": [
+        "デュエリスト",
+        "盾持ち",
+        "ファイター",
+        "石工",
+        "ガンスリンガー",
+        "工芸職人",
+        "匠",
+        "ナース",
+        "外科医",
+        "シェフ",
+        "羊飼い",
+        "猟師",
+        "鉱夫",
+        "外交官",
+        "科学者",
+        "研究者",
+        "薬剤師",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "デュエリスト",
+          "盾持ち",
+          "ファイター",
+          "石工",
+          "ガンスリンガー",
+          "工芸職人",
+          "匠",
+          "ナース",
+          "外科医",
+          "シェフ",
+          "羊飼い",
+          "猟師",
+          "鉱夫",
+          "外交官",
+          "科学者",
+          "研究者",
+          "薬剤師",
+          "宿り木"
+        ],
+        "stats": [
+          "+0.20 移動速度",
+          "+50 輸送能力"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LYN] Cookie Traits (No Cheats)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LC_Hauler",
+      "name": "運び屋"
     }
   ],
   "races": [

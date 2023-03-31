@@ -191,7 +191,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "キューに参加する",
+    "name": "入植者として参加する",
     "usage": "!joinqueue",
     "userLevel": "Anyone",
     "shortcut": false,
@@ -209,7 +209,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "MODの情報",
+    "name": "MOD情報",
     "usage": "!modinfo",
     "userLevel": "Anyone",
     "shortcut": false,
@@ -1214,14 +1214,14 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitCore"
+      "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "hello",
-    "usage": "!hello",
-    "userLevel": "Moderator",
+    "name": "Viewer class",
+    "usage": "!mypawnclass",
+    "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "HelloWorld"
+    "defName": "MyPawnClass"
   },
   {
     "data": {
@@ -1232,13 +1232,31 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitRaids"
+      "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "joinraid",
-    "usage": "!joinraid",
+    "name": "Ability level",
+    "usage": "!abilitylevel",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "JoinRaid"
+    "defName": "AbilityLevel"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitCore"
+    },
+    "description": null,
+    "name": "hello",
+    "usage": "!hello",
+    "userLevel": "Moderator",
+    "shortcut": false,
+    "defName": "HelloWorld"
   }
 ]

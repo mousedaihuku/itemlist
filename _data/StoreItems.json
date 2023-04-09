@@ -15840,6 +15840,36 @@
 		"category": "魚介",
 		"defname": "RawFishMeat"
 	},
+	{
+		"abr": "ドアマット　(橙)",
+		"price": 8,
+		"category": "家具",
+		"defname": "LT_DoorMatOrange"
+	},
+	{
+		"abr": "ドアマット　(緑)",
+		"price": 8,
+		"category": "家具",
+		"defname": "LT_DoorMatGreen"
+	},
+	{
+		"abr": "ドアマット(赤)",
+		"price": 8,
+		"category": "家具",
+		"defname": "LT_DoorMatRed"
+	},
+	{
+		"abr": "ドアマット　(青)",
+		"price": 8,
+		"category": "家具",
+		"defname": "LT_DoorMatBlue"
+	},
+	{
+		"abr": "ドアマット　(青緑)",
+		"price": 8,
+		"category": "家具",
+		"defname": "LT_DoorMatTeal"
+	}
 	],
-	"total": 2656
+	"total": 2661
 }

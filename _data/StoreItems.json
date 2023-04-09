@@ -57,7 +57,7 @@
 	{
 		"abr": "ｔシャツ",
 		"price": 143,
-		"category": "Core",
+		"category": "下着",
 		"defname": "Apparel_BasicShirt"
 	},
 	{
@@ -207,7 +207,7 @@
 	{
 		"abr": "ウォーマスク",
 		"price": 101,
-		"category": "Core",
+		"category": "帽子",
 		"defname": "Apparel_WarMask"
 	},
 	{
@@ -303,13 +303,13 @@
 	{
 		"abr": "オーソリティキャップ",
 		"price": 92,
-		"category": "Ideology",
+		"category": "帽子",
 		"defname": "Apparel_AuthorityCap"
 	},
 	{
 		"abr": "カウボーイハット",
 		"price": 94,
-		"category": "Core",
+		"category": "帽子",
 		"defname": "Apparel_CowboyHat"
 	},
 	{
@@ -441,7 +441,7 @@
 	{
 		"abr": "ガンリンク",
 		"price": 575,
-		"category": "Royalty",
+		"category": "帽子",
 		"defname": "Apparel_Gunlink"
 	},
 	{
@@ -843,13 +843,13 @@
 	{
 		"abr": "シールドベルト",
 		"price": 650,
-		"category": "Core",
+		"category": "ユーティリティ",
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
 		"abr": "シェードコーン",
 		"price": 94,
-		"category": "Ideology",
+		"category": "帽子",
 		"defname": "Apparel_Shadecone"
 	},
 	{
@@ -891,13 +891,13 @@
 	{
 		"abr": "ジャケット",
 		"price": 275,
-		"category": "Core",
+		"category": "上着",
 		"defname": "Apparel_Jacket"
 	},
 	{
 		"abr": "ジャンプパック",
 		"price": 1075,
-		"category": "Royalty",
+		"category": "ユーティリティ",
 		"defname": "Apparel_PackJump"
 	},
 	{
@@ -1065,13 +1065,13 @@
 	{
 		"abr": "ズボン",
 		"price": 143,
-		"category": "Core",
+		"category": "下着",
 		"defname": "Apparel_Pants"
 	},
 	{
 		"abr": "スモークポップパック",
 		"price": 277,
-		"category": "Core",
+		"category": "ユーティリティ",
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
@@ -1125,7 +1125,7 @@
 	{
 		"abr": "ダスターコート",
 		"price": 327,
-		"category": "Core",
+		"category": "上着",
 		"defname": "Apparel_Duster"
 	},
 	{
@@ -1203,7 +1203,7 @@
 	{
 		"abr": "テールキャップ",
 		"price": 75,
-		"category": "Ideology",
+		"category": "帽子",
 		"defname": "Apparel_Tailcap"
 	},
 	{
@@ -1365,7 +1365,7 @@
 	{
 		"abr": "ニット帽",
 		"price": 74,
-		"category": "Core",
+		"category": "帽子",
 		"defname": "Apparel_Tuque"
 	},
 	{
@@ -1437,7 +1437,7 @@
 	{
 		"abr": "パーカー",
 		"price": 315,
-		"category": "Core",
+		"category": "上着",
 		"defname": "Apparel_Parka"
 	},
 	{
@@ -1617,7 +1617,7 @@
 	{
 		"abr": "フード",
 		"price": 203,
-		"category": "Core",
+		"category": "帽子",
 		"defname": "Apparel_HatHood"
 	},
 	{
@@ -1707,7 +1707,7 @@
 	{
 		"abr": "ブルカ",
 		"price": 224,
-		"category": "Ideology",
+		"category": "上着",
 		"defname": "Apparel_Burka"
 	},
 	{
@@ -1725,13 +1725,13 @@
 	{
 		"abr": "ブロードラップ",
 		"price": 111,
-		"category": "Ideology",
+		"category": "帽子",
 		"defname": "Apparel_Broadwrap"
 	},
 	{
 		"abr": "フロップハット",
 		"price": 74,
-		"category": "Ideology",
+		"category": "帽子",
 		"defname": "Apparel_Flophat"
 	},
 	{
@@ -1743,7 +1743,7 @@
 	{
 		"abr": "ベール",
 		"price": 75,
-		"category": "Core",
+		"category": "帽子",
 		"defname": "Apparel_WarVeil"
 	},
 	{
@@ -1755,7 +1755,7 @@
 	{
 		"abr": "ヘッドラップ",
 		"price": 75,
-		"category": "Ideology",
+		"category": "帽子",
 		"defname": "Apparel_Headwrap"
 	},
 	{
@@ -1803,7 +1803,7 @@
 	{
 		"abr": "ヘルメット",
 		"price": 153,
-		"category": "Core",
+		"category": "帽子",
 		"defname": "Apparel_SimpleHelmet"
 	},
 	{
@@ -2187,7 +2187,7 @@
 	{
 		"abr": "ローブ",
 		"price": 297,
-		"category": "Ideology",
+		"category": "上着",
 		"defname": "Apparel_Robe"
 	},
 	{
@@ -2229,7 +2229,7 @@
 	{
 		"abr": "一枚布",
 		"price": 211,
-		"category": "Core",
+		"category": "下着",
 		"defname": "Apparel_TribalA"
 	},
 	{
@@ -2283,7 +2283,7 @@
 	{
 		"abr": "低角シールドパック",
 		"price": 717,
-		"category": "Royalty",
+		"category": "ユーティリティ",
 		"defname": "Apparel_PackBroadshield"
 	},
 	{
@@ -2427,13 +2427,13 @@
 	{
 		"abr": "奴隷の革帯",
 		"price": 275,
-		"category": "Ideology",
+		"category": "上着",
 		"defname": "Apparel_BodyStrap"
 	},
 	{
 		"abr": "奴隷の首輪",
 		"price": 94,
-		"category": "Ideology",
+		"category": "帽子",
 		"defname": "Apparel_Collar"
 	},
 	{
@@ -2469,7 +2469,7 @@
 	{
 		"abr": "山高帽",
 		"price": 77,
-		"category": "Core",
+		"category": "帽子",
 		"defname": "Apparel_BowlerHat"
 	},
 	{
@@ -2805,7 +2805,7 @@
 	{
 		"abr": "狂気の槍",
 		"price": 1083,
-		"category": "Core",
+		"category": "ユーティリティ",
 		"defname": "Apparel_PsychicInsanityLance"
 	},
 	{
@@ -2859,7 +2859,7 @@
 	{
 		"abr": "目隠し布",
 		"price": 74,
-		"category": "Ideology",
+		"category": "目",
 		"defname": "Apparel_Blindfold"
 	},
 	{
@@ -2937,7 +2937,7 @@
 	{
 		"abr": "rkウールの帽子",
 		"price": 98,
-		"category": "NewRatkinPlus",
+		"category": "帽子",
 		"defname": "RK_WoolenHat"
 	},
 	{
@@ -2949,23 +2949,23 @@
 	{
 		"abr": "rkエプロンスカート",
 		"price": 248,
-		"category": "NewRatkinPlus",
+		"category": "下着",
 		"defname": "RK_ApronSkirt"
 	},
 	{
 		"abr": "rkカーディガン",
 		"price": 283,
-		"category": "NewRatkinPlus",
+		"category": "上着",
 		"defname": "RK_Cardigan"
 	},
 	{
-		"abr": "rkガスマスク",
+		"abr": "rkマスクヘルメット",
 		"price": 1092,
 		"category": "装甲化",
 		"defname": "RK_Mask"
 	},
 	{
-		"abr": "rkガスマスクb",
+		"abr": "rkマスクヘルメット",
 		"price": 1092,
 		"category": "装甲化",
 		"defname": "RK_MaskB"
@@ -3009,7 +3009,7 @@
 	{
 		"abr": "rkクロスバック",
 		"price": 187,
-		"category": "NewRatkinPlus",
+		"category": "バックパック",
 		"defname": "RK_CrossBack"
 	},
 	{
@@ -3027,49 +3027,49 @@
 	{
 		"abr": "rkコイフ",
 		"price": 121,
-		"category": "NewRatkinPlus",
+		"category": "帽子",
 		"defname": "RK_Coif"
 	},
 	{
 		"abr": "rkサマードレス",
 		"price": 267,
-		"category": "NewRatkinPlus",
+		"category": "下着",
 		"defname": "RK_SummerDress"
 	},
 	{
 		"abr": "rkサンタ帽",
 		"price": 98,
-		"category": "NewRatkinPlus",
+		"category": "帽子",
 		"defname": "RK_SantaHat"
 	},
 	{
 		"abr": "rkサンタ衣装",
 		"price": 342,
-		"category": "NewRatkinPlus",
+		"category": "上着",
 		"defname": "RK_SantaRobe"
 	},
 	{
 		"abr": "rkサンタ袋",
 		"price": 683,
-		"category": "NewRatkinPlus",
+		"category": "バックパック",
 		"defname": "RK_SantaSack"
 	},
 	{
 		"abr": "rkシェフの帽子",
 		"price": 162,
-		"category": "NewRatkinPlus",
+		"category": "帽子",
 		"defname": "RK_ChefHat"
 	},
 	{
 		"abr": "rkシェフの服",
 		"price": 375,
-		"category": "NewRatkinPlus",
+		"category": "下着",
 		"defname": "RK_ChefSuit"
 	},
 	{
 		"abr": "rkシスタードレス",
 		"price": 775,
-		"category": "NewRatkinPlus",
+		"category": "下着",
 		"defname": "RK_SistersDerss"
 	},
 	{
@@ -3105,11 +3105,11 @@
 	{
 		"abr": "rkバックパック",
 		"price": 215,
-		"category": "NewRatkinPlus",
+		"category": "バックパック",
 		"defname": "RK_Backpack"
 	},
 	{
-		"abr": "rkバトルスーツ",
+		"abr": "rk戦闘服",
 		"price": 1767,
 		"category": "装甲化",
 		"defname": "RK_BattleSuit"
@@ -3153,13 +3153,13 @@
 	{
 		"abr": "rkフラットカラーコート",
 		"price": 742,
-		"category": "NewRatkinPlus",
+		"category": "下着",
 		"defname": "RK_FlatColorCoat"
 	},
 	{
 		"abr": "rkフリルワンピース",
 		"price": 742,
-		"category": "NewRatkinPlus",
+		"category": "下着",
 		"defname": "RK_FrillOnepiece"
 	},
 	{
@@ -3195,13 +3195,13 @@
 	{
 		"abr": "rkヘアーコサージュ",
 		"price": 358,
-		"category": "NewRatkinPlus",
+		"category": "帽子",
 		"defname": "RK_HairCorsage"
 	},
 	{
 		"abr": "rkベール",
 		"price": 392,
-		"category": "NewRatkinPlus",
+		"category": "帽子",
 		"defname": "RK_SistersVeil"
 	},
 	{
@@ -3225,7 +3225,7 @@
 	{
 		"abr": "rkマフラー",
 		"price": 132,
-		"category": "NewRatkinPlus",
+		"category": "上着",
 		"defname": "RK_Muffler"
 	},
 	{
@@ -3243,7 +3243,7 @@
 	{
 		"abr": "rkラットキンアウトドアバック",
 		"price": 311,
-		"category": "NewRatkinPlus",
+		"category": "バックパック",
 		"defname": "RK_OutdoorBackpack"
 	},
 	{
@@ -3255,13 +3255,13 @@
 	{
 		"abr": "rkラットキンのメガネ",
 		"price": 103,
-		"category": "NewRatkinPlus",
+		"category": "帽子",
 		"defname": "RK_ResearchGlasses"
 	},
 	{
 		"abr": "rkラットキンの赤い服",
 		"price": 325,
-		"category": "NewRatkinPlus",
+		"category": "下着",
 		"defname": "RK_WorkerWear"
 	},
 	{
@@ -3279,7 +3279,7 @@
 	{
 		"abr": "rkラットキン耳コス",
 		"price": 342,
-		"category": "NewRatkinPlus",
+		"category": "帽子",
 		"defname": "RK_EarCostume"
 	},
 	{
@@ -3291,7 +3291,7 @@
 	{
 		"abr": "rkリボンヘアバンド",
 		"price": 358,
-		"category": "NewRatkinPlus",
+		"category": "帽子",
 		"defname": "RK_RibbonHairBand"
 	},
 	{
@@ -3309,7 +3309,7 @@
 	{
 		"abr": "rkロッティ帽子",
 		"price": 57,
-		"category": "NewRatkinPlus",
+		"category": "帽子",
 		"defname": "RK_RottiHat"
 	},
 	{
@@ -3321,7 +3321,7 @@
 	{
 		"abr": "rk冬のローブ",
 		"price": 342,
-		"category": "NewRatkinPlus",
+		"category": "上着",
 		"defname": "RK_WinterRobe"
 	},
 	{
@@ -3333,7 +3333,7 @@
 	{
 		"abr": "rk士官制服",
 		"price": 858,
-		"category": "Ratkin Apparel+",
+		"category": "下着",
 		"defname": "RK_MilUniform"
 	},
 	{
@@ -3387,19 +3387,19 @@
 	{
 		"abr": "rk戦列歩兵服",
 		"price": 992,
-		"category": "Ratkin Apparel+",
+		"category": "下着",
 		"defname": "RK_Rifleman"
 	},
 	{
 		"abr": "rk探索帽子",
 		"price": 141,
-		"category": "NewRatkinPlus",
+		"category": "帽子",
 		"defname": "RK_ExplorerHat"
 	},
 	{
 		"abr": "rk探索者の服",
 		"price": 358,
-		"category": "NewRatkinPlus",
+		"category": "下着",
 		"defname": "RK_ExplorerWear"
 	},
 	{
@@ -3429,13 +3429,13 @@
 	{
 		"abr": "rk砂漠スカーフ",
 		"price": 132,
-		"category": "Ratkin Apparel+",
+		"category": "上着",
 		"defname": "RK_Scarf"
 	},
 	{
 		"abr": "rk研究用白衣",
 		"price": 375,
-		"category": "NewRatkinPlus",
+		"category": "下着",
 		"defname": "RK_ResearchGown"
 	},
 	{
@@ -3453,13 +3453,13 @@
 	{
 		"abr": "rk追加スリーブ",
 		"price": 233,
-		"category": "Ratkin Apparel+",
+		"category": "上着",
 		"defname": "RK_Sleeves"
 	},
 	{
 		"abr": "rk鉢巻き",
 		"price": 383,
-		"category": "NewRatkinPlus",
+		"category": "帽子",
 		"defname": "RK_HeadBand"
 	},
 	{
@@ -3477,7 +3477,7 @@
 	{
 		"abr": "rk風呂敷",
 		"price": 683,
-		"category": "NewRatkinPlus",
+		"category": "バックパック",
 		"defname": "RK_Sack"
 	},
 	{
@@ -3489,11 +3489,11 @@
 	{
 		"abr": "rk麦わら帽子",
 		"price": 41,
-		"category": "NewRatkinPlus",
+		"category": "帽子",
 		"defname": "RK_StrawHat"
 	},
 	{
-		"abr": "syntheticbone",
+		"abr": "人造骨",
 		"price": 329,
 		"category": "Body restoration",
 		"defname": "EPIA_SyntheticBone"
@@ -3811,12 +3811,6 @@
 		"defname": "RGK_SimpleChair"
 	},
 	{
-		"abr": "セラピー用ソファ",
-		"price": 475,
-		"category": "家具",
-		"defname": "Couch"
-	},
-	{
 		"abr": "セラミック",
 		"price": 3,
 		"category": "原材料",
@@ -4125,31 +4119,31 @@
 	{
 		"abr": "ミホカジュアルスーツ",
 		"price": 310,
-		"category": "Miho, the celestial fox",
+		"category": "下着",
 		"defname": "Miho_Apparel_OnSkin_Regular"
 	},
 	{
 		"abr": "ミホさらし下着",
 		"price": 79,
-		"category": "Miho, the celestial fox",
+		"category": "下着",
 		"defname": "Miho_Apparel_Under_Tribal"
 	},
 	{
 		"abr": "ミホセキュリティスーツ",
 		"price": 328,
-		"category": "Miho, the celestial fox",
+		"category": "下着",
 		"defname": "Miho_Apparel_OnSkin_Militia"
 	},
 	{
 		"abr": "ミホダウンジャケット",
 		"price": 342,
-		"category": "Miho, the celestial fox",
+		"category": "上着",
 		"defname": "Miho_Apparel_Shell_Padding"
 	},
 	{
 		"abr": "ミホタクティカルベスト",
 		"price": 284,
-		"category": "Miho, the celestial fox",
+		"category": "着物",
 		"defname": "Miho_Apparel_Middle_MilitiaVest"
 	},
 	{
@@ -4179,7 +4173,7 @@
 	{
 		"abr": "ミホニット帽",
 		"price": 79,
-		"category": "Miho, the celestial fox",
+		"category": "帽子",
 		"defname": "Miho_Apparel_Hat_Winter"
 	},
 	{
@@ -4227,13 +4221,13 @@
 	{
 		"abr": "ミホメガネ",
 		"price": 238,
-		"category": "Miho, the celestial fox",
+		"category": "特別な衣服",
 		"defname": "Miho_Apparel_Special_Glasses"
 	},
 	{
 		"abr": "ミホ下着",
 		"price": 73,
-		"category": "Miho, the celestial fox",
+		"category": "下着",
 		"defname": "Miho_Apparel_Under_Industrial"
 	},
 	{
@@ -4257,7 +4251,7 @@
 	{
 		"abr": "ミホ安全外骨格",
 		"price": 750,
-		"category": "Miho, the celestial fox",
+		"category": "上着",
 		"defname": "Miho_Apparel_Middle_PoweredWorker"
 	},
 	{
@@ -4269,7 +4263,7 @@
 	{
 		"abr": "ミホ射撃支援デバイス",
 		"price": 1725,
-		"category": "Miho, the celestial fox",
+		"category": "特別な衣服",
 		"defname": "Miho_Apparel_Special_TacticalAssist"
 	},
 	{
@@ -4281,13 +4275,13 @@
 	{
 		"abr": "ミホ普段着",
 		"price": 230,
-		"category": "Miho, the celestial fox",
+		"category": "下着",
 		"defname": "Miho_Apparel_OnSkin_Simple"
 	},
 	{
 		"abr": "ミホ歩兵パーカー",
 		"price": 700,
-		"category": "Miho, the celestial fox",
+		"category": "上着",
 		"defname": "Miho_Apparel_Shell_PMC"
 	},
 	{
@@ -4305,19 +4299,19 @@
 	{
 		"abr": "ミホ軍用双眼鏡",
 		"price": 617,
-		"category": "Miho, the celestial fox",
+		"category": "特別な衣服",
 		"defname": "Miho_Apparel_Special_Magnifier"
 	},
 	{
 		"abr": "ミホ防寒ポンチョ",
 		"price": 197,
-		"category": "Miho, the celestial fox",
+		"category": "上着",
 		"defname": "Miho_Apparel_Shell_Winter"
 	},
 	{
 		"abr": "ミホ黒下着",
 		"price": 137,
-		"category": "Miho, the celestial fox",
+		"category": "下着",
 		"defname": "Miho_Apparel_Under_IndustrialBlack"
 	},
 	{
@@ -4617,7 +4611,7 @@
 	{
 		"abr": "仁術の心得",
 		"price": 288,
-		"category": "妖怪村",
+		"category": "装飾品",
 		"defname": "Yokai_Omamori_Jin"
 	},
 	{
@@ -4761,7 +4755,7 @@
 	{
 		"abr": "凪の勾玉",
 		"price": 10492,
-		"category": "妖怪村",
+		"category": "装飾品",
 		"defname": "Yokai_Nagi_no_Magatama"
 	},
 	{
@@ -4821,7 +4815,7 @@
 	{
 		"abr": "土神の祈り",
 		"price": 288,
-		"category": "妖怪村",
+		"category": "装飾品",
 		"defname": "Yokai_Omamori_Tuchi"
 	},
 	{
@@ -5019,7 +5013,7 @@
 	{
 		"abr": "妖怪の衣",
 		"price": 177,
-		"category": "妖怪村",
+		"category": "着物",
 		"defname": "Yokai_Kimono_Koromo"
 	},
 	{
@@ -5247,7 +5241,7 @@
 	{
 		"abr": "戦人の覚悟",
 		"price": 288,
-		"category": "妖怪村",
+		"category": "装飾品",
 		"defname": "Yokai_Omamori_Ikusa"
 	},
 	{
@@ -5451,7 +5445,7 @@
 	{
 		"abr": "狐のお面",
 		"price": 129,
-		"category": "妖怪村",
+		"category": "帽子",
 		"defname": "Yokai_Omen_Kitune"
 	},
 	{
@@ -5481,7 +5475,7 @@
 	{
 		"abr": "狩人の呪い",
 		"price": 288,
-		"category": "妖怪村",
+		"category": "装飾品",
 		"defname": "Yokai_Omamori_Karibito"
 	},
 	{
@@ -5511,7 +5505,7 @@
 	{
 		"abr": "獣の外套",
 		"price": 425,
-		"category": "妖怪村",
+		"category": "上着",
 		"defname": "Yokai_Kimono_Gaitou"
 	},
 	{
@@ -5625,7 +5619,7 @@
 	{
 		"abr": "竜巻発生装置",
 		"price": 1333,
-		"category": "Core",
+		"category": "ユーティリティ",
 		"defname": "TornadoGenerator"
 	},
 	{
@@ -5691,7 +5685,7 @@
 	{
 		"abr": "精神波遮断ヘルメット",
 		"price": 417,
-		"category": "Core",
+		"category": "帽子",
 		"defname": "Apparel_PsychicFoilHelmet"
 	},
 	{
@@ -5859,7 +5853,7 @@
 	{
 		"abr": "苦悶の王冠",
 		"price": 91,
-		"category": "Ideology",
+		"category": "帽子",
 		"defname": "Apparel_TortureCrown"
 	},
 	{
@@ -6027,13 +6021,13 @@
 	{
 		"abr": "蜘蛛糸の下穿き",
 		"price": 328,
-		"category": "妖怪村",
+		"category": "下着",
 		"defname": "Yokai_Kimono_Shitabaki"
 	},
 	{
 		"abr": "蜘蛛糸の帷子",
 		"price": 328,
-		"category": "妖怪村",
+		"category": "下着",
 		"defname": "Yokai_Kimono_Katabira"
 	},
 	{
@@ -6051,7 +6045,7 @@
 	{
 		"abr": "衝撃の槍",
 		"price": 917,
-		"category": "Core",
+		"category": "ユーティリティ",
 		"defname": "Apparel_PsychicShockLance"
 	},
 	{
@@ -6063,7 +6057,7 @@
 	{
 		"abr": "襟付きシャツ",
 		"price": 166,
-		"category": "Core",
+		"category": "下着",
 		"defname": "Apparel_CollarShirt"
 	},
 	{
@@ -6093,13 +6087,13 @@
 	{
 		"abr": "調和の願い",
 		"price": 288,
-		"category": "妖怪村",
+		"category": "装飾品",
 		"defname": "Yokai_Omamori_Wa"
 	},
 	{
 		"abr": "豊穣の面",
 		"price": 80,
-		"category": "妖怪村",
+		"category": "帽子",
 		"defname": "Yokai_Omen_Warai"
 	},
 	{
@@ -6135,19 +6129,19 @@
 	{
 		"abr": "軌道ビーム照準器",
 		"price": 2000,
-		"category": "Core",
+		"category": "ユーティリティ",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
 	{
 		"abr": "軌道メカクラスター照準器",
 		"price": 2000,
-		"category": "Royalty",
+		"category": "ユーティリティ",
 		"defname": "OrbitalTargeterMechCluster"
 	},
 	{
 		"abr": "軌道爆撃照準器",
 		"price": 2000,
-		"category": "Core",
+		"category": "ユーティリティ",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
@@ -6195,7 +6189,7 @@
 	{
 		"abr": "部族の髪飾り",
 		"price": 203,
-		"category": "Core",
+		"category": "帽子",
 		"defname": "Apparel_TribalHeaddress"
 	},
 	{
@@ -6231,7 +6225,7 @@
 	{
 		"abr": "閃きの訪れ",
 		"price": 288,
-		"category": "妖怪村",
+		"category": "装飾品",
 		"defname": "Yokai_Omamori_Hirameki"
 	},
 	{
@@ -6267,7 +6261,7 @@
 	{
 		"abr": "陽の勾玉",
 		"price": 10492,
-		"category": "妖怪村",
+		"category": "装飾品",
 		"defname": "Yokai_Hi_No_Magatama"
 	},
 	{
@@ -6481,97 +6475,97 @@
 		"defname": "Lighting_MURWallSunLight"
 	},
 	{
-		"abr": "ratkinassassinfly-cutter",
+		"abr": "rkアサシン投げナイフ",
 		"price": 136,
 		"category": "遠距離武器",
 		"defname": "RK_AssassinKnife"
 	},
 	{
-		"abr": "ratkininfernogrenadelauncher",
+		"abr": "rkインフェルノグレネードランチャー",
 		"price": 3067,
 		"category": "遠距離武器",
 		"defname": "RK_InfernoGrenadeLauncher"
 	},
 	{
-		"abr": "ratkinguardianshield",
+		"abr": "rkガーディアンシールド",
 		"price": 1283,
-		"category": "Ratkin Weapons+",
+		"category": "上着",
 		"defname": "RK_KiteShield"
 	},
 	{
-		"abr": "psyknife",
+		"abr": "rkサイナイフ",
 		"price": 8333,
 		"category": "白兵戦武器",
 		"defname": "RK_Archoknife"
 	},
 	{
-		"abr": "genocide",
+		"abr": "rkジェノサイド",
 		"price": 8333,
 		"category": "遠距離武器",
 		"defname": "RK_Genocide"
 	},
 	{
-		"abr": "tinypencil",
+		"abr": "rkちいさな鉛筆",
 		"price": 56,
 		"category": "白兵戦武器",
 		"defname": "RK_Pencil"
 	},
 	{
-		"abr": "ratkinchargerifle",
+		"abr": "rkチャージライフル",
 		"price": 5000,
 		"category": "遠距離武器",
 		"defname": "RK_ChargeRifle"
 	},
 	{
-		"abr": "ratkintwo-bladedsword",
+		"abr": "rkツインブレード",
 		"price": 883,
 		"category": "白兵戦武器",
 		"defname": "RK_TwoBladed"
 	},
 	{
-		"abr": "ratkinpickaxe",
+		"abr": "rkつるはし",
 		"price": 247,
 		"category": "白兵戦武器",
 		"defname": "RK_Pickaxe"
 	},
 	{
-		"abr": "handcannon",
+		"abr": "rkハンドキャノン",
 		"price": 2275,
 		"category": "遠距離武器",
 		"defname": "RK_Cannon"
 	},
 	{
-		"abr": "ratkinflail",
+		"abr": "rkフレイル",
 		"price": 280,
 		"category": "白兵戦武器",
 		"defname": "RK_Flail"
 	},
 	{
-		"abr": "ratkinmachinecrossbow",
+		"abr": "rkマシンクロスボウ",
 		"price": 650,
 		"category": "遠距離武器",
 		"defname": "RK_MachineCrossBow"
 	},
 	{
-		"abr": "ratkinrapier",
+		"abr": "rkレイピア",
 		"price": 239,
 		"category": "白兵戦武器",
 		"defname": "RK_Rapier"
 	},
 	{
-		"abr": "giantkiller",
+		"abr": "rk巨人殺し",
 		"price": 3217,
 		"category": "白兵戦武器",
 		"defname": "RK_GiantKiller"
 	},
 	{
-		"abr": "ratkinfireworklauncher",
+		"abr": "rk花火ランチャー",
 		"price": 3375,
 		"category": "遠距離武器",
 		"defname": "RK_RocketLauncher"
 	},
 	{
-		"abr": "auxiliaryaimingsniperrifle",
+		"abr": "rk補助照準スナイパーライフル",
 		"price": 917,
 		"category": "遠距離武器",
 		"defname": "RK_AuxiliaryAiming"
@@ -6643,37 +6637,37 @@
 		"defname": "Bed"
 	},
 	{
-		"abr": "painterdress",
+		"abr": "rk画家のドレス",
 		"price": 248,
-		"category": "Ratkin Weapons+",
+		"category": "下着",
 		"defname": "RK_PainterDress"
 	},
 	{
-		"abr": "painterhat",
+		"abr": "rk画家の帽子",
 		"price": 98,
-		"category": "Ratkin Weapons+",
+		"category": "帽子",
 		"defname": "RK_PainterHat"
 	},
 	{
-		"abr": "smallpainttray",
+		"abr": "rk小さなペイントトレイ",
 		"price": 56,
 		"category": "白兵戦武器",
 		"defname": "RK_PaintTray"
 	},
 	{
-		"abr": "anti-personnelmine",
+		"abr": "rk対人地雷",
 		"price": 60,
 		"category": "防衛",
 		"defname": "RKTrap_AP"
 	},
 	{
-		"abr": "anti-tankmine",
+		"abr": "rk対戦車地雷",
 		"price": 583,
 		"category": "防衛",
 		"defname": "RKTrap_AT"
 	},
 	{
-		"abr": "anti-tankrifle",
+		"abr": "rk対戦車ライフル",
 		"price": 842,
 		"category": "遠距離武器",
 		"defname": "RK_AntiTank"
@@ -6709,13 +6703,13 @@
 		"defname": "EPIA_AuxiliaryAI_Worker"
 	},
 	{
-		"abr": "ballistabolt(firework)",
+		"abr": "rkバリスタボルト(花火)",
 		"price": 92,
 		"category": "バリスタの矢",
 		"defname": "BallistaBolt_FA"
 	},
 	{
-		"abr": "candyrecipe",
+		"abr": "rkキャンディーレシピ",
 		"price": 13,
 		"category": "加工品",
 		"defname": "RK_SecretRecipe"
@@ -6727,15 +6721,9 @@
 		"defname": "CashRegister_CashRegister"
 	},
 	{
-		"abr": "destroyershell",
-		"price": 5017,
-		"category": "加工品",
-		"defname": "ADA_DestroyerShell"
-	},
-	{
-		"abr": "earphone",
+		"abr": "rkイヤフォン",
 		"price": 241,
-		"category": "Ratkin Weapons+",
+		"category": "帽子",
 		"defname": "RK_Earphone"
 	},
 	{
@@ -6745,27 +6733,27 @@
 		"defname": "Gun_EMRifle"
 	},
 	{
-		"abr": "fruittea",
+		"abr": "rkフルーツティー",
 		"price": 25,
 		"category": "ドラッグ",
 		"defname": "RK_FruitTea"
 	},
 	{
-		"abr": "fudge",
+		"abr": "rkファッジ",
 		"price": 25,
 		"category": "ドラッグ",
 		"defname": "RK_Fudge"
 	},
 	{
-		"abr": "guardianshieldbelt",
+		"abr": "rkガーディアンシールドベルト",
 		"price": 2275,
-		"category": "Ratkin Weapons+",
+		"category": "ユーティリティ",
 		"defname": "RK_ShieldBelt"
 	},
 	{
 		"abr": "hc-1シールド",
 		"price": 4000,
-		"category": "Glitter Tech",
+		"category": "ユーティリティ",
 		"defname": "Apparel_HC1Shield"
 	},
 	{
@@ -6777,13 +6765,13 @@
 	{
 		"abr": "kidapronskirt",
 		"price": 165,
-		"category": "Simple Ratkin Childrenswear",
+		"category": "下着",
 		"defname": "RK_ApronSkirt_Child"
 	},
 	{
 		"abr": "longjohns",
 		"price": 95,
-		"category": "UnderWhere",
+		"category": "Underwear",
 		"defname": "UnderWhere_LongJohns"
 	},
 	{
@@ -6799,37 +6787,37 @@
 		"defname": "Gun_MRGRifle"
 	},
 	{
-		"abr": "nightcap",
+		"abr": "rkナイトキャップ",
 		"price": 98,
-		"category": "Ratkin Weapons+",
+		"category": "帽子",
 		"defname": "RK_NightcapA"
 	},
 	{
-		"abr": "nighty",
+		"abr": "rk寝間着",
 		"price": 248,
-		"category": "Ratkin Weapons+",
+		"category": "下着",
 		"defname": "RK_NightyA"
 	},
 	{
-		"abr": "ratkinassaultrifle",
+		"abr": "rkアサルトライフル",
 		"price": 1950,
 		"category": "遠距離武器",
 		"defname": "RK_AssaultRifle"
 	},
 	{
-		"abr": "ratkinbible",
+		"abr": "rk聖書",
 		"price": 106,
 		"category": "白兵戦武器",
 		"defname": "RK_Bible"
 	},
 	{
-		"abr": "ratkinfragmentationcrossbow",
+		"abr": "rkフラグメンテーションクロスボウ",
 		"price": 1475,
 		"category": "遠距離武器",
 		"defname": "RK_HECrossbow"
 	},
 	{
-		"abr": "ratkinraiderstick",
+		"abr": "rkレイダースティック",
 		"price": 247,
 		"category": "白兵戦武器",
 		"defname": "RK_WonderStick"
@@ -6879,7 +6867,7 @@
 	{
 		"abr": "rk多機能ベスト",
 		"price": 392,
-		"category": "Ratkin Apparel+",
+		"category": "上着",
 		"defname": "RK_Vest"
 	},
 	{
@@ -6901,13 +6889,13 @@
 		"defname": "RK_GuardsmanB"
 	},
 	{
-		"abr": "signalgun",
+		"abr": "rk信号銃",
 		"price": 517,
 		"category": "遠距離武器",
 		"defname": "RK_SignalGun"
 	},
 	{
-		"abr": "sugarcube",
+		"abr": "rk角砂糖",
 		"price": 25,
 		"category": "ドラッグ",
 		"defname": "RK_Sugar"
@@ -6919,19 +6907,19 @@
 		"defname": "Titanium_GT"
 	},
 	{
-		"abr": "typeafirstaidkit",
+		"abr": "rkタイプa応急処置キット",
 		"price": 575,
-		"category": "Ratkin Weapons+",
+		"category": "ユーティリティ",
 		"defname": "RK_HealingPack"
 	},
 	{
-		"abr": "typebfirstaidkit",
+		"abr": "rkタイプb応急処置キット",
 		"price": 658,
-		"category": "Ratkin Weapons+",
+		"category": "ユーティリティ",
 		"defname": "RK_HealingPackNotGood"
 	},
 	{
-		"abr": "woodensword",
+		"abr": "rk木刀",
 		"price": 148,
 		"category": "白兵戦武器",
 		"defname": "RK_WoodenSword"
@@ -6963,13 +6951,13 @@
 	{
 		"abr": "アレイヘッドセット",
 		"price": 600,
-		"category": "Biotech",
+		"category": "帽子",
 		"defname": "Apparel_ArrayHeadset"
 	},
 	{
 		"abr": "インテグレータヘッドセット",
 		"price": 4058,
-		"category": "Biotech",
+		"category": "帽子",
 		"defname": "Apparel_IntegratorHeadset"
 	},
 	{
@@ -7041,19 +7029,19 @@
 	{
 		"abr": "オリオン制服シャツ",
 		"price": 1333,
-		"category": "Glitter Tech",
+		"category": "下着",
 		"defname": "Apparel_OCShirt"
 	},
 	{
 		"abr": "オリオン制服ズボン",
 		"price": 1333,
-		"category": "Glitter Tech",
+		"category": "下着",
 		"defname": "Apparel_OCPants"
 	},
 	{
 		"abr": "オリオン製ディフェンスシールド",
 		"price": 3500,
-		"category": "Glitter Tech",
+		"category": "ユーティリティ",
 		"defname": "Apparel_OCShield"
 	},
 	{
@@ -7095,7 +7083,7 @@
 	{
 		"abr": "ガスマスク",
 		"price": 176,
-		"category": "Biotech",
+		"category": "帽子",
 		"defname": "Apparel_GasMask"
 	},
 	{
@@ -7197,7 +7185,7 @@
 	{
 		"abr": "サッシュ",
 		"price": 89,
-		"category": "Biotech",
+		"category": "着物",
 		"defname": "Apparel_Sash"
 	},
 	{
@@ -7245,13 +7233,13 @@
 	{
 		"abr": "タンクトップ",
 		"price": 42,
-		"category": "UnderWhere",
+		"category": "下着(ブラ)",
 		"defname": "UnderWhere_Tanktop"
 	},
 	{
 		"abr": "チェストラップ",
 		"price": 38,
-		"category": "UnderWhere",
+		"category": "下着(ブラ)",
 		"defname": "UnderWhere_Chestwrap"
 	},
 	{
@@ -7317,7 +7305,7 @@
 	{
 		"abr": "パンティ",
 		"price": 42,
-		"category": "UnderWhere",
+		"category": "Underwear",
 		"defname": "UnderWhere_Panties"
 	},
 	{
@@ -7341,13 +7329,13 @@
 	{
 		"abr": "フェイスマスク",
 		"price": 38,
-		"category": "Biotech",
+		"category": "帽子",
 		"defname": "Apparel_ClothMask"
 	},
 	{
 		"abr": "ブラ",
 		"price": 45,
-		"category": "UnderWhere",
+		"category": "下着(ブラ)",
 		"defname": "UnderWhere_Bra"
 	},
 	{
@@ -7359,7 +7347,7 @@
 	{
 		"abr": "フンドシ",
 		"price": 38,
-		"category": "UnderWhere",
+		"category": "Underwear",
 		"defname": "UnderWhere_Loincloth"
 	},
 	{
@@ -7407,7 +7395,7 @@
 	{
 		"abr": "ボクサーパンツ",
 		"price": 42,
-		"category": "UnderWhere",
+		"category": "Underwear",
 		"defname": "UnderWhere_Boxers"
 	},
 	{
@@ -7419,7 +7407,7 @@
 	{
 		"abr": "マツ",
 		"price": 106,
-		"category": "妖怪村",
+		"category": "下着",
 		"defname": "Yokai_Kimono_Nishimatuya"
 	},
 	{
@@ -7461,7 +7449,7 @@
 	{
 		"abr": "ミホタクティカルキャップ",
 		"price": 417,
-		"category": "Miho, the celestial fox",
+		"category": "帽子",
 		"defname": "Miho_Apparel_Hat_ShooterCap"
 	},
 	{
@@ -7473,7 +7461,7 @@
 	{
 		"abr": "ミホパーカー",
 		"price": 236,
-		"category": "Miho, the celestial fox",
+		"category": "下着",
 		"defname": "Miho_Apparel_OnSkin_Hoodie"
 	},
 	{
@@ -7491,7 +7479,7 @@
 	{
 		"abr": "ミホふんどし",
 		"price": 59,
-		"category": "Miho, the celestial fox",
+		"category": "下着",
 		"defname": "Miho_Apparel_Under_TribalTwo"
 	},
 	{
@@ -7617,7 +7605,7 @@
 	{
 		"abr": "ユキ",
 		"price": 112,
-		"category": "妖怪村",
+		"category": "下着",
 		"defname": "Yokai_Kimono_Miki"
 	},
 	{
@@ -8103,7 +8091,7 @@
 	{
 		"abr": "制御パック",
 		"price": 658,
-		"category": "Biotech",
+		"category": "ユーティリティ",
 		"defname": "Apparel_PackControl"
 	},
 	{
@@ -8205,37 +8193,37 @@
 	{
 		"abr": "子供用シャツ",
 		"price": 74,
-		"category": "Biotech",
+		"category": "下着",
 		"defname": "Apparel_KidShirt"
 	},
 	{
 		"abr": "子供用ズボン",
 		"price": 74,
-		"category": "Biotech",
+		"category": "下着",
 		"defname": "Apparel_KidPants"
 	},
 	{
 		"abr": "子供用パーカー",
 		"price": 172,
-		"category": "Biotech",
+		"category": "上着",
 		"defname": "Apparel_KidParka"
 	},
 	{
 		"abr": "子供用ヘルメット",
 		"price": 79,
-		"category": "Biotech",
+		"category": "帽子",
 		"defname": "Apparel_KidHelmet"
 	},
 	{
 		"abr": "子供用ロンパース",
 		"price": 112,
-		"category": "Biotech",
+		"category": "下着",
 		"defname": "Apparel_KidRomper"
 	},
 	{
 		"abr": "子供用民族衣装",
 		"price": 108,
-		"category": "Biotech",
+		"category": "下着",
 		"defname": "Apparel_KidTribal"
 	},
 	{
@@ -8259,7 +8247,7 @@
 	{
 		"abr": "帯域幅パック",
 		"price": 2275,
-		"category": "Biotech",
+		"category": "ユーティリティ",
 		"defname": "Apparel_PackBandwidth"
 	},
 	{
@@ -8391,7 +8379,7 @@
 	{
 		"abr": "毒ガスパック",
 		"price": 219,
-		"category": "Biotech",
+		"category": "ユーティリティ",
 		"defname": "Apparel_PackTox"
 	},
 	{
@@ -8439,7 +8427,7 @@
 	{
 		"abr": "消火剤ポップパック",
 		"price": 239,
-		"category": "Core",
+		"category": "ユーティリティ",
 		"defname": "Apparel_FirefoampopPack"
 	},
 	{
@@ -8475,7 +8463,7 @@
 	{
 		"abr": "無線ヘッドセット",
 		"price": 383,
-		"category": "Biotech",
+		"category": "帽子",
 		"defname": "Apparel_AirwireHeadset"
 	},
 	{
@@ -8667,7 +8655,7 @@
 	{
 		"abr": "重装弾ベルト",
 		"price": 271,
-		"category": "Biotech",
+		"category": "上着",
 		"defname": "Apparel_Bandolier"
 	},
 	{
@@ -8733,7 +8721,7 @@
 	{
 		"abr": "スライスキャップ",
 		"price": 62,
-		"category": "Ideology",
+		"category": "帽子",
 		"defname": "Apparel_Slicecap"
 	},
 	{
@@ -8781,7 +8769,7 @@
 	{
 		"abr": "仮面",
 		"price": 62,
-		"category": "Ideology",
+		"category": "帽子",
 		"defname": "Apparel_VisageMask"
 	},
 	{
@@ -8913,7 +8901,7 @@
 	{
 		"abr": "キミリジャンプスーツ",
 		"price": 269,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kimiri_OnSkin_Short_Jumpsuit"
 	},
 	{
@@ -8931,7 +8919,7 @@
 	{
 		"abr": "クーリンtシャツ",
 		"price": 191,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_T_Shirt"
 	},
 	{
@@ -8955,37 +8943,37 @@
 	{
 		"abr": "クーリンウインターハット",
 		"price": 107,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "帽子",
 		"defname": "Kurin_Overhead_Winter_Hat"
 	},
 	{
 		"abr": "クーリンオープンショルダーニット",
 		"price": 236,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Open_Shoulder_Knit"
 	},
 	{
 		"abr": "クーリンオープンニット(前)",
 		"price": 203,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Open_Front_Knit"
 	},
 	{
 		"abr": "クーリンオープンニット(後)",
 		"price": 203,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Open_Back_Knit"
 	},
 	{
 		"abr": "クーリンカーディガン",
 		"price": 298,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "上着",
 		"defname": "Kurin_Shell_Cardigan"
 	},
 	{
 		"abr": "クーリンカジュアルシャツ",
 		"price": 315,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Casual_Wear"
 	},
 	{
@@ -9027,7 +9015,7 @@
 	{
 		"abr": "クーリンサーマルウェア",
 		"price": 600,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "肌着",
 		"defname": "Kurin_Power_Armor_Thermal_Underwear"
 	},
 	{
@@ -9057,19 +9045,19 @@
 	{
 		"abr": "クーリンサマーハット",
 		"price": 107,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "帽子",
 		"defname": "Kurin_Overhead_Summer_Hat"
 	},
 	{
 		"abr": "クーリンジャンプスーツ",
 		"price": 525,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Work_Jumpsuit"
 	},
 	{
 		"abr": "クーリンショートパンツ",
 		"price": 151,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下衣",
 		"defname": "Kurin_Legs_Shorts"
 	},
 	{
@@ -9087,13 +9075,13 @@
 	{
 		"abr": "クーリンスカート",
 		"price": 151,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下衣",
 		"defname": "Kurin_Legs_Skirt"
 	},
 	{
 		"abr": "クーリンスカーフ",
 		"price": 107,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "着物",
 		"defname": "Kurin_Middle_Scarf"
 	},
 	{
@@ -9111,25 +9099,25 @@
 	{
 		"abr": "クーリンストッキング(ガーター)",
 		"price": 101,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "ストッキング",
 		"defname": "Kurin_Stockings_Garterbelt"
 	},
 	{
 		"abr": "クーリンストッキング(白)",
 		"price": 101,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "ストッキング",
 		"defname": "Kurin_Stockings_White"
 	},
 	{
 		"abr": "クーリンストッキング(縞)",
 		"price": 101,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "ストッキング",
 		"defname": "Kurin_Stockings_Striped"
 	},
 	{
 		"abr": "クーリンストッキング(茶)",
 		"price": 101,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "ストッキング",
 		"defname": "Kurin_Stockings_Brown"
 	},
 	{
@@ -9159,7 +9147,7 @@
 	{
 		"abr": "クーリンダウンジャケット",
 		"price": 350,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "上着",
 		"defname": "Kurin_Shell_Winter_Padding"
 	},
 	{
@@ -9195,31 +9183,31 @@
 	{
 		"abr": "クーリンパーカー",
 		"price": 269,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Hoodie"
 	},
 	{
 		"abr": "クーリンパジャマa",
 		"price": 236,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Pajama_A"
 	},
 	{
 		"abr": "クーリンパジャマb",
 		"price": 236,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Pajama_B"
 	},
 	{
 		"abr": "クーリンパジャマc",
 		"price": 236,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Pajama_C"
 	},
 	{
 		"abr": "クーリンバックパック",
 		"price": 203,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "ユーティリティ",
 		"defname": "Kurin_Backpack_Civil"
 	},
 	{
@@ -9237,13 +9225,13 @@
 	{
 		"abr": "クーリンパンスト",
 		"price": 101,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "ストッキング",
 		"defname": "Kurin_Stockings_Pantyhose"
 	},
 	{
 		"abr": "クーリンパンツ",
 		"price": 191,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下衣",
 		"defname": "Kurin_Legs_Pants"
 	},
 	{
@@ -9267,7 +9255,7 @@
 	{
 		"abr": "クーリンブラウス",
 		"price": 191,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Shirt"
 	},
 	{
@@ -9297,7 +9285,7 @@
 	{
 		"abr": "クーリンヘアピン",
 		"price": 350,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "帽子",
 		"defname": "Kurin_Overhead_Casual_Hair_Pin"
 	},
 	{
@@ -9321,7 +9309,7 @@
 	{
 		"abr": "クーリンホットパンツ",
 		"price": 169,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Hot_Pants"
 	},
 	{
@@ -9405,13 +9393,13 @@
 	{
 		"abr": "クーリンロングコート",
 		"price": 315,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "上着",
 		"defname": "Kurin_Shell_Duster"
 	},
 	{
 		"abr": "クーリンロングスカート",
 		"price": 191,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下衣",
 		"defname": "Kurin_Legs_Long_Skirt"
 	},
 	{
@@ -9423,31 +9411,31 @@
 	{
 		"abr": "クーリン下着(白)",
 		"price": 101,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "肌着",
 		"defname": "Kurin_Underwear_White"
 	},
 	{
 		"abr": "クーリン下着(縞)",
 		"price": 101,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "肌着",
 		"defname": "Kurin_Underwear_Striped"
 	},
 	{
 		"abr": "クーリン下着(赤)",
 		"price": 101,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "肌着",
 		"defname": "Kurin_Underwear_Red"
 	},
 	{
 		"abr": "クーリン下着(魅)",
 		"price": 101,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "肌着",
 		"defname": "Kurin_Underwear_Slim"
 	},
 	{
 		"abr": "クーリン下着(黒)",
 		"price": 101,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "肌着",
 		"defname": "Kurin_Underwear_Black"
 	},
 	{
@@ -9465,19 +9453,19 @@
 	{
 		"abr": "クーリン作業用バックパック",
 		"price": 392,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "ユーティリティ",
 		"defname": "Kurin_Backpack_Worker"
 	},
 	{
 		"abr": "クーリン修道帽",
 		"price": 350,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "帽子",
 		"defname": "Kurin_Overhead_Nun_Headpiece"
 	},
 	{
 		"abr": "クーリン修道服",
 		"price": 400,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Nun_Dress"
 	},
 	{
@@ -9489,25 +9477,25 @@
 	{
 		"abr": "クーリン子供用tシャツ",
 		"price": 110,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_T_Shirt_Child"
 	},
 	{
 		"abr": "クーリン子供用ウインターハット",
 		"price": 65,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "帽子",
 		"defname": "Kurin_Overhead_Winter_Hat_Child"
 	},
 	{
 		"abr": "クーリン子供用オープンショルダーニット",
 		"price": 148,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Open_Shoulder_Knit_Child"
 	},
 	{
 		"abr": "クーリン子供用カーディガン",
 		"price": 181,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "上着",
 		"defname": "Kurin_Shell_Cardigan_Child"
 	},
 	{
@@ -9519,91 +9507,91 @@
 	{
 		"abr": "クーリン子供用サマーハット",
 		"price": 65,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "帽子",
 		"defname": "Kurin_Overhead_Summer_Hat_Child"
 	},
 	{
 		"abr": "クーリン子供用ジャンプスーツ",
 		"price": 323,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Work_Jumpsuit_Child"
 	},
 	{
 		"abr": "クーリン子供用ショートパンツ",
 		"price": 95,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下衣",
 		"defname": "Kurin_Legs_Shorts_Child"
 	},
 	{
 		"abr": "クーリン子供用シンプルドレス",
 		"price": 273,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Traditional_Simple_Dress_Child"
 	},
 	{
 		"abr": "クーリン子供用スカート",
 		"price": 95,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下衣",
 		"defname": "Kurin_Legs_Skirt_Child"
 	},
 	{
 		"abr": "クーリン子供用スカーフ",
 		"price": 65,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "着物",
 		"defname": "Kurin_Middle_Scarf_Child"
 	},
 	{
 		"abr": "クーリン子供用ストッキング(白)",
 		"price": 61,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "ストッキング",
 		"defname": "Kurin_Stockings_White_Child"
 	},
 	{
 		"abr": "クーリン子供用ストッキング(縞)",
 		"price": 61,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "ストッキング",
 		"defname": "Kurin_Stockings_Striped_Child"
 	},
 	{
 		"abr": "クーリン子供用ストッキング(茶)",
 		"price": 61,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "ストッキング",
 		"defname": "Kurin_Stockings_Brown_Child"
 	},
 	{
 		"abr": "クーリン子供用ダウンジャケット",
 		"price": 231,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "上着",
 		"defname": "Kurin_Shell_Winter_Padding_Child"
 	},
 	{
 		"abr": "クーリン子供用パーカー",
 		"price": 181,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Hoodie_Child"
 	},
 	{
 		"abr": "クーリン子供用パンスト",
 		"price": 61,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "ストッキング",
 		"defname": "Kurin_Stockings_Pantyhose_Child"
 	},
 	{
 		"abr": "クーリン子供用パンツ",
 		"price": 115,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下衣",
 		"defname": "Kurin_Legs_Pants_Child"
 	},
 	{
 		"abr": "クーリン子供用ブラウス",
 		"price": 110,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_Shirt_Child"
 	},
 	{
 		"abr": "クーリン子供用ヘアピン",
 		"price": 210,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "帽子",
 		"defname": "Kurin_Overhead_Casual_Hair_Pin_Child"
 	},
 	{
@@ -9621,19 +9609,19 @@
 	{
 		"abr": "クーリン子供用ロングコート",
 		"price": 197,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "上着",
 		"defname": "Kurin_Shell_Duster_Child"
 	},
 	{
 		"abr": "クーリン子供用ロングスカート",
 		"price": 115,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下衣",
 		"defname": "Kurin_Legs_Long_Skirt_Child"
 	},
 	{
 		"abr": "クーリン子供用ワンピース",
 		"price": 148,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "下着",
 		"defname": "Kurin_OnSkin_One_Piece_Dress_Child"
 	},
 	{
@@ -9651,13 +9639,13 @@
 	{
 		"abr": "devilstrandlasso",
 		"price": 500,
-		"category": "Melee Animation",
+		"category": "Lasso slot",
 		"defname": "AM_LassoDevilstrand"
 	},
 	{
 		"abr": "hyperwavelasso",
 		"price": 583,
-		"category": "Melee Animation",
+		"category": "Lasso slot",
 		"defname": "AM_LassoHyperwave"
 	},
 	{
@@ -9687,7 +9675,7 @@
 	{
 		"abr": "lasso",
 		"price": 250,
-		"category": "Melee Animation",
+		"category": "Lasso slot",
 		"defname": "AM_LassoCloth"
 	},
 	{
@@ -9701,48 +9689,6 @@
 		"price": 5833,
 		"category": "白兵戦武器",
 		"defname": "AM_Weebstick"
-	},
-	{
-		"abr": "アイティオンアーマー",
-		"price": 27025,
-		"category": "装甲化",
-		"defname": "HAR_IA_Armor_a"
-	},
-	{
-		"abr": "アイティオンヘルメット",
-		"price": 3392,
-		"category": "装甲化",
-		"defname": "HAR_IA_AH_a"
-	},
-	{
-		"abr": "アイティオンヘルメット",
-		"price": 3392,
-		"category": "装甲化",
-		"defname": "HAR_IA_AH_b"
-	},
-	{
-		"abr": "アオウミウシ",
-		"price": 167,
-		"category": "家畜",
-		"defname": "BiomesIslands_BlueSeaSnail"
-	},
-	{
-		"abr": "アオウミウシの卵(有精卵)",
-		"price": 33,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_BlueSeaSnailFertilized"
-	},
-	{
-		"abr": "アオガニ",
-		"price": 183,
-		"category": "家畜",
-		"defname": "BiomesIslands_BlueCrab"
-	},
-	{
-		"abr": "アオガニの卵(有精卵)",
-		"price": 58,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggBlueCrabFertilized"
 	},
 	{
 		"abr": "アマゾン",
@@ -9763,142 +9709,10 @@
 		"defname": "Meat_AA_Amazon"
 	},
 	{
-		"abr": "アルケーカードリッジ",
-		"price": 8333,
-		"category": "ドラッグ",
-		"defname": "HAR_IA_Item_ArcheCartridge"
-	},
-	{
-		"abr": "イシダイ",
-		"price": 200,
-		"category": "家畜",
-		"defname": "BMT_Parrotfish"
-	},
-	{
-		"abr": "イシダイの卵(有精卵)",
-		"price": 47,
-		"category": "卵(有精卵)",
-		"defname": "BMT_EggParrotfishFertilized"
-	},
-	{
-		"abr": "イデアーン・カルミデスa型",
-		"price": -10,
-		"category": "Animal",
-		"defname": "HAR_Idearn_Charmides_a"
-	},
-	{
-		"abr": "イデアーン・カルミデスa型の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_Idearn_Charmides_a"
-	},
-	{
-		"abr": "イデアーン・カルミデスb型",
-		"price": -10,
-		"category": "Animal",
-		"defname": "HAR_Idearn_Charmides_b"
-	},
-	{
-		"abr": "イデアーン・カルミデスb型の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_Idearn_Charmides_b"
-	},
-	{
-		"abr": "イデアーン・クリティアス",
-		"price": -10,
-		"category": "Animal",
-		"defname": "HAR_Idearn_Critias"
-	},
-	{
-		"abr": "イデアーン・クリティアスの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_Idearn_Critias"
-	},
-	{
-		"abr": "イデアーン・テアイテトスa型",
-		"price": -10,
-		"category": "Animal",
-		"defname": "HAR_Idearn_Theaetetus_a"
-	},
-	{
-		"abr": "イデアーン・テアイテトスa型の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_Idearn_Theaetetus_a"
-	},
-	{
-		"abr": "イデアーン・テアイテトスb型",
-		"price": -10,
-		"category": "Animal",
-		"defname": "HAR_Idearn_Theaetetus_b"
-	},
-	{
-		"abr": "イデアーン・テアイテトスb型の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_Idearn_Theaetetus_b"
-	},
-	{
-		"abr": "イデアーン・メネクセノスa型",
-		"price": -10,
-		"category": "Animal",
-		"defname": "HAR_Idearn_Menexenus_a"
-	},
-	{
-		"abr": "イデアーン・メネクセノスa型の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_Idearn_Menexenus_a"
-	},
-	{
-		"abr": "イデアーン・メネクセノスb型",
-		"price": -10,
-		"category": "Animal",
-		"defname": "HAR_Idearn_Menexenus_b"
-	},
-	{
-		"abr": "イデアーン・メネクセノスb型の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_Idearn_Menexenus_b"
-	},
-	{
-		"abr": "イデアーン・ラケス",
-		"price": -10,
-		"category": "Animal",
-		"defname": "HAR_Idearn_Laches_a"
-	},
-	{
-		"abr": "イデアーン・ラケスの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_Idearn_Laches_a"
-	},
-	{
-		"abr": "イトマキエイ",
-		"price": 2500,
-		"category": "家畜",
-		"defname": "BiomesIslands_MantaRay"
-	},
-	{
 		"abr": "いぬ",
 		"price": 667,
 		"category": "家畜",
 		"defname": "ExC_NEKO_Dog"
-	},
-	{
-		"abr": "イワシ",
-		"price": 25,
-		"category": "家畜",
-		"defname": "BiomesIslands_Sardine"
-	},
-	{
-		"abr": "イワシの卵(有精卵)",
-		"price": 17,
-		"category": "卵(有精卵)",
-		"defname": "EggSardineFertilized"
 	},
 	{
 		"abr": "うさぎ",
@@ -9919,208 +9733,16 @@
 		"defname": "ExC_NEKO_Horse"
 	},
 	{
-		"abr": "ウミイグアナ",
-		"price": 200,
-		"category": "家畜",
-		"defname": "BiomesIslands_MarineIguana"
-	},
-	{
-		"abr": "ウミイグアナの卵(有精卵)",
-		"price": 42,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggMarineIguanaFertilized"
-	},
-	{
-		"abr": "ウミイグアナの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BiomesIslands_MarineIguana"
-	},
-	{
-		"abr": "ウミウシの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BiomesIslands_BlueSeaSnail"
-	},
-	{
-		"abr": "ウミガメ",
-		"price": 1250,
-		"category": "家畜",
-		"defname": "BiomesIslands_SeaTurtle"
-	},
-	{
-		"abr": "ウミガメの卵(有精卵)",
-		"price": 58,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggSeaTurtleFertilized"
-	},
-	{
-		"abr": "ウミガメの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BiomesIslands_SeaTurtle"
-	},
-	{
-		"abr": "オーキッドドティバック",
-		"price": 25,
-		"category": "家畜",
-		"defname": "BMT_OrchidBasslet"
-	},
-	{
-		"abr": "オーキッドドティバックの卵(有精卵)",
-		"price": 17,
-		"category": "卵(有精卵)",
-		"defname": "BMT_EggOrchidBassletFertilized"
-	},
-	{
-		"abr": "オサガメ",
-		"price": 750,
-		"category": "家畜",
-		"defname": "BiomesIslands_LeatherbackTurtle"
-	},
-	{
-		"abr": "オサガメの卵(有精卵)",
-		"price": 67,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggLeatherbackTurtleFertilized"
-	},
-	{
-		"abr": "オメガドードー",
-		"price": 667,
-		"category": "家畜",
-		"defname": "BiomesIslands_OmegaDodo"
-	},
-	{
-		"abr": "オメガドードーの卵(有精卵)",
-		"price": 83,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggOmegaDodoFertilized"
-	},
-	{
-		"abr": "オメガドードーの卵(無精卵)",
-		"price": 83,
-		"category": "卵(無精卵)",
-		"defname": "BiomesIslands_EggOmegaDodoUnfertilized"
-	},
-	{
-		"abr": "オメガドードーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BiomesIslands_OmegaDodo"
-	},
-	{
-		"abr": "オルフェンウェア",
-		"price": 27025,
-		"category": "装甲化",
-		"defname": "HAR_IA_Armor_b"
-	},
-	{
-		"abr": "オレンジ",
-		"price": 2,
-		"category": "生野菜",
-		"defname": "BiomesIslands_Oranges"
-	},
-	{
-		"abr": "オレンジピールエンゼルフィッシュ",
-		"price": 25,
-		"category": "家畜",
-		"defname": "BMT_OrangepeelAngelfish"
-	},
-	{
-		"abr": "オレンジピールエンゼルフィッシュの卵(有精卵)",
-		"price": 17,
-		"category": "卵(有精卵)",
-		"defname": "BMT_EggOrangepeelAngelfishFertilized"
-	},
-	{
-		"abr": "カニの甲羅",
-		"price": 6,
-		"category": "革",
-		"defname": "BiomesCore_CrabShell"
-	},
-	{
-		"abr": "カニの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BiomesIslands_RimCrab"
-	},
-	{
 		"abr": "かめ",
 		"price": 833,
 		"category": "家畜",
 		"defname": "ExC_NEKO_Turtle"
 	},
 	{
-		"abr": "カモメ",
-		"price": 158,
-		"category": "家畜",
-		"defname": "BiomesIslands_Seagull"
-	},
-	{
-		"abr": "カモメの卵(有精卵)",
-		"price": 47,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggSeagullFertilized"
-	},
-	{
-		"abr": "カモメの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BiomesIslands_Seagull"
-	},
-	{
 		"abr": "からす",
 		"price": 2000,
 		"category": "家畜",
 		"defname": "ExC_NEKO_Crow"
-	},
-	{
-		"abr": "ガラパゴスゾウガメ",
-		"price": 583,
-		"category": "家畜",
-		"defname": "BiomesIslands_GalapagosTortoise"
-	},
-	{
-		"abr": "ガラパゴスゾウガメの卵(有精卵)",
-		"price": 55,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggGalapagosTortoiseFertilized"
-	},
-	{
-		"abr": "キーウィ",
-		"price": 133,
-		"category": "家畜",
-		"defname": "BiomesIslands_KiwiBird"
-	},
-	{
-		"abr": "キーウィの卵(有精卵)",
-		"price": 42,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggKiwiFertilized"
-	},
-	{
-		"abr": "キーウィの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BiomesIslands_KiwiBird"
-	},
-	{
-		"abr": "ギガンタコンダ",
-		"price": 700,
-		"category": "家畜",
-		"defname": "BiomesIslands_Gigantaconda"
-	},
-	{
-		"abr": "ギガンタコンダの卵(有精卵)",
-		"price": 147,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggGigantacondaFertilized"
-	},
-	{
-		"abr": "ギガンタコンダの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BiomesIslands_Gigantaconda"
 	},
 	{
 		"abr": "きつね",
@@ -10173,31 +9795,31 @@
 	{
 		"abr": "クーリン子供用下着(白)",
 		"price": 61,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "肌着",
 		"defname": "Kurin_Underwear_White_Child"
 	},
 	{
 		"abr": "クーリン子供用下着(縞)",
 		"price": 61,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "肌着",
 		"defname": "Kurin_Underwear_Striped_Child"
 	},
 	{
 		"abr": "クーリン子供用下着(赤)",
 		"price": 61,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "肌着",
 		"defname": "Kurin_Underwear_Red_Child"
 	},
 	{
 		"abr": "クーリン子供用下着(黒)",
 		"price": 61,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "肌着",
 		"defname": "Kurin_Underwear_Black_Child"
 	},
 	{
 		"abr": "クーリン子供用伝統的な髪飾り",
 		"price": 218,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "帽子",
 		"defname": "Kurin_Overhead_Traditional_Hair_Pin_Child"
 	},
 	{
@@ -10209,7 +9831,7 @@
 	{
 		"abr": "クーリン子供用野球帽",
 		"price": 65,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "帽子",
 		"defname": "Kurin_Overhead_Cap_Child"
 	},
 	{
@@ -10245,7 +9867,7 @@
 	{
 		"abr": "クーリン軍用バックパック",
 		"price": 383,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "ユーティリティ",
 		"defname": "Kurin_Backpack_Military"
 	},
 	{
@@ -10269,7 +9891,7 @@
 	{
 		"abr": "クーリン野球帽",
 		"price": 107,
-		"category": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+		"category": "帽子",
 		"defname": "Kurin_Overhead_Cap"
 	},
 	{
@@ -10417,28 +10039,10 @@
 		"defname": "Kurin_Fabricator_MeatConverter"
 	},
 	{
-		"abr": "クジラ",
-		"price": 3000,
-		"category": "家畜",
-		"defname": "BiomesIslands_Whale"
-	},
-	{
 		"abr": "くま",
 		"price": 1667,
 		"category": "家畜",
 		"defname": "ExC_NEKO_Bear"
-	},
-	{
-		"abr": "クラッタークラブ",
-		"price": 683,
-		"category": "家畜",
-		"defname": "BiomesIslands_ClutterCrab"
-	},
-	{
-		"abr": "クラッタークラブの卵(有精卵)",
-		"price": 92,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggClutterCrabFertilized"
 	},
 	{
 		"abr": "クリームトラねこ",
@@ -10451,36 +10055,6 @@
 		"price": 3,
 		"category": "髪の毛",
 		"defname": "ExC_Creamtora_Wool"
-	},
-	{
-		"abr": "グリーンモレイ",
-		"price": 333,
-		"category": "家畜",
-		"defname": "BMT_GreenEel"
-	},
-	{
-		"abr": "ココナッツ(サンゴ礁)",
-		"price": 7,
-		"category": "生野菜",
-		"defname": "BiomesIslands_Coconuts"
-	},
-	{
-		"abr": "コモドオオトカゲ",
-		"price": 450,
-		"category": "家畜",
-		"defname": "BMT_KomodoDragon"
-	},
-	{
-		"abr": "コモドオオトカゲの卵(有精卵)",
-		"price": 32,
-		"category": "卵(有精卵)",
-		"defname": "BMT_EggKomodoDragonFertilized"
-	},
-	{
-		"abr": "コモドオオトカゲの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BMT_KomodoDragon"
 	},
 	{
 		"abr": "さい",
@@ -10501,52 +10075,10 @@
 		"defname": "ExC_Tortoise_Wool"
 	},
 	{
-		"abr": "サメの皮",
-		"price": 9,
-		"category": "革",
-		"defname": "BiomesIslands_Leather_Sharkskin"
-	},
-	{
 		"abr": "さる",
 		"price": 667,
 		"category": "家畜",
 		"defname": "ExC_NEKO_Monkey"
-	},
-	{
-		"abr": "サンゴブロック",
-		"price": 2,
-		"category": "石材",
-		"defname": "BiomesIslands_BlocksCoral"
-	},
-	{
-		"abr": "サンフィンエンゼルフィッシュ",
-		"price": 25,
-		"category": "家畜",
-		"defname": "BMT_SunfinAngelfish"
-	},
-	{
-		"abr": "サンフィンエンゼルフィッシュの卵(有精卵)",
-		"price": 17,
-		"category": "卵(有精卵)",
-		"defname": "BMT_EggSunfinAngelfishFertilized"
-	},
-	{
-		"abr": "シェトランドポニー",
-		"price": 917,
-		"category": "家畜",
-		"defname": "BiomesIslands_ShetlandPony"
-	},
-	{
-		"abr": "シオマネキ",
-		"price": 183,
-		"category": "家畜",
-		"defname": "BiomesIslands_FiddlerCrab"
-	},
-	{
-		"abr": "シオマネキの卵(有精卵)",
-		"price": 58,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggFiddlerCrabFertilized"
 	},
 	{
 		"abr": "しか",
@@ -10565,12 +10097,6 @@
 		"price": 3,
 		"category": "髪の毛",
 		"defname": "ExC_Siamese_Wool"
-	},
-	{
-		"abr": "シュモクザメ",
-		"price": 1250,
-		"category": "家畜",
-		"defname": "BiomesIslands_Hammerhead"
 	},
 	{
 		"abr": "スマーティドリルテイル",
@@ -10595,12 +10121,6 @@
 		"price": 1667,
 		"category": "家畜",
 		"defname": "ExC_NEKO_Racoon"
-	},
-	{
-		"abr": "デビルズクローの葉",
-		"price": 2,
-		"category": "生野菜",
-		"defname": "BiomesIslands_Devilsclaw"
 	},
 	{
 		"abr": "とら",
@@ -10687,12 +10207,6 @@
 		"defname": "ExC_NEKO_Rat"
 	},
 	{
-		"abr": "パイナップル",
-		"price": 5,
-		"category": "生野菜",
-		"defname": "BiomesIslands_Pineapples"
-	},
-	{
 		"abr": "ハチワレねこ",
 		"price": 667,
 		"category": "家畜",
@@ -10703,12 +10217,6 @@
 		"price": 3,
 		"category": "髪の毛",
 		"defname": "ExC_Bicolor_Wool"
-	},
-	{
-		"abr": "バナナ",
-		"price": 2,
-		"category": "生野菜",
-		"defname": "BiomesIslands_Bananas"
 	},
 	{
 		"abr": "ぱんさー",
@@ -10727,12 +10235,6 @@
 		"price": 667,
 		"category": "家畜",
 		"defname": "ExC_NEKO_Sheep"
-	},
-	{
-		"abr": "フィーバニアラット",
-		"price": 58,
-		"category": "家畜",
-		"defname": "BiomesIslands_PhoebaniaRat"
 	},
 	{
 		"abr": "フィギュア:クリームトラねこ",
@@ -10807,40 +10309,10 @@
 		"defname": "ExC_CatFigurine_Kuro"
 	},
 	{
-		"abr": "フィシスミメシス",
-		"price": 2,
-		"category": "家畜",
-		"defname": "HAR_IA_M_Race_a"
-	},
-	{
-		"abr": "フィシスミメシスの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_IA_M_Race_a"
-	},
-	{
 		"abr": "ぶた",
 		"price": 667,
 		"category": "家畜",
 		"defname": "ExC_NEKO_Pig"
-	},
-	{
-		"abr": "フラミンゴ",
-		"price": 383,
-		"category": "家畜",
-		"defname": "BiomesIslands_Flamingo"
-	},
-	{
-		"abr": "フラミンゴの卵(有精卵)",
-		"price": 67,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggFlamingoFertilized"
-	},
-	{
-		"abr": "フラミンゴの皮",
-		"price": 5,
-		"category": "革",
-		"defname": "BiomesIslands_Leather_Flamingo"
 	},
 	{
 		"abr": "フロストセイバーの毛",
@@ -10867,22 +10339,10 @@
 		"defname": "ExC_Point_Wool"
 	},
 	{
-		"abr": "ホオジロザメ",
-		"price": 2500,
-		"category": "家畜",
-		"defname": "BiomesIslands_WhiteShark"
-	},
-	{
 		"abr": "ボマねこ",
 		"price": 667,
 		"category": "家畜",
 		"defname": "ExC_NEKO_BombCat"
-	},
-	{
-		"abr": "ボムクジラ",
-		"price": 3000,
-		"category": "家畜",
-		"defname": "BiomesIslands_BoomWhale"
 	},
 	{
 		"abr": "ホムラヤマネコの毛の毛",
@@ -10891,58 +10351,10 @@
 		"defname": "ExC_VolcanoLinx_Wool"
 	},
 	{
-		"abr": "マグロ",
-		"price": 500,
-		"category": "家畜",
-		"defname": "BiomesIslands_Tuna"
-	},
-	{
-		"abr": "マグロの卵(有精卵)",
-		"price": 58,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggTunaFertilized"
-	},
-	{
-		"abr": "マス",
-		"price": 200,
-		"category": "家畜",
-		"defname": "BiomesIslands_Trout"
-	},
-	{
-		"abr": "マスの卵(有精卵)",
-		"price": 47,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggTroutFertilized"
-	},
-	{
-		"abr": "マダイ",
-		"price": 500,
-		"category": "家畜",
-		"defname": "BiomesIslands_RedSnapper"
-	},
-	{
-		"abr": "マダイの卵(有精卵)",
-		"price": 58,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggRedSnapperFertilized"
-	},
-	{
 		"abr": "またたびの実",
 		"price": 1,
 		"category": "食物",
 		"defname": "ExC_Silvervine"
-	},
-	{
-		"abr": "マックフリール",
-		"price": 25,
-		"category": "家畜",
-		"defname": "BMT_Muckfrill"
-	},
-	{
-		"abr": "マックフリールの卵(有精卵)",
-		"price": 17,
-		"category": "卵(有精卵)",
-		"defname": "BMT_EggMuckfrillFertilized"
 	},
 	{
 		"abr": "まっふぁろー",
@@ -10951,76 +10363,10 @@
 		"defname": "ExC_NEKO_Muffalo"
 	},
 	{
-		"abr": "ミドリヤモリ",
-		"price": 333,
-		"category": "家畜",
-		"defname": "BiomesIslands_GreenGecko"
-	},
-	{
-		"abr": "ミドリヤモリの卵(有精卵)",
-		"price": 42,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggGreenGeckoFertilized"
-	},
-	{
-		"abr": "ミドリヤモリの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BiomesIslands_GreenGecko"
-	},
-	{
-		"abr": "ミュステリオン",
-		"price": 8758,
-		"category": "生産物",
-		"defname": "HAR_IA_Things_Mysterion"
-	},
-	{
 		"abr": "めがすろす",
 		"price": 2500,
 		"category": "家畜",
 		"defname": "ExC_NEKO_Megasloth"
-	},
-	{
-		"abr": "メカネウェアa",
-		"price": 6783,
-		"category": "装甲化",
-		"defname": "HAR_IA_tops_a"
-	},
-	{
-		"abr": "メカネウェアb",
-		"price": 6783,
-		"category": "装甲化",
-		"defname": "HAR_IA_tops_b"
-	},
-	{
-		"abr": "メカネウェアc",
-		"price": 6783,
-		"category": "装甲化",
-		"defname": "HAR_IA_tops_c"
-	},
-	{
-		"abr": "メガマンティス",
-		"price": 167,
-		"category": "家畜",
-		"defname": "BiomesIslands_Megamantis"
-	},
-	{
-		"abr": "メガマンティスの卵(有精卵)",
-		"price": 42,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggMegamantisFertilized"
-	},
-	{
-		"abr": "ヤドカリ",
-		"price": 183,
-		"category": "家畜",
-		"defname": "BiomesIslands_HermitCrab"
-	},
-	{
-		"abr": "ヤドカリの卵(有精卵)",
-		"price": 58,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggHermitCrabFertilized"
 	},
 	{
 		"abr": "やまねこ",
@@ -11029,46 +10375,10 @@
 		"defname": "ExC_NEKO_Linx"
 	},
 	{
-		"abr": "ライムピールエンジェルフィッシュの卵(有精卵)",
-		"price": 17,
-		"category": "卵(有精卵)",
-		"defname": "EggLimepeelAngelfishFertilized"
-	},
-	{
-		"abr": "ライムピールエンゼルフィッシュ",
-		"price": 25,
-		"category": "家畜",
-		"defname": "BiomesIslands_LimepeelAngelfish"
-	},
-	{
-		"abr": "ラッコ",
-		"price": 417,
-		"category": "家畜",
-		"defname": "BMT_SeaOtter"
-	},
-	{
-		"abr": "ラッコの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BMT_SeaOtter"
-	},
-	{
 		"abr": "りす",
 		"price": 667,
 		"category": "家畜",
 		"defname": "ExC_NEKO_Squirrel"
-	},
-	{
-		"abr": "リムクラブ",
-		"price": 183,
-		"category": "家畜",
-		"defname": "BiomesIslands_RimCrab"
-	},
-	{
-		"abr": "リムクラブの卵(有精卵)",
-		"price": 58,
-		"category": "卵(有精卵)",
-		"defname": "BiomesIslands_EggRimCrabFertilized"
 	},
 	{
 		"abr": "リリン",
@@ -11149,22 +10459,10 @@
 		"defname": "ExC_BeckoningCat"
 	},
 	{
-		"abr": "昆布ベッド",
-		"price": 119,
-		"category": "家具",
-		"defname": "BiomesIslands_AquaticKelpBed"
-	},
-	{
 		"abr": "最先端コンポーネント",
 		"price": 2000,
 		"category": "特殊品",
 		"defname": "Kurin_Ultra_Component"
-	},
-	{
-		"abr": "水かき",
-		"price": 191,
-		"category": "Biomes! Islands",
-		"defname": "BMT_Apparel_Flippers"
 	},
 	{
 		"abr": "灰ねこ",
@@ -11177,12 +10475,6 @@
 		"price": 3,
 		"category": "髪の毛",
 		"defname": "ExC_Ash_Wool"
-	},
-	{
-		"abr": "灰色キチン",
-		"price": 4,
-		"category": "革",
-		"defname": "BMT_GrayChitin"
 	},
 	{
 		"abr": "狸",
@@ -11201,12 +10493,6 @@
 		"price": 4,
 		"category": "髪の毛",
 		"defname": "ExC_Lion_Wool"
-	},
-	{
-		"abr": "異種族用ミシン台",
-		"price": 508,
-		"category": "生産物",
-		"defname": "HTBench_HAR"
 	},
 	{
 		"abr": "白ねこ",
@@ -11233,18 +10519,6 @@
 		"defname": "ExC_WhiteTiger_Wool"
 	},
 	{
-		"abr": "緑色キチン",
-		"price": 7,
-		"category": "革",
-		"defname": "BiomesCore_GreenChitin"
-	},
-	{
-		"abr": "腹足類の皮",
-		"price": 3,
-		"category": "革",
-		"defname": "BMT_Leather_Gastropoda"
-	},
-	{
 		"abr": "茶虎ねこ",
 		"price": 667,
 		"category": "家畜",
@@ -11267,12 +10541,6 @@
 		"price": 5,
 		"category": "髪の毛",
 		"defname": "ExC_RedLion_Wool"
-	},
-	{
-		"abr": "軟体動物の殻",
-		"price": 6,
-		"category": "革",
-		"defname": "BMT_Molluskshell"
 	},
 	{
 		"abr": "通販端末",
@@ -11299,24 +10567,6 @@
 		"defname": "ExC_Thunder_Wool"
 	},
 	{
-		"abr": "魚の皮",
-		"price": 3,
-		"category": "革",
-		"defname": "BiomesIslands_Leather_Fishskin"
-	},
-	{
-		"abr": "魚の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "BMT_FishMeat"
-	},
-	{
-		"abr": "魚の餌",
-		"price": 2,
-		"category": "食物",
-		"defname": "BiomesIslands_FishFood"
-	},
-	{
 		"abr": "鯖虎ねこ",
 		"price": 667,
 		"category": "家畜",
@@ -11329,18 +10579,6 @@
 		"defname": "ExC_Sabatora_Wool"
 	},
 	{
-		"abr": "鯨の皮",
-		"price": 7,
-		"category": "革",
-		"defname": "BiomesIslands_Leather_Whaleskin"
-	},
-	{
-		"abr": "鯨脂",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BiomesIslands_Whale"
-	},
-	{
 		"abr": "黒ねこ",
 		"price": 667,
 		"category": "家畜",
@@ -11351,18 +10589,6 @@
 		"price": 3,
 		"category": "髪の毛",
 		"defname": "ExC_Kuro_Wool"
-	},
-	{
-		"abr": "黒曜魚",
-		"price": 25,
-		"category": "家畜",
-		"defname": "BMT_Obsidianfin"
-	},
-	{
-		"abr": "黒曜魚の卵(有精卵)",
-		"price": 17,
-		"category": "卵(有精卵)",
-		"defname": "BMT_EggObsidianfinFertilized"
 	},
 	{
 		"abr": "アークメイジのローブ",
@@ -11397,7 +10623,7 @@
 	{
 		"abr": "ウィザードハット",
 		"price": 392,
-		"category": "A RimWorld of Magic",
+		"category": "帽子",
 		"defname": "TM_WizardHat"
 	},
 	{
@@ -11583,7 +10809,7 @@
 	{
 		"abr": "ヘイラコンバットグラス",
 		"price": 1558,
-		"category": "Heyra the Horned",
+		"category": "帽子",
 		"defname": "Heyra_Aimbot"
 	},
 	{
@@ -11655,7 +10881,7 @@
 	{
 		"abr": "ヘイラ大鍋",
 		"price": 342,
-		"category": "Heyra the Horned",
+		"category": "着物",
 		"defname": "Heyra_Wok"
 	},
 	{
@@ -11823,7 +11049,7 @@
 	{
 		"abr": "ヘイラ鉄兜",
 		"price": 153,
-		"category": "Heyra the Horned",
+		"category": "帽子",
 		"defname": "Heyra_Soldierhelmet"
 	},
 	{
@@ -11967,7 +11193,7 @@
 	{
 		"abr": "ロン四目面具",
 		"price": 80,
-		"category": "Heyra the Horned",
+		"category": "帽子",
 		"defname": "Heyra_Rong_MaskA"
 	},
 	{
@@ -11991,7 +11217,7 @@
 	{
 		"abr": "ロン長耳面具",
 		"price": 80,
-		"category": "Heyra the Horned",
+		"category": "帽子",
 		"defname": "Heyra_Rong_MaskB"
 	},
 	{
@@ -12015,7 +11241,7 @@
 	{
 		"abr": "久遠のオーブ",
 		"price": 2500,
-		"category": "A RimWorld of Magic",
+		"category": "無し",
 		"defname": "TM_Artifact_OrbOfEternal"
 	},
 	{
@@ -12111,13 +11337,13 @@
 	{
 		"abr": "信念のオーブ",
 		"price": 2500,
-		"category": "A RimWorld of Magic",
+		"category": "アーティファクト",
 		"defname": "TM_Artifact_OrbOfConviction"
 	},
 	{
 		"abr": "偏向の篭手",
 		"price": 1558,
-		"category": "A RimWorld of Magic",
+		"category": "アーティファクト",
 		"defname": "TM_Artifact_BracersOfDeflection"
 	},
 	{
@@ -12147,7 +11373,7 @@
 	{
 		"abr": "剛勇の兜",
 		"price": 975,
-		"category": "A RimWorld of Magic",
+		"category": "帽子",
 		"defname": "RoyalHelm"
 	},
 	{
@@ -12195,7 +11421,7 @@
 	{
 		"abr": "古代の鎖帷子",
 		"price": 2742,
-		"category": "A RimWorld of Magic",
+		"category": "着物",
 		"defname": "AncientMail"
 	},
 	{
@@ -12309,25 +11535,25 @@
 	{
 		"abr": "巻物：祖霊の絆",
 		"price": 417,
-		"category": "A RimWorld of Magic",
+		"category": "無し",
 		"defname": "MagicArtifact_RerollSpiritBond"
 	},
 	{
 		"abr": "平和主義者の篭手",
 		"price": 6375,
-		"category": "A RimWorld of Magic",
+		"category": "アーティファクト",
 		"defname": "TM_Artifact_BracersOfThePacifist"
 	},
 	{
 		"abr": "怨念の指輪",
 		"price": 3167,
-		"category": "A RimWorld of Magic",
+		"category": "アーティファクト",
 		"defname": "TM_Artifact_RingOfMalice"
 	},
 	{
 		"abr": "悠久なる青の指輪",
 		"price": 3333,
-		"category": "A RimWorld of Magic",
+		"category": "アーティファクト",
 		"defname": "TM_Artifact_RingOfEternalBlue"
 	},
 	{
@@ -12345,7 +11571,7 @@
 	{
 		"abr": "戦いの見識の宝石",
 		"price": 4000,
-		"category": "A RimWorld of Magic",
+		"category": "無し",
 		"defname": "GemstoneOfInsight_Might"
 	},
 	{
@@ -12489,7 +11715,7 @@
 	{
 		"abr": "技能のエッセンス",
 		"price": 833,
-		"category": "A RimWorld of Magic",
+		"category": "無し",
 		"defname": "TM_MagicArtifact_MightEssence"
 	},
 	{
@@ -12549,7 +11775,7 @@
 	{
 		"abr": "死霊術のオーブ",
 		"price": 3000,
-		"category": "A RimWorld of Magic",
+		"category": "アーティファクト",
 		"defname": "TM_Artifact_NecroticOrb"
 	},
 	{
@@ -13221,13 +12447,13 @@
 	{
 		"abr": "鋭い知性の指輪",
 		"price": 3500,
-		"category": "A RimWorld of Magic",
+		"category": "アーティファクト",
 		"defname": "TM_Artifact_RingOfKeenIntellect"
 	},
 	{
 		"abr": "防護の篭手",
 		"price": 1483,
-		"category": "A RimWorld of Magic",
+		"category": "アーティファクト",
 		"defname": "TM_Artifact_BracersOfDefense"
 	},
 	{
@@ -13251,7 +12477,7 @@
 	{
 		"abr": "霊統の欠片",
 		"price": 1167,
-		"category": "A RimWorld of Magic",
+		"category": "無し",
 		"defname": "TM_Artifact_ClassExtraction"
 	},
 	{
@@ -13269,13 +12495,13 @@
 	{
 		"abr": "魂のオーブ(満)",
 		"price": 2500,
-		"category": "A RimWorld of Magic",
+		"category": "アーティファクト",
 		"defname": "TM_Artifact_OrbOfSouls_Full"
 	},
 	{
 		"abr": "魂のオーブ(空)",
 		"price": 2500,
-		"category": "A RimWorld of Magic",
+		"category": "アーティファクト",
 		"defname": "TM_Artifact_OrbOfSouls"
 	},
 	{
@@ -13593,13 +12819,13 @@
 	{
 		"abr": "魔法の見識の宝石",
 		"price": 5000,
-		"category": "A RimWorld of Magic",
+		"category": "無し",
 		"defname": "GemstoneOfInsight_Magic"
 	},
 	{
 		"abr": "魔術のエッセンス",
 		"price": 833,
-		"category": "A RimWorld of Magic",
+		"category": "無し",
 		"defname": "TM_MagicArtifact_MagicEssence"
 	},
 	{
@@ -13611,19 +12837,19 @@
 	{
 		"abr": "魔除けの外套",
 		"price": 4242,
-		"category": "A RimWorld of Magic",
+		"category": "上着",
 		"defname": "TM_DreamcatcherBuckskin"
 	},
 	{
 		"abr": "魔除けの宝冠",
 		"price": 3008,
-		"category": "A RimWorld of Magic",
+		"category": "帽子",
 		"defname": "TM_DreamcatcherCoronet"
 	},
 	{
 		"abr": "鮮血の指輪",
 		"price": 3167,
-		"category": "A RimWorld of Magic",
+		"category": "アーティファクト",
 		"defname": "TM_Artifact_RingOfBlood"
 	},
 	{
@@ -13848,6 +13074,2778 @@
 		"category": "カセット",
 		"defname": "LJO_CartPS"
 	},
+	{
+		"abr": "autobroadcasterchargingstation",
+		"price": 1650,
+		"category": "生産物",
+		"defname": "VFE_Mechanoids_AutobroadcasterBase"
+	},
+	{
+		"abr": "autocrane",
+		"price": 4750,
+		"category": "生産物",
+		"defname": "VFEM_Autocrane"
+	},
+	{
+		"abr": "auto-medicchargingstation",
+		"price": 1850,
+		"category": "生産物",
+		"defname": "VFE_Mechanoids_AutoMedicBase"
+	},
+	{
+		"abr": "autostriderchargingstation",
+		"price": 1850,
+		"category": "生産物",
+		"defname": "VFE_Mechanoids_AutostriderBase"
+	},
+	{
+		"abr": "harbinger(fxts)",
+		"price": 15775,
+		"category": "建築物",
+		"defname": "Kurin_Shuttle_FXTSA"
+	},
+	{
+		"abr": "mechanitepants",
+		"price": 600,
+		"category": "下着",
+		"defname": "VFE_MechanitePants"
+	},
+	{
+		"abr": "mechaniteunderarmor",
+		"price": 683,
+		"category": "下着",
+		"defname": "VFE_MechaniteUnderArmor"
+	},
+	{
+		"abr": "motherland(fxhts)",
+		"price": 22775,
+		"category": "建築物",
+		"defname": "Kurin_Shuttle_FXTSB"
+	},
+	{
+		"abr": "pyromechanoidchargingstation",
+		"price": 2467,
+		"category": "生産物",
+		"defname": "VFE_Mechanoids_PyroBase"
+	},
+	{
+		"abr": "raidermechanoidchargingstation",
+		"price": 2925,
+		"category": "生産物",
+		"defname": "VFE_Mechanoids_RaiderBase"
+	},
+	{
+		"abr": "smallinfernospewer",
+		"price": 2333,
+		"category": "遠距離武器",
+		"defname": "VFE_Gun_InfernoSpewerSmall"
+	},
+	{
+		"abr": "sraf:カナリア",
+		"price": 20258,
+		"category": "建築物",
+		"defname": "SRAF"
+	},
+	{
+		"abr": "srts:mk-1スキップ",
+		"price": 9150,
+		"category": "建築物",
+		"defname": "SRTSSkip"
+	},
+	{
+		"abr": "srts:mk-2アルバトロス",
+		"price": 29875,
+		"category": "建築物",
+		"defname": "SRTSMkII"
+	},
+	{
+		"abr": "srts:mk-3フェニックス",
+		"price": 52792,
+		"category": "建築物",
+		"defname": "SRTSMkIII"
+	},
+	{
+		"abr": "srts:mk-3p型ペリカン",
+		"price": 61100,
+		"category": "建築物",
+		"defname": "SRTSMkIIIp"
+	},
+	{
+		"abr": "srts:mk-4ジェネシス",
+		"price": 218617,
+		"category": "建築物",
+		"defname": "SRTSMkIV"
+	},
+	{
+		"abr": "srts:tek-7",
+		"price": 31292,
+		"category": "建築物",
+		"defname": "SRAFTek"
+	},
+	{
+		"abr": "インフェルノキャノンタレット",
+		"price": 1675,
+		"category": "防衛",
+		"defname": "VFE_Turret_AutoInfernoCannon"
+	},
+	{
+		"abr": "インフェルノスピューワー",
+		"price": 2333,
+		"category": "遠距離武器",
+		"defname": "VFE_Gun_InfernoSpewer"
+	},
+	{
+		"abr": "カセット（洞窟冒険おじさん）",
+		"price": 167,
+		"category": "カセット",
+		"defname": "LJO_CartSP"
+	},
+	{
+		"abr": "カセット（犬が如く）",
+		"price": 167,
+		"category": "カセット",
+		"defname": "LJO_CartGD"
+	},
+	{
+		"abr": "カセット（生死の半減期）",
+		"price": 167,
+		"category": "カセット",
+		"defname": "LJO_CartHL"
+	},
+	{
+		"abr": "カセット（精神潜入工作員）",
+		"price": 167,
+		"category": "カセット",
+		"defname": "LJO_CartPK"
+	},
+	{
+		"abr": "カセット（自家製）",
+		"price": 167,
+		"category": "カセット",
+		"defname": "LJO_CartHomebrew"
+	},
+	{
+		"abr": "カセット（電子模擬世界人の一生）",
+		"price": 167,
+		"category": "カセット",
+		"defname": "LJO_CartTZ"
+	},
+	{
+		"abr": "カニ(生)",
+		"price": 33,
+		"category": "生の魚",
+		"defname": "RF_Crab"
+	},
+	{
+		"abr": "カニの握り寿司",
+		"price": 33,
+		"category": "調理済",
+		"defname": "MealSushiCrab"
+	},
+	{
+		"abr": "カニの身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "RawCrabMeat"
+	},
+	{
+		"abr": "カニ籠",
+		"price": 38,
+		"category": "生産物",
+		"defname": "ShellfishTrap"
+	},
+	{
+		"abr": "キャビア",
+		"price": 67,
+		"category": "魚介",
+		"defname": "Caviar"
+	},
+	{
+		"abr": "クラゲ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Jellyfish"
+	},
+	{
+		"abr": "クラゲの肉",
+		"price": 2,
+		"category": "魚介",
+		"defname": "JellyfishMeat"
+	},
+	{
+		"abr": "ゲーム機製作台",
+		"price": 542,
+		"category": "生産物",
+		"defname": "LJO_TableArcadeConstruction"
+	},
+	{
+		"abr": "コンジットパイロン",
+		"price": 185,
+		"category": "その他",
+		"defname": "VFE_ConduitPylon"
+	},
+	{
+		"abr": "コンバットメカノイド充電ステーション",
+		"price": 2042,
+		"category": "生産物",
+		"defname": "VFE_Mechanoids_CombatBase"
+	},
+	{
+		"abr": "コンベアーオーブン",
+		"price": 3925,
+		"category": "生産物",
+		"defname": "VFEM_ProvisionsPackagingFactory_ConveyorOven"
+	},
+	{
+		"abr": "コンポーネント組立機",
+		"price": 5650,
+		"category": "生産物",
+		"defname": "VFEM_ElectronicsFabricationFactory_ComponentAssembler"
+	},
+	{
+		"abr": "サーフ＆ターフ",
+		"price": 42,
+		"category": "調理済",
+		"defname": "MealSurfAndTurf"
+	},
+	{
+		"abr": "サーモンの切り身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "RawSalmonMeat"
+	},
+	{
+		"abr": "サーモンの握り寿司",
+		"price": 33,
+		"category": "調理済",
+		"defname": "MealSushiSalmon"
+	},
+	{
+		"abr": "サケ(生)",
+		"price": 300,
+		"category": "生の魚",
+		"defname": "RF_Salmon"
+	},
+	{
+		"abr": "さすまた",
+		"price": 442,
+		"category": "白兵戦武器",
+		"defname": "GHG_Sasumata"
+	},
+	{
+		"abr": "ザリガニ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Crayfish"
+	},
+	{
+		"abr": "シンスレッド変換器",
+		"price": 11592,
+		"category": "生産物",
+		"defname": "VFEM_WearablesAndTextileFactory_SynthreadSynthesizer"
+	},
+	{
+		"abr": "スーパーポッド",
+		"price": 6958,
+		"category": "建築物",
+		"defname": "SRTSSuperpod"
+	},
+	{
+		"abr": "スーパーコンピューター",
+		"price": 2267,
+		"category": "生産物",
+		"defname": "VFE_Supercomputer"
+	},
+	{
+		"abr": "スチール抽出器",
+		"price": 3800,
+		"category": "生産物",
+		"defname": "VFEM_ElectronicsFabricationFactory_SteelExtractor"
+	},
+	{
+		"abr": "ソフトが入っていないアーケードゲーム機",
+		"price": 833,
+		"category": "アーケードゲーム",
+		"defname": "LJO_ArcadeEmpty"
+	},
+	{
+		"abr": "そろばん",
+		"price": 583,
+		"category": "白兵戦武器",
+		"defname": "GHG_Soroban"
+	},
+	{
+		"abr": "タイ(生)",
+		"price": 100,
+		"category": "生の魚",
+		"defname": "RF_FishB"
+	},
+	{
+		"abr": "タコ(生)",
+		"price": 100,
+		"category": "生の魚",
+		"defname": "RF_Octopus"
+	},
+	{
+		"abr": "タコの切り身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "RawOctopusMeat"
+	},
+	{
+		"abr": "タコの握り寿司",
+		"price": 33,
+		"category": "調理済",
+		"defname": "MealSushiOctopus"
+	},
+	{
+		"abr": "タラバガニ(生)",
+		"price": 100,
+		"category": "生の魚",
+		"defname": "RF_Kingcrab"
+	},
+	{
+		"abr": "チャージブラスタータレット",
+		"price": 1525,
+		"category": "防衛",
+		"defname": "VFE_Turret_AutoChargeBlaster"
+	},
+	{
+		"abr": "チャージランスタレット",
+		"price": 1525,
+		"category": "防衛",
+		"defname": "VFE_Turret_AutoChargeLance"
+	},
+	{
+		"abr": "チョウザメ(生)",
+		"price": 133,
+		"category": "生の魚",
+		"defname": "RF_Sturgeon"
+	},
+	{
+		"abr": "チョウザメ(生)",
+		"price": 133,
+		"category": "生の魚",
+		"defname": "RF_SturgeonCaviar"
+	},
+	{
+		"abr": "ツノ補修キット",
+		"price": 400,
+		"category": "人造",
+		"defname": "GHG_HornRepairKit"
+	},
+	{
+		"abr": "ドラッグ製造機",
+		"price": 8533,
+		"category": "生産物",
+		"defname": "VFEM_MedicinalCompoundingFactory_DrugPowderizer"
+	},
+	{
+		"abr": "トンファー",
+		"price": 307,
+		"category": "白兵戦武器",
+		"defname": "GHG_Tonfa"
+	},
+	{
+		"abr": "ナマコ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_SeaCucumber"
+	},
+	{
+		"abr": "ナマコの身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "SeaCucumberMeat"
+	},
+	{
+		"abr": "ナマズ(生)",
+		"price": 138,
+		"category": "生の魚",
+		"defname": "RF_Catfish"
+	},
+	{
+		"abr": "ニュートロアミン注入器",
+		"price": 4692,
+		"category": "生産物",
+		"defname": "VFEM_MedicinalCompoundingFactory_NeutroamineInfuser"
+	},
+	{
+		"abr": "dragonstatueritual",
+		"price": 1508,
+		"category": "芸術品",
+		"defname": "DD_DragonStatueRitual_Grand"
+	},
+	{
+		"abr": "dragonstatueritual",
+		"price": 1042,
+		"category": "芸術品",
+		"defname": "DD_DragonStatueRitual_Large"
+	},
+	{
+		"abr": "dragonstatueritual",
+		"price": 833,
+		"category": "芸術品",
+		"defname": "DD_DragonStatueRitual_Small"
+	},
+	{
+		"abr": "raredragonleather",
+		"price": 38,
+		"category": "革",
+		"defname": "Rare_Dragon_Leather"
+	},
+	{
+		"abr": "イエロードラゴン",
+		"price": 11000,
+		"category": "家畜",
+		"defname": "Yellow_Dragon"
+	},
+	{
+		"abr": "イエロードラゴンの卵(有精卵)",
+		"price": 4167,
+		"category": "ドラゴンの卵(受精)",
+		"defname": "EggYellowDragonFertilized"
+	},
+	{
+		"abr": "ウィングケープ",
+		"price": 425,
+		"category": "上着",
+		"defname": "DD_Apparel_WingCape"
+	},
+	{
+		"abr": "グリーンドラゴン",
+		"price": 11000,
+		"category": "家畜",
+		"defname": "Green_Dragon"
+	},
+	{
+		"abr": "グリーンドラゴンの卵(有精卵)",
+		"price": 4167,
+		"category": "ドラゴンの卵(受精)",
+		"defname": "EggGreenDragonFertilized"
+	},
+	{
+		"abr": "ゴールドドラゴン",
+		"price": 13167,
+		"category": "家畜",
+		"defname": "Gold_Dragon"
+	},
+	{
+		"abr": "ゴールドドラゴンの卵(有精卵)",
+		"price": 6833,
+		"category": "ドラゴンの卵(受精)",
+		"defname": "EggGoldDragonFertilized"
+	},
+	{
+		"abr": "サイキック老化の槍",
+		"price": 3083,
+		"category": "アーティファクト",
+		"defname": "PubertyLance"
+	},
+	{
+		"abr": "ジュエルベリー",
+		"price": 3,
+		"category": "生野菜",
+		"defname": "JewelBerries"
+	},
+	{
+		"abr": "ジュエル根茎",
+		"price": 3,
+		"category": "生野菜",
+		"defname": "Jeweledrhizomeraw"
+	},
+	{
+		"abr": "シルバードラゴン",
+		"price": 13167,
+		"category": "家畜",
+		"defname": "Silver_Dragon"
+	},
+	{
+		"abr": "シルバードラゴンの卵(有精卵)",
+		"price": 6833,
+		"category": "ドラゴンの卵(受精)",
+		"defname": "EggSilverDragonFertilized"
+	},
+	{
+		"abr": "スケールヘルメット",
+		"price": 189,
+		"category": "帽子",
+		"defname": "DD_Apparel_ScaleHelm"
+	},
+	{
+		"abr": "スケールメイル",
+		"price": 675,
+		"category": "装甲化",
+		"defname": "DD_Apparel_ScaleMail"
+	},
+	{
+		"abr": "スランボバトルアックス",
+		"price": 1833,
+		"category": "白兵戦武器",
+		"defname": "DDMeleeWeapon_ThrumboBattleAxe"
+	},
+	{
+		"abr": "ダブルクロスボウ",
+		"price": 500,
+		"category": "遠距離武器",
+		"defname": "DD_Bow_DoubleCrossbow"
+	},
+	{
+		"abr": "ドラゴニックアンブロージア",
+		"price": 60,
+		"category": "ドラッグ",
+		"defname": "DraconicAmbrosia"
+	},
+	{
+		"abr": "ドラゴンクラウン",
+		"price": 1683,
+		"category": "ロイヤリティ",
+		"defname": "DD_Apparel_DragonCrown"
+	},
+	{
+		"abr": "ドラゴンの卵(無精)",
+		"price": 42,
+		"category": "卵(無精卵)",
+		"defname": "EggDragonUnfertilized"
+	},
+	{
+		"abr": "ドラゴンの巣",
+		"price": 44,
+		"category": "家具",
+		"defname": "DragonNest"
+	},
+	{
+		"abr": "ドラゴンの枕",
+		"price": 206,
+		"category": "家具",
+		"defname": "DragonPillow"
+	},
+	{
+		"abr": "ドラゴンの皮",
+		"price": 29,
+		"category": "革",
+		"defname": "Dragon_Leather"
+	},
+	{
+		"abr": "ドラゴンの祭壇",
+		"price": 675,
+		"category": "家具",
+		"defname": "Altar"
+	},
+	{
+		"abr": "ドラゴンの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Red_Dragon"
+	},
+	{
+		"abr": "ドラゴンの血薬",
+		"price": 97,
+		"category": "ドラッグ",
+		"defname": "DragonsBlood"
+	},
+	{
+		"abr": "ドラゴンの角",
+		"price": 1450,
+		"category": "物品",
+		"defname": "DragonHorn"
+	},
+	{
+		"abr": "ドラゴンファイア・ランチャー",
+		"price": 5000,
+		"category": "遠距離武器",
+		"defname": "DD_Gun_DragonfireLauncher"
+	},
+	{
+		"abr": "ドラチェンソード",
+		"price": 3667,
+		"category": "白兵戦武器",
+		"defname": "DD_MeleeWeapon_DrachenSword"
+	},
+	{
+		"abr": "ハードスケール",
+		"price": 6,
+		"category": "原材料",
+		"defname": "HardScale"
+	},
+	{
+		"abr": "パープルドラゴン",
+		"price": 11000,
+		"category": "家畜",
+		"defname": "Purple_Dragon"
+	},
+	{
+		"abr": "パープルドラゴンの卵(有精卵)",
+		"price": 4167,
+		"category": "ドラゴンの卵(受精)",
+		"defname": "EggPurpleDragonFertilized"
+	},
+	{
+		"abr": "パエリア",
+		"price": 75,
+		"category": "調理済",
+		"defname": "MealSeafoodPaella"
+	},
+	{
+		"abr": "バス(生)",
+		"price": 75,
+		"category": "生の魚",
+		"defname": "RF_Bass"
+	},
+	{
+		"abr": "ヒスイドラゴン",
+		"price": 13167,
+		"category": "家畜",
+		"defname": "Jade_Dragon"
+	},
+	{
+		"abr": "ヒスイドラゴンの卵(有精卵)",
+		"price": 6833,
+		"category": "ドラゴンの卵(受精)",
+		"defname": "EggJadeDragonFertilized"
+	},
+	{
+		"abr": "ピュアドラゴン",
+		"price": 13167,
+		"category": "家畜",
+		"defname": "True_Dragon"
+	},
+	{
+		"abr": "ピュアドラゴンの卵(有精卵)",
+		"price": 11083,
+		"category": "ドラゴンの卵(受精)",
+		"defname": "EggTrueDragonFertilized"
+	},
+	{
+		"abr": "ピュアドラゴンの皮",
+		"price": 71,
+		"category": "革",
+		"defname": "True_Dragon_Leather"
+	},
+	{
+		"abr": "ピラニア(生)",
+		"price": 62,
+		"category": "生の魚",
+		"defname": "RF_Piranha"
+	},
+	{
+		"abr": "ピラルク(生)",
+		"price": 175,
+		"category": "生の魚",
+		"defname": "RF_Arapaima"
+	},
+	{
+		"abr": "ファクトリーホッパー",
+		"price": 138,
+		"category": "生産物",
+		"defname": "VFEM_HeavyHopper"
+	},
+	{
+		"abr": "フォーカストーム",
+		"price": 2667,
+		"category": "白兵戦武器",
+		"defname": "DDMeleeWeapon_FocusingTome"
+	},
+	{
+		"abr": "フグ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Pufferfish"
+	},
+	{
+		"abr": "フグの切り身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "PufferfishMeat"
+	},
+	{
+		"abr": "プラスチール鍛造所",
+		"price": 13058,
+		"category": "生産物",
+		"defname": "VFEM_MasonryAndMetallicsFactory_PlasteelForge"
+	},
+	{
+		"abr": "ブラックドラゴン",
+		"price": 11000,
+		"category": "家畜",
+		"defname": "Black_Dragon"
+	},
+	{
+		"abr": "ブラックドラゴンの卵(有精卵)",
+		"price": 5333,
+		"category": "ドラゴンの卵(受精)",
+		"defname": "EggBlackDragonFertilized"
+	},
+	{
+		"abr": "ブルードラゴン",
+		"price": 11000,
+		"category": "家畜",
+		"defname": "Blue_Dragon"
+	},
+	{
+		"abr": "ブルードラゴンの卵(有精卵)",
+		"price": 4167,
+		"category": "ドラゴンの卵(受精)",
+		"defname": "EggBlueDragonFertilized"
+	},
+	{
+		"abr": "ホタテ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Scallops"
+	},
+	{
+		"abr": "drevaスーツ",
+		"price": 3850,
+		"category": "装甲化",
+		"defname": "DR_EVA_Suit"
+	},
+	{
+		"abr": "drevaヘルメット",
+		"price": 1433,
+		"category": "装甲化",
+		"defname": "DR_EVA_Helmet"
+	},
+	{
+		"abr": "drかんざし",
+		"price": 842,
+		"category": "ロイヤリティ",
+		"defname": "DR_JapanHairAcc"
+	},
+	{
+		"abr": "drドレイククロウ",
+		"price": 1667,
+		"category": "白兵戦武器",
+		"defname": "MeleeWeapon_Drakesclaw"
+	},
+	{
+		"abr": "drドレスa",
+		"price": 1658,
+		"category": "装甲化",
+		"defname": "DR_GreekDress"
+	},
+	{
+		"abr": "drドレスb",
+		"price": 1658,
+		"category": "装甲化",
+		"defname": "DR_GreekHanZo"
+	},
+	{
+		"abr": "drドレスc",
+		"price": 1667,
+		"category": "装甲化",
+		"defname": "DR_GreekPriest"
+	},
+	{
+		"abr": "drドレスd",
+		"price": 1667,
+		"category": "装甲化",
+		"defname": "DR_GreekSexyDress"
+	},
+	{
+		"abr": "drドレスe",
+		"price": 1658,
+		"category": "装甲化",
+		"defname": "DR_GreekString"
+	},
+	{
+		"abr": "drドレスf",
+		"price": 1667,
+		"category": "装甲化",
+		"defname": "DR_JapaneseDress"
+	},
+	{
+		"abr": "drドレスg",
+		"price": 1667,
+		"category": "装甲化",
+		"defname": "DR_Onepiece"
+	},
+	{
+		"abr": "drドレスh",
+		"price": 1667,
+		"category": "装甲化",
+		"defname": "DR_EveningDress"
+	},
+	{
+		"abr": "drバトルドレスh",
+		"price": 1950,
+		"category": "装甲化",
+		"defname": "DR_BattleDress"
+	},
+	{
+		"abr": "drバトルハンマー",
+		"price": 1467,
+		"category": "白兵戦武器",
+		"defname": "DR_BattleHammer"
+	},
+	{
+		"abr": "drバトルヘルメット",
+		"price": 320,
+		"category": "装甲化",
+		"defname": "DR_BattleHelm"
+	},
+	{
+		"abr": "drフラワーリボン",
+		"price": 842,
+		"category": "帽子",
+		"defname": "DR_FlowerRibon"
+	},
+	{
+		"abr": "drレイジブレイド",
+		"price": 1667,
+		"category": "白兵戦武器",
+		"defname": "MeleeWeapon_DR_Rageblade"
+	},
+	{
+		"abr": "dr普通のドレス",
+		"price": 992,
+		"category": "下着",
+		"defname": "DR_BasicDress"
+	},
+	{
+		"abr": "dr普通の服",
+		"price": 958,
+		"category": "下着",
+		"defname": "DR_BasicWear"
+	},
+	{
+		"abr": "dr花飾り",
+		"price": 558,
+		"category": "帽子",
+		"defname": "DR_Hat"
+	},
+	{
+		"abr": "dr花飾りついた帽子",
+		"price": 558,
+		"category": "ロイヤリティ",
+		"defname": "DR_SunHat"
+	},
+	{
+		"abr": "dr鈴付きの首輪",
+		"price": 558,
+		"category": "上着",
+		"defname": "DR_Necklace"
+	},
+	{
+		"abr": "ドラコニアン",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Dragonian_Prime"
+	},
+	{
+		"abr": "ドラコニアンの皮",
+		"price": 5,
+		"category": "革",
+		"defname": "Leather_Dragonian"
+	},
+	{
+		"abr": "ドラコニアンの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Dragonian_Prime"
+	},
+	{
+		"abr": "ドラコニアンの角",
+		"price": 667,
+		"category": "生体",
+		"defname": "Dragonian_Horn"
+	},
+	{
+		"abr": "ドラコニアン毛",
+		"price": 18,
+		"category": "髪の毛",
+		"defname": "WoolDragonian"
+	},
+	{
+		"abr": "ニセ尻尾(ドラコニアン)",
+		"price": 240,
+		"category": "人造",
+		"defname": "DR_FakeTail"
+	},
+	{
+		"abr": "ホワイトドラゴン",
+		"price": 11000,
+		"category": "家畜",
+		"defname": "White_Dragon"
+	},
+	{
+		"abr": "ホワイトドラゴンの卵(有精卵)",
+		"price": 4167,
+		"category": "ドラゴンの卵(受精)",
+		"defname": "EggWhiteDragonFertilized"
+	},
+	{
+		"abr": "マグロ(生)",
+		"price": 417,
+		"category": "生の魚",
+		"defname": "RF_Tuna"
+	},
+	{
+		"abr": "マグロの握り寿司",
+		"price": 33,
+		"category": "調理済",
+		"defname": "MealSushiMaguro"
+	},
+	{
+		"abr": "マグロの身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "RawTunaMeat"
+	},
+	{
+		"abr": "ミルク(ドラコニアン)",
+		"price": 14,
+		"category": "畜産物",
+		"defname": "DragonianMilk"
+	},
+	{
+		"abr": "ムール貝(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Mussel"
+	},
+	{
+		"abr": "ムーンストーン",
+		"price": 47,
+		"category": "ドラッグ",
+		"defname": "MoonStone"
+	},
+	{
+		"abr": "メカノイドコンポーネント",
+		"price": 583,
+		"category": "加工品",
+		"defname": "VFE_ComponentMechanoid"
+	},
+	{
+		"abr": "ライオットメカノイド充電ステーション",
+		"price": 2108,
+		"category": "生産物",
+		"defname": "VFE_Mechanoids_RiotBase"
+	},
+	{
+		"abr": "レッドドラゴン",
+		"price": 11000,
+		"category": "家畜",
+		"defname": "Red_Dragon"
+	},
+	{
+		"abr": "レッドドラゴンの卵(有精卵)",
+		"price": 5333,
+		"category": "ドラゴンの卵(受精)",
+		"defname": "EggRedDragonFertilized"
+	},
+	{
+		"abr": "ロブスター(生)",
+		"price": 100,
+		"category": "生の魚",
+		"defname": "RF_Lobster"
+	},
+	{
+		"abr": "ワサビ(生)",
+		"price": 3,
+		"category": "植物原料",
+		"defname": "RF_RawWasabi"
+	},
+	{
+		"abr": "destroyershell",
+		"price": 5017,
+		"category": "加工品",
+		"defname": "ADA_DestroyerShell"
+	},
+	{
+		"abr": "mrクリーヴァ",
+		"price": 194,
+		"category": "白兵戦武器",
+		"defname": "MR_C_O"
+	},
+	{
+		"abr": "mrクリーヴァ：切削",
+		"price": 425,
+		"category": "白兵戦武器",
+		"defname": "MR_C_BO"
+	},
+	{
+		"abr": "mrクリーヴァ：煙幕",
+		"price": 1192,
+		"category": "白兵戦武器",
+		"defname": "MR_C_BT"
+	},
+	{
+		"abr": "mrクリーヴァ：煙幕",
+		"price": 1550,
+		"category": "遠距離武器",
+		"defname": "MR_C_BTT"
+	},
+	{
+		"abr": "mrクリーヴァ：硬化",
+		"price": 492,
+		"category": "白兵戦武器",
+		"defname": "MR_C_AO"
+	},
+	{
+		"abr": "mrクリーヴァ：結晶化",
+		"price": 875,
+		"category": "白兵戦武器",
+		"defname": "MR_C_AT"
+	},
+	{
+		"abr": "mrクリーヴァ：結晶化",
+		"price": 1442,
+		"category": "白兵戦武器",
+		"defname": "MR_C_ATT"
+	},
+	{
+		"abr": "mrコンパウンドボウ",
+		"price": 492,
+		"category": "遠距離武器",
+		"defname": "MR_CPB_O"
+	},
+	{
+		"abr": "mrコンパウンドボウ",
+		"price": 500,
+		"category": "遠距離武器",
+		"defname": "MR_CPB_OT"
+	},
+	{
+		"abr": "mrコンパウンドボウ：律動",
+		"price": 2775,
+		"category": "遠距離武器",
+		"defname": "MR_CPB_AT"
+	},
+	{
+		"abr": "mrコンパウンドボウ：律動",
+		"price": 2825,
+		"category": "遠距離武器",
+		"defname": "MR_CPB_ATT"
+	},
+	{
+		"abr": "mrコンパウンドボウ：推力",
+		"price": 2858,
+		"category": "遠距離武器",
+		"defname": "MR_CPB_BT"
+	},
+	{
+		"abr": "mrコンパウンドボウ：推力",
+		"price": 2842,
+		"category": "遠距離武器",
+		"defname": "MR_CPB_BTT"
+	},
+	{
+		"abr": "mrコンパウンドボウ：爆発",
+		"price": 1058,
+		"category": "遠距離武器",
+		"defname": "MR_CPB_BO"
+	},
+	{
+		"abr": "mrコンパウンドボウ：爆発",
+		"price": 1058,
+		"category": "遠距離武器",
+		"defname": "MR_CPB_BOT"
+	},
+	{
+		"abr": "mrコンパウンドボウ：高質量",
+		"price": 1025,
+		"category": "遠距離武器",
+		"defname": "MR_CPB_AO"
+	},
+	{
+		"abr": "mcアームチェア",
+		"price": 350,
+		"category": "家具",
+		"defname": "Mincho_Armchair"
+	},
+	{
+		"abr": "mcアイス箱の帽子",
+		"price": 45,
+		"category": "帽子",
+		"defname": "Mincho_CupHat"
+	},
+	{
+		"abr": "mcウェディングナイトクローク",
+		"price": 2017,
+		"category": "装甲化",
+		"defname": "Mincho_WeddingKnightlyCloak"
+	},
+	{
+		"abr": "mcウェディングナイトドレス",
+		"price": 1258,
+		"category": "装甲化",
+		"defname": "Mincho_WeddingKnightlyDress"
+	},
+	{
+		"abr": "mcウェディングナイトベール",
+		"price": 1217,
+		"category": "装甲化",
+		"defname": "Mincho_WeddingKnightlyVeil"
+	},
+	{
+		"abr": "mcガーダーベルト",
+		"price": 206,
+		"category": "下着",
+		"defname": "Mincho_GarterBelt"
+	},
+	{
+		"abr": "mcクレープ寝袋",
+		"price": 68,
+		"category": "家具",
+		"defname": "Mincho_Crepe_Bedroll"
+	},
+	{
+		"abr": "mcケーキダブルベッド",
+		"price": 1833,
+		"category": "家具",
+		"defname": "Mincho_Full_Size_Cake_Bed"
+	},
+	{
+		"abr": "mcケーキベッド",
+		"price": 917,
+		"category": "家具",
+		"defname": "Mincho_Single_Size_Cake_Bed"
+	},
+	{
+		"abr": "mcコーティングチョコドレス",
+		"price": 400,
+		"category": "着物",
+		"defname": "Mincho_ChocolateCoatingDress"
+	},
+	{
+		"abr": "mcサイリンクニューロフォーマー",
+		"price": 4333,
+		"category": "アルコテック",
+		"defname": "Mincho_MinchoPsychicAmplifier"
+	},
+	{
+		"abr": "mcシースルーショール",
+		"price": 206,
+		"category": "上着",
+		"defname": "Mincho_SeeThroughShawl"
+	},
+	{
+		"abr": "mcストッキング",
+		"price": 206,
+		"category": "下着",
+		"defname": "Mincho_Stocking"
+	},
+	{
+		"abr": "mcチョコクラストアーマー",
+		"price": 433,
+		"category": "装甲化",
+		"defname": "Mincho_ChocoCrust"
+	},
+	{
+		"abr": "mcチョコネグリジェ",
+		"price": 400,
+		"category": "着物",
+		"defname": "Mincho_ChocolateNegligee"
+	},
+	{
+		"abr": "mcデザート玉座",
+		"price": 3667,
+		"category": "家具",
+		"defname": "Mincho_Dessert_Throne"
+	},
+	{
+		"abr": "mcナイトクローク",
+		"price": 1033,
+		"category": "装甲化",
+		"defname": "Mincho_KnightlyCloak"
+	},
+	{
+		"abr": "mcナイトティアラ",
+		"price": 327,
+		"category": "装甲化",
+		"defname": "Mincho_KnightlyTiara"
+	},
+	{
+		"abr": "mcナイトドレス",
+		"price": 783,
+		"category": "着物",
+		"defname": "Mincho_KnightlyDress"
+	},
+	{
+		"abr": "mcニットウェア",
+		"price": 209,
+		"category": "着物",
+		"defname": "Mincho_Knitwear"
+	},
+	{
+		"abr": "mcニットウェア(逆)",
+		"price": 209,
+		"category": "着物",
+		"defname": "Mincho_Knitwear_Reverse"
+	},
+	{
+		"abr": "mcネズミ尻尾スナック",
+		"price": 197,
+		"category": "上着",
+		"defname": "Mincho_RatTail"
+	},
+	{
+		"abr": "mcネズミ耳クッキー",
+		"price": 99,
+		"category": "帽子",
+		"defname": "Mincho_RatEar"
+	},
+	{
+		"abr": "mcハイウエストショーツ",
+		"price": 209,
+		"category": "着物",
+		"defname": "Mincho_BluePolarBearHighWaistShorts"
+	},
+	{
+		"abr": "mcバニーガール尻尾",
+		"price": 162,
+		"category": "ユーティリティ",
+		"defname": "Mincho_BunnyGirlTail"
+	},
+	{
+		"abr": "mcバニーガール服",
+		"price": 600,
+		"category": "着物",
+		"defname": "Mincho_BunnyGirlApparel"
+	},
+	{
+		"abr": "mcバニーガール耳",
+		"price": 55,
+		"category": "帽子",
+		"defname": "Mincho_BunnyGirlEar"
+	},
+	{
+		"abr": "mcフード付パーカー",
+		"price": 212,
+		"category": "上着",
+		"defname": "Mincho_PinkFallInLoveHood"
+	},
+	{
+		"abr": "mcマカロンチェア",
+		"price": 200,
+		"category": "家具",
+		"defname": "Mincho_Macaron_Chair"
+	},
+	{
+		"abr": "mcマカロンバスケットチェア",
+		"price": 350,
+		"category": "家具",
+		"defname": "Mincho_Macaron_Backrest_Chair"
+	},
+	{
+		"abr": "mcミンチョドーナツティアラ",
+		"price": 492,
+		"category": "帽子",
+		"defname": "Mincho_MintchocoDonutTiara"
+	},
+	{
+		"abr": "mcロウソク(上位置)",
+		"price": 44,
+		"category": "家具",
+		"defname": "Mincho_MinchoCandle_Upper"
+	},
+	{
+		"abr": "mcロウソク(下位置)",
+		"price": 44,
+		"category": "家具",
+		"defname": "Mincho_MinchoCandle_Lower"
+	},
+	{
+		"abr": "mcロウソク(中位置)",
+		"price": 44,
+		"category": "家具",
+		"defname": "Mincho_MinchoCandle_Middle"
+	},
+	{
+		"abr": "mcロウソク(右位置)",
+		"price": 44,
+		"category": "家具",
+		"defname": "Mincho_MinchoCandle_Right"
+	},
+	{
+		"abr": "mcロウソク(左位置)",
+		"price": 44,
+		"category": "家具",
+		"defname": "Mincho_MinchoCandle_Left"
+	},
+	{
+		"abr": "mc上着とハイウエストスカート",
+		"price": 425,
+		"category": "着物",
+		"defname": "Mincho_BlouseHighWaistSkirt"
+	},
+	{
+		"abr": "mc傭兵アーマー",
+		"price": 708,
+		"category": "装甲化",
+		"defname": "Mincho_MercenaryArmor"
+	},
+	{
+		"abr": "mc宇宙ヘルメット(ミント)",
+		"price": 1517,
+		"category": "装甲化",
+		"defname": "Mincho_SpaceHelmet_Mintchoco"
+	},
+	{
+		"abr": "mc宇宙ヘルメット(桃色)",
+		"price": 1517,
+		"category": "装甲化",
+		"defname": "Mincho_SpaceHelmet_PinkFallInLove"
+	},
+	{
+		"abr": "mc宇宙ヘルメット(白)",
+		"price": 1517,
+		"category": "装甲化",
+		"defname": "Mincho_SpaceHelmet_White"
+	},
+	{
+		"abr": "mc宇宙ヘルメット(青クマ)",
+		"price": 1517,
+		"category": "装甲化",
+		"defname": "Mincho_SpaceHelmet_BluePolarBear"
+	},
+	{
+		"abr": "mc宇宙服(ミント)",
+		"price": 3233,
+		"category": "装甲化",
+		"defname": "Mincho_SpaceSuit_Mintchoco"
+	},
+	{
+		"abr": "mc宇宙服(桃色)",
+		"price": 3233,
+		"category": "装甲化",
+		"defname": "Mincho_SpaceSuit_PinkFallInLove"
+	},
+	{
+		"abr": "mc宇宙服(白)",
+		"price": 3233,
+		"category": "装甲化",
+		"defname": "Mincho_SpaceSuit_White"
+	},
+	{
+		"abr": "mc宇宙服(青クマ)",
+		"price": 3233,
+		"category": "装甲化",
+		"defname": "Mincho_SpaceSuit_BluePolarBear"
+	},
+	{
+		"abr": "mc宇宙服用ブースター",
+		"price": 1758,
+		"category": "装甲化",
+		"defname": "Mincho_SpaceBooster"
+	},
+	{
+		"abr": "mc巨大ロウソク",
+		"price": 383,
+		"category": "家具",
+		"defname": "Mincho_Super_MinchoCandle"
+	},
+	{
+		"abr": "mc巨大電気ロウソク",
+		"price": 383,
+		"category": "家具",
+		"defname": "Mincho_Super_Electric_MinchoCandle"
+	},
+	{
+		"abr": "mc桃色恋愛ミンチョ帽子",
+		"price": 112,
+		"category": "帽子",
+		"defname": "Mincho_PinkFallInLoveHat"
+	},
+	{
+		"abr": "mc防弾チョッキ",
+		"price": 333,
+		"category": "装甲化",
+		"defname": "Mincho_FlakVest"
+	},
+	{
+		"abr": "mc電気ロウソク(上位置)",
+		"price": 44,
+		"category": "家具",
+		"defname": "Mincho_Electric_MinchoCandle_Upper"
+	},
+	{
+		"abr": "mc電気ロウソク(下位置)",
+		"price": 44,
+		"category": "家具",
+		"defname": "Mincho_Electric_MinchoCandle_Lower"
+	},
+	{
+		"abr": "mc電気ロウソク(中位置)",
+		"price": 44,
+		"category": "家具",
+		"defname": "Mincho_Electric_MinchoCandle_Middle"
+	},
+	{
+		"abr": "mc電気ロウソク(右位置)",
+		"price": 44,
+		"category": "家具",
+		"defname": "Mincho_Electric_MinchoCandle_Right"
+	},
+	{
+		"abr": "mc電気ロウソク(左位置)",
+		"price": 44,
+		"category": "家具",
+		"defname": "Mincho_Electric_MinchoCandle_Left"
+	},
+	{
+		"abr": "mc青クマミンチョ帽子",
+		"price": 112,
+		"category": "帽子",
+		"defname": "Mincho_BluePolarBearHat"
+	},
+	{
+		"abr": "mrコンパウンドボウ：高質量",
+		"price": 1058,
+		"category": "遠距離武器",
+		"defname": "MR_CPB_AOT"
+	},
+	{
+		"abr": "mrハンドアックス",
+		"price": 264,
+		"category": "遠距離武器",
+		"defname": "MR_HA_O"
+	},
+	{
+		"abr": "mrハンドアックス：引伸",
+		"price": 617,
+		"category": "遠距離武器",
+		"defname": "MR_HA_AO"
+	},
+	{
+		"abr": "mrハンドアックス：投擲",
+		"price": 1767,
+		"category": "遠距離武器",
+		"defname": "MR_HA_AT"
+	},
+	{
+		"abr": "mrハンドアックス：狩猟",
+		"price": 1900,
+		"category": "遠距離武器",
+		"defname": "MR_HA_BT"
+	},
+	{
+		"abr": "mrハンドアックス：追蹤",
+		"price": 558,
+		"category": "遠距離武器",
+		"defname": "MR_HA_BO"
+	},
+	{
+		"abr": "mrホエールハープーン",
+		"price": 261,
+		"category": "遠距離武器",
+		"defname": "MR_WH_O"
+	},
+	{
+		"abr": "mrホエールハープーン：内装反重力",
+		"price": 617,
+		"category": "遠距離武器",
+		"defname": "MR_WH_BO"
+	},
+	{
+		"abr": "mrホエールハープーン：外装反重力",
+		"price": 1567,
+		"category": "遠距離武器",
+		"defname": "MR_WH_BT"
+	},
+	{
+		"abr": "mrホエールハープーン：外装反重力",
+		"price": 1258,
+		"category": "遠距離武器",
+		"defname": "MR_WH_BTT"
+	},
+	{
+		"abr": "mrホエールハープーン：引掠",
+		"price": 1567,
+		"category": "遠距離武器",
+		"defname": "MR_WH_AT"
+	},
+	{
+		"abr": "mrホエールハープーン：引掠",
+		"price": 1567,
+		"category": "遠距離武器",
+		"defname": "MR_WH_ATT"
+	},
+	{
+		"abr": "mrホエールハープーン：改修",
+		"price": 592,
+		"category": "遠距離武器",
+		"defname": "MR_WH_AO"
+	},
+	{
+		"abr": "アイビーティー",
+		"price": 88,
+		"category": "ドラッグ",
+		"defname": "SPBD_IvyTea"
+	},
+	{
+		"abr": "アイビーフルーツ",
+		"price": 25,
+		"category": "ドラッグ",
+		"defname": "SPBD_IvyFruit"
+	},
+	{
+		"abr": "アリス",
+		"price": 10,
+		"category": "髪の毛",
+		"defname": "SP_Weave"
+	},
+	{
+		"abr": "オリオン",
+		"price": 25,
+		"category": "原材料",
+		"defname": "SPBD_Orion"
+	},
+	{
+		"abr": "カップヌードルベジータ",
+		"price": 50,
+		"category": "調理済",
+		"defname": "Meal_BDsInstantNoodle_Veg"
+	},
+	{
+		"abr": "カップヌードル定番の味",
+		"price": 50,
+		"category": "調理済",
+		"defname": "Meal_BDsInstantNoodle"
+	},
+	{
+		"abr": "カップヌードル熟成キャベツ味",
+		"price": 33,
+		"category": "調理済",
+		"defname": "Meal_BDsInstantNoodle_Prickle"
+	},
+	{
+		"abr": "カップヌードル謎肉",
+		"price": 50,
+		"category": "調理済",
+		"defname": "Meal_BDsInstantNoodle_Meat"
+	},
+	{
+		"abr": "キャンディステッキ",
+		"price": 450,
+		"category": "ミントチョコ",
+		"defname": "Mincho_CandyCane"
+	},
+	{
+		"abr": "コスモスオリオン織機",
+		"price": 1800,
+		"category": "生産物",
+		"defname": "SPBD_CosmosOrionWeavingMachine"
+	},
+	{
+		"abr": "コスモス裁断卓",
+		"price": 262,
+		"category": "生産物",
+		"defname": "SPBD_CosmosTailorBench"
+	},
+	{
+		"abr": "コスモス電動裁断卓",
+		"price": 533,
+		"category": "生産物",
+		"defname": "SPBD_CosmosElectronicTailorBench"
+	},
+	{
+		"abr": "シフォン",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_SP"
+	},
+	{
+		"abr": "シフォンサマードレス",
+		"price": 263,
+		"category": "ロイヤリティ",
+		"defname": "SP_SummerDress"
+	},
+	{
+		"abr": "シフォンシープベル",
+		"price": 118,
+		"category": "ロイヤリティ",
+		"defname": "SP_BellTag"
+	},
+	{
+		"abr": "シフォンピクニック帽",
+		"price": 103,
+		"category": "ロイヤリティ",
+		"defname": "SP_PiknicStrawHat"
+	},
+	{
+		"abr": "シフォンヘアバンド",
+		"price": 157,
+		"category": "帽子",
+		"defname": "SP_WorkHairband"
+	},
+	{
+		"abr": "シフォン作業服",
+		"price": 375,
+		"category": "下着",
+		"defname": "SP_WorkClothes"
+	},
+	{
+		"abr": "シフォン木の杖",
+		"price": 185,
+		"category": "白兵戦武器",
+		"defname": "SP_Staff_Wood"
+	},
+	{
+		"abr": "シフォン特殊接客用服",
+		"price": 306,
+		"category": "装甲化",
+		"defname": "SP_Special"
+	},
+	{
+		"abr": "シフォン現代式杖",
+		"price": 203,
+		"category": "白兵戦武器",
+		"defname": "SP_Staff"
+	},
+	{
+		"abr": "シフォン看護帽",
+		"price": 280,
+		"category": "帽子",
+		"defname": "SP_NurseCap"
+	},
+	{
+		"abr": "シフォン看護服",
+		"price": 392,
+		"category": "下着",
+		"defname": "SP_NurseUniform"
+	},
+	{
+		"abr": "シフォン近衛隊事務官の制服",
+		"price": 286,
+		"category": "ロイヤリティ",
+		"defname": "SP_ChroniclerUniform"
+	},
+	{
+		"abr": "シフォン近衛隊事務官帽",
+		"price": 280,
+		"category": "ロイヤリティ",
+		"defname": "SP_ChroniclerCap"
+	},
+	{
+		"abr": "シフォンケーキ",
+		"price": 33,
+		"category": "調理済",
+		"defname": "SP_Cake"
+	},
+	{
+		"abr": "シフォンの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Alien_SP"
+	},
+	{
+		"abr": "シャリラ",
+		"price": 35,
+		"category": "加工品",
+		"defname": "MR_Sarira"
+	},
+	{
+		"abr": "チョコステック",
+		"price": 6,
+		"category": "原材料",
+		"defname": "Mincho_ChocoStick"
+	},
+	{
+		"abr": "テックプリント(応用研究-負数力学)",
+		"price": 2000,
+		"category": "テックプリント",
+		"defname": "Techprint_MaruRC"
+	},
+	{
+		"abr": "テックプリント(応用研究-防弾繊維)",
+		"price": 1333,
+		"category": "テックプリント",
+		"defname": "Techprint_MaruRB"
+	},
+	{
+		"abr": "ニセ尻尾(シフォン)",
+		"price": 141,
+		"category": "人造",
+		"defname": "SP_FakeTail"
+	},
+	{
+		"abr": "ニセ尻尾(ボリ)",
+		"price": 141,
+		"category": "人造",
+		"defname": "BR_FakeTail"
+	},
+	{
+		"abr": "ネガティブシールドデバイス",
+		"price": 1975,
+		"category": "装甲化",
+		"defname": "MR_NFG"
+	},
+	{
+		"abr": "ハーフガロン",
+		"price": 80,
+		"category": "ミントチョコ",
+		"defname": "Mincho_MintchocoHalfGallon"
+	},
+	{
+		"abr": "ハーフガロン(ピンク)",
+		"price": 80,
+		"category": "ミントチョコ",
+		"defname": "Mincho_PinkFallInLoveHalfGallon"
+	},
+	{
+		"abr": "ハーフガロン(青クマ)",
+		"price": 80,
+		"category": "ミントチョコ",
+		"defname": "Mincho_BluePolarBearHalfGallon"
+	},
+	{
+		"abr": "ピンクラブポーション",
+		"price": 5,
+		"category": "ミントチョコ類アイス",
+		"defname": "Mincho_PinkFallInLove"
+	},
+	{
+		"abr": "プルートシーラム",
+		"price": 88,
+		"category": "ドラッグ",
+		"defname": "SPBD_PlutoSerum"
+	},
+	{
+		"abr": "ブルーレンズ",
+		"price": 1000,
+		"category": "加工品",
+		"defname": "MR_rentiq"
+	},
+	{
+		"abr": "ふわふわコリー",
+		"price": 583,
+		"category": "家畜",
+		"defname": "Canis_Lupus_Crinitus"
+	},
+	{
+		"abr": "ふわふわコリーの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Canis_Lupus_Crinitus"
+	},
+	{
+		"abr": "ベアトラップ",
+		"price": 19,
+		"category": "防衛",
+		"defname": "Trap_MRB"
+	},
+	{
+		"abr": "ベアトラップホルダー",
+		"price": 183,
+		"category": "罠ホルダー",
+		"defname": "MR_Apparel_Trap"
+	},
+	{
+		"abr": "ボリ",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Bori"
+	},
+	{
+		"abr": "ボリオートマチックボルトアクションライフル",
+		"price": 650,
+		"category": "遠距離武器",
+		"defname": "BD_AutoBoltActionRifle"
+	},
+	{
+		"abr": "ボリカジュアルシャツ",
+		"price": 286,
+		"category": "下着",
+		"defname": "BD_CasualClothes"
+	},
+	{
+		"abr": "ボリキャスケット帽",
+		"price": 280,
+		"category": "帽子",
+		"defname": "BD_NewsboyCap"
+	},
+	{
+		"abr": "ボリクレイモア",
+		"price": 442,
+		"category": "白兵戦武器",
+		"defname": "BD_Claymore"
+	},
+	{
+		"abr": "ボリサブマシンガン",
+		"price": 650,
+		"category": "遠距離武器",
+		"defname": "BD_SdangSMG"
+	},
+	{
+		"abr": "ボリスナイパーライフル",
+		"price": 892,
+		"category": "遠距離武器",
+		"defname": "BD_Sniper"
+	},
+	{
+		"abr": "ボリスピア",
+		"price": 408,
+		"category": "白兵戦武器",
+		"defname": "BD_Spear"
+	},
+	{
+		"abr": "ボリチャージマシンガン",
+		"price": 2500,
+		"category": "遠距離武器",
+		"defname": "BD_ChargeSMG"
+	},
+	{
+		"abr": "ボリチャージライフル",
+		"price": 2500,
+		"category": "遠距離武器",
+		"defname": "BD_ChargeRifle"
+	},
+	{
+		"abr": "ボリチャージランス",
+		"price": 2258,
+		"category": "遠距離武器",
+		"defname": "BD_ChargeLance"
+	},
+	{
+		"abr": "ボリドッグタグ",
+		"price": 167,
+		"category": "首",
+		"defname": "Bori_DogTag"
+	},
+	{
+		"abr": "ボリハルバード",
+		"price": 442,
+		"category": "白兵戦武器",
+		"defname": "BD_halberd"
+	},
+	{
+		"abr": "ボリヘビーサブマシンガン",
+		"price": 2500,
+		"category": "遠距離武器",
+		"defname": "BD_HeavySMG"
+	},
+	{
+		"abr": "ボリヘビーマシンガン(固定)",
+		"price": 708,
+		"category": "遠距離武器",
+		"defname": "BD_MtHeavyMachineGun"
+	},
+	{
+		"abr": "ボリボルトアクションライフル",
+		"price": 525,
+		"category": "遠距離武器",
+		"defname": "BD_BoltActionRifle"
+	},
+	{
+		"abr": "ボリポンチョ",
+		"price": 392,
+		"category": "上着",
+		"defname": "BD_WindbreakPoncho"
+	},
+	{
+		"abr": "ボリ作業服",
+		"price": 286,
+		"category": "下着",
+		"defname": "BD_WorkClothes"
+	},
+	{
+		"abr": "ボリ制式アサルトライフル",
+		"price": 958,
+		"category": "遠距離武器",
+		"defname": "BD_AssaultRifle"
+	},
+	{
+		"abr": "ボリ吸着式手榴弾",
+		"price": 367,
+		"category": "投擲武器",
+		"defname": "BD_GrenadeFrag"
+	},
+	{
+		"abr": "ボリ官帽",
+		"price": 508,
+		"category": "帽子",
+		"defname": "BD_PeakedCap"
+	},
+	{
+		"abr": "ボリ産業用防弾プレート",
+		"price": 458,
+		"category": "装甲化",
+		"defname": "BD_Flak_Vest"
+	},
+	{
+		"abr": "ボリ軍帽",
+		"price": 153,
+		"category": "帽子",
+		"defname": "BD_IndHelmet"
+	},
+	{
+		"abr": "ボリ軍服",
+		"price": 375,
+		"category": "着物",
+		"defname": "BD_IndSoldierUniform"
+	},
+	{
+		"abr": "ボリ軍服-シーズンウォー",
+		"price": 900,
+		"category": "装甲化",
+		"defname": "BD_IndSoldierUniform_Flak"
+	},
+	{
+		"abr": "ボリ軍用アーマー",
+		"price": 808,
+		"category": "装甲化",
+		"defname": "BD_IndSoldierArmour"
+	},
+	{
+		"abr": "ボリ軍用メット",
+		"price": 442,
+		"category": "装甲化",
+		"defname": "BD_IndArmHelmet"
+	},
+	{
+		"abr": "ボリ軍用防寒コート",
+		"price": 315,
+		"category": "上着",
+		"defname": "BD_MilitaryStyleCoat"
+	},
+	{
+		"abr": "ボリ軽量ボルトアクションライフル",
+		"price": 350,
+		"category": "遠距離武器",
+		"defname": "BD_LightWeightedBoltActionRifle"
+	},
+	{
+		"abr": "ボリの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Alien_Bori"
+	},
+	{
+		"abr": "ボリ汽車型バッテリー",
+		"price": 1542,
+		"category": "パワー",
+		"defname": "Bori_Train_Battery"
+	},
+	{
+		"abr": "マル",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Maru"
+	},
+	{
+		"abr": "マルの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Maru"
+	},
+	{
+		"abr": "マル作業服",
+		"price": 265,
+		"category": "下着",
+		"defname": "MR_workclothes"
+	},
+	{
+		"abr": "マル周莫衣",
+		"price": 327,
+		"category": "上着",
+		"defname": "MR_durumagi"
+	},
+	{
+		"abr": "マル山守マスク",
+		"price": 1775,
+		"category": "装甲化",
+		"defname": "MR_huntingmaskM"
+	},
+	{
+		"abr": "マル工学服",
+		"price": 265,
+		"category": "下着",
+		"defname": "MR_engineeringclothes"
+	},
+	{
+		"abr": "マル採集服",
+		"price": 292,
+		"category": "下着",
+		"defname": "MR_farmclothes"
+	},
+	{
+		"abr": "マル改良型狩猟マスク",
+		"price": 675,
+		"category": "装甲化",
+		"defname": "MR_huntingmaskR"
+	},
+	{
+		"abr": "マル楽師の羽織",
+		"price": 303,
+		"category": "上着",
+		"defname": "MR_Musiciancoat"
+	},
+	{
+		"abr": "マル楽師帽",
+		"price": 247,
+		"category": "帽子",
+		"defname": "MR_Musicianhat"
+	},
+	{
+		"abr": "マル楽師服",
+		"price": 281,
+		"category": "下着",
+		"defname": "MR_Musicianclo"
+	},
+	{
+		"abr": "マル狩猟コート",
+		"price": 450,
+		"category": "上着",
+		"defname": "MR_HuntingCoat"
+	},
+	{
+		"abr": "マル狩猟マスク",
+		"price": 300,
+		"category": "装甲化",
+		"defname": "MR_huntingmask"
+	},
+	{
+		"abr": "マル狩猟服",
+		"price": 328,
+		"category": "下着",
+		"defname": "MR_huntingsuit"
+	},
+	{
+		"abr": "マル行商帽",
+		"price": 247,
+		"category": "帽子",
+		"defname": "MR_thermalhat"
+	},
+	{
+		"abr": "マル行商服",
+		"price": 265,
+		"category": "下着",
+		"defname": "MR_merchantsclothes"
+	},
+	{
+		"abr": "マル衛生コート",
+		"price": 383,
+		"category": "上着",
+		"defname": "MR_sanitarycoat"
+	},
+	{
+		"abr": "マル衛生服",
+		"price": 300,
+		"category": "下着",
+		"defname": "MR_sanitaryclothing"
+	},
+	{
+		"abr": "マル解析者のコート",
+		"price": 303,
+		"category": "ロイヤリティ",
+		"defname": "MR_Decipherslifecoat"
+	},
+	{
+		"abr": "マル解析者のローブ",
+		"price": 358,
+		"category": "サイフォーカス",
+		"defname": "MR_Deciphersrobes"
+	},
+	{
+		"abr": "マル解析者の帽子",
+		"price": 163,
+		"category": "ロイヤリティ",
+		"defname": "MR_DeciphersLC"
+	},
+	{
+		"abr": "マル解析者の普段着",
+		"price": 247,
+		"category": "ロイヤリティ",
+		"defname": "MR_Decipherslifeclothes"
+	},
+	{
+		"abr": "マル解析者の髪飾り",
+		"price": 200,
+		"category": "装甲化",
+		"defname": "MR_DeciphersHD"
+	},
+	{
+		"abr": "マル調理服",
+		"price": 281,
+		"category": "下着",
+		"defname": "MR_cookclothes"
+	},
+	{
+		"abr": "マル軽装補強スーツ",
+		"price": 2425,
+		"category": "装甲化",
+		"defname": "MR_RangedCombatSuit"
+	},
+	{
+		"abr": "マル重装補強スーツ",
+		"price": 2467,
+		"category": "装甲化",
+		"defname": "MR_MeleeCombatSuit"
+	},
+	{
+		"abr": "マル防寒コート",
+		"price": 433,
+		"category": "上着",
+		"defname": "MR_wintercoat"
+	},
+	{
+		"abr": "ミンチョ",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Mincho_ThingDef"
+	},
+	{
+		"abr": "ミンチョ作業台",
+		"price": 229,
+		"category": "生産物",
+		"defname": "Mincho_MinchoBench"
+	},
+	{
+		"abr": "ミンチョシュルーム",
+		"price": 5,
+		"category": "ミントチョコ",
+		"defname": "Mincho_Minchoshroom"
+	},
+	{
+		"abr": "ミンチョニャン",
+		"price": 583,
+		"category": "家畜",
+		"defname": "Mincho_Minchonyang"
+	},
+	{
+		"abr": "ミンチョラテホース",
+		"price": 1283,
+		"category": "家畜",
+		"defname": "Mincho_MinchoLatteIsHorse"
+	},
+	{
+		"abr": "ミンチョ化クッキー",
+		"price": 2,
+		"category": "ドラッグ",
+		"defname": "Mincho_Mintchoco_Cookie"
+	},
+	{
+		"abr": "ミントキャンディ",
+		"price": 150,
+		"category": "ミントチョコ",
+		"defname": "Mincho_MintCandy"
+	},
+	{
+		"abr": "ミントチョコ",
+		"price": 5,
+		"category": "ミントチョコ類アイス",
+		"defname": "Mincho_Mintchoco"
+	},
+	{
+		"abr": "ミントチョコケーキ",
+		"price": 60,
+		"category": "ミントチョコ",
+		"defname": "Mincho_MintchocoCake"
+	},
+	{
+		"abr": "ミントチョコドーナツ",
+		"price": 32,
+		"category": "ミントチョコ",
+		"defname": "Mincho_MintchocoDonut"
+	},
+	{
+		"abr": "ミントチョコブロック",
+		"price": 6,
+		"category": "石材",
+		"defname": "Mincho_BlocksMintchoco"
+	},
+	{
+		"abr": "ミントチョコラテ",
+		"price": 32,
+		"category": "ミントチョコ",
+		"defname": "Mincho_MintchocoLatte"
+	},
+	{
+		"abr": "ミントの葉",
+		"price": 1,
+		"category": "植物原料",
+		"defname": "Mincho_MintLeaves"
+	},
+	{
+		"abr": "ミンムーン",
+		"price": 583,
+		"category": "家畜",
+		"defname": "Mincho_Minmoong"
+	},
+	{
+		"abr": "メンソールジョイント",
+		"price": 22,
+		"category": "ドラッグ",
+		"defname": "Mincho_MentholSmokeleafJoint"
+	},
+	{
+		"abr": "レンズ解析器",
+		"price": 833,
+		"category": "その他",
+		"defname": "MR_LenticularAnalyzer"
+	},
+	{
+		"abr": "人間脚化クッキー",
+		"price": 2,
+		"category": "ドラッグ",
+		"defname": "Mincho_Humanlike_Cookie"
+	},
+	{
+		"abr": "儀礼ピストル",
+		"price": 833,
+		"category": "遠距離武器",
+		"defname": "BD_Autopistol"
+	},
+	{
+		"abr": "先進インフェルノキャノン",
+		"price": 2333,
+		"category": "遠距離武器",
+		"defname": "VFE_Gun_AdvancedInfernoCannon"
+	},
+	{
+		"abr": "先進インフェルノスピューワー",
+		"price": 2333,
+		"category": "遠距離武器",
+		"defname": "VFE_Gun_AdvancedInfernoSpewer"
+	},
+	{
+		"abr": "先進コンポーネント組立機",
+		"price": 8200,
+		"category": "生産物",
+		"defname": "VFEM_ElectronicsFabricationFactory_AdvancedAssembler"
+	},
+	{
+		"abr": "分析作業台",
+		"price": 667,
+		"category": "生産物",
+		"defname": "MR_AnalyzerS"
+	},
+	{
+		"abr": "分析記録書",
+		"price": 52,
+		"category": "加工品",
+		"defname": "MR_Record"
+	},
+	{
+		"abr": "加工肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "VFEM_ProcessedMeat"
+	},
+	{
+		"abr": "化学燃料生成器",
+		"price": 4175,
+		"category": "生産物",
+		"defname": "VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier"
+	},
+	{
+		"abr": "医薬品造粒機",
+		"price": 6275,
+		"category": "生産物",
+		"defname": "VFEM_MedicinalCompoundingFactory_MedicineGranulator"
+	},
+	{
+		"abr": "外装防弾ファイバー",
+		"price": 425,
+		"category": "装甲化",
+		"defname": "MR_EBF"
+	},
+	{
+		"abr": "大豆(生)",
+		"price": 2,
+		"category": "生野菜",
+		"defname": "RF_RawSoybean"
+	},
+	{
+		"abr": "寿司カウンター",
+		"price": 165,
+		"category": "生産物",
+		"defname": "RF_SushiCounter"
+	},
+	{
+		"abr": "寿司用ワサビ",
+		"price": 7,
+		"category": "食物",
+		"defname": "RF_WasabiPaste"
+	},
+	{
+		"abr": "寿司醤油",
+		"price": 13,
+		"category": "食物",
+		"defname": "RF_SoySauce"
+	},
+	{
+		"abr": "射籠手",
+		"price": 180,
+		"category": "装甲化",
+		"defname": "Apparel_Igote"
+	},
+	{
+		"abr": "将棋盤",
+		"price": 165,
+		"category": "家具",
+		"defname": "GHG_ShougiTable"
+	},
+	{
+		"abr": "小魚(生)",
+		"price": 38,
+		"category": "生の魚",
+		"defname": "RF_FishTiny"
+	},
+	{
+		"abr": "小魚の丸焼き",
+		"price": 17,
+		"category": "調理済",
+		"defname": "GrilledTinyFish"
+	},
+	{
+		"abr": "巻物",
+		"price": 41,
+		"category": "物品",
+		"defname": "Jecrell_LeatherScroll"
+	},
+	{
+		"abr": "強化尻尾(シフォン)",
+		"price": 1717,
+		"category": "強化",
+		"defname": "SP_BioTail"
+	},
+	{
+		"abr": "強化尻尾(ドラコニアン)",
+		"price": 1717,
+		"category": "強化",
+		"defname": "DR_BionicTail"
+	},
+	{
+		"abr": "強化尻尾(ボリ)",
+		"price": 1717,
+		"category": "強化",
+		"defname": "BR_BioTail"
+	},
+	{
+		"abr": "強化羊角(シフォン)",
+		"price": 1717,
+		"category": "強化",
+		"defname": "SP_BioHorn"
+	},
+	{
+		"abr": "念珠",
+		"price": 271,
+		"category": "装甲化",
+		"defname": "Apparel_Nenju"
+	},
+	{
+		"abr": "惑星入植ボードゲーム",
+		"price": 42,
+		"category": "家具",
+		"defname": "LJO_RimColony"
+	},
+	{
+		"abr": "払子",
+		"price": 533,
+		"category": "白兵戦武器",
+		"defname": "GHG_Hossu"
+	},
+	{
+		"abr": "技術交流書",
+		"price": 42,
+		"category": "加工品",
+		"defname": "MR_Theory"
+	},
+	{
+		"abr": "技術書",
+		"price": 6667,
+		"category": "物品",
+		"defname": "Jecrell_Guidebook"
+	},
+	{
+		"abr": "技術書",
+		"price": 6667,
+		"category": "物品",
+		"defname": "Jecrell_Skillbook"
+	},
+	{
+		"abr": "携帯型タレット充電ステーション",
+		"price": 2108,
+		"category": "生産物",
+		"defname": "VFE_Mechanoids_TurretBase"
+	},
+	{
+		"abr": "日記",
+		"price": 38,
+		"category": "物品",
+		"defname": "Jecrell_BookJournal"
+	},
+	{
+		"abr": "書き物机",
+		"price": 542,
+		"category": "生産物",
+		"defname": "RimWriter_TableWriting"
+	},
+	{
+		"abr": "書き物机(タイプライター)",
+		"price": 467,
+		"category": "生産物",
+		"defname": "RimWriter_TableTypewriter"
+	},
+	{
+		"abr": "木製角(シフォン)",
+		"price": 206,
+		"category": "人造",
+		"defname": "SP_WoodHorn"
+	},
+	{
+		"abr": "本",
+		"price": 38,
+		"category": "物品",
+		"defname": "Jecrell_Book"
+	},
+	{
+		"abr": "染色台",
+		"price": 320,
+		"category": "生産物",
+		"defname": "MR_dyeingworkbench"
+	},
+	{
+		"abr": "桃色恋愛化クッキー",
+		"price": 2,
+		"category": "ドラッグ",
+		"defname": "Mincho_PinkFallInLove_Cookie"
+	},
+	{
+		"abr": "標準服(子供用)",
+		"price": 958,
+		"category": "下着",
+		"defname": "DR_BasicWearChild"
+	},
+	{
+		"abr": "横幅衣",
+		"price": 224,
+		"category": "上着",
+		"defname": "Apparel_OufukuCape"
+	},
+	{
+		"abr": "樹状研究設備",
+		"price": 1158,
+		"category": "その他",
+		"defname": "MR_ResearchBench"
+	},
+	{
+		"abr": "武器改造作業台",
+		"price": 1508,
+		"category": "生産物",
+		"defname": "MR_Rebuildtable"
+	},
+	{
+		"abr": "汎用組立機",
+		"price": 7908,
+		"category": "生産物",
+		"defname": "VFEM_VersatileAssembler"
+	},
+	{
+		"abr": "法被",
+		"price": 224,
+		"category": "上着",
+		"defname": "Apparel_Happi"
+	},
+	{
+		"abr": "海鮮チリ",
+		"price": 37,
+		"category": "調理済",
+		"defname": "MealSeafoodChili"
+	},
+	{
+		"abr": "牛頭獄卒",
+		"price": -10,
+		"category": "Animal",
+		"defname": "GHG_Gozu"
+	},
+	{
+		"abr": "獄卒",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Gokusotsu"
+	},
+	{
+		"abr": "生体解析器",
+		"price": 2433,
+		"category": "その他",
+		"defname": "MR_BiometricAnalyzer"
+	},
+	{
+		"abr": "発煙炉",
+		"price": 783,
+		"category": "防衛",
+		"defname": "MR_Turretbeacon"
+	},
+	{
+		"abr": "眼鏡",
+		"price": 60,
+		"category": "目",
+		"defname": "Apparel_GokusotsuGlasses"
+	},
+	{
+		"abr": "石板",
+		"price": 41,
+		"category": "物品",
+		"defname": "Jecrell_Tablet"
+	},
+	{
+		"abr": "石棚",
+		"price": 171,
+		"category": "家具",
+		"defname": "Jecrell_StoneShelf"
+	},
+	{
+		"abr": "砲弾鋳造所",
+		"price": 7700,
+		"category": "生産物",
+		"defname": "VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry"
+	},
+	{
+		"abr": "秘薬ポーション",
+		"price": 30,
+		"category": "ドラッグ",
+		"defname": "Mincho_ArcanePotion"
+	},
+	{
+		"abr": "籠手",
+		"price": 180,
+		"category": "装甲化",
+		"defname": "Apparel_Kote"
+	},
+	{
+		"abr": "粘液化クッキー",
+		"price": 2,
+		"category": "ドラッグ",
+		"defname": "Mincho_Slime_Cookie"
+	},
+	{
+		"abr": "繊維分解機",
+		"price": 2658,
+		"category": "生産物",
+		"defname": "VFEM_WearablesAndTextileFactory_TextileRecycler"
+	},
+	{
+		"abr": "耳環",
+		"price": 122,
+		"category": "目",
+		"defname": "Apparel_GokusotsuEarrings"
+	},
+	{
+		"abr": "脚絆",
+		"price": 180,
+		"category": "装甲化",
+		"defname": "Apparel_Kyahan"
+	},
+	{
+		"abr": "腰布",
+		"price": 192,
+		"category": "着物",
+		"defname": "Apparel_Koshinuno"
+	},
+	{
+		"abr": "腹がけ",
+		"price": 118,
+		"category": "下着",
+		"defname": "Apparel_Haragake"
+	},
+	{
+		"abr": "自動ストーンカッター",
+		"price": 3383,
+		"category": "生産物",
+		"defname": "VFEM_MasonryAndMetallicsFactory_MasonrySaw"
+	},
+	{
+		"abr": "自動ドリル",
+		"price": 3808,
+		"category": "生産物",
+		"defname": "VFEM_MasonryAndMetallicsFactory_AutomaticDrill"
+	},
+	{
+		"abr": "自動掃除機充電ステーション",
+		"price": 1650,
+		"category": "生産物",
+		"defname": "VFE_Mechanoids_AutocleanerBase"
+	},
+	{
+		"abr": "自動採掘機充電ステーション",
+		"price": 1400,
+		"category": "生産物",
+		"defname": "VFE_Mechanoids_AutominerBase"
+	},
+	{
+		"abr": "自動武器制作器",
+		"price": 3617,
+		"category": "生産物",
+		"defname": "VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith"
+	},
+	{
+		"abr": "自動織機",
+		"price": 3458,
+		"category": "生産物",
+		"defname": "VFEM_WearablesAndTextileFactory_AutoLoom"
+	},
+	{
+		"abr": "自動迫撃砲",
+		"price": 1317,
+		"category": "防衛",
+		"defname": "VFE_Turret_AutoMortar"
+	},
+	{
+		"abr": "自動運搬機充電ステーション",
+		"price": 1367,
+		"category": "生産物",
+		"defname": "VFE_Mechanoids_AutohaulerBase"
+	},
+	{
+		"abr": "色染革",
+		"price": 35,
+		"category": "加工品",
+		"defname": "MR_dyedleather"
+	},
+	{
+		"abr": "補助解析器",
+		"price": 458,
+		"category": "その他",
+		"defname": "MR_SubAnalyzer"
+	},
+	{
+		"abr": "製紙機",
+		"price": 358,
+		"category": "生産物",
+		"defname": "RimWriter_PapermakingBench"
+	},
+	{
+		"abr": "褌a",
+		"price": 95,
+		"category": "下着",
+		"defname": "Apparel_FundoshiA"
+	},
+	{
+		"abr": "褌b",
+		"price": 95,
+		"category": "下着",
+		"defname": "Apparel_FundoshiB"
+	},
+	{
+		"abr": "角のある槍",
+		"price": 3833,
+		"category": "白兵戦武器",
+		"defname": "DD_MeleeWeapon_HornedLance"
+	},
+	{
+		"abr": "誘惑の角笛",
+		"price": 3333,
+		"category": "アーティファクト",
+		"defname": "MatingHorn"
+	},
+	{
+		"abr": "貝の握り寿司",
+		"price": 33,
+		"category": "調理済",
+		"defname": "MealSushiShellfish"
+	},
+	{
+		"abr": "貝の身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "RawShellfishMeat"
+	},
+	{
+		"abr": "近衛隊領土旗",
+		"price": 2500,
+		"category": "防衛",
+		"defname": "BR_Spear_Flag"
+	},
+	{
+		"abr": "部品改造設備",
+		"price": 900,
+		"category": "生産物",
+		"defname": "MR_retrofittable"
+	},
+	{
+		"abr": "金棒",
+		"price": 342,
+		"category": "白兵戦武器",
+		"defname": "GHG_Club"
+	},
+	{
+		"abr": "鉄びし",
+		"price": 19,
+		"category": "防衛",
+		"defname": "Trap_MRBA"
+	},
+	{
+		"abr": "鉄びし入れ",
+		"price": 132,
+		"category": "罠ホルダー",
+		"defname": "MR_Apparel_TrapA"
+	},
+	{
+		"abr": "長手甲",
+		"price": 161,
+		"category": "下着",
+		"defname": "Apparel_Nagatekkou"
+	},
+	{
+		"abr": "雀卓",
+		"price": 400,
+		"category": "家具",
+		"defname": "GHG_MahjongTable"
+	},
+	{
+		"abr": "雪ん子",
+		"price": 54,
+		"category": "下着",
+		"defname": "Apparel_Yukinko"
+	},
+	{
+		"abr": "雪木末",
+		"price": 500,
+		"category": "加工品",
+		"defname": "MR_whitetwigs"
+	},
+	{
+		"abr": "電動製紙機",
+		"price": 408,
+		"category": "生産物",
+		"defname": "RimWriter_PapermakingBenchElectric"
+	},
+	{
+		"abr": "青クマアイス",
+		"price": 5,
+		"category": "ミントチョコ類アイス",
+		"defname": "Mincho_BluePolarBear"
+	},
+	{
+		"abr": "青クマ化クッキー",
+		"price": 2,
+		"category": "ドラッグ",
+		"defname": "Mincho_BluePolarBear_Cookie"
+	},
+	{
+		"abr": "食肉粉砕器",
+		"price": 3608,
+		"category": "生産物",
+		"defname": "VFEM_ProvisionsPackagingFactory_MeatGrinder"
+	},
+	{
+		"abr": "馬頭獄卒",
+		"price": -10,
+		"category": "Animal",
+		"defname": "GHG_Mezu"
+	},
+	{
+		"abr": "魚(生)",
+		"price": 100,
+		"category": "生の魚",
+		"defname": "RF_Fish"
+	},
+	{
+		"abr": "魚のムニエル",
+		"price": 73,
+		"category": "調理済",
+		"defname": "MealFishMeuniere"
+	},
+	{
+		"abr": "魚の切り身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "RawFishMeat"
+	},
 	],
-	"total": 2389
+	"total": 2661
 }

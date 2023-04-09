@@ -48179,26 +48179,6 @@
     "Mod": "Dragonian Prime Race2.0 (Unofficial)",
     "KarmaType": null
   },
-  "ADA_DestroyerShell": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Anti-Air Artillery [Unofficial Update]",
-    "KarmaType": null
-  },
   "Meal_BDsInstantNoodle": {
     "CustomName": null,
     "HasQuantityLimit": false,

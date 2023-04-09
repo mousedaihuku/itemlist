@@ -14047,12 +14047,6 @@
 		"defname": "RF_RawWasabi"
 	},
 	{
-		"abr": "destroyershell",
-		"price": 5017,
-		"category": "加工品",
-		"defname": "ADA_DestroyerShell"
-	},
-	{
 		"abr": "mrクリーヴァ",
 		"price": 194,
 		"category": "白兵戦武器",
@@ -15847,5 +15841,5 @@
 		"defname": "RawFishMeat"
 	},
 	],
-	"total": 2661
+	"total": 2656
 }

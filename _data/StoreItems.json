@@ -3513,13 +3513,13 @@
 	{
 		"abr": "アオメの羊毛",
 		"price": 17,
-		"category": "獣耳娘の髪の毛",
+		"category": "獣耳少女の毛",
 		"defname": "aomeWool"
 	},
 	{
 		"abr": "アカメの羊毛",
 		"price": 17,
-		"category": "獣耳娘の髪の毛",
+		"category": "獣耳少女の毛",
 		"defname": "akameWool"
 	},
 	{
@@ -3627,7 +3627,7 @@
 	{
 		"abr": "クロの毛",
 		"price": 17,
-		"category": "獣耳娘の髪の毛",
+		"category": "獣耳少女の毛",
 		"defname": "kuroWool"
 	},
 	{
@@ -3723,7 +3723,7 @@
 	{
 		"abr": "コヒメの毛",
 		"price": 50,
-		"category": "獣耳娘の髪の毛",
+		"category": "獣耳少女の毛",
 		"defname": "kohimeWool"
 	},
 	{
@@ -3735,7 +3735,7 @@
 	{
 		"abr": "コンの髪の毛",
 		"price": 10,
-		"category": "獣耳娘の髪の毛",
+		"category": "獣耳少女の毛",
 		"defname": "konWool"
 	},
 	{
@@ -3801,7 +3801,7 @@
 	{
 		"abr": "シロの髪の毛",
 		"price": 10,
-		"category": "獣耳娘の髪の毛",
+		"category": "獣耳少女の毛",
 		"defname": "siroWool"
 	},
 	{
@@ -3963,7 +3963,7 @@
 	{
 		"abr": "ハナの髪の毛",
 		"price": 13,
-		"category": "獣耳娘の髪の毛",
+		"category": "獣耳少女の毛",
 		"defname": "hanaWool"
 	},
 	{
@@ -4071,7 +4071,7 @@
 	{
 		"abr": "ミコの金色毛",
 		"price": 20,
-		"category": "獣耳娘の髪の毛",
+		"category": "獣耳少女の毛",
 		"defname": "mikoWool"
 	},
 	{
@@ -4341,7 +4341,7 @@
 	{
 		"abr": "ユキの鱗",
 		"price": 83,
-		"category": "獣耳娘の髪の毛",
+		"category": "獣耳少女の毛",
 		"defname": "yukiwool"
 	},
 	{
@@ -6927,13 +6927,13 @@
 	{
 		"abr": "アオメのジュース",
 		"price": 5,
-		"category": "ケモミミフード",
+		"category": "獣耳製品",
 		"defname": "AomeDrink"
 	},
 	{
 		"abr": "アカメのミルク",
 		"price": 5,
-		"category": "ケモミミフード",
+		"category": "獣耳製品",
 		"defname": "AkameMilk"
 	},
 	{
@@ -6977,42 +6977,6 @@
 		"price": 42,
 		"category": "加工品",
 		"defname": "Ethanol"
-	},
-	{
-		"abr": "エンフォーサーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_EF_B_M_race_a"
-	},
-	{
-		"abr": "エンフォーサーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_EF_B_M_race_b"
-	},
-	{
-		"abr": "エンフォーサーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_EF_B_M_race_c"
-	},
-	{
-		"abr": "エンフォーサーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_EF_B_M_race_d"
-	},
-	{
-		"abr": "エンフォーサーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_EF_B_M_race_e"
-	},
-	{
-		"abr": "エンフォーサーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_EF_M_race_a"
 	},
 	{
 		"abr": "オニ",
@@ -7113,7 +7077,7 @@
 	{
 		"abr": "クロのお茶",
 		"price": 20,
-		"category": "ケモミミフード",
+		"category": "獣耳製品",
 		"defname": "KuroTea"
 	},
 	{
@@ -7131,7 +7095,7 @@
 	{
 		"abr": "コヒメの涙",
 		"price": 333,
-		"category": "ケモミミフード",
+		"category": "獣耳製品",
 		"defname": "KohimeTears"
 	},
 	{
@@ -7209,7 +7173,7 @@
 	{
 		"abr": "シロのお酒",
 		"price": 25,
-		"category": "ケモミミフード",
+		"category": "獣耳製品",
 		"defname": "SiroWine"
 	},
 	{
@@ -7293,7 +7257,7 @@
 	{
 		"abr": "ハナの香油",
 		"price": 27,
-		"category": "ケモミミフード",
+		"category": "獣耳製品",
 		"defname": "HanaPerfume"
 	},
 	{
@@ -7411,15 +7375,9 @@
 		"defname": "Yokai_Kimono_Nishimatuya"
 	},
 	{
-		"abr": "ミーティアライト",
-		"price": 1,
-		"category": "原材料",
-		"defname": "BOSS_EF_Item_b"
-	},
-	{
 		"abr": "ミコの滴",
 		"price": 37,
-		"category": "ケモミミフード",
+		"category": "獣耳製品",
 		"defname": "MikoWater"
 	},
 	{
@@ -7611,7 +7569,7 @@
 	{
 		"abr": "ユキの雫",
 		"price": 100,
-		"category": "ケモミミフード",
+		"category": "獣耳製品",
 		"defname": "YukiBreath"
 	},
 	{
@@ -8103,7 +8061,7 @@
 	{
 		"abr": "化猫之力",
 		"price": 600,
-		"category": "獣耳娘の力",
+		"category": "獣耳少女の魂力",
 		"defname": "mikoSoulPower"
 	},
 	{
@@ -8397,7 +8355,7 @@
 	{
 		"abr": "氷竜之力",
 		"price": 600,
-		"category": "獣耳娘の力",
+		"category": "獣耳少女の魂力",
 		"defname": "yukiSoulPower"
 	},
 	{
@@ -8499,7 +8457,7 @@
 	{
 		"abr": "白狼之力",
 		"price": 600,
-		"category": "獣耳娘の力",
+		"category": "獣耳少女の魂力",
 		"defname": "siroSoulPower"
 	},
 	{
@@ -8547,7 +8505,7 @@
 	{
 		"abr": "緋羊之力",
 		"price": 600,
-		"category": "獣耳娘の力",
+		"category": "獣耳少女の魂力",
 		"defname": "akameSoulPower"
 	},
 	{
@@ -8571,7 +8529,7 @@
 	{
 		"abr": "蒼羊之力",
 		"price": 600,
-		"category": "獣耳娘の力",
+		"category": "獣耳少女の魂力",
 		"defname": "aomeSoulPower"
 	},
 	{
@@ -8619,7 +8577,7 @@
 	{
 		"abr": "赤狐之力",
 		"price": 600,
-		"category": "獣耳娘の力",
+		"category": "獣耳少女の魂力",
 		"defname": "konSoulPower"
 	},
 	{
@@ -8697,13 +8655,13 @@
 	{
 		"abr": "鬼人之力",
 		"price": 600,
-		"category": "獣耳娘の力",
+		"category": "獣耳少女の魂力",
 		"defname": "kohimeSoulPower"
 	},
 	{
 		"abr": "魅兎之力",
 		"price": 600,
-		"category": "獣耳娘の力",
+		"category": "獣耳少女の魂力",
 		"defname": "hanaSoulPower"
 	},
 	{
@@ -8871,7 +8829,7 @@
 	{
 		"abr": "黒犬之力",
 		"price": 600,
-		"category": "獣耳娘の力",
+		"category": "獣耳少女の魂力",
 		"defname": "kuroSoulPower"
 	},
 	{
@@ -9689,24 +9647,6 @@
 		"price": 5833,
 		"category": "白兵戦武器",
 		"defname": "AM_Weebstick"
-	},
-	{
-		"abr": "アマゾン",
-		"price": 1500,
-		"category": "家畜",
-		"defname": "AA_Amazon"
-	},
-	{
-		"abr": "アマゾンのツノ",
-		"price": 11,
-		"category": "白兵戦武器",
-		"defname": "AS_MeleeWeapon_AmazonHorn"
-	},
-	{
-		"abr": "アマゾンの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_AA_Amazon"
 	},
 	{
 		"abr": "いぬ",
@@ -13795,172 +13735,22 @@
 		"defname": "RF_Scallops"
 	},
 	{
-		"abr": "drevaスーツ",
-		"price": 3850,
-		"category": "装甲化",
-		"defname": "DR_EVA_Suit"
-	},
-	{
-		"abr": "drevaヘルメット",
-		"price": 1433,
-		"category": "装甲化",
-		"defname": "DR_EVA_Helmet"
-	},
-	{
-		"abr": "drかんざし",
-		"price": 842,
-		"category": "ロイヤリティ",
-		"defname": "DR_JapanHairAcc"
-	},
-	{
-		"abr": "drドレイククロウ",
-		"price": 1667,
-		"category": "白兵戦武器",
-		"defname": "MeleeWeapon_Drakesclaw"
-	},
-	{
-		"abr": "drドレスa",
-		"price": 1658,
-		"category": "装甲化",
-		"defname": "DR_GreekDress"
-	},
-	{
-		"abr": "drドレスb",
-		"price": 1658,
-		"category": "装甲化",
-		"defname": "DR_GreekHanZo"
-	},
-	{
-		"abr": "drドレスc",
-		"price": 1667,
-		"category": "装甲化",
-		"defname": "DR_GreekPriest"
-	},
-	{
-		"abr": "drドレスd",
-		"price": 1667,
-		"category": "装甲化",
-		"defname": "DR_GreekSexyDress"
-	},
-	{
-		"abr": "drドレスe",
-		"price": 1658,
-		"category": "装甲化",
-		"defname": "DR_GreekString"
-	},
-	{
-		"abr": "drドレスf",
-		"price": 1667,
-		"category": "装甲化",
-		"defname": "DR_JapaneseDress"
-	},
-	{
-		"abr": "drドレスg",
-		"price": 1667,
-		"category": "装甲化",
-		"defname": "DR_Onepiece"
-	},
-	{
-		"abr": "drドレスh",
-		"price": 1667,
-		"category": "装甲化",
-		"defname": "DR_EveningDress"
-	},
-	{
-		"abr": "drバトルドレスh",
-		"price": 1950,
-		"category": "装甲化",
-		"defname": "DR_BattleDress"
-	},
-	{
-		"abr": "drバトルハンマー",
-		"price": 1467,
-		"category": "白兵戦武器",
-		"defname": "DR_BattleHammer"
-	},
-	{
-		"abr": "drバトルヘルメット",
-		"price": 320,
-		"category": "装甲化",
-		"defname": "DR_BattleHelm"
-	},
-	{
-		"abr": "drフラワーリボン",
-		"price": 842,
-		"category": "帽子",
-		"defname": "DR_FlowerRibon"
-	},
-	{
-		"abr": "drレイジブレイド",
-		"price": 1667,
-		"category": "白兵戦武器",
-		"defname": "MeleeWeapon_DR_Rageblade"
-	},
-	{
 		"abr": "dr普通のドレス",
 		"price": 992,
-		"category": "下着",
+		"category": "ロイヤリティ",
 		"defname": "DR_BasicDress"
 	},
 	{
 		"abr": "dr普通の服",
 		"price": 958,
-		"category": "下着",
-		"defname": "DR_BasicWear"
-	},
-	{
-		"abr": "dr花飾り",
-		"price": 558,
-		"category": "帽子",
-		"defname": "DR_Hat"
-	},
-	{
-		"abr": "dr花飾りついた帽子",
-		"price": 558,
 		"category": "ロイヤリティ",
-		"defname": "DR_SunHat"
-	},
-	{
-		"abr": "dr鈴付きの首輪",
-		"price": 558,
-		"category": "上着",
-		"defname": "DR_Necklace"
-	},
-	{
-		"abr": "ドラコニアン",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Dragonian_Prime"
-	},
-	{
-		"abr": "ドラコニアンの皮",
-		"price": 5,
-		"category": "革",
-		"defname": "Leather_Dragonian"
-	},
-	{
-		"abr": "ドラコニアンの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Dragonian_Prime"
-	},
-	{
-		"abr": "ドラコニアンの角",
-		"price": 667,
-		"category": "生体",
-		"defname": "Dragonian_Horn"
+		"defname": "DR_BasicWear"
 	},
 	{
 		"abr": "ドラコニアン毛",
 		"price": 18,
 		"category": "髪の毛",
 		"defname": "WoolDragonian"
-	},
-	{
-		"abr": "ニセ尻尾(ドラコニアン)",
-		"price": 240,
-		"category": "人造",
-		"defname": "DR_FakeTail"
 	},
 	{
 		"abr": "ホワイトドラゴン",
@@ -15397,12 +15187,6 @@
 		"defname": "SP_BioTail"
 	},
 	{
-		"abr": "強化尻尾(ドラコニアン)",
-		"price": 1717,
-		"category": "強化",
-		"defname": "DR_BionicTail"
-	},
-	{
 		"abr": "強化尻尾(ボリ)",
 		"price": 1717,
 		"category": "強化",
@@ -15497,12 +15281,6 @@
 		"price": 2,
 		"category": "ドラッグ",
 		"defname": "Mincho_PinkFallInLove_Cookie"
-	},
-	{
-		"abr": "標準服(子供用)",
-		"price": 958,
-		"category": "下着",
-		"defname": "DR_BasicWearChild"
 	},
 	{
 		"abr": "横幅衣",
@@ -15869,7 +15647,193 @@
 		"price": 8,
 		"category": "家具",
 		"defname": "LT_DoorMatTeal"
+	},
+	{
+		"abr": "ドアマット(皮)",
+		"price": 8,
+		"category": "家具",
+		"defname": "LT_DoorMatLeather"
+	},
+	{
+		"abr": "トラクター(s)",
+		"price": 71,
+		"category": "家具",
+		"defname": "Tractor_S"
+	},
+	{
+		"abr": "ミルクジャグ",
+		"price": 194,
+		"category": "家具",
+		"defname": "Milkjaguchi"
+	},
+	{
+		"abr": "ミルクロート",
+		"price": 194,
+		"category": "家具",
+		"defname": "Milkfunnel"
+	},
+	{
+		"abr": "大きなドアマット(橙)",
+		"price": 13,
+		"category": "家具",
+		"defname": "LT_DoorMatBigOrange"
+	},
+	{
+		"abr": "大きなドアマット(皮)",
+		"price": 13,
+		"category": "家具",
+		"defname": "LT_DoorMatBigLeather"
+	},
+	{
+		"abr": "大きなドアマット(緑)",
+		"price": 13,
+		"category": "家具",
+		"defname": "LT_DoorMatBigGreen"
+	},
+	{
+		"abr": "大きなドアマット(赤)",
+		"price": 13,
+		"category": "家具",
+		"defname": "LT_DoorMatBigRed"
+	},
+	{
+		"abr": "大きなドアマット(青)",
+		"price": 13,
+		"category": "家具",
+		"defname": "LT_DoorMatBigBlue"
+	},
+	{
+		"abr": "エッグベネディクト",
+		"price": 33,
+		"category": "調理済",
+		"defname": "VAGPEggsbenedict"
+	},
+	{
+		"abr": "おかゆ",
+		"price": 20,
+		"category": "調理済",
+		"defname": "VAGPRiceporridge"
+	},
+	{
+		"abr": "オムレツ",
+		"price": 33,
+		"category": "調理済",
+		"defname": "VAGPOmelettet"
+	},
+	{
+		"abr": "かけうどん",
+		"price": 33,
+		"category": "調理済",
+		"defname": "VAGPUdon"
+	},
+	{
+		"abr": "カッテージチーズ",
+		"price": 25,
+		"category": "調理済",
+		"defname": "VAGPCottagecheese"
+	},
+	{
+		"abr": "グラタン",
+		"price": 67,
+		"category": "調理済",
+		"defname": "VAGPGratin"
+	},
+	{
+		"abr": "コーンブレット",
+		"price": 25,
+		"category": "調理済",
+		"defname": "VAGPCornbread"
+	},
+	{
+		"abr": "シチュー",
+		"price": 67,
+		"category": "調理済",
+		"defname": "VAGPStew"
+	},
+	{
+		"abr": "じゃがバター",
+		"price": 33,
+		"category": "調理済",
+		"defname": "VAGPPotatobutter"
+	},
+	{
+		"abr": "ジャンバラヤ",
+		"price": 67,
+		"category": "調理済",
+		"defname": "VAGPJambalaya"
+	},
+	{
+		"abr": "ドリア",
+		"price": 67,
+		"category": "調理済",
+		"defname": "VAGPDria"
+	},
+	{
+		"abr": "ピカタ",
+		"price": 33,
+		"category": "調理済",
+		"defname": "VAGPPiccata"
+	},
+	{
+		"abr": "ベリーパイ",
+		"price": 67,
+		"category": "調理済",
+		"defname": "VAGPBerrypie"
+	},
+	{
+		"abr": "ポタージュスープ",
+		"price": 33,
+		"category": "調理済",
+		"defname": "VAGPPotagesoup"
+	},
+	{
+		"abr": "ミートパイ",
+		"price": 67,
+		"category": "調理済",
+		"defname": "VAGPMeatpie"
+	},
+	{
+		"abr": "メンチカツ",
+		"price": 67,
+		"category": "調理済",
+		"defname": "VAGPMincedMeatCutlet"
+	},
+	{
+		"abr": "ライスブレット(米粉パン)",
+		"price": 25,
+		"category": "調理済",
+		"defname": "VAGPRicebread"
+	},
+	{
+		"abr": "リゾット",
+		"price": 33,
+		"category": "調理済",
+		"defname": "VAGPRisotto"
+	},
+	{
+		"abr": "ルーロー飯",
+		"price": 67,
+		"category": "調理済",
+		"defname": "VAGPLuRouFan"
+	},
+	{
+		"abr": "具沢山スープ",
+		"price": 67,
+		"category": "調理済",
+		"defname": "VAGPSoupingredients"
+	},
+	{
+		"abr": "医療用食品",
+		"price": 63,
+		"category": "調理済",
+		"defname": "VAGPMealMedicPack"
+	},
+	{
+		"abr": "大きなドアマット(青緑)",
+		"price": 13,
+		"category": "家具",
+		"defname": "LT_DoorMatBigTeal"
 	}
 	],
-	"total": 2661
+	"total": 2666
 }

@@ -60,6 +60,12 @@
     "version": "1.4.1240.0"
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
     "author": "latta",
     "name": "FSharp.Core",
     "steamId": null,
@@ -106,6 +112,12 @@
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
     "version": "2.6.0.6"
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[1.4]Enforcer Boss",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Ayameduki",
@@ -780,6 +792,12 @@
     "version": "3.5.4.0"
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornsonと Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
@@ -856,6 +874,48 @@
     "name": "Vanilla Milk Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Dakk Passerida",
+    "name": "Replantable Anima Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dakk Passerida",
+    "name": "Replantable Gauranlen Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "Infusion 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Paragon",
+    "name": "UnLimitedArmor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Grimm",
+    "name": "Un-Limited",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SteveZero",
+    "name": "Condition Matters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SteveZero",
+    "name": "Repairable Gear",
+    "steamId": "2482478785",
+    "version": "0.0.0.0"
   },
   {
     "author": "Lanilor",
@@ -974,6 +1034,18 @@
   {
     "author": "Morphium",
     "name": "Morphs Assorted: Hairs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potockiと Sarg Bjornson",
+    "name": "Vanilla Ideology Expanded - Icons and Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornsonと legodude17",
+    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
     "steamId": null,
     "version": null
   },
@@ -1144,6 +1216,12 @@
     "name": "Dubs Apparel Tweaks",
     "steamId": "2296697286",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Udon",
+    "name": "野生のアマゾン",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Udon",
@@ -1368,6 +1446,12 @@
     "version": null
   },
   {
+    "author": "Lucifel",
+    "name": "Infusion 2 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Proxyer",
     "name": "Ratkin Apparel+ 日本語翻訳追加",
     "steamId": null,
@@ -1412,6 +1496,12 @@
   {
     "author": "namidasechi",
     "name": "Tabletop Trove - Additional Joy Objects and Decor 日本語追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "XML Extensions 日本語翻訳",
     "steamId": null,
     "version": null
   },

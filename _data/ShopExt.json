@@ -2662,7 +2662,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "放火魔ほどではありませんが,火が大好きです.",
+      "description": "放火魔ほどではありませんが,火が大好きです.\n(Miho, the celestial fox)",
       "stats": [
         "TKUtils.Trait.MeditationEnabled"
       ],
@@ -3730,7 +3730,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "クーリンです.\n\n¯\\_(ツ)_/¯",
+      "description": "クーリンです.\n\n¯\\_(ツ)_/¯\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
       "stats": [
         "+2 知力",
         "-2 動物",
@@ -3766,7 +3766,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは,植物が好きな変わり者のクーリンです...",
+      "description": "Timmyは,植物が好きな変わり者のクーリンです...\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
       "stats": [
         "+10 栽培",
         "+30% 栽培・速度"
@@ -3798,7 +3798,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは,自分の遺伝子を改良するプログラムに参加しました.",
+      "description": "Timmyは,自分の遺伝子を改良するプログラムに参加しました.\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
       "stats": [
         "+25% 身につけやすさ",
         "+25% 毒耐性",
@@ -3832,7 +3832,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "キミリです.\n\n¯\\_(ツ)_/¯",
+      "description": "キミリです.\n\n¯\\_(ツ)_/¯\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
       "stats": [
         "+1.0 美しさ"
       ],
@@ -3862,7 +3862,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "クーリンメカノイドです.\n\n¯\\_(ツ)_/¯",
+      "description": "クーリンメカノイドです.\n\n¯\\_(ツ)_/¯\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -17003,6 +17003,32 @@
       },
       "defName": "Bori_Rough_heart",
       "name": "血が騒ぐ"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy は身体と精神ともに,洞察力に優れ,経験豊富な人生の大先輩です.彼らを古臭いと感じる人もいれば,彼らの導きを尊重する人もいるでしょう.\n(Vanilla Ideology Expanded - Memes and Structures)",
+      "stats": [],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VME_Elder",
+      "name": "年長者"
     }
   ],
   "races": [

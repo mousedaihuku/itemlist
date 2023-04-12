@@ -18,6 +18,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "Smash Philと Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "2878587061",
+    "version": "1.4.7"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -186,16 +192,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Epicguru",
-    "name": "Melee Animation",
-    "steamId": "2944488802",
-    "version": "1.0.0"
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
     "version": "2.7.7366"
+  },
+  {
+    "author": "Jaxxa",
+    "name": "ED-EnhancedOptions [1.4]",
+    "steamId": "2897488240",
+    "version": "1.0.0.0"
   },
   {
     "author": "avilmask",
@@ -214,12 +220,6 @@
     "name": "The Cosmic Odyssey - Victoria Valiant",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Smash Philと Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "2878587061",
-    "version": "1.4.7"
   },
   {
     "author": "Oblitus",
@@ -462,12 +462,6 @@
     "version": "1.0.17"
   },
   {
-    "author": "Dingo",
-    "name": "No Forced Slowdown",
-    "steamId": "1419593453",
-    "version": "1.4.8329.1"
-  },
-  {
     "author": "Arquebus",
     "name": "Hotseat - Dynamic Storyteller Switcher",
     "steamId": "2175327693",
@@ -618,12 +612,6 @@
     "version": "1.2.0.0"
   },
   {
-    "author": "winggar",
-    "name": "No Shadows",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Lanilorと Proxyer",
     "name": "Simple Recycling",
     "steamId": null,
@@ -646,12 +634,6 @@
     "name": "[Kit] Graze up",
     "steamId": "2302739121",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Line Of Sight Fix",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "FlashPoint55",
@@ -816,12 +798,6 @@
     "version": "1.4.2"
   },
   {
-    "author": "misonomi",
-    "name": "Mod Hairs Only",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "pointfeev",
     "name": "Automatic Bed Reassignment",
     "steamId": "2404555784",
@@ -906,8 +882,26 @@
     "version": null
   },
   {
+    "author": "NandonaltとTejko",
+    "name": "Snowy Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SteveZero",
     "name": "Condition Matters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "marceline",
+    "name": "Milk Retexture",
     "steamId": null,
     "version": null
   },
@@ -916,6 +910,18 @@
     "name": "Repairable Gear",
     "steamId": "2482478785",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "RWLayout",
+    "steamId": "2209393954",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "Grouped Pawns Lists",
+    "steamId": "2340773428",
+    "version": "1.0.0"
   },
   {
     "author": "Lanilor",
@@ -1159,7 +1165,7 @@
   },
   {
     "author": "Roo",
-    "name": "Dragonian race",
+    "name": "Gloomy Dragonian race",
     "steamId": null,
     "version": null
   },
@@ -1320,6 +1326,12 @@
     "version": null
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0"
+  },
+  {
     "author": "user19990313と Trinity",
     "name": "RuntimeGC [1.4] reuploaded",
     "steamId": "2945201476",
@@ -1448,6 +1460,12 @@
   {
     "author": "Lucifel",
     "name": "Infusion 2 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Dubs Performance Analyzer 日本語翻訳追加",
     "steamId": null,
     "version": null
   },

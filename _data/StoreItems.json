@@ -8695,30 +8695,6 @@
 		"defname": "Dresser"
 	},
 	{
-		"abr": "チェス盤",
-		"price": 281,
-		"category": "",
-		"defname": "ChessTable"
-	},
-	{
-		"abr": "ビリヤード台",
-		"price": 600,
-		"category": "",
-		"defname": "BilliardsTable"
-	},
-	{
-		"abr": "ポーカーテーブル",
-		"price": 400,
-		"category": "",
-		"defname": "PokerTable"
-	},
-	{
-		"abr": "ミシン台",
-		"price": 262,
-		"category": "",
-		"defname": "HandTailoringBench"
-	},
-	{
 		"abr": "ロッカー",
 		"price": 70,
 		"category": "家具",
@@ -8761,12 +8737,6 @@
 		"defname": "MealFine"
 	},
 	{
-		"abr": "研究卓",
-		"price": 350,
-		"category": "",
-		"defname": "SimpleResearchBench"
-	},
-	{
 		"abr": "簡単な食事",
 		"price": 25,
 		"category": "調理済",
@@ -8789,12 +8759,6 @@
 		"price": 67,
 		"category": "調理済",
 		"defname": "MealLavish"
-	},
-	{
-		"abr": "電動ミシン台",
-		"price": 533,
-		"category": "",
-		"defname": "ElectricTailoringBench"
 	},
 	{
 		"abr": "電動工作台",
@@ -9595,18 +9559,6 @@
 		"defname": "Meat_ExC_NEKO_Chiken"
 	},
 	{
-		"abr": "devilstrandlasso",
-		"price": 500,
-		"category": "Lasso slot",
-		"defname": "AM_LassoDevilstrand"
-	},
-	{
-		"abr": "hyperwavelasso",
-		"price": 583,
-		"category": "Lasso slot",
-		"defname": "AM_LassoHyperwave"
-	},
-	{
 		"abr": "kittycrack",
 		"price": 2,
 		"category": "食物",
@@ -9631,22 +9583,10 @@
 		"defname": "Meat_ExC_NEKO_Sheep"
 	},
 	{
-		"abr": "lasso",
-		"price": 250,
-		"category": "Lasso slot",
-		"defname": "AM_LassoCloth"
-	},
-	{
 		"abr": "pork",
 		"price": 3,
 		"category": "生肉",
 		"defname": "Meat_ExC_NEKO_Pig"
-	},
-	{
-		"abr": "scarletedge",
-		"price": 5833,
-		"category": "白兵戦武器",
-		"defname": "AM_Weebstick"
 	},
 	{
 		"abr": "いぬ",
@@ -15837,13 +15777,13 @@
 	{
 		"abr": "drサイドオープンドレス",
 		"price": 1658,
-		"category": "装甲化",
+		"category": "ロイヤリティ",
 		"defname": "DR_SideDress"
 	},
 	{
 		"abr": "drリボンドレス",
 		"price": 1658,
-		"category": "装甲化",
+		"category": "ロイヤリティ",
 		"defname": "DR_OpenDress"
 	},
 	{
@@ -15938,7 +15878,7 @@
 	},
 	{
 		"abr": "ドラコニアン",
-		"price": 9667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Dragonian_Race"
 	},
@@ -15962,7 +15902,7 @@
 	},
 	{
 		"abr": "ミーティアライト",
-		"price": 1,
+		"price": -10,
 		"category": "原材料",
 		"defname": "BOSS_EF_Item_b"
 	},
@@ -16022,271 +15962,271 @@
 	},
 	{
 		"abr": "古代のatm",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientATM"
 	},
 	{
 		"abr": "古代のエアコン",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientAirConditioner"
 	},
 	{
 		"abr": "古代のエンジン部品",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientRustedEngineBlock"
 	},
 	{
 		"abr": "古代のオーブン",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientOven"
 	},
 	{
 		"abr": "古代のキッチンシンク",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientKitchenSink"
 	},
 	{
 		"abr": "古代のコンテナ",
-		"price": 1,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientContainer"
 	},
 	{
 		"abr": "古代のジェネレータ",
-		"price": 1,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientGenerator"
 	},
 	{
 		"abr": "古代のシステムラック",
-		"price": 9,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientSystemRack"
 	},
 	{
 		"abr": "古代のショッピングカート",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientShoppingCart"
 	},
 	{
 		"abr": "古代のストーブ",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientStove"
 	},
 	{
 		"abr": "古代のディスプレイ",
-		"price": 9,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientDisplayBank"
 	},
 	{
 		"abr": "古代のトイレ",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientToilet"
 	},
 	{
 		"abr": "古代のパイプ",
-		"price": 1,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientPipes"
 	},
 	{
 		"abr": "古代のフェンス",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientFence"
 	},
 	{
 		"abr": "古代のベッド",
-		"price": 5,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientBed"
 	},
 	{
 		"abr": "古代のポスト",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientPostbox"
 	},
 	{
 		"abr": "古代のマルコエンジンブロック",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientLargeRustedEngineBlock"
 	},
 	{
 		"abr": "古代のメガキャノンの砲架",
-		"price": 1,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientMegaCannonTripod"
 	},
 	{
 		"abr": "古代のメガキャノンの砲身",
-		"price": 1,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientMegaCannonBarrel"
 	},
 	{
 		"abr": "古代のメカノイドのビーコン",
-		"price": 1,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientMechDropBeacon"
 	},
 	{
 		"abr": "古代のメカノイドの外殻",
-		"price": 1,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientMechanoidShell"
 	},
 	{
 		"abr": "古代のロッカー",
-		"price": 5,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientLockerBank"
 	},
 	{
 		"abr": "古代の円柱型容器",
-		"price": 2,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientSpacerCrate"
 	},
 	{
 		"abr": "古代の冷蔵庫",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientRefrigerator"
 	},
 	{
 		"abr": "古代の大型容器",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientLargeCrate"
 	},
 	{
 		"abr": "古代の宇宙船の残骸",
-		"price": 2,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientSpaceJunk"
 	},
 	{
 		"abr": "古代の容器",
-		"price": 2,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientCrate"
 	},
 	{
 		"abr": "古代の対戦車障害",
-		"price": 1,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientTankTrap"
 	},
 	{
 		"abr": "古代の小型容器",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientSmallCrate"
 	},
 	{
 		"abr": "古代の巨大車輪",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientGiantWheel"
 	},
 	{
 		"abr": "古代の手術台",
-		"price": 1,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientOperatingTable"
 	},
 	{
 		"abr": "古代の樽",
-		"price": 1,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientBarrel"
 	},
 	{
 		"abr": "古代の機械",
-		"price": 18,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientMachine"
 	},
 	{
 		"abr": "古代の洗濯機",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientWashingMachine"
 	},
 	{
 		"abr": "古代の消火栓",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientHydrant"
 	},
 	{
 		"abr": "古代の自動販売機",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientVendingMachine"
 	},
 	{
 		"abr": "古代の誘導ビーコン",
-		"price": 1,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientShipBeacon"
 	},
 	{
 		"abr": "古代の警備タレット",
-		"price": 1,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientSecurityTurret"
 	},
 	{
 		"abr": "古代の貯蔵シリンダー",
-		"price": 12,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientStorageCylinder"
 	},
 	{
 		"abr": "古代の車輪",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientWheel"
 	},
 	{
 		"abr": "古代の軍用容器",
-		"price": 2,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientMilitaryCrate"
 	},
 	{
 		"abr": "古代の部品の塊",
-		"price": 12,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientEquipmentBlocks"
 	},
 	{
 		"abr": "古代の鉄条網",
-		"price": 1,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientRazorWire"
 	},
 	{
 		"abr": "古代の長方形容器",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientLongCrate"
 	},
 	{
 		"abr": "古代の電子レンジ",
-		"price": 0,
+		"price": -10,
 		"category": "その他",
 		"defname": "VME_AncientMicrowave"
 	},
@@ -16547,7 +16487,211 @@
 		"price": 3,
 		"category": "生肉",
 		"defname": "Meat_AA_Amazon"
+	},
+	{
+		"abr": "継ぎ接ぎの肝臓",
+		"price": 75,
+		"category": "生体",
+		"defname": "VME_FleshcraftedLiver"
+	},
+	{
+		"abr": "継ぎ接ぎの肺",
+		"price": 75,
+		"category": "生体",
+		"defname": "VME_FleshcraftedLung"
+	},
+	{
+		"abr": "継ぎ接ぎの胃",
+		"price": 75,
+		"category": "生体",
+		"defname": "VME_FleshcraftedStomach"
+	},
+	{
+		"abr": "継ぎ接ぎの脊椎",
+		"price": 75,
+		"category": "生体",
+		"defname": "VME_FleshcraftedSpine"
+	},
+	{
+		"abr": "継ぎ接ぎの脚",
+		"price": 75,
+		"category": "生体",
+		"defname": "VME_FleshcraftedLeg"
+	},
+	{
+		"abr": "継ぎ接ぎの腎臓",
+		"price": 75,
+		"category": "生体",
+		"defname": "VME_FleshcraftedKidney"
+	},
+	{
+		"abr": "継ぎ接ぎの腕",
+		"price": 75,
+		"category": "生体",
+		"defname": "VME_FleshcraftedArm"
+	},
+	{
+		"abr": "継ぎ接ぎの舌",
+		"price": 75,
+		"category": "生体",
+		"defname": "VME_FleshcraftedTongue"
+	},
+	{
+		"abr": "継ぎ接ぎの足",
+		"price": 75,
+		"category": "生体",
+		"defname": "VME_FleshcraftedFoot"
+	},
+	{
+		"abr": "継ぎ接ぎの足趾",
+		"price": 75,
+		"category": "生体",
+		"defname": "VME_FleshcraftedToe"
+	},
+	{
+		"abr": "継ぎ接ぎの顎",
+		"price": 75,
+		"category": "生体",
+		"defname": "VME_FleshcraftedJaw"
+	},
+	{
+		"abr": "継ぎ接ぎの鼻",
+		"price": 75,
+		"category": "生体",
+		"defname": "VME_FleshcraftedNose"
+	},
+	{
+		"abr": "美味しい非常用食品",
+		"price": 50,
+		"category": "調理済",
+		"defname": "VAGPMealSurvivalPack"
+	},
+	{
+		"abr": "肉団子",
+		"price": 25,
+		"category": "調理済",
+		"defname": "VAGPMeatball"
+	},
+	{
+		"abr": "腕輪",
+		"price": 833,
+		"category": "不活性な遺物",
+		"defname": "VIE_RelicInertBracelet"
+	},
+	{
+		"abr": "自動販売機",
+		"price": 575,
+		"category": "家具",
+		"defname": "vending"
+	},
+	{
+		"abr": "茹で肉",
+		"price": 20,
+		"category": "調理済",
+		"defname": "VAGPBoiledmeat"
+	},
+	{
+		"abr": "虫の骨",
+		"price": 833,
+		"category": "不活性な遺物",
+		"defname": "VIE_RelicInertInsectSkull"
+	},
+	{
+		"abr": "角",
+		"price": 833,
+		"category": "不活性な遺物",
+		"defname": "VIE_RelicInertHorn"
+	},
+	{
+		"abr": "野菜炒めとチャーハンセット",
+		"price": 67,
+		"category": "調理済",
+		"defname": "VAGPVegetablesfriedrice"
+	},
+	{
+		"abr": "鉱滓",
+		"price": 833,
+		"category": "不活性な遺物",
+		"defname": "VIE_RelicInertPlate"
+	},
+	{
+		"abr": "鎖",
+		"price": 833,
+		"category": "不活性な遺物",
+		"defname": "VIE_RelicInertChain"
+	},
+	{
+		"abr": "鎧の籠手",
+		"price": 833,
+		"category": "不活性な遺物",
+		"defname": "VIE_RelicInertGauntlet"
+	},
+	{
+		"abr": "電動修繕作業台",
+		"price": 692,
+		"category": "生産物",
+		"defname": "RG_ElectricRepairTable"
+	},
+	{
+		"abr": "頭蓋骨",
+		"price": 833,
+		"category": "不活性な遺物",
+		"defname": "VIE_RelicInertSkull"
+	},
+	{
+		"abr": "飼い葉桶(小)",
+		"price": 34,
+		"category": "家具",
+		"defname": "Manger_S"
+	},
+	{
+		"abr": "骨",
+		"price": 833,
+		"category": "不活性な遺物",
+		"defname": "VIE_RelicInertBone"
+	},
+	{
+		"abr": "battlehelma",
+		"price": 320,
+		"category": "装甲化",
+		"defname": "DR_BattleHelmA"
+	},
+	{
+		"abr": "battlehelmb",
+		"price": 320,
+		"category": "装甲化",
+		"defname": "DR_BattleHelmB"
+	},
+	{
+		"abr": "dragonianbattledress",
+		"price": 1950,
+		"category": "装甲化",
+		"defname": "DR_BattleDress"
+	},
+	{
+		"abr": "dragonianmace",
+		"price": 1467,
+		"category": "白兵戦武器",
+		"defname": "DR_BattleMace"
+	},
+	{
+		"abr": "dragonianoffshoulderdress",
+		"price": 658,
+		"category": "ロイヤリティ",
+		"defname": "DR_OffshoulderDress"
+	},
+	{
+		"abr": "dragonianorb",
+		"price": 2167,
+		"category": "その他",
+		"defname": "DragonianOrb"
+	},
+	{
+		"abr": "dragonianseethroughdress",
+		"price": 650,
+		"category": "ロイヤリティ",
+		"defname": "DR_Seethrough"
 	}
 	],
-	"total": 2785
+	"total": 2782
 }

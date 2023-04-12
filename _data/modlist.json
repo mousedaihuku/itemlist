@@ -204,6 +204,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0"
+  },
+  {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
@@ -212,6 +218,18 @@
   {
     "author": "Yoann",
     "name": "Common Sense - opportunistic cleaning patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Share The Load",
+    "steamId": "1356838246",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Undraft After Tucking",
     "steamId": null,
     "version": null
   },
@@ -244,6 +262,12 @@
     "name": "Better Pawn Control",
     "steamId": "1541460369",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
   },
   {
     "author": "miyamiya",
@@ -894,6 +918,48 @@
     "version": null
   },
   {
+    "author": "Zaire82",
+    "name": "HD Head Attatchments for Nals Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Chibi Face Male only",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Chibi Face Female only",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Chibi Body",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Realistic Body",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Custom Coordinate Offsets",
+    "steamId": "1909870211",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NALS",
+    "name": "[NL] Apparel Paper Pattern",
+    "steamId": "2480887589",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Peppsen",
     "name": "P-Music",
     "steamId": null,
@@ -1208,6 +1274,12 @@
   {
     "author": "Talos",
     "name": "Mincho FacialAnime",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Talos",
+    "name": "Heyra Face FacialAnime",
     "steamId": null,
     "version": null
   },

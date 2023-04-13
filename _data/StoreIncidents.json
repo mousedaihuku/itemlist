@@ -191,6 +191,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "shippartpoison",
+		"price": 1900,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
@@ -211,12 +216,12 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "mechanoidraid",
-		"price": 2500,
+		"abr": "sapperraid",
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "infestation",
+		"abr": "mechanoidraid",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -269,11 +274,6 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "item",
-		"price": 1,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "prisoner",

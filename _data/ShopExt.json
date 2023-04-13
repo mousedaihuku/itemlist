@@ -34,7 +34,7 @@
       "degree": 0,
       "description": "Timmyは人を傷つけて快感を得ます,大量の流血や死なんか,どうでもいいことです. 彼は,他の人よりも4倍ほど喧嘩っぱやいです.",
       "stats": [
-        "陰鬱 meditation focus type allowed."
+        "陰鬱瞑想フォーカスタイプが許可されています。"
       ],
       "conflicts": [
         "宿り木"
@@ -45,7 +45,7 @@
           "宿り木"
         ],
         "stats": [
-          "陰鬱 meditation focus type allowed."
+          "陰鬱瞑想フォーカスタイプが許可されています。"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -68,13 +68,15 @@
       ],
       "conflicts": [
         "やっかい者",
-        "サイコパス"
+        "サイコパス",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "やっかい者",
-          "サイコパス"
+          "サイコパス",
+          "宿り木"
         ],
         "stats": [
           "x200% 全体的な信仰度の損失率"
@@ -96,7 +98,7 @@
       "degree": 0,
       "description": "Timmyは,他者の気持ちに寄り添って物事を考えることができません.他者の苦しみが,彼を悩ますことは全くありません.他者が,解体されたり,死体が野ざらしであったり,牢屋へ叩きこまれたり,奴隷として売られたりしようが,彼の身に及ばなければ気にしません.彼は,人付き合いで\"心情\"が上向くこともありません.",
       "stats": [
-        "陰鬱 meditation focus type allowed.",
+        "陰鬱瞑想フォーカスタイプが許可されています。",
         "x50% 全体的な信仰度の損失率"
       ],
       "conflicts": [
@@ -108,7 +110,7 @@
           "宿り木"
         ],
         "stats": [
-          "陰鬱 meditation focus type allowed.",
+          "陰鬱瞑想フォーカスタイプが許可されています。",
           "x50% 全体的な信仰度の損失率"
         ],
         "canBypassLimit": false,
@@ -128,7 +130,7 @@
       "degree": 0,
       "description": "Timmyは,人肉を食べることは,身の毛もよだつ悪事だと教わっていました.かつて,はるか遠い昔のある日,彼は,試しにそれを…それから好むようになりました.",
       "stats": [
-        "陰鬱 meditation focus type allowed."
+        "陰鬱瞑想フォーカスタイプが許可されています。"
       ],
       "conflicts": [
         "宿り木"
@@ -139,7 +141,7 @@
           "宿り木"
         ],
         "stats": [
-          "陰鬱 meditation focus type allowed."
+          "陰鬱瞑想フォーカスタイプが許可されています。"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -167,7 +169,8 @@
         "熟練した外交官",
         "青二才",
         "交渉人",
-        "熟練の交渉人"
+        "熟練の交渉人",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
@@ -178,7 +181,8 @@
           "熟練した外交官",
           "青二才",
           "交渉人",
-          "熟練の交渉人"
+          "熟練の交渉人",
+          "宿り木"
         ],
         "stats": [
           "x50% 全体的な信仰度の損失率"
@@ -211,7 +215,8 @@
         "精神不安定",
         "物覚えが悪い",
         "間抜け",
-        "学者"
+        "学者",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
@@ -222,7 +227,8 @@
           "精神不安定",
           "物覚えが悪い",
           "間抜け",
-          "学者"
+          "学者",
+          "宿り木"
         ],
         "stats": [
           "+75% 身につけやすさ",
@@ -246,7 +252,7 @@
       "degree": 0,
       "description": "Timmyは,接近戦での一対一の殴り合いが好きです.白兵戦における彼の正確さは,非常に高くなりますが,逆に遠距離武器を持たされると,とても不機嫌になるでしょう.",
       "stats": [
-        "熱狂的な射撃意欲 inspiration disabled.",
+        "熱狂的な射撃意欲インスピレーションが無効になっています。",
         "+4 格闘",
         "-4 射撃",
         "+4.0 命中率(白兵戦)"
@@ -255,7 +261,8 @@
         "慎重な射手",
         "トリガーハッピー",
         "射撃の名手",
-        "弱虫"
+        "弱虫",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
@@ -263,10 +270,11 @@
           "慎重な射手",
           "トリガーハッピー",
           "射撃の名手",
-          "弱虫"
+          "弱虫",
+          "宿り木"
         ],
         "stats": [
-          "熱狂的な射撃意欲 inspiration disabled.",
+          "熱狂的な射撃意欲インスピレーションが無効になっています。",
           "+4 格闘",
           "-4 射撃",
           "+4.0 命中率(白兵戦)"
@@ -288,18 +296,20 @@
       "degree": 0,
       "description": "Timmyにとって,痛めつけられることは刺激的な良いことです.彼は何故か知りません,けどかなり変人です.",
       "stats": [
-        "陰鬱 meditation focus type allowed."
+        "陰鬱瞑想フォーカスタイプが許可されています。"
       ],
       "conflicts": [
-        "弱虫"
+        "弱虫",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "弱虫"
+          "弱虫",
+          "宿り木"
         ],
         "stats": [
-          "陰鬱 meditation focus type allowed."
+          "陰鬱瞑想フォーカスタイプが許可されています。"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -346,13 +356,15 @@
       "stats": [],
       "conflicts": [
         "禁欲",
-        "嫉妬"
+        "嫉妬",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "禁欲",
-          "嫉妬"
+          "嫉妬",
+          "宿り木"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -372,20 +384,22 @@
       "degree": 0,
       "description": "Timmyにとって,他者より見劣りする寝室を持つことは,自尊心を傷つけます.彼は,他者が自分よりも豪華な寝室を持っていると\"心情\"が悪くなります.",
       "stats": [
-        "陰鬱 meditation focus type allowed."
+        "陰鬱瞑想フォーカスタイプが許可されています。"
       ],
       "conflicts": [
         "禁欲",
-        "欲張り"
+        "欲張り",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "禁欲",
-          "欲張り"
+          "欲張り",
+          "宿り木"
         ],
         "stats": [
-          "陰鬱 meditation focus type allowed."
+          "陰鬱瞑想フォーカスタイプが許可されています。"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -404,25 +418,27 @@
       "degree": 0,
       "description": "Timmyは禁欲生活をより好みます. 彼の寝室が豪華すぎると,彼の \"心情\"にマイナスがつきます. 彼は また手の込んだ食事を嫌い,生のまま食べることを好みます.",
       "stats": [
-        "芸術 meditation focus type disabled.",
-        "ミニマル meditation focus type allowed.",
+        "芸術瞑想フォーカスタイプが無効になっています。",
+        "ミニマル瞑想フォーカスタイプが許可されています。",
         "x50% 全体的な信仰度の損失率"
       ],
       "conflicts": [
         "欲張り",
         "嫉妬",
-        "食道楽"
+        "食道楽",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "欲張り",
           "嫉妬",
-          "食道楽"
+          "食道楽",
+          "宿り木"
         ],
         "stats": [
-          "芸術 meditation focus type disabled.",
-          "ミニマル meditation focus type allowed.",
+          "芸術瞑想フォーカスタイプが無効になっています。",
+          "ミニマル瞑想フォーカスタイプが許可されています。",
           "x50% 全体的な信仰度の損失率"
         ],
         "canBypassLimit": false,
@@ -572,8 +588,8 @@
       "degree": 0,
       "description": "Timmyは,火が大好きです.彼は火を消そうとはしません.彼はちょくちょく手当り次第に放火し続けることがあります.彼は火のそばにいると幸せを感じ,炎系の武器を持つと喜びを感じます.",
       "stats": [
-        "炎 meditation focus type allowed.",
-        "Only mental break \"FireStartingSpree\" allowed."
+        "炎瞑想フォーカスタイプが許可されています。",
+        "許可されるのはメンタルブレイク\"FireStartingSpree\"のみです。"
       ],
       "conflicts": [
         "宿り木"
@@ -584,8 +600,8 @@
           "宿り木"
         ],
         "stats": [
-          "炎 meditation focus type allowed.",
-          "Only mental break \"FireStartingSpree\" allowed."
+          "炎瞑想フォーカスタイプが許可されています。",
+          "許可されるのはメンタルブレイク\"FireStartingSpree\"のみです。"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -604,7 +620,7 @@
       "degree": 0,
       "description": "Timmyは,弱虫で臆病です.ちょっとした痛みでも,動けなくなってしまいます.",
       "stats": [
-        "-60% 痛みへの限界値",
+        "-50% 痛みへの限界値",
         "x200% 全体的な信仰度の損失率"
       ],
       "conflicts": [
@@ -612,7 +628,8 @@
         "マゾヒスト",
         "不屈",
         "鉄人",
-        "痛みに弱い"
+        "痛みに弱い",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
@@ -621,10 +638,11 @@
           "マゾヒスト",
           "不屈",
           "鉄人",
-          "痛みに弱い"
+          "痛みに弱い",
+          "宿り木"
         ],
         "stats": [
-          "-60% 痛みへの限界値",
+          "-50% 痛みへの限界値",
           "x200% 全体的な信仰度の損失率"
         ],
         "canBypassLimit": false,
@@ -696,7 +714,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Nimble",
-      "name": "敏捷な身のこなし"
+      "name": "deftlydodger"
     },
     {
       "canAdd": true,
@@ -726,7 +744,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Nimble",
-      "name": "敏捷な身のこなし"
+      "name": "sluggish"
     },
     {
       "canAdd": true,
@@ -740,13 +758,15 @@
       ],
       "conflicts": [
         "間抜け",
-        "学者"
+        "学者",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "間抜け",
-          "学者"
+          "学者",
+          "宿り木"
         ],
         "stats": [
           "+75% 身につけやすさ"
@@ -772,12 +792,14 @@
         "x50% 全体的な信仰度の損失率"
       ],
       "conflicts": [
-        "うぬぼれ屋"
+        "うぬぼれ屋",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "うぬぼれ屋"
+          "うぬぼれ屋",
+          "宿り木"
         ],
         "stats": [
           "-75% 身につけやすさ",
@@ -800,7 +822,7 @@
       "degree": 0,
       "description": "Timmyは明かりも,外での経験も必要ありません.彼は,窮屈感を感じたり,キャビンフィーバーになったりしないでしょう,彼は,どれだけ閉じこもっても気にしないし,暗闇を気にすることもありません.",
       "stats": [
-        "陰鬱 meditation focus type allowed."
+        "陰鬱瞑想フォーカスタイプが許可されています。"
       ],
       "conflicts": [
         "宿り木"
@@ -811,7 +833,7 @@
           "宿り木"
         ],
         "stats": [
-          "陰鬱 meditation focus type allowed."
+          "陰鬱瞑想フォーカスタイプが許可されています。"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -831,12 +853,14 @@
       "description": "Timmyは,弱々しい人間の身体に限界を感じています.彼は,しばしば自分が義体化するか,異種遺伝子を組み込む夢をみます.",
       "stats": [],
       "conflicts": [
-        "自然体主義"
+        "自然体主義",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "自然体主義"
+          "自然体主義",
+          "宿り木"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -857,12 +881,14 @@
       "description": "Timmyは,人体に限界があるのは理由があってのことだと信じています.彼にとって,義体化と異種遺伝子は倫理に反する気持ち悪いことだと捉えています.",
       "stats": [],
       "conflicts": [
-        "義体化願望"
+        "義体化願望",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "義体化願望"
+          "義体化願望",
+          "宿り木"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -966,7 +992,8 @@
         "弱虫",
         "不屈",
         "鉄人",
-        "痛みに弱い"
+        "痛みに弱い",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
@@ -974,7 +1001,8 @@
           "弱虫",
           "不屈",
           "鉄人",
-          "痛みに弱い"
+          "痛みに弱い",
+          "宿り木"
         ],
         "stats": [
           "x50% 受けるダメージ倍率"
@@ -996,7 +1024,7 @@
       "degree": 0,
       "description": "Timmyは,自分以外の人から正当な評価をされず,疎外されてると感じています.彼の心情は一定値下がりますが,精神崩壊を起こした後は,創作意欲のチャンスが50%上がります.",
       "stats": [
-        "陰鬱 meditation focus type allowed."
+        "陰鬱瞑想フォーカスタイプが許可されています。"
       ],
       "conflicts": [
         "宿り木"
@@ -1007,7 +1035,7 @@
           "宿り木"
         ],
         "stats": [
-          "陰鬱 meditation focus type allowed."
+          "陰鬱瞑想フォーカスタイプが許可されています。"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1026,19 +1054,21 @@
       "degree": 0,
       "description": "Timmyの生活は,食物を中心に回っています.彼は飢えやすく,たとえ空腹でなくとも,ちょくちょくガツガツとした強い食欲に襲われます.",
       "stats": [
-        "Only mental break \"Binging_Food\" allowed.",
+        "許可されるのはメンタルブレイク\"Binging_Food\"のみです。",
         "+4 料理"
       ],
       "conflicts": [
-        "禁欲"
+        "禁欲",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "禁欲"
+          "禁欲",
+          "宿り木"
         ],
         "stats": [
-          "Only mental break \"Binging_Food\" allowed.",
+          "許可されるのはメンタルブレイク\"Binging_Food\"のみです。",
           "+4 料理"
         ],
         "canBypassLimit": false,
@@ -1088,7 +1118,7 @@
       "degree": -1,
       "description": "Timmyは,どこに行ったかと思えば,いつもグループから遅れた所にいます.",
       "stats": [
-        "熱狂的な意欲 inspiration disabled.",
+        "熱狂的な意欲インスピレーションが無効になっています。",
         "-0.20 移動速度"
       ],
       "conflicts": [
@@ -1100,7 +1130,7 @@
           "宿り木"
         ],
         "stats": [
-          "熱狂的な意欲 inspiration disabled.",
+          "熱狂的な意欲インスピレーションが無効になっています。",
           "-0.20 移動速度"
         ],
         "canBypassLimit": false,
@@ -1232,8 +1262,8 @@
       "degree": -1,
       "description": "Timmyは,安易に薬物から喜びを得る発想をひどく嫌い,ドラッグやアルコールを避けます.",
       "stats": [
-        "薬物中毒 mental state disabled.",
-        "薬物に溺れる mental state disabled."
+        "薬物中毒メンタル状態が無効になっています。",
+        "薬物に溺れるメンタル状態が無効になっています。"
       ],
       "conflicts": [
         "宿り木"
@@ -1244,8 +1274,8 @@
           "宿り木"
         ],
         "stats": [
-          "薬物中毒 mental state disabled.",
-          "薬物に溺れる mental state disabled."
+          "薬物中毒メンタル状態が無効になっています。",
+          "薬物に溺れるメンタル状態が無効になっています。"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1565,14 +1595,16 @@
       "conflicts": [
         "無能",
         "強化されし者",
-        "完璧主義者"
+        "完璧主義者",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "無能",
           "強化されし者",
-          "完璧主義者"
+          "完璧主義者",
+          "宿り木"
         ],
         "stats": [
           "+35% 基本的な作業速度"
@@ -1599,14 +1631,16 @@
       "conflicts": [
         "無能",
         "強化されし者",
-        "完璧主義者"
+        "完璧主義者",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "無能",
           "強化されし者",
-          "完璧主義者"
+          "完璧主義者",
+          "宿り木"
         ],
         "stats": [
           "+20% 基本的な作業速度"
@@ -1633,14 +1667,16 @@
       "conflicts": [
         "無能",
         "強化されし者",
-        "完璧主義者"
+        "完璧主義者",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "無能",
           "強化されし者",
-          "完璧主義者"
+          "完璧主義者",
+          "宿り木"
         ],
         "stats": [
           "-20% 基本的な作業速度"
@@ -1667,14 +1703,16 @@
       "conflicts": [
         "無能",
         "強化されし者",
-        "完璧主義者"
+        "完璧主義者",
+        "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "無能",
           "強化されし者",
-          "完璧主義者"
+          "完璧主義者",
+          "宿り木"
         ],
         "stats": [
           "-35% 基本的な作業速度"
@@ -1993,704 +2031,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmyは,銃で狙いをつけるときに,より時間をかけます.彼は,他の者より発砲頻度は低いですが,狙いはより正確です.\n((LC) Consolidated Traits)",
-      "stats": [
-        "+25% 照準時間",
-        "+3.0 命中率(射撃)"
-      ],
-      "conflicts": [
-        "格闘家",
-        "近視",
-        "鷹の目"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "格闘家",
-          "近視",
-          "鷹の目"
-        ],
-        "stats": [
-          "+25% 照準時間",
-          "+3.0 命中率(射撃)"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[LC] Consolidated Traits",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ShootingAccuracy",
-      "name": "慎重な射手"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "バン!バン! Timmyは,トリガーを引くのが本当に好きです.彼は,他の者よりも発砲頻度は高いですが,狙いは甘いです.\n((LC) Consolidated Traits)",
-      "stats": [
-        "-50% 照準時間",
-        "-3.0 命中率(射撃)"
-      ],
-      "conflicts": [
-        "格闘家",
-        "近視",
-        "鷹の目"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "格闘家",
-          "近視",
-          "鷹の目"
-        ],
-        "stats": [
-          "-50% 照準時間",
-          "-3.0 命中率(射撃)"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[LC] Consolidated Traits",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ShootingAccuracy",
-      "name": "トリガーハッピー"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmyは銃器の取り扱い方を知っており、迅速かつ正確に射撃することができます。\n((LC) Consolidated Traits)",
-      "stats": [
-        "+2 射撃",
-        "-50% 照準時間",
-        "+4.0 命中率(射撃)"
-      ],
-      "conflicts": [
-        "格闘家",
-        "近視",
-        "鷹の目"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "格闘家",
-          "近視",
-          "鷹の目"
-        ],
-        "stats": [
-          "+2 射撃",
-          "-50% 照準時間",
-          "+4.0 命中率(射撃)"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[LC] Consolidated Traits",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ShootingAccuracy",
-      "name": "慎重な射手"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは宿り木に宿る何者かと寄生の契約を結びました。\n彼の中で大きな変化が進行しています。\n(妖怪村)",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Trait_Yadorigi_A",
-      "name": "寄生の契約"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "彼はかつては\"PAWN_titleのTimmy\"として知られていましたが、今そこにあるのは彼の形をした何者かの宿り木です。すでに人としての感情は失われていますが、幸いなことにかつての仲間を守るべき者として識別する程度の知性は残っています。\n今となっては、彼が彼であったことを証明できるものは、今尚薄れ行くその記憶だけです。\n(妖怪村)",
-      "stats": [
-        "TKUtils.Trait.MeditationEnabled",
-        "+100% 免疫を得る速度",
-        "-100% 精神的弱さ",
-        "x250% 移動速度",
-        "x150% 栽培・収率",
-        "x150% 栽培・速度",
-        "x250% 食事の早さ",
-        "x0% 毒に対する感受性",
-        "x0% 精神感応性",
-        "x85% 受けるダメージ倍率",
-        "x85% 照準時間",
-        "x115% 命中率(射撃)",
-        "x115% 命中率(白兵戦)",
-        "x115% 回避率(白兵戦)"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "TKUtils.Trait.MeditationEnabled",
-          "+100% 免疫を得る速度",
-          "-100% 精神的弱さ",
-          "x250% 移動速度",
-          "x150% 栽培・収率",
-          "x150% 栽培・速度",
-          "x250% 食事の早さ",
-          "x0% 毒に対する感受性",
-          "x0% 精神感応性",
-          "x85% 受けるダメージ倍率",
-          "x85% 照準時間",
-          "x115% 命中率(射撃)",
-          "x115% 命中率(白兵戦)",
-          "x115% 回避率(白兵戦)"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Trait_Yadorigi_B",
-      "name": "宿り木"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "妖怪と共に育ったTimmyは足が速く動物とすぐに仲良くなれます。\n(妖怪村)",
-      "stats": [
-        "+0.20 移動速度",
-        "+10.00% 手懐け成功率",
-        "+10.00% 調教成功率",
-        "+25% 精神感応性",
-        "+50% 毒に対する感受性"
-      ],
-      "conflicts": [
-        "欲張り",
-        "サイコパス",
-        "嫉妬",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "欲張り",
-          "サイコパス",
-          "嫉妬",
-          "宿り木"
-        ],
-        "stats": [
-          "+0.20 移動速度",
-          "+10.00% 手懐け成功率",
-          "+10.00% 調教成功率",
-          "+25% 精神感応性",
-          "+50% 毒に対する感受性"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "YokaiSodathi",
-      "name": "妖怪育ち"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyの一族は過去のどこかでオニと交わりました。その血は薄まっていますが優れた身体能力を有しています。\n(妖怪村)",
-      "stats": [
-        "+0.2 命中率(白兵戦)",
-        "+0.2 回避率(白兵戦)",
-        "+0.50 移動速度",
-        "+10% 精神感応性",
-        "+10% 毒に対する感受性",
-        "+20% 免疫を得る速度"
-      ],
-      "conflicts": [
-        "サイコパス",
-        "慎重な射手",
-        "トリガーハッピー",
-        "射撃の名手",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "サイコパス",
-          "慎重な射手",
-          "トリガーハッピー",
-          "射撃の名手",
-          "宿り木"
-        ],
-        "stats": [
-          "+0.2 命中率(白兵戦)",
-          "+0.2 回避率(白兵戦)",
-          "+0.50 移動速度",
-          "+10% 精神感応性",
-          "+10% 毒に対する感受性",
-          "+20% 免疫を得る速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HanYou",
-      "name": "オニの血"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyの妖怪武術の技は四尾の域に到達しました。師範代に相当します。\n(妖怪村)",
-      "stats": [
-        "TKUtils.Trait.Inspiration",
-        "+7 格闘",
-        "+8.0 命中率(白兵戦)",
-        "+30.0 回避率(白兵戦)",
-        "+1.00 移動速度"
-      ],
-      "conflicts": [
-        "欲張り",
-        "ヌーディスト",
-        "ドラッグ中毒者",
-        "ドラッグ常用者",
-        "ドラッグ嫌い",
-        "サイコパス",
-        "慎重な射手",
-        "トリガーハッピー",
-        "射撃の名手",
-        "嫉妬",
-        "弱虫",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "欲張り",
-          "ヌーディスト",
-          "ドラッグ中毒者",
-          "ドラッグ常用者",
-          "ドラッグ嫌い",
-          "サイコパス",
-          "慎重な射手",
-          "トリガーハッピー",
-          "射撃の名手",
-          "嫉妬",
-          "弱虫",
-          "宿り木"
-        ],
-        "stats": [
-          "TKUtils.Trait.Inspiration",
-          "+7 格闘",
-          "+8.0 命中率(白兵戦)",
-          "+30.0 回避率(白兵戦)",
-          "+1.00 移動速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "YokaiWarrior",
-      "name": "四尾"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "五尾の号を冠するTimmyの一撃は分厚い鎧にも有効打を与えます。これは五尾以上の達人達に共通する奥義です。\n(妖怪村)",
-      "stats": [
-        "TKUtils.Trait.Inspiration",
-        "+10 格闘",
-        "+12.0 命中率(白兵戦)",
-        "+40.0 回避率(白兵戦)",
-        "+2.00 移動速度"
-      ],
-      "conflicts": [
-        "欲張り",
-        "ヌーディスト",
-        "ドラッグ中毒者",
-        "ドラッグ常用者",
-        "ドラッグ嫌い",
-        "サイコパス",
-        "慎重な射手",
-        "トリガーハッピー",
-        "射撃の名手",
-        "嫉妬",
-        "弱虫",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "欲張り",
-          "ヌーディスト",
-          "ドラッグ中毒者",
-          "ドラッグ常用者",
-          "ドラッグ嫌い",
-          "サイコパス",
-          "慎重な射手",
-          "トリガーハッピー",
-          "射撃の名手",
-          "嫉妬",
-          "弱虫",
-          "宿り木"
-        ],
-        "stats": [
-          "TKUtils.Trait.Inspiration",
-          "+10 格闘",
-          "+12.0 命中率(白兵戦)",
-          "+40.0 回避率(白兵戦)",
-          "+2.00 移動速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "YokaiWarrior",
-      "name": "五尾"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "六尾の剣術はもはや常人の理解できる範囲を越えつつあります。妖怪武術師範でもあり非常に名誉な事です。\n(妖怪村)",
-      "stats": [
-        "TKUtils.Trait.Inspiration",
-        "+13 格闘",
-        "+16.0 命中率(白兵戦)",
-        "+52.0 回避率(白兵戦)",
-        "+3.00 移動速度",
-        "+40% 免疫を得る速度"
-      ],
-      "conflicts": [
-        "欲張り",
-        "ヌーディスト",
-        "ドラッグ中毒者",
-        "ドラッグ常用者",
-        "ドラッグ嫌い",
-        "サイコパス",
-        "慎重な射手",
-        "トリガーハッピー",
-        "射撃の名手",
-        "嫉妬",
-        "弱虫",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "欲張り",
-          "ヌーディスト",
-          "ドラッグ中毒者",
-          "ドラッグ常用者",
-          "ドラッグ嫌い",
-          "サイコパス",
-          "慎重な射手",
-          "トリガーハッピー",
-          "射撃の名手",
-          "嫉妬",
-          "弱虫",
-          "宿り木"
-        ],
-        "stats": [
-          "TKUtils.Trait.Inspiration",
-          "+13 格闘",
-          "+16.0 命中率(白兵戦)",
-          "+52.0 回避率(白兵戦)",
-          "+3.00 移動速度",
-          "+40% 免疫を得る速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "YokaiWarrior",
-      "name": "六尾"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 3,
-      "description": "Timmyが到達した七尾の号は半妖、人、オニを問わず到達できる者は極一握りであり、非常に高い戦闘能力を有しています。\n(妖怪村)",
-      "stats": [
-        "TKUtils.Trait.Inspiration",
-        "+16 格闘",
-        "+30.0 命中率(白兵戦)",
-        "+82.0 回避率(白兵戦)",
-        "+5.00 移動速度",
-        "+60% 免疫を得る速度"
-      ],
-      "conflicts": [
-        "欲張り",
-        "ヌーディスト",
-        "ドラッグ中毒者",
-        "ドラッグ常用者",
-        "ドラッグ嫌い",
-        "サイコパス",
-        "慎重な射手",
-        "トリガーハッピー",
-        "射撃の名手",
-        "嫉妬",
-        "弱虫",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "欲張り",
-          "ヌーディスト",
-          "ドラッグ中毒者",
-          "ドラッグ常用者",
-          "ドラッグ嫌い",
-          "サイコパス",
-          "慎重な射手",
-          "トリガーハッピー",
-          "射撃の名手",
-          "嫉妬",
-          "弱虫",
-          "宿り木"
-        ],
-        "stats": [
-          "TKUtils.Trait.Inspiration",
-          "+16 格闘",
-          "+30.0 命中率(白兵戦)",
-          "+82.0 回避率(白兵戦)",
-          "+5.00 移動速度",
-          "+60% 免疫を得る速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "YokaiWarrior",
-      "name": "七尾"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmyは、病気になることを過度に恐れる強迫観念に取りつかれて、不必要なレベルで頻繁に体などを洗います。\n(Dubs Bad Hygiene)",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "潔癖症"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmyは、非常にきれい好きで、清潔にする頻度が普通よりも高くなります。\n(Dubs Bad Hygiene)",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "きれい好き"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmyは、不衛生でも気にしないので、清潔にする頻度が普通よりも低くなります。\n(Dubs Bad Hygiene)",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "無頓着"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmyは、清潔さに対する要求基準が非常に低く、絶対に必要な場合だけ体などを洗います。\n(Dubs Bad Hygiene)",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "不潔症"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは、堅固な信念を持っています。例えどのような状況でも彼を支える信念は変わりません。\n(NewRatkinPlus)",
-      "stats": [
-        "+10% 痛みへの限界値",
-        "-15% 精神的弱さ"
-      ],
-      "conflicts": [
-        "慎重な射手",
-        "トリガーハッピー",
-        "射撃の名手",
-        "弱虫",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "慎重な射手",
-          "トリガーハッピー",
-          "射撃の名手",
-          "弱虫",
-          "宿り木"
-        ],
-        "stats": [
-          "+10% 痛みへの限界値",
-          "-15% 精神的弱さ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "NewRatkinPlus",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Faith",
-      "name": "信念"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "放火魔ほどではありませんが,火が大好きです.\n(Miho, the celestial fox)",
-      "stats": [
-        "TKUtils.Trait.MeditationEnabled"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "TKUtils.Trait.MeditationEnabled"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Miho, the celestial fox",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Miho_EnergyMeditation_Trait",
-      "name": "火魅狐"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 0,
       "description": "Timmyは傷つきやすい肌と骨の持ち主です.Timmyは,同じ打撃を受けても他人より大きなダメージを受けます.\n(Biotech)",
       "stats": [
@@ -2793,1094 +2133,6 @@
       },
       "defName": "Xenophobia",
       "name": "異種族好き"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "生粋の妖怪オニである証。高い戦闘能力を有します。\n(妖怪村)",
-      "stats": [
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+0.6 命中率(白兵戦)",
-        "+0.8 回避率(白兵戦)",
-        "+1.50 移動速度",
-        "+5% 精神感応性",
-        "-50% 毒耐性",
-        "+50% 免疫を得る速度",
-        "x80% 受けるダメージ倍率"
-      ],
-      "conflicts": [
-        "サイコパス",
-        "慎重な射手",
-        "トリガーハッピー",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "サイコパス",
-          "慎重な射手",
-          "トリガーハッピー",
-          "宿り木"
-        ],
-        "stats": [
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+0.6 命中率(白兵戦)",
-          "+0.8 回避率(白兵戦)",
-          "+1.50 移動速度",
-          "+5% 精神感応性",
-          "-50% 毒耐性",
-          "+50% 免疫を得る速度",
-          "x80% 受けるダメージ倍率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Oni",
-      "name": "オニ"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "先祖がえりを果たした九尾の狐の半妖の証。強い妖力を宿しています。\n(妖怪村)",
-      "stats": [
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+3.0 美しさ",
-        "x75% 受けるダメージ倍率"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+3.0 美しさ",
-          "x75% 受けるダメージ倍率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Tuzurao_HanYou",
-      "name": "金色の末裔"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -3,
-      "description": "Timmyは妖怪武術の最初の試練を突破し一尾の称号を持っています\n(妖怪村)",
-      "stats": [
-        "熱狂的な射撃意欲インスピレーションが無効になっています。",
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+4 格闘",
-        "+3.0 命中率(白兵戦)",
-        "+12.0 回避率(白兵戦)",
-        "+0.60 移動速度",
-        "x98% 受けるダメージ倍率",
-        "x72% 罠発動確率"
-      ],
-      "conflicts": [
-        "欲張り",
-        "ヌーディスト",
-        "ドラッグ中毒者",
-        "ドラッグ常用者",
-        "ドラッグ嫌い",
-        "サイコパス",
-        "慎重な射手",
-        "トリガーハッピー",
-        "嫉妬",
-        "弱虫",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "欲張り",
-          "ヌーディスト",
-          "ドラッグ中毒者",
-          "ドラッグ常用者",
-          "ドラッグ嫌い",
-          "サイコパス",
-          "慎重な射手",
-          "トリガーハッピー",
-          "嫉妬",
-          "弱虫",
-          "宿り木"
-        ],
-        "stats": [
-          "熱狂的な射撃意欲インスピレーションが無効になっています。",
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+4 格闘",
-          "+3.0 命中率(白兵戦)",
-          "+12.0 回避率(白兵戦)",
-          "+0.60 移動速度",
-          "x98% 受けるダメージ倍率",
-          "x72% 罠発動確率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "YokaiWarrior",
-      "name": "一尾"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "妖怪武術を長く学び続けているTimmyは二尾の称号を得ています。\n(妖怪村)",
-      "stats": [
-        "熱狂的な射撃意欲インスピレーションが無効になっています。",
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+5 格闘",
-        "+5.0 命中率(白兵戦)",
-        "+21.0 回避率(白兵戦)",
-        "+0.70 移動速度",
-        "x88% 受けるダメージ倍率",
-        "x63% 罠発動確率"
-      ],
-      "conflicts": [
-        "欲張り",
-        "ヌーディスト",
-        "ドラッグ中毒者",
-        "ドラッグ常用者",
-        "ドラッグ嫌い",
-        "サイコパス",
-        "慎重な射手",
-        "トリガーハッピー",
-        "嫉妬",
-        "弱虫",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "欲張り",
-          "ヌーディスト",
-          "ドラッグ中毒者",
-          "ドラッグ常用者",
-          "ドラッグ嫌い",
-          "サイコパス",
-          "慎重な射手",
-          "トリガーハッピー",
-          "嫉妬",
-          "弱虫",
-          "宿り木"
-        ],
-        "stats": [
-          "熱狂的な射撃意欲インスピレーションが無効になっています。",
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+5 格闘",
-          "+5.0 命中率(白兵戦)",
-          "+21.0 回避率(白兵戦)",
-          "+0.70 移動速度",
-          "x88% 受けるダメージ倍率",
-          "x63% 罠発動確率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "YokaiWarrior",
-      "name": "二尾"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmyは妖怪武術の研鑽を積み三尾と呼ばれる域に達しています。\n(妖怪村)",
-      "stats": [
-        "熱狂的な射撃意欲インスピレーションが無効になっています。",
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+6 格闘",
-        "+8.0 命中率(白兵戦)",
-        "+29.0 回避率(白兵戦)",
-        "+1.00 移動速度",
-        "x74% 受けるダメージ倍率",
-        "x50% 罠発動確率"
-      ],
-      "conflicts": [
-        "欲張り",
-        "ヌーディスト",
-        "ドラッグ中毒者",
-        "ドラッグ常用者",
-        "ドラッグ嫌い",
-        "サイコパス",
-        "慎重な射手",
-        "トリガーハッピー",
-        "嫉妬",
-        "弱虫",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "欲張り",
-          "ヌーディスト",
-          "ドラッグ中毒者",
-          "ドラッグ常用者",
-          "ドラッグ嫌い",
-          "サイコパス",
-          "慎重な射手",
-          "トリガーハッピー",
-          "嫉妬",
-          "弱虫",
-          "宿り木"
-        ],
-        "stats": [
-          "熱狂的な射撃意欲インスピレーションが無効になっています。",
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+6 格闘",
-          "+8.0 命中率(白兵戦)",
-          "+29.0 回避率(白兵戦)",
-          "+1.00 移動速度",
-          "x74% 受けるダメージ倍率",
-          "x50% 罠発動確率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "YokaiWarrior",
-      "name": "三尾"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 4,
-      "description": "人智を超越した技術を身に着けた極一人握りの妖怪武闘家が九尾に近きものとして八尾を名乗ることを許されます。気を操り治癒力を向上させる力さえ備えています。\n(妖怪村)",
-      "stats": [
-        "熱狂的な射撃意欲インスピレーションが無効になっています。",
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+14 格闘",
-        "+40.0 命中率(白兵戦)",
-        "+61.0 回避率(白兵戦)",
-        "+2.10 移動速度",
-        "+41% 免疫を得る速度",
-        "x33% 受けるダメージ倍率",
-        "x8% 罠発動確率",
-        "x181% AP値(白兵戦)",
-        "x151% 政治力"
-      ],
-      "conflicts": [
-        "欲張り",
-        "ヌーディスト",
-        "ドラッグ中毒者",
-        "ドラッグ常用者",
-        "ドラッグ嫌い",
-        "サイコパス",
-        "慎重な射手",
-        "トリガーハッピー",
-        "嫉妬",
-        "弱虫",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "欲張り",
-          "ヌーディスト",
-          "ドラッグ中毒者",
-          "ドラッグ常用者",
-          "ドラッグ嫌い",
-          "サイコパス",
-          "慎重な射手",
-          "トリガーハッピー",
-          "嫉妬",
-          "弱虫",
-          "宿り木"
-        ],
-        "stats": [
-          "熱狂的な射撃意欲インスピレーションが無効になっています。",
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+14 格闘",
-          "+40.0 命中率(白兵戦)",
-          "+61.0 回避率(白兵戦)",
-          "+2.10 移動速度",
-          "+41% 免疫を得る速度",
-          "x33% 受けるダメージ倍率",
-          "x8% 罠発動確率",
-          "x181% AP値(白兵戦)",
-          "x151% 政治力"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "YokaiWarrior",
-      "name": "八尾"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 5,
-      "description": "Timmyが許された「つづらお」の号は天才が血の滲むような努力を続けてなお到達出来ない高みであり最高位と考えられいます。\n\t\t\t\nこの域に到達できる者は一時代に一人いるかいないかであり空位の事も珍しくありません。\n(妖怪村)",
-      "stats": [
-        "熱狂的な射撃意欲インスピレーションが無効になっています。",
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+18 格闘",
-        "+68.0 命中率(白兵戦)",
-        "+81.0 回避率(白兵戦)",
-        "+3.10 移動速度",
-        "+71% 免疫を得る速度",
-        "x22% 受けるダメージ倍率",
-        "x1% 罠発動確率",
-        "x210% AP値(白兵戦)",
-        "x150% 精神的弱さ",
-        "x210% 政治力"
-      ],
-      "conflicts": [
-        "欲張り",
-        "ヌーディスト",
-        "ドラッグ中毒者",
-        "ドラッグ常用者",
-        "ドラッグ嫌い",
-        "サイコパス",
-        "慎重な射手",
-        "トリガーハッピー",
-        "嫉妬",
-        "弱虫",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "欲張り",
-          "ヌーディスト",
-          "ドラッグ中毒者",
-          "ドラッグ常用者",
-          "ドラッグ嫌い",
-          "サイコパス",
-          "慎重な射手",
-          "トリガーハッピー",
-          "嫉妬",
-          "弱虫",
-          "宿り木"
-        ],
-        "stats": [
-          "熱狂的な射撃意欲インスピレーションが無効になっています。",
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+18 格闘",
-          "+68.0 命中率(白兵戦)",
-          "+81.0 回避率(白兵戦)",
-          "+3.10 移動速度",
-          "+71% 免疫を得る速度",
-          "x22% 受けるダメージ倍率",
-          "x1% 罠発動確率",
-          "x210% AP値(白兵戦)",
-          "x150% 精神的弱さ",
-          "x210% 政治力"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "YokaiWarrior",
-      "name": "九尾"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 6,
-      "description": "生まれ持った天賦の才を極限まで磨き上げた者にのみ「はくび」を名乗ることが許されます。\n\t\t\n妖怪武術の極みであり神仙に至る道の一つでもあります。この域にまで到達する者は数百年に一人現れるかどうかです。\n(妖怪村)",
-      "stats": [
-        "熱狂的な射撃意欲インスピレーションが無効になっています。",
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+20 格闘",
-        "+30.0 命中率(白兵戦)",
-        "+82.0 回避率(白兵戦)",
-        "+5.00 移動速度",
-        "+60% 免疫を得る速度",
-        "+63.0% アーマー - 突刺系",
-        "+71.0% アーマー - 打撲系",
-        "+32.0% アーマー - 熱系",
-        "-18.0C 快適と感じる最低気温",
-        "+18.0C 快適と感じる最高気温",
-        "x0% 罠発動確率",
-        "x11% 受けるダメージ倍率",
-        "x181% 命中率(白兵戦)",
-        "x120% 回避率(白兵戦)",
-        "x340% AP値(白兵戦)",
-        "x34% 休息しやすさ",
-        "x320% 精神的弱さ",
-        "x310% 政治力"
-      ],
-      "conflicts": [
-        "欲張り",
-        "ヌーディスト",
-        "ドラッグ中毒者",
-        "ドラッグ常用者",
-        "ドラッグ嫌い",
-        "サイコパス",
-        "慎重な射手",
-        "トリガーハッピー",
-        "嫉妬",
-        "弱虫",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "欲張り",
-          "ヌーディスト",
-          "ドラッグ中毒者",
-          "ドラッグ常用者",
-          "ドラッグ嫌い",
-          "サイコパス",
-          "慎重な射手",
-          "トリガーハッピー",
-          "嫉妬",
-          "弱虫",
-          "宿り木"
-        ],
-        "stats": [
-          "熱狂的な射撃意欲インスピレーションが無効になっています。",
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+20 格闘",
-          "+30.0 命中率(白兵戦)",
-          "+82.0 回避率(白兵戦)",
-          "+5.00 移動速度",
-          "+60% 免疫を得る速度",
-          "+63.0% アーマー - 突刺系",
-          "+71.0% アーマー - 打撲系",
-          "+32.0% アーマー - 熱系",
-          "-18.0C 快適と感じる最低気温",
-          "+18.0C 快適と感じる最高気温",
-          "x0% 罠発動確率",
-          "x11% 受けるダメージ倍率",
-          "x181% 命中率(白兵戦)",
-          "x120% 回避率(白兵戦)",
-          "x340% AP値(白兵戦)",
-          "x34% 休息しやすさ",
-          "x320% 精神的弱さ",
-          "x310% 政治力"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "YokaiWarrior",
-      "name": "白尾"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -5,
-      "description": "河童の血が流れているTimmyは温度への幅広い適性を持っています。\n(妖怪村)",
-      "stats": [
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+20.0C 断熱材 - 保温",
-        "+15.0C 断熱材 - 遮熱"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+20.0C 断熱材 - 保温",
-          "+15.0C 断熱材 - 遮熱"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Bloods",
-      "name": "河童の血"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -4,
-      "description": "Timmyの体に生える毛には猫娘の癒しの力が宿っています。\n(妖怪村)",
-      "stats": [
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+10% 看護・品質",
-        "+12% 免疫を得る速度"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+10% 看護・品質",
-          "+12% 免疫を得る速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Bloods",
-      "name": "猫娘の毛玉"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -3,
-      "description": "Timmyの体にある小さな鱗たちは動物の警戒心を和らげる力があります。\n(妖怪村)",
-      "stats": [
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+12.00% 手懐け成功率",
-        "+18.00% 調教成功率",
-        "+16% 家畜・収穫速度",
-        "+13% 家畜・収穫収率"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+12.00% 手懐け成功率",
-          "+18.00% 調教成功率",
-          "+16% 家畜・収穫速度",
-          "+13% 家畜・収穫収率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Bloods",
-      "name": "ラミアの鱗"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmyに宿るはぐれ手長の残滓は農作業への適性を高めます。\n(妖怪村)",
-      "stats": [
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+23% 栽培・速度",
-        "+18% 栽培・収率",
-        "+0.50 移動速度",
-        "x110% 精神的弱さ"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+23% 栽培・速度",
-          "+18% 栽培・収率",
-          "+0.50 移動速度",
-          "x110% 精神的弱さ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Bloods",
-      "name": "はなれた心"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmyの体に残された雪雫の悲哀は頑強さと寒さへの耐性を与えますが、熱に弱くなってしまいます。\n(妖怪村)",
-      "stats": [
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+100.0C 断熱材 - 保温",
-        "-16.0C 断熱材 - 遮熱",
-        "+1.3 美しさ",
-        "x78% 受けるダメージ倍率"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+100.0C 断熱材 - 保温",
-          "-16.0C 断熱材 - 遮熱",
-          "+1.3 美しさ",
-          "x78% 受けるダメージ倍率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Bloods",
-      "name": "雪雫の落涙"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "器用さと力強さを併せ持つTimmyの才能は女郎蜘蛛由来のものです。\n(妖怪村)",
-      "stats": [
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+6.0 命中率(白兵戦)",
-        "+12.0 回避率(白兵戦)",
-        "x130% 命中率(白兵戦)",
-        "x120% 回避率(白兵戦)",
-        "x130% AP値(白兵戦)"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+6.0 命中率(白兵戦)",
-          "+12.0 回避率(白兵戦)",
-          "x130% 命中率(白兵戦)",
-          "x120% 回避率(白兵戦)",
-          "x130% AP値(白兵戦)"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Bloods",
-      "name": "女郎蜘蛛の絆"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmyの優れた戦闘技能は天狗の血を引いているからだと噂されています。\n(妖怪村)",
-      "stats": [
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+4.0 命中率(白兵戦)",
-        "+8.0 回避率(白兵戦)",
-        "+0.60 移動速度",
-        "x80% 照準時間",
-        "x160% 命中率(射撃)",
-        "x85% 精神的弱さ"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+4.0 命中率(白兵戦)",
-          "+8.0 回避率(白兵戦)",
-          "+0.60 移動速度",
-          "x80% 照準時間",
-          "x160% 命中率(射撃)",
-          "x85% 精神的弱さ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Bloods",
-      "name": "天狗の落とし子"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "竜呪の力を持ったTimmyは様々な身体能力が強化されていますが、同時に心に病を抱えています。\n(妖怪村)",
-      "stats": [
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+8.0 命中率(白兵戦)",
-        "+30.0 回避率(白兵戦)",
-        "+1.00 移動速度",
-        "x75% 受けるダメージ倍率",
-        "x50% 休息しやすさ",
-        "x200% 最大栄養量",
-        "x130% 食事の早さ",
-        "x130% 精神的弱さ"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+8.0 命中率(白兵戦)",
-          "+30.0 回避率(白兵戦)",
-          "+1.00 移動速度",
-          "x75% 受けるダメージ倍率",
-          "x50% 休息しやすさ",
-          "x200% 最大栄養量",
-          "x130% 食事の早さ",
-          "x130% 精神的弱さ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Bloods",
-      "name": "竜呪の血脈"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 3,
-      "description": "薄まったとはいえ伝説の妖狐の力の一片を受け継いだTimmyには様々な特別な力があります。\n(妖怪村)",
-      "stats": [
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+16.0 命中率(白兵戦)",
-        "+36.0 回避率(白兵戦)",
-        "+0.80 移動速度",
-        "+10.0% アーマー - 突刺系",
-        "+12.0% アーマー - 打撲系",
-        "+8.0% アーマー - 熱系",
-        "+1.3 美しさ",
-        "x98% 受けるダメージ倍率",
-        "x132% 商人の勘",
-        "x110% 政治力",
-        "x90% 受けるダメージ倍率",
-        "x100% 毒耐性",
-        "x85% 精神的弱さ"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+16.0 命中率(白兵戦)",
-          "+36.0 回避率(白兵戦)",
-          "+0.80 移動速度",
-          "+10.0% アーマー - 突刺系",
-          "+12.0% アーマー - 打撲系",
-          "+8.0% アーマー - 熱系",
-          "+1.3 美しさ",
-          "x98% 受けるダメージ倍率",
-          "x132% 商人の勘",
-          "x110% 政治力",
-          "x90% 受けるダメージ倍率",
-          "x100% 毒耐性",
-          "x85% 精神的弱さ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Bloods",
-      "name": "九尾の薄血"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 4,
-      "description": "Timmyの尋常ならざる数々の能力はサミアの妖力が引き継がれている証と言えるでしょう。\n(妖怪村)",
-      "stats": [
-        "自然瞑想フォーカスタイプが許可されています。",
-        "+24.0 命中率(白兵戦)",
-        "+38.0 回避率(白兵戦)",
-        "+1.30 移動速度",
-        "+27.0% アーマー - 突刺系",
-        "+36.0% アーマー - 打撲系",
-        "+38.0% アーマー - 熱系",
-        "+1.1 美しさ",
-        "x198% 命中率(白兵戦)",
-        "x121% 回避率(白兵戦)",
-        "x137% AP値(白兵戦)",
-        "x68% 精神的弱さ",
-        "x87% 休息しやすさ",
-        "x78% 受けるダメージ倍率",
-        "x120% 毒耐性"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "自然瞑想フォーカスタイプが許可されています。",
-          "+24.0 命中率(白兵戦)",
-          "+38.0 回避率(白兵戦)",
-          "+1.30 移動速度",
-          "+27.0% アーマー - 突刺系",
-          "+36.0% アーマー - 打撲系",
-          "+38.0% アーマー - 熱系",
-          "+1.1 美しさ",
-          "x198% 命中率(白兵戦)",
-          "x121% 回避率(白兵戦)",
-          "x137% AP値(白兵戦)",
-          "x68% 精神的弱さ",
-          "x87% 休息しやすさ",
-          "x78% 受けるダメージ倍率",
-          "x120% 毒耐性"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "妖怪村",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Yokai_Bloods",
-      "name": "サミアの濃血"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "クーリンです.\n\n¯\\_(ツ)_/¯\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
-      "stats": [
-        "+2 知力",
-        "-2 動物",
-        "+1.0 美しさ",
-        "+25.00% 商人の勘"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+2 知力",
-          "-2 動物",
-          "+1.0 美しさ",
-          "+25.00% 商人の勘"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kurin_Trait",
-      "name": "クーリン"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは,植物が好きな変わり者のクーリンです...\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
-      "stats": [
-        "+10 栽培",
-        "+30% 栽培・速度"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+10 栽培",
-          "+30% 栽培・速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kurin_Trait_StrangeKurin",
-      "name": "変わり者のクーリン"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは,自分の遺伝子を改良するプログラムに参加しました.\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
-      "stats": [
-        "+25% 身につけやすさ",
-        "+25% 毒耐性",
-        "+25% 毒環境耐性"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+25% 身につけやすさ",
-          "+25% 毒耐性",
-          "+25% 毒環境耐性"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kurin_Trait_UpgradedKurin",
-      "name": "強化されたクーリン"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "キミリです.\n\n¯\\_(ツ)_/¯\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
-      "stats": [
-        "+1.0 美しさ"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+1.0 美しさ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kimiri_Trait",
-      "name": "キミリ"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "クーリンメカノイドです.\n\n¯\\_(ツ)_/¯\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "KurinMechanoid_Trait",
-      "name": "クーリンメカノイド"
     },
     {
       "canAdd": true,
@@ -13462,6 +11714,1398 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
+      "description": "Timmyは宿り木に宿る何者かと寄生の契約を結びました。\n彼の中で大きな変化が進行しています。\n(妖怪村)",
+      "stats": [],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Trait_Yadorigi_A",
+      "name": "寄生の契約"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "彼はかつては\"PAWN_titleのTimmy\"として知られていましたが、今そこにあるのは彼の形をした何者かの宿り木です。すでに人としての感情は失われていますが、幸いなことにかつての仲間を守るべき者として識別する程度の知性は残っています。\n今となっては、彼が彼であったことを証明できるものは、今尚薄れ行くその記憶だけです。\n(妖怪村)",
+      "stats": [
+        "陰鬱瞑想フォーカスタイプが許可されています。",
+        "+100% 免疫を得る速度",
+        "-100% 精神的弱さ",
+        "x250% 移動速度",
+        "x150% 栽培・収率",
+        "x150% 栽培・速度",
+        "x250% 食事の早さ",
+        "x100% 毒耐性",
+        "x0% 精神感応性",
+        "x85% 受けるダメージ倍率",
+        "x85% 照準時間",
+        "x115% 命中率(射撃)",
+        "x115% 命中率(白兵戦)",
+        "x115% 回避率(白兵戦)"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "陰鬱瞑想フォーカスタイプが許可されています。",
+          "+100% 免疫を得る速度",
+          "-100% 精神的弱さ",
+          "x250% 移動速度",
+          "x150% 栽培・収率",
+          "x150% 栽培・速度",
+          "x250% 食事の早さ",
+          "x100% 毒耐性",
+          "x0% 精神感応性",
+          "x85% 受けるダメージ倍率",
+          "x85% 照準時間",
+          "x115% 命中率(射撃)",
+          "x115% 命中率(白兵戦)",
+          "x115% 回避率(白兵戦)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Trait_Yadorigi_B",
+      "name": "宿り木"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "妖怪と共に育ったTimmyは足が速く動物とすぐに仲良くなれます。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+0.20 移動速度",
+        "+10.00% 手懐け成功率",
+        "+10.00% 調教成功率",
+        "+25% 精神感応性",
+        "-50% 毒耐性"
+      ],
+      "conflicts": [
+        "欲張り",
+        "サイコパス",
+        "嫉妬",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "欲張り",
+          "サイコパス",
+          "嫉妬",
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+0.20 移動速度",
+          "+10.00% 手懐け成功率",
+          "+10.00% 調教成功率",
+          "+25% 精神感応性",
+          "-50% 毒耐性"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "YokaiSodathi",
+      "name": "妖怪育ち"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyの一族は過去のどこかでオニと交わりました。その血は薄まっていますが優れた身体能力を有しています。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+0.2 命中率(白兵戦)",
+        "+0.2 回避率(白兵戦)",
+        "+0.50 移動速度",
+        "+10% 精神感応性",
+        "-10% 毒耐性",
+        "+20% 免疫を得る速度"
+      ],
+      "conflicts": [
+        "サイコパス",
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "サイコパス",
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+0.2 命中率(白兵戦)",
+          "+0.2 回避率(白兵戦)",
+          "+0.50 移動速度",
+          "+10% 精神感応性",
+          "-10% 毒耐性",
+          "+20% 免疫を得る速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HanYou",
+      "name": "オニの血"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "生粋の妖怪オニである証。高い戦闘能力を有します。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+0.6 命中率(白兵戦)",
+        "+0.8 回避率(白兵戦)",
+        "+1.50 移動速度",
+        "+5% 精神感応性",
+        "-50% 毒耐性",
+        "+50% 免疫を得る速度",
+        "x80% 受けるダメージ倍率"
+      ],
+      "conflicts": [
+        "サイコパス",
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "サイコパス",
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+0.6 命中率(白兵戦)",
+          "+0.8 回避率(白兵戦)",
+          "+1.50 移動速度",
+          "+5% 精神感応性",
+          "-50% 毒耐性",
+          "+50% 免疫を得る速度",
+          "x80% 受けるダメージ倍率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Oni",
+      "name": "オニ"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "先祖がえりを果たした九尾の狐の半妖の証。強い妖力を宿しています。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+3.0 美しさ",
+        "x75% 受けるダメージ倍率"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+3.0 美しさ",
+          "x75% 受けるダメージ倍率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Tuzurao_HanYou",
+      "name": "金色の末裔"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -3,
+      "description": "Timmyは妖怪武術の最初の試練を突破し一尾の称号を持っています\n(妖怪村)",
+      "stats": [
+        "熱狂的な射撃意欲インスピレーションが無効になっています。",
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+4 格闘",
+        "+3.0 命中率(白兵戦)",
+        "+12.0 回避率(白兵戦)",
+        "+0.60 移動速度",
+        "x98% 受けるダメージ倍率",
+        "x72% 罠発動確率"
+      ],
+      "conflicts": [
+        "欲張り",
+        "ヌーディスト",
+        "ドラッグ中毒者",
+        "ドラッグ常用者",
+        "ドラッグ嫌い",
+        "サイコパス",
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "嫉妬",
+        "弱虫",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "欲張り",
+          "ヌーディスト",
+          "ドラッグ中毒者",
+          "ドラッグ常用者",
+          "ドラッグ嫌い",
+          "サイコパス",
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "嫉妬",
+          "弱虫",
+          "宿り木"
+        ],
+        "stats": [
+          "熱狂的な射撃意欲インスピレーションが無効になっています。",
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+4 格闘",
+          "+3.0 命中率(白兵戦)",
+          "+12.0 回避率(白兵戦)",
+          "+0.60 移動速度",
+          "x98% 受けるダメージ倍率",
+          "x72% 罠発動確率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "YokaiWarrior",
+      "name": "一尾"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "妖怪武術を長く学び続けているTimmyは二尾の称号を得ています。\n(妖怪村)",
+      "stats": [
+        "熱狂的な射撃意欲インスピレーションが無効になっています。",
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+5 格闘",
+        "+5.0 命中率(白兵戦)",
+        "+21.0 回避率(白兵戦)",
+        "+0.70 移動速度",
+        "x88% 受けるダメージ倍率",
+        "x63% 罠発動確率"
+      ],
+      "conflicts": [
+        "欲張り",
+        "ヌーディスト",
+        "ドラッグ中毒者",
+        "ドラッグ常用者",
+        "ドラッグ嫌い",
+        "サイコパス",
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "嫉妬",
+        "弱虫",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "欲張り",
+          "ヌーディスト",
+          "ドラッグ中毒者",
+          "ドラッグ常用者",
+          "ドラッグ嫌い",
+          "サイコパス",
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "嫉妬",
+          "弱虫",
+          "宿り木"
+        ],
+        "stats": [
+          "熱狂的な射撃意欲インスピレーションが無効になっています。",
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+5 格闘",
+          "+5.0 命中率(白兵戦)",
+          "+21.0 回避率(白兵戦)",
+          "+0.70 移動速度",
+          "x88% 受けるダメージ倍率",
+          "x63% 罠発動確率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "YokaiWarrior",
+      "name": "二尾"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmyは妖怪武術の研鑽を積み三尾と呼ばれる域に達しています。\n(妖怪村)",
+      "stats": [
+        "熱狂的な射撃意欲インスピレーションが無効になっています。",
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+6 格闘",
+        "+8.0 命中率(白兵戦)",
+        "+29.0 回避率(白兵戦)",
+        "+1.00 移動速度",
+        "x74% 受けるダメージ倍率",
+        "x50% 罠発動確率"
+      ],
+      "conflicts": [
+        "欲張り",
+        "ヌーディスト",
+        "ドラッグ中毒者",
+        "ドラッグ常用者",
+        "ドラッグ嫌い",
+        "サイコパス",
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "嫉妬",
+        "弱虫",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "欲張り",
+          "ヌーディスト",
+          "ドラッグ中毒者",
+          "ドラッグ常用者",
+          "ドラッグ嫌い",
+          "サイコパス",
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "嫉妬",
+          "弱虫",
+          "宿り木"
+        ],
+        "stats": [
+          "熱狂的な射撃意欲インスピレーションが無効になっています。",
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+6 格闘",
+          "+8.0 命中率(白兵戦)",
+          "+29.0 回避率(白兵戦)",
+          "+1.00 移動速度",
+          "x74% 受けるダメージ倍率",
+          "x50% 罠発動確率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "YokaiWarrior",
+      "name": "三尾"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyの妖怪武術の技は四尾の域に到達しました。師範代に相当します。\n(妖怪村)",
+      "stats": [
+        "熱狂的な射撃意欲インスピレーションが無効になっています。",
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+7 格闘",
+        "+13.0 命中率(白兵戦)",
+        "+30.0 回避率(白兵戦)",
+        "+1.00 移動速度",
+        "x67% 受けるダメージ倍率",
+        "x42% 罠発動確率"
+      ],
+      "conflicts": [
+        "欲張り",
+        "ヌーディスト",
+        "ドラッグ中毒者",
+        "ドラッグ常用者",
+        "ドラッグ嫌い",
+        "サイコパス",
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "嫉妬",
+        "弱虫",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "欲張り",
+          "ヌーディスト",
+          "ドラッグ中毒者",
+          "ドラッグ常用者",
+          "ドラッグ嫌い",
+          "サイコパス",
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "嫉妬",
+          "弱虫",
+          "宿り木"
+        ],
+        "stats": [
+          "熱狂的な射撃意欲インスピレーションが無効になっています。",
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+7 格闘",
+          "+13.0 命中率(白兵戦)",
+          "+30.0 回避率(白兵戦)",
+          "+1.00 移動速度",
+          "x67% 受けるダメージ倍率",
+          "x42% 罠発動確率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "YokaiWarrior",
+      "name": "四尾"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "五尾の号を冠するTimmyの一撃は分厚い鎧にも有効打を与えます。これは五尾以上の達人達に共通する奥義です。\n(妖怪村)",
+      "stats": [
+        "熱狂的な射撃意欲インスピレーションが無効になっています。",
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+8 格闘",
+        "+16.0 命中率(白兵戦)",
+        "+38.0 回避率(白兵戦)",
+        "+1.30 移動速度",
+        "x61% 受けるダメージ倍率",
+        "x36% 罠発動確率",
+        "x130% AP値(白兵戦)"
+      ],
+      "conflicts": [
+        "欲張り",
+        "ヌーディスト",
+        "ドラッグ中毒者",
+        "ドラッグ常用者",
+        "ドラッグ嫌い",
+        "サイコパス",
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "嫉妬",
+        "弱虫",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "欲張り",
+          "ヌーディスト",
+          "ドラッグ中毒者",
+          "ドラッグ常用者",
+          "ドラッグ嫌い",
+          "サイコパス",
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "嫉妬",
+          "弱虫",
+          "宿り木"
+        ],
+        "stats": [
+          "熱狂的な射撃意欲インスピレーションが無効になっています。",
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+8 格闘",
+          "+16.0 命中率(白兵戦)",
+          "+38.0 回避率(白兵戦)",
+          "+1.30 移動速度",
+          "x61% 受けるダメージ倍率",
+          "x36% 罠発動確率",
+          "x130% AP値(白兵戦)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "YokaiWarrior",
+      "name": "五尾"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "六尾の剣術はもはや常人の理解できる範囲を越えつつあります。妖怪武術師範でもあり非常に名誉な事です。\n(妖怪村)",
+      "stats": [
+        "熱狂的な射撃意欲インスピレーションが無効になっています。",
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+9 格闘",
+        "+23.0 命中率(白兵戦)",
+        "+47.0 回避率(白兵戦)",
+        "+1.60 移動速度",
+        "x53% 受けるダメージ倍率",
+        "x21% 罠発動確率",
+        "x146% AP値(白兵戦)",
+        "x120% 政治力"
+      ],
+      "conflicts": [
+        "欲張り",
+        "ヌーディスト",
+        "ドラッグ中毒者",
+        "ドラッグ常用者",
+        "ドラッグ嫌い",
+        "サイコパス",
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "嫉妬",
+        "弱虫",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "欲張り",
+          "ヌーディスト",
+          "ドラッグ中毒者",
+          "ドラッグ常用者",
+          "ドラッグ嫌い",
+          "サイコパス",
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "嫉妬",
+          "弱虫",
+          "宿り木"
+        ],
+        "stats": [
+          "熱狂的な射撃意欲インスピレーションが無効になっています。",
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+9 格闘",
+          "+23.0 命中率(白兵戦)",
+          "+47.0 回避率(白兵戦)",
+          "+1.60 移動速度",
+          "x53% 受けるダメージ倍率",
+          "x21% 罠発動確率",
+          "x146% AP値(白兵戦)",
+          "x120% 政治力"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "YokaiWarrior",
+      "name": "六尾"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3,
+      "description": "Timmyが到達した七尾の号は半妖、人、オニを問わず到達できる者は極一握りであり、非常に高い戦闘能力を有しています。\n(妖怪村)",
+      "stats": [
+        "熱狂的な射撃意欲インスピレーションが無効になっています。",
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+10 格闘",
+        "+32.0 命中率(白兵戦)",
+        "+53.0 回避率(白兵戦)",
+        "+1.81 移動速度",
+        "x41% 受けるダメージ倍率",
+        "x13% 罠発動確率",
+        "x164% AP値(白兵戦)",
+        "x131% 政治力"
+      ],
+      "conflicts": [
+        "欲張り",
+        "ヌーディスト",
+        "ドラッグ中毒者",
+        "ドラッグ常用者",
+        "ドラッグ嫌い",
+        "サイコパス",
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "嫉妬",
+        "弱虫",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "欲張り",
+          "ヌーディスト",
+          "ドラッグ中毒者",
+          "ドラッグ常用者",
+          "ドラッグ嫌い",
+          "サイコパス",
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "嫉妬",
+          "弱虫",
+          "宿り木"
+        ],
+        "stats": [
+          "熱狂的な射撃意欲インスピレーションが無効になっています。",
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+10 格闘",
+          "+32.0 命中率(白兵戦)",
+          "+53.0 回避率(白兵戦)",
+          "+1.81 移動速度",
+          "x41% 受けるダメージ倍率",
+          "x13% 罠発動確率",
+          "x164% AP値(白兵戦)",
+          "x131% 政治力"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "YokaiWarrior",
+      "name": "七尾"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4,
+      "description": "人智を超越した技術を身に着けた極一人握りの妖怪武闘家が九尾に近きものとして八尾を名乗ることを許されます。気を操り治癒力を向上させる力さえ備えています。\n(妖怪村)",
+      "stats": [
+        "熱狂的な射撃意欲インスピレーションが無効になっています。",
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+14 格闘",
+        "+40.0 命中率(白兵戦)",
+        "+61.0 回避率(白兵戦)",
+        "+2.10 移動速度",
+        "+41% 免疫を得る速度",
+        "x33% 受けるダメージ倍率",
+        "x8% 罠発動確率",
+        "x181% AP値(白兵戦)",
+        "x151% 政治力"
+      ],
+      "conflicts": [
+        "欲張り",
+        "ヌーディスト",
+        "ドラッグ中毒者",
+        "ドラッグ常用者",
+        "ドラッグ嫌い",
+        "サイコパス",
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "嫉妬",
+        "弱虫",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "欲張り",
+          "ヌーディスト",
+          "ドラッグ中毒者",
+          "ドラッグ常用者",
+          "ドラッグ嫌い",
+          "サイコパス",
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "嫉妬",
+          "弱虫",
+          "宿り木"
+        ],
+        "stats": [
+          "熱狂的な射撃意欲インスピレーションが無効になっています。",
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+14 格闘",
+          "+40.0 命中率(白兵戦)",
+          "+61.0 回避率(白兵戦)",
+          "+2.10 移動速度",
+          "+41% 免疫を得る速度",
+          "x33% 受けるダメージ倍率",
+          "x8% 罠発動確率",
+          "x181% AP値(白兵戦)",
+          "x151% 政治力"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "YokaiWarrior",
+      "name": "八尾"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 5,
+      "description": "Timmyが許された「つづらお」の号は天才が血の滲むような努力を続けてなお到達出来ない高みであり最高位と考えられいます。\n\t\t\t\nこの域に到達できる者は一時代に一人いるかいないかであり空位の事も珍しくありません。\n(妖怪村)",
+      "stats": [
+        "熱狂的な射撃意欲インスピレーションが無効になっています。",
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+18 格闘",
+        "+68.0 命中率(白兵戦)",
+        "+81.0 回避率(白兵戦)",
+        "+3.10 移動速度",
+        "+71% 免疫を得る速度",
+        "x22% 受けるダメージ倍率",
+        "x1% 罠発動確率",
+        "x210% AP値(白兵戦)",
+        "x150% 精神的弱さ",
+        "x210% 政治力"
+      ],
+      "conflicts": [
+        "欲張り",
+        "ヌーディスト",
+        "ドラッグ中毒者",
+        "ドラッグ常用者",
+        "ドラッグ嫌い",
+        "サイコパス",
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "嫉妬",
+        "弱虫",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "欲張り",
+          "ヌーディスト",
+          "ドラッグ中毒者",
+          "ドラッグ常用者",
+          "ドラッグ嫌い",
+          "サイコパス",
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "嫉妬",
+          "弱虫",
+          "宿り木"
+        ],
+        "stats": [
+          "熱狂的な射撃意欲インスピレーションが無効になっています。",
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+18 格闘",
+          "+68.0 命中率(白兵戦)",
+          "+81.0 回避率(白兵戦)",
+          "+3.10 移動速度",
+          "+71% 免疫を得る速度",
+          "x22% 受けるダメージ倍率",
+          "x1% 罠発動確率",
+          "x210% AP値(白兵戦)",
+          "x150% 精神的弱さ",
+          "x210% 政治力"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "YokaiWarrior",
+      "name": "九尾"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 6,
+      "description": "生まれ持った天賦の才を極限まで磨き上げた者にのみ「はくび」を名乗ることが許されます。\n\t\t\n妖怪武術の極みであり神仙に至る道の一つでもあります。この域にまで到達する者は数百年に一人現れるかどうかです。\n(妖怪村)",
+      "stats": [
+        "熱狂的な射撃意欲インスピレーションが無効になっています。",
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+20 格闘",
+        "+30.0 命中率(白兵戦)",
+        "+82.0 回避率(白兵戦)",
+        "+5.00 移動速度",
+        "+60% 免疫を得る速度",
+        "+63.0% アーマー - 突刺系",
+        "+71.0% アーマー - 打撲系",
+        "+32.0% アーマー - 熱系",
+        "-18.0C 快適と感じる最低気温",
+        "+18.0C 快適と感じる最高気温",
+        "x0% 罠発動確率",
+        "x11% 受けるダメージ倍率",
+        "x181% 命中率(白兵戦)",
+        "x120% 回避率(白兵戦)",
+        "x340% AP値(白兵戦)",
+        "x34% 休息しやすさ",
+        "x320% 精神的弱さ",
+        "x310% 政治力"
+      ],
+      "conflicts": [
+        "欲張り",
+        "ヌーディスト",
+        "ドラッグ中毒者",
+        "ドラッグ常用者",
+        "ドラッグ嫌い",
+        "サイコパス",
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "嫉妬",
+        "弱虫",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "欲張り",
+          "ヌーディスト",
+          "ドラッグ中毒者",
+          "ドラッグ常用者",
+          "ドラッグ嫌い",
+          "サイコパス",
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "嫉妬",
+          "弱虫",
+          "宿り木"
+        ],
+        "stats": [
+          "熱狂的な射撃意欲インスピレーションが無効になっています。",
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+20 格闘",
+          "+30.0 命中率(白兵戦)",
+          "+82.0 回避率(白兵戦)",
+          "+5.00 移動速度",
+          "+60% 免疫を得る速度",
+          "+63.0% アーマー - 突刺系",
+          "+71.0% アーマー - 打撲系",
+          "+32.0% アーマー - 熱系",
+          "-18.0C 快適と感じる最低気温",
+          "+18.0C 快適と感じる最高気温",
+          "x0% 罠発動確率",
+          "x11% 受けるダメージ倍率",
+          "x181% 命中率(白兵戦)",
+          "x120% 回避率(白兵戦)",
+          "x340% AP値(白兵戦)",
+          "x34% 休息しやすさ",
+          "x320% 精神的弱さ",
+          "x310% 政治力"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "YokaiWarrior",
+      "name": "白尾"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -5,
+      "description": "河童の血が流れているTimmyは温度への幅広い適性を持っています。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+20.0C 断熱材 - 保温",
+        "+15.0C 断熱材 - 遮熱"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+20.0C 断熱材 - 保温",
+          "+15.0C 断熱材 - 遮熱"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Bloods",
+      "name": "河童の血"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -4,
+      "description": "Timmyの体に生える毛には猫娘の癒しの力が宿っています。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+10% 看護・品質",
+        "+12% 免疫を得る速度"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+10% 看護・品質",
+          "+12% 免疫を得る速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Bloods",
+      "name": "猫娘の毛玉"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -3,
+      "description": "Timmyの体にある小さな鱗たちは動物の警戒心を和らげる力があります。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+12.00% 手懐け成功率",
+        "+18.00% 調教成功率",
+        "+16% 家畜・収穫速度",
+        "+13% 家畜・収穫収率"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+12.00% 手懐け成功率",
+          "+18.00% 調教成功率",
+          "+16% 家畜・収穫速度",
+          "+13% 家畜・収穫収率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Bloods",
+      "name": "ラミアの鱗"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmyに宿るはぐれ手長の残滓は農作業への適性を高めます。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+23% 栽培・速度",
+        "+18% 栽培・収率",
+        "+0.50 移動速度",
+        "x110% 精神的弱さ"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+23% 栽培・速度",
+          "+18% 栽培・収率",
+          "+0.50 移動速度",
+          "x110% 精神的弱さ"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Bloods",
+      "name": "はなれた心"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmyの体に残された雪雫の悲哀は頑強さと寒さへの耐性を与えますが、熱に弱くなってしまいます。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+100.0C 断熱材 - 保温",
+        "-16.0C 断熱材 - 遮熱",
+        "+1.3 美しさ",
+        "x78% 受けるダメージ倍率"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+100.0C 断熱材 - 保温",
+          "-16.0C 断熱材 - 遮熱",
+          "+1.3 美しさ",
+          "x78% 受けるダメージ倍率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Bloods",
+      "name": "雪雫の落涙"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "器用さと力強さを併せ持つTimmyの才能は女郎蜘蛛由来のものです。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+6.0 命中率(白兵戦)",
+        "+12.0 回避率(白兵戦)",
+        "x130% 命中率(白兵戦)",
+        "x120% 回避率(白兵戦)",
+        "x130% AP値(白兵戦)"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+6.0 命中率(白兵戦)",
+          "+12.0 回避率(白兵戦)",
+          "x130% 命中率(白兵戦)",
+          "x120% 回避率(白兵戦)",
+          "x130% AP値(白兵戦)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Bloods",
+      "name": "女郎蜘蛛の絆"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyの優れた戦闘技能は天狗の血を引いているからだと噂されています。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+4.0 命中率(白兵戦)",
+        "+8.0 回避率(白兵戦)",
+        "+0.60 移動速度",
+        "x80% 照準時間",
+        "x160% 命中率(射撃)",
+        "x85% 精神的弱さ"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+4.0 命中率(白兵戦)",
+          "+8.0 回避率(白兵戦)",
+          "+0.60 移動速度",
+          "x80% 照準時間",
+          "x160% 命中率(射撃)",
+          "x85% 精神的弱さ"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Bloods",
+      "name": "天狗の落とし子"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "竜呪の力を持ったTimmyは様々な身体能力が強化されていますが、同時に心に病を抱えています。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+8.0 命中率(白兵戦)",
+        "+30.0 回避率(白兵戦)",
+        "+1.00 移動速度",
+        "x75% 受けるダメージ倍率",
+        "x50% 休息しやすさ",
+        "x200% 最大栄養量",
+        "x130% 食事の早さ",
+        "x130% 精神的弱さ"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+8.0 命中率(白兵戦)",
+          "+30.0 回避率(白兵戦)",
+          "+1.00 移動速度",
+          "x75% 受けるダメージ倍率",
+          "x50% 休息しやすさ",
+          "x200% 最大栄養量",
+          "x130% 食事の早さ",
+          "x130% 精神的弱さ"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Bloods",
+      "name": "竜呪の血脈"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3,
+      "description": "薄まったとはいえ伝説の妖狐の力の一片を受け継いだTimmyには様々な特別な力があります。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+16.0 命中率(白兵戦)",
+        "+36.0 回避率(白兵戦)",
+        "+0.80 移動速度",
+        "+10.0% アーマー - 突刺系",
+        "+12.0% アーマー - 打撲系",
+        "+8.0% アーマー - 熱系",
+        "+1.3 美しさ",
+        "x98% 受けるダメージ倍率",
+        "x132% 商人の勘",
+        "x110% 政治力",
+        "x90% 受けるダメージ倍率",
+        "x100% 毒耐性",
+        "x85% 精神的弱さ"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+16.0 命中率(白兵戦)",
+          "+36.0 回避率(白兵戦)",
+          "+0.80 移動速度",
+          "+10.0% アーマー - 突刺系",
+          "+12.0% アーマー - 打撲系",
+          "+8.0% アーマー - 熱系",
+          "+1.3 美しさ",
+          "x98% 受けるダメージ倍率",
+          "x132% 商人の勘",
+          "x110% 政治力",
+          "x90% 受けるダメージ倍率",
+          "x100% 毒耐性",
+          "x85% 精神的弱さ"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Bloods",
+      "name": "九尾の薄血"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4,
+      "description": "Timmyの尋常ならざる数々の能力はサミアの妖力が引き継がれている証と言えるでしょう。\n(妖怪村)",
+      "stats": [
+        "自然瞑想フォーカスタイプが許可されています。",
+        "+24.0 命中率(白兵戦)",
+        "+38.0 回避率(白兵戦)",
+        "+1.30 移動速度",
+        "+27.0% アーマー - 突刺系",
+        "+36.0% アーマー - 打撲系",
+        "+38.0% アーマー - 熱系",
+        "+1.1 美しさ",
+        "x198% 命中率(白兵戦)",
+        "x121% 回避率(白兵戦)",
+        "x137% AP値(白兵戦)",
+        "x68% 精神的弱さ",
+        "x87% 休息しやすさ",
+        "x78% 受けるダメージ倍率",
+        "x120% 毒耐性"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "自然瞑想フォーカスタイプが許可されています。",
+          "+24.0 命中率(白兵戦)",
+          "+38.0 回避率(白兵戦)",
+          "+1.30 移動速度",
+          "+27.0% アーマー - 突刺系",
+          "+36.0% アーマー - 打撲系",
+          "+38.0% アーマー - 熱系",
+          "+1.1 美しさ",
+          "x198% 命中率(白兵戦)",
+          "x121% 回避率(白兵戦)",
+          "x137% AP値(白兵戦)",
+          "x68% 精神的弱さ",
+          "x87% 休息しやすさ",
+          "x78% 受けるダメージ倍率",
+          "x120% 毒耐性"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "妖怪村",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Yokai_Bloods",
+      "name": "サミアの濃血"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
       "description": "Timmyは美しいものを愛し、本当に彼の環境がどのようにものか心配しています。\n((LC) Consolidated Traits)",
       "stats": [],
       "conflicts": [
@@ -14891,6 +14535,122 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは,銃で狙いをつけるときに,より時間をかけます.彼は,他の者より発砲頻度は低いですが,狙いはより正確です.\n((LC) Consolidated Traits)",
+      "stats": [
+        "+25% 照準時間",
+        "+3.0 命中率(射撃)"
+      ],
+      "conflicts": [
+        "格闘家",
+        "近視",
+        "鷹の目",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "格闘家",
+          "近視",
+          "鷹の目",
+          "宿り木"
+        ],
+        "stats": [
+          "+25% 照準時間",
+          "+3.0 命中率(射撃)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ShootingAccuracy",
+      "name": "慎重な射手"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "バン!バン! Timmyは,トリガーを引くのが本当に好きです.彼は,他の者よりも発砲頻度は高いですが,狙いは甘いです.\n((LC) Consolidated Traits)",
+      "stats": [
+        "-50% 照準時間",
+        "-3.0 命中率(射撃)"
+      ],
+      "conflicts": [
+        "格闘家",
+        "近視",
+        "鷹の目",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "格闘家",
+          "近視",
+          "鷹の目",
+          "宿り木"
+        ],
+        "stats": [
+          "-50% 照準時間",
+          "-3.0 命中率(射撃)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ShootingAccuracy",
+      "name": "トリガーハッピー"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmyは銃器の取り扱い方を知っており、迅速かつ正確に射撃することができます。\n((LC) Consolidated Traits)",
+      "stats": [
+        "+2 射撃",
+        "-50% 照準時間",
+        "+4.0 命中率(射撃)"
+      ],
+      "conflicts": [
+        "格闘家",
+        "近視",
+        "鷹の目",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "格闘家",
+          "近視",
+          "鷹の目",
+          "宿り木"
+        ],
+        "stats": [
+          "+2 射撃",
+          "-50% 照準時間",
+          "+4.0 命中率(射撃)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC] Consolidated Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ShootingAccuracy",
+      "name": "射撃の名手"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -1,
       "description": "繊細？外交？だから何？Timmyは単語の意味をほとんど理解していません。\n((LC) Consolidated Traits)",
       "stats": [
@@ -15151,6 +14911,166 @@
       },
       "defName": "RCT_GreenThumb",
       "name": "庭師の才能"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy は、異性に恋愛感情や性的魅力を感じている\n(Way Better Romance)",
+      "stats": [],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Straight",
+      "name": "ストレート"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy は、性的な関わりには興味がないが、異性に恋愛感情を持ちます\n(Way Better Romance)",
+      "stats": [],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HeteroAce",
+      "name": "無性愛者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy は性的な交際には興味がないが、 自分と同じ性別（彼の） の人に恋愛感情を持ちます。\n(Way Better Romance)",
+      "stats": [],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HomoAce",
+      "name": "同性愛者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy は性的な交際には興味がないが、 性別に関係なく恋愛感情を持ちます\n(Way Better Romance)",
+      "stats": [],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BiAce",
+      "name": "バイセクシャル"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy は、どんなに関係が悪くなっても絶対に浮気はしない\n(Way Better Romance)",
+      "stats": [],
+      "conflicts": [
+        "浮気性",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "浮気性",
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Faithful",
+      "name": "一途"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy は、色んな人に目移りしてしまいパートナーを一人に決められません\n(Way Better Romance)",
+      "stats": [],
+      "conflicts": [
+        "一途",
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "一途",
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Philanderer",
+      "name": "浮気性"
     },
     {
       "canAdd": true,
@@ -16467,8 +16387,8 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy は、異性に恋愛感情や性的魅力を感じている\n(Way Better Romance)",
+      "degree": 2,
+      "description": "Timmyは、病気になることを過度に恐れる強迫観念に取りつかれて、不必要なレベルで頻繁に体などを洗います。\n(Dubs Bad Hygiene)",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -16482,11 +16402,89 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null
       },
-      "defName": "Straight",
-      "name": "ストレート"
+      "defName": "Hygienic",
+      "name": "潔癖症"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは、非常にきれい好きで、清潔にする頻度が普通よりも高くなります。\n(Dubs Bad Hygiene)",
+      "stats": [],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "きれい好き"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmyは、不衛生でも気にしないので、清潔にする頻度が普通よりも低くなります。\n(Dubs Bad Hygiene)",
+      "stats": [],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "無頓着"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmyは、清潔さに対する要求基準が非常に低く、絶対に必要な場合だけ体などを洗います。\n(Dubs Bad Hygiene)",
+      "stats": [],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "不潔症"
     },
     {
       "canAdd": true,
@@ -16494,7 +16492,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は、性的な関わりには興味がないが、異性に恋愛感情を持ちます\n(Way Better Romance)",
+      "description": "Timmy は身体と精神ともに,洞察力に優れ,経験豊富な人生の大先輩です.彼らを古臭いと感じる人もいれば,彼らの導きを尊重する人もいるでしょう.\n(Vanilla Ideology Expanded - Memes and Structures)",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -16508,11 +16506,11 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
         "karmaTypeForAdding": null
       },
-      "defName": "HeteroAce",
-      "name": "無性愛者"
+      "defName": "VME_Elder",
+      "name": "年長者"
     },
     {
       "canAdd": true,
@@ -16520,25 +16518,39 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は性的な交際には興味がないが、 自分と同じ性別（彼の） の人に恋愛感情を持ちます。\n(Way Better Romance)",
-      "stats": [],
+      "description": "Timmyは、堅固な信念を持っています。例えどのような状況でも彼を支える信念は変わりません。\n(NewRatkinPlus)",
+      "stats": [
+        "+10% 痛みへの限界値",
+        "-15% 精神的弱さ"
+      ],
       "conflicts": [
+        "慎重な射手",
+        "トリガーハッピー",
+        "射撃の名手",
+        "弱虫",
         "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "慎重な射手",
+          "トリガーハッピー",
+          "射撃の名手",
+          "弱虫",
           "宿り木"
         ],
-        "stats": [],
+        "stats": [
+          "+10% 痛みへの限界値",
+          "-15% 精神的弱さ"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
+        "mod": "NewRatkinPlus",
         "karmaTypeForAdding": null
       },
-      "defName": "HomoAce",
-      "name": "同性愛者"
+      "defName": "Faith",
+      "name": "信念"
     },
     {
       "canAdd": true,
@@ -16546,8 +16558,10 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は性的な交際には興味がないが、 性別に関係なく恋愛感情を持ちます\n(Way Better Romance)",
-      "stats": [],
+      "description": "放火魔ほどではありませんが,火が大好きです.\n(Miho, the celestial fox)",
+      "stats": [
+        "炎瞑想フォーカスタイプが許可されています。"
+      ],
       "conflicts": [
         "宿り木"
       ],
@@ -16556,15 +16570,17 @@
         "conflicts": [
           "宿り木"
         ],
-        "stats": [],
+        "stats": [
+          "炎瞑想フォーカスタイプが許可されています。"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
+        "mod": "Miho, the celestial fox",
         "karmaTypeForAdding": null
       },
-      "defName": "BiAce",
-      "name": "バイセクシャル"
+      "defName": "Miho_EnergyMeditation_Trait",
+      "name": "火魅狐"
     },
     {
       "canAdd": true,
@@ -16572,27 +16588,35 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は、どんなに関係が悪くなっても絶対に浮気はしない\n(Way Better Romance)",
-      "stats": [],
+      "description": "クーリンです.\n\n¯\\_(ツ)_/¯\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
+      "stats": [
+        "+2 知力",
+        "-2 動物",
+        "+1.0 美しさ",
+        "+25.00% 商人の勘"
+      ],
       "conflicts": [
-        "浮気性",
         "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "浮気性",
           "宿り木"
         ],
-        "stats": [],
+        "stats": [
+          "+2 知力",
+          "-2 動物",
+          "+1.0 美しさ",
+          "+25.00% 商人の勘"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
+        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
         "karmaTypeForAdding": null
       },
-      "defName": "Faithful",
-      "name": "一途"
+      "defName": "Kurin_Trait",
+      "name": "クーリン"
     },
     {
       "canAdd": true,
@@ -16600,27 +16624,121 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は、色んな人に目移りしてしまいパートナーを一人に決められません\n(Way Better Romance)",
-      "stats": [],
+      "description": "Timmyは,植物が好きな変わり者のクーリンです...\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
+      "stats": [
+        "+10 栽培",
+        "+30% 栽培・速度"
+      ],
       "conflicts": [
-        "一途",
         "宿り木"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "一途",
+          "宿り木"
+        ],
+        "stats": [
+          "+10 栽培",
+          "+30% 栽培・速度"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Kurin_Trait_StrangeKurin",
+      "name": "変わり者のクーリン"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは,自分の遺伝子を改良するプログラムに参加しました.\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
+      "stats": [
+        "+25% 身につけやすさ",
+        "+25% 毒耐性",
+        "+25% 毒環境耐性"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "+25% 身につけやすさ",
+          "+25% 毒耐性",
+          "+25% 毒環境耐性"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Kurin_Trait_UpgradedKurin",
+      "name": "強化されたクーリン"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "キミリです.\n\n¯\\_(ツ)_/¯\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
+      "stats": [
+        "+1.0 美しさ"
+      ],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "宿り木"
+        ],
+        "stats": [
+          "+1.0 美しさ"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Kimiri_Trait",
+      "name": "キミリ"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "クーリンメカノイドです.\n\n¯\\_(ツ)_/¯\n(Kurin, The Three Tailed Fox (Deluxe Edition))",
+      "stats": [],
+      "conflicts": [
+        "宿り木"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
           "宿り木"
         ],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
+        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
         "karmaTypeForAdding": null
       },
-      "defName": "Philanderer",
-      "name": "浮気性"
+      "defName": "KurinMechanoid_Trait",
+      "name": "クーリンメカノイド"
     },
     {
       "canAdd": true,
@@ -17003,32 +17121,6 @@
       },
       "defName": "Bori_Rough_heart",
       "name": "血が騒ぐ"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy は身体と精神ともに,洞察力に優れ,経験豊富な人生の大先輩です.彼らを古臭いと感じる人もいれば,彼らの導きを尊重する人もいるでしょう.\n(Vanilla Ideology Expanded - Memes and Structures)",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Ideology Expanded - Memes and Structures",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VME_Elder",
-      "name": "年長者"
     }
   ],
   "races": [
@@ -17058,6 +17150,172 @@
       "data": {
         "customName": false,
         "stats": [
+          "+80.00 重量",
+          "+70% 燃えやすさ",
+          "+$5800 金額",
+          "+5 名誉値",
+          "+5.20 移動速度",
+          "+45.0C 快適と感じる最高気温",
+          "-45.0C 快適と感じる最低気温",
+          "+100% 休息しやすさ",
+          "+125% 食事の早さ",
+          "+150 輸送能力",
+          "+45 生肉の量",
+          "+75 生皮の量",
+          "+75% 痛みへの限界値",
+          "+100% 精神感応性",
+          "+40% 精神的弱さ",
+          "+60% 毒耐性",
+          "+60% 毒環境耐性",
+          "+1.2 回避率(白兵戦)",
+          "+1.0 命中率(白兵戦)",
+          "+125% 照準時間",
+          "+1.0 命中率(射撃)",
+          "+115.00% 外交力",
+          "+100% 売値掛け率",
+          "+125.00% 政治力",
+          "+50.00% 商人の勘",
+          "+0% メカノイド・寸断収率",
+          "+0% メカノイド・寸断速度",
+          "+0% 溶解・速度",
+          "+0% 作業・速度",
+          "+90% 建造・速度",
+          "+0% 食肉加工・収率",
+          "+0% 食肉加工・速度",
+          "+110.00% 食中毒・発生率",
+          "+0.0 調理・速度",
+          "+80% 栽培・速度",
+          "+120% 栽培・収率",
+          "+100% 身につけやすさ",
+          "+0% 研究・速度",
+          "+70% 看護・品質",
+          "+0% 合成・速度",
+          "+25% 外科手術の成功率",
+          "+150% 免疫を得る速度",
+          "+80% 掘削・速度",
+          "+120% 掘削・収率",
+          "+40.0% アーマー - 突刺系",
+          "+30.0% アーマー - 打撲系",
+          "+40.0% アーマー - 熱系",
+          "+500% 傷の治りやすさ"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "人間とドラゴンの特徴を併せ持つ美しい生物です.主に野生で目撃されます.彼女たちの銀色の毛は強度が高く柔らかく,闇市場で高く取引され,しばしばハンターに狙われることがあります.",
+      "defName": "Dragonian_Race",
+      "enabled": true,
+      "name": "ドラコニアン",
+      "price": 9667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 重量",
+          "+10% 燃えやすさ",
+          "+$3000 金額",
+          "+5.85 移動速度",
+          "-40.0C 快適と感じる最低気温",
+          "+60.0C 快適と感じる最高気温",
+          "+75 生皮の量",
+          "+12 名誉値",
+          "+100% 毒耐性",
+          "+100% 毒環境耐性",
+          "+10% 精神感応性",
+          "+155.0% アーマー - 打撲系",
+          "+155.0% アーマー - 突刺系",
+          "+120.0% アーマー - 熱系",
+          "+180% 食事の早さ",
+          "+200% AP値(白兵戦)",
+          "+1.8 命中率(白兵戦)",
+          "+2.8 回避率(白兵戦)",
+          "+2.6 命中率(射撃)",
+          "+230% 照準時間",
+          "+0.0 床の汚しやすさ"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "人にそっくりな姿をした妖怪たちの親分格です。彼らは性別を持ち繁殖を行う特別な妖怪です。\n      \n普段あちこちをフラフラしている気まぐれな九尾の狐の代わりに妖怪村の雑事を取り仕切っています。\n      \n大概的な代表はオニが務めています。全ての妖怪の根源である「鬼」族の末裔と言われていますが定かではありません。\n      \n見た目は人間を少し大きくしただけの存在に見えますが、腕力や脚力、耐久力にいたるまで人よりずっと優れています。",
+      "defName": "UniHAR_Yokai_Oni",
+      "enabled": true,
+      "name": "オニ",
+      "price": 5000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 重量",
+          "+80% 燃えやすさ",
+          "+$1500 金額",
+          "+5.60 移動速度",
+          "+0.0C 快適と感じる最低気温",
+          "+20.0C 快適と感じる最高気温",
+          "+75 生皮の量",
+          "+8 名誉値",
+          "-10% 毒耐性",
+          "+150% 精神感応性",
+          "+62.0% アーマー - 打撲系",
+          "+55.0% アーマー - 突刺系",
+          "+80.0% アーマー - 熱系",
+          "+112% 免疫を得る速度",
+          "+95% 食事の早さ",
+          "+122% AP値(白兵戦)",
+          "+1.3 命中率(白兵戦)",
+          "+1.6 回避率(白兵戦)",
+          "+0.7 命中率(射撃)",
+          "+142% 照準時間",
+          "+0.4 床の汚しやすさ"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "妖怪と人の血が混じった混血の者たちの総称を半妖と呼びます。ルーツは様々ですが祖先の誰かが妖怪との間に子を成したため、彼らの血には妖怪の力が混じっています。\n\t\t\t\n近接戦闘を尊ぶ妖怪村の伝統を色濃く受け継いでいるため近距離戦に強い半面、遠距離武器を扱うのを苦手としています。また精神的な攻撃や毒などに強く反応する点、人間用の移植装置などが使えない事にも気を配る必要があります。\n\t\t\t\n人の血が濃くなりつつある影響で近年の半妖の寿命は100年ほどと言われています。半妖は16歳で人間でいうところの「若者」となり生物的に成熟するのは24歳となっています。",
+      "defName": "UniHAR_Yokai_HanYou",
+      "enabled": false,
+      "name": "半妖",
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+40.00 重量",
+          "+0% 燃えやすさ",
+          "+$9999 金額",
+          "+9.90 移動速度",
+          "-80.0C 快適と感じる最低気温",
+          "+100.0C 快適と感じる最高気温",
+          "+0 生皮の量",
+          "+28 名誉値",
+          "+80% 毒耐性",
+          "+80% 毒環境耐性",
+          "+100% 精神感応性",
+          "+62.0% アーマー - 打撲系",
+          "+62.0% アーマー - 突刺系",
+          "+80.0% アーマー - 熱系",
+          "+260% AP値(白兵戦)",
+          "+2.0 命中率(白兵戦)",
+          "+3.1 回避率(白兵戦)",
+          "+0 生肉の量",
+          "+100.0 清潔さ",
+          "+0.0 床の汚しやすさ"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "極めてまれに発生する九尾の狐に先祖返りしている半妖です。\n\t\t\t\n非常に高い身体能力を誇り半妖というよりはほぼ妖怪と呼べる存在ですが、純粋な妖怪であるオニには劣ります。\n\t\t\t\n総じて気紛れで誇り高く、運搬や清掃を含めた殆どの仕事を行いません。\n\t\t\t\nその分素手での戦闘ではオニすら圧倒する攻撃能力、ほとんどの攻撃に対する高い防御能力を有しているため戦闘では頼りになります。",
+      "defName": "UniHAR_Yokai_Tuzurao",
+      "enabled": true,
+      "name": "九尾の半妖",
+      "price": 16667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
           "+60.00 重量",
           "+80% 燃えやすさ",
           "+5.60 移動速度",
@@ -17082,7 +17340,7 @@
       },
       "description": "妖怪と人の血が混じった混血の者たちの総称を半妖と呼びます。ルーツは様々ですが祖先の誰かが妖怪との間に子を成したため、彼らの血には妖怪の力が混じっています。\n      \n近接戦闘を尊ぶ妖怪村の伝統を色濃く受け継いでいるため近距離戦に強い半面、遠距離武器を扱うのを苦手としています。また精神的な攻撃や毒などに強く反応する点、食事を味わって食べるといった短所もあり、人間用の移植装置などが使えない事にも気を配る必要があります。\n    \n人間のおよそ２~3倍の寿命をもちますが、その分大人になるのにも時間がかかります。妖怪村での人間は１５歳で一人前とみなされますが、半妖は18歳であり生物的に成熟するのは３０歳を過ぎてからです。",
       "defName": "Yokai_HanYou",
-      "enabled": false,
+      "enabled": true,
       "name": "半妖",
       "price": 2500
     },
@@ -17160,50 +17418,6 @@
       "enabled": true,
       "name": "ラットキン実験体",
       "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 重量",
-          "+0% 燃えやすさ",
-          "+$4000 金額",
-          "+4 名誉値",
-          "+42 輸送能力",
-          "+25% 身につけやすさ",
-          "+100% 精神感応性",
-          "+98% 休息しやすさ",
-          "+98% 免疫を得る速度",
-          "+120% 基本的な作業速度",
-          "+0 食料調達量",
-          "+125.00% 外交力",
-          "+125.00% 政治力",
-          "+125.00% 商人の勘",
-          "+25 生皮の量",
-          "+75% 痛みへの限界値",
-          "+20.0C 快適と感じる最低気温",
-          "+31.0C 快適と感じる最高気温",
-          "-100% 毒耐性",
-          "-100% 毒環境耐性",
-          "+4.10 移動速度",
-          "+90% 照準時間",
-          "+0.9 命中率(射撃)",
-          "+2.0 回避率(白兵戦)",
-          "+3.0 命中率(白兵戦)",
-          "+50.0% アーマー - 熱系",
-          "+150% 学習率係数",
-          "-1.00 ニューラルヒート回復レート",
-          "-2.50% 手懐け成功率",
-          "-2.50% 調教成功率"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "オーディナリーをはじめとする多くのミホ種の共通祖先は,人間ではなくアカギツネと推定されています.当然,自然進化ではなくアルコテックな何かによって知性化(意識高く)されたものと思われます.人間のように見えますが人間ではありません.彼女らの体には体内のメカナイトと連動する日照量によって仙術の強度が決まるカスミ器官があります.この器官のおかげで,キツネたちは太陽とエネルギーを崇めています.",
-      "defName": "Alien_Miho",
-      "enabled": true,
-      "name": "ミホ",
-      "price": 6667
     },
     {
       "data": {
@@ -17327,104 +17541,200 @@
         "customName": false,
         "stats": [
           "+60.00 重量",
-          "+10% 燃えやすさ",
-          "+$3000 金額",
-          "+5.85 移動速度",
-          "-40.0C 快適と感じる最低気温",
-          "+60.0C 快適と感じる最高気温",
-          "+75 生皮の量",
-          "+12 名誉値",
-          "+100% 毒耐性",
-          "+100% 毒環境耐性",
-          "+10% 精神感応性",
-          "+155.0% アーマー - 打撲系",
-          "+155.0% アーマー - 突刺系",
-          "+120.0% アーマー - 熱系",
-          "+180% 食事の早さ",
-          "+200% AP値(白兵戦)",
-          "+1.8 命中率(白兵戦)",
-          "+2.8 回避率(白兵戦)",
-          "+2.6 命中率(射撃)",
-          "+230% 照準時間",
-          "+0.0 床の汚しやすさ"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "人にそっくりな姿をした妖怪たちの親分格です。彼らは性別を持ち繁殖を行う特別な妖怪です。\n      \n普段あちこちをフラフラしている気まぐれな九尾の狐の代わりに妖怪村の雑事を取り仕切っています。\n      \n大概的な代表はオニが務めています。全ての妖怪の根源である「鬼」族の末裔と言われていますが定かではありません。\n      \n見た目は人間を少し大きくしただけの存在に見えますが、腕力や脚力、耐久力にいたるまで人よりずっと優れています。",
-      "defName": "UniHAR_Yokai_Oni",
-      "enabled": true,
-      "name": "オニ",
-      "price": 5000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 重量",
-          "+80% 燃えやすさ",
-          "+$1500 金額",
-          "+5.60 移動速度",
-          "+0.0C 快適と感じる最低気温",
-          "+20.0C 快適と感じる最高気温",
-          "+75 生皮の量",
-          "+8 名誉値",
-          "-10% 毒耐性",
-          "+150% 精神感応性",
-          "+62.0% アーマー - 打撲系",
-          "+55.0% アーマー - 突刺系",
-          "+80.0% アーマー - 熱系",
-          "+112% 免疫を得る速度",
-          "+95% 食事の早さ",
-          "+122% AP値(白兵戦)",
-          "+1.3 命中率(白兵戦)",
-          "+1.6 回避率(白兵戦)",
-          "+0.7 命中率(射撃)",
-          "+142% 照準時間",
-          "+0.4 床の汚しやすさ"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "妖怪と人の血が混じった混血の者たちの総称を半妖と呼びます。ルーツは様々ですが祖先の誰かが妖怪との間に子を成したため、彼らの血には妖怪の力が混じっています。\n\t\t\t\n近接戦闘を尊ぶ妖怪村の伝統を色濃く受け継いでいるため近距離戦に強い半面、遠距離武器を扱うのを苦手としています。また精神的な攻撃や毒などに強く反応する点、人間用の移植装置などが使えない事にも気を配る必要があります。\n\t\t\t\n人の血が濃くなりつつある影響で近年の半妖の寿命は100年ほどと言われています。半妖は16歳で人間でいうところの「若者」となり生物的に成熟するのは24歳となっています。",
-      "defName": "UniHAR_Yokai_HanYou",
-      "enabled": true,
-      "name": "半妖",
-      "price": 2500
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+40.00 重量",
           "+0% 燃えやすさ",
-          "+$9999 金額",
-          "+9.90 移動速度",
-          "-80.0C 快適と感じる最低気温",
-          "+100.0C 快適と感じる最高気温",
-          "+0 生皮の量",
-          "+28 名誉値",
-          "+80% 毒耐性",
-          "+80% 毒環境耐性",
+          "+$4000 金額",
+          "+4 名誉値",
+          "+42 輸送能力",
+          "+25% 身につけやすさ",
           "+100% 精神感応性",
-          "+62.0% アーマー - 打撲系",
-          "+62.0% アーマー - 突刺系",
-          "+80.0% アーマー - 熱系",
-          "+260% AP値(白兵戦)",
-          "+2.0 命中率(白兵戦)",
-          "+3.1 回避率(白兵戦)",
-          "+0 生肉の量",
-          "+100.0 清潔さ",
-          "+0.0 床の汚しやすさ"
+          "+98% 休息しやすさ",
+          "+98% 免疫を得る速度",
+          "+120% 基本的な作業速度",
+          "+0 食料調達量",
+          "+125.00% 外交力",
+          "+125.00% 政治力",
+          "+125.00% 商人の勘",
+          "+25 生皮の量",
+          "+75% 痛みへの限界値",
+          "+20.0C 快適と感じる最低気温",
+          "+31.0C 快適と感じる最高気温",
+          "-100% 毒耐性",
+          "-100% 毒環境耐性",
+          "+4.10 移動速度",
+          "+90% 照準時間",
+          "+0.9 命中率(射撃)",
+          "+2.0 回避率(白兵戦)",
+          "+3.0 命中率(白兵戦)",
+          "+50.0% アーマー - 熱系",
+          "+150% 学習率係数",
+          "-1.00 ニューラルヒート回復レート",
+          "-2.50% 手懐け成功率",
+          "-2.50% 調教成功率"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "極めてまれに発生する九尾の狐に先祖返りしている半妖です。\n\t\t\t\n非常に高い身体能力を誇り半妖というよりはほぼ妖怪と呼べる存在ですが、純粋な妖怪であるオニには劣ります。\n\t\t\t\n総じて気紛れで誇り高く、運搬や清掃を含めた殆どの仕事を行いません。\n\t\t\t\nその分素手での戦闘ではオニすら圧倒する攻撃能力、ほとんどの攻撃に対する高い防御能力を有しているため戦闘では頼りになります。",
-      "defName": "UniHAR_Yokai_Tuzurao",
+      "description": "オーディナリーをはじめとする多くのミホ種の共通祖先は,人間ではなくアカギツネと推定されています.当然,自然進化ではなくアルコテックな何かによって知性化(意識高く)されたものと思われます.人間のように見えますが人間ではありません.彼女らの体には体内のメカナイトと連動する日照量によって仙術の強度が決まるカスミ器官があります.この器官のおかげで,キツネたちは太陽とエネルギーを崇めています.",
+      "defName": "Alien_Miho",
       "enabled": true,
-      "name": "九尾の半妖",
-      "price": 16667
+      "name": "ミホ",
+      "price": 6667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+110.00 重量",
+          "+10% 燃えやすさ",
+          "+$1750 金額",
+          "+4.00 移動速度",
+          "+130 輸送能力",
+          "-10.0C 快適と感じる最低気温",
+          "+1000.0C 快適と感じる最高気温",
+          "+120% 掘削・速度",
+          "+120% 建造・速度",
+          "+0.5 調理・速度",
+          "+70% 栽培・速度",
+          "+50% 研究・速度",
+          "+120% 痛みへの限界値",
+          "+60.0% アーマー - 打撲系",
+          "-10.0% アーマー - 突刺系",
+          "+20.0% アーマー - 熱系"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "彼らはもともと異世界の地下に広がる巨大な懲罰施設の獄卒達でした.\nある時新しく入獄してきた学者にそそのかされ（おそらく酒が無限に出てくるなどと言われて）作らされた”門”によってこの世界へ吸い出されてきました.\n彼らはその後しばらくは, まんまと脱獄に成功した学者を探し出して職場に戻るため一丸となっていました.\nしかし自分達の生命が現世の生物のように有限のものになっている事や彼らの好物（酒や闘い, それに人肉です）がそこらで手に入る事に気づき, さらには上司の不在によって統率は崩れ獄卒達は各自好きにするため惑星に散っていきました.",
+      "defName": "Alien_Gokusotsu",
+      "enabled": true,
+      "name": "獄卒",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+110.00 重量",
+          "+10% 燃えやすさ",
+          "+$1750 金額",
+          "+4.00 移動速度",
+          "+130 輸送能力",
+          "-10.0C 快適と感じる最低気温",
+          "+1000.0C 快適と感じる最高気温",
+          "+120% 掘削・速度",
+          "+120% 建造・速度",
+          "+0.5 調理・速度",
+          "+70% 栽培・速度",
+          "+50% 研究・速度",
+          "+120% 痛みへの限界値",
+          "+60.0% アーマー - 打撲系",
+          "-10.0% アーマー - 突刺系",
+          "+20.0% アーマー - 熱系"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "They were originally guards in a huge punishment facility spreading underground in another world. \nOne day, they were seduced by a newly-arrived scholar and sucked out into this world through a \"gate\" that they were made to build (perhaps with the promise of an endless supply of alcohol, etc.). \nFor a while afterwards, they worked together to find the scholar who had successfully escaped. \nHowever, they realized that their lives became mortal like the creatures of mortal world, and that their favorite things (alcohol, fighting, and human flesh) were available everywhere. In addition, the absence of their boss had destroyed their teamwork, and the all gokusotsu scattered to the planets to do as they pleased.",
+      "defName": "GHG_Mezu",
+      "enabled": true,
+      "name": "馬頭獄卒",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+110.00 重量",
+          "+10% 燃えやすさ",
+          "+$1750 金額",
+          "+4.00 移動速度",
+          "+130 輸送能力",
+          "-10.0C 快適と感じる最低気温",
+          "+1000.0C 快適と感じる最高気温",
+          "+120% 掘削・速度",
+          "+120% 建造・速度",
+          "+0.5 調理・速度",
+          "+70% 栽培・速度",
+          "+50% 研究・速度",
+          "+120% 痛みへの限界値",
+          "+60.0% アーマー - 打撲系",
+          "-10.0% アーマー - 突刺系",
+          "+20.0% アーマー - 熱系"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "They were originally guards in a huge punishment facility spreading underground in another world. \nOne day, they were seduced by a newly-arrived scholar and sucked out into this world through a \"gate\" that they were made to build (perhaps with the promise of an endless supply of alcohol, etc.). \nFor a while afterwards, they worked together to find the scholar who had successfully escaped. \nHowever, they realized that their lives became mortal like the creatures of mortal world, and that their favorite things (alcohol, fighting, and human flesh) were available everywhere. In addition, the absence of their boss had destroyed their teamwork, and the all gokusotsu scattered to the planets to do as they pleased.",
+      "defName": "GHG_Gozu",
+      "enabled": true,
+      "name": "牛頭獄卒",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+65.00 重量",
+          "+100% 燃えやすさ",
+          "+$2750 金額",
+          "+4.55 移動速度",
+          "+28.0C 快適と感じる最高気温",
+          "+16.0C 快適と感じる最低気温",
+          "+100% 免疫を得る速度",
+          "+75 輸送能力",
+          "+80 生肉の量",
+          "+50 生皮の量",
+          "+100% 精神感応性",
+          "+0.9 回避率(白兵戦)",
+          "+100.00% 政治力",
+          "+100% 作業・速度",
+          "+100% 合成・速度",
+          "+100% 看護・速度",
+          "+100% 看護・品質",
+          "+100% 外科手術の成功率",
+          "+6 名誉値"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "ヘイラたちがRimworldに定住したのは大昔のことでした.彼らは,時折,頭の中で囁き声が聞こえるという独特の超能力があります.その囁きは,ほとんどが断片的な言葉ですが,ヘイラたちはそれを神の御告げだと信じています.この囁きが本物かどうかはわかりません.しかし,ヘイラたちが人間よりも高い精神感応性を持っていることは確認されています.",
+      "defName": "Alien_Heyra",
+      "enabled": true,
+      "name": "ヘイラ",
+      "price": 4583
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+65.00 重量",
+          "+100% 燃えやすさ",
+          "+$2750 金額",
+          "+4.80 移動速度",
+          "+35.0C 快適と感じる最高気温",
+          "+10.0C 快適と感じる最低気温",
+          "+100% 免疫を得る速度",
+          "+75 輸送能力",
+          "+80 生肉の量",
+          "+50 生皮の量",
+          "+80% 精神感応性",
+          "+1.2 回避率(白兵戦)",
+          "+55.00% 政治力",
+          "+80% 作業・速度",
+          "+120% 合成・速度",
+          "+100% 看護・速度",
+          "+100% 看護・品質",
+          "+100% 外科手術の成功率",
+          "+6 名誉値"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "この残虐で野蛮なロン族はヘイラ族の宿敵です.道徳的観念を捨て,人類の最も原始的な欲求だけを重視します.一連の証拠から,ロン族がヘイラ族の一分派であることを示していますが,ヘイラ族の最高位司祭はそれを認めていません.",
+      "defName": "Alien_Heyra_Rong",
+      "enabled": true,
+      "name": "ロン",
+      "price": 4583
     },
     {
       "data": {
@@ -17599,162 +17909,6 @@
       "data": {
         "customName": false,
         "stats": [
-          "+65.00 重量",
-          "+100% 燃えやすさ",
-          "+$2750 金額",
-          "+4.55 移動速度",
-          "+28.0C 快適と感じる最高気温",
-          "+16.0C 快適と感じる最低気温",
-          "+100% 免疫を得る速度",
-          "+75 輸送能力",
-          "+80 生肉の量",
-          "+50 生皮の量",
-          "+100% 精神感応性",
-          "+0.9 回避率(白兵戦)",
-          "+100.00% 政治力",
-          "+100% 作業・速度",
-          "+100% 合成・速度",
-          "+100% 看護・速度",
-          "+100% 看護・品質",
-          "+100% 外科手術の成功率",
-          "+6 名誉値"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "ヘイラたちがRimworldに定住したのは大昔のことでした.彼らは,時折,頭の中で囁き声が聞こえるという独特の超能力があります.その囁きは,ほとんどが断片的な言葉ですが,ヘイラたちはそれを神の御告げだと信じています.この囁きが本物かどうかはわかりません.しかし,ヘイラたちが人間よりも高い精神感応性を持っていることは確認されています.",
-      "defName": "Alien_Heyra",
-      "enabled": true,
-      "name": "ヘイラ",
-      "price": 4583
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+65.00 重量",
-          "+100% 燃えやすさ",
-          "+$2750 金額",
-          "+4.80 移動速度",
-          "+35.0C 快適と感じる最高気温",
-          "+10.0C 快適と感じる最低気温",
-          "+100% 免疫を得る速度",
-          "+75 輸送能力",
-          "+80 生肉の量",
-          "+50 生皮の量",
-          "+80% 精神感応性",
-          "+1.2 回避率(白兵戦)",
-          "+55.00% 政治力",
-          "+80% 作業・速度",
-          "+120% 合成・速度",
-          "+100% 看護・速度",
-          "+100% 看護・品質",
-          "+100% 外科手術の成功率",
-          "+6 名誉値"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "この残虐で野蛮なロン族はヘイラ族の宿敵です.道徳的観念を捨て,人類の最も原始的な欲求だけを重視します.一連の証拠から,ロン族がヘイラ族の一分派であることを示していますが,ヘイラ族の最高位司祭はそれを認めていません.",
-      "defName": "Alien_Heyra_Rong",
-      "enabled": true,
-      "name": "ロン",
-      "price": 4583
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+110.00 重量",
-          "+10% 燃えやすさ",
-          "+$1750 金額",
-          "+4.00 移動速度",
-          "+130 輸送能力",
-          "-10.0C 快適と感じる最低気温",
-          "+1000.0C 快適と感じる最高気温",
-          "+120% 掘削・速度",
-          "+120% 建造・速度",
-          "+0.5 調理・速度",
-          "+70% 栽培・速度",
-          "+50% 研究・速度",
-          "+120% 痛みへの限界値",
-          "+60.0% アーマー - 打撲系",
-          "-10.0% アーマー - 突刺系",
-          "+20.0% アーマー - 熱系"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "彼らはもともと異世界の地下に広がる巨大な懲罰施設の獄卒達でした.\nある時新しく入獄してきた学者にそそのかされ（おそらく酒が無限に出てくるなどと言われて）作らされた”門”によってこの世界へ吸い出されてきました.\n彼らはその後しばらくは, まんまと脱獄に成功した学者を探し出して職場に戻るため一丸となっていました.\nしかし自分達の生命が現世の生物のように有限のものになっている事や彼らの好物（酒や闘い, それに人肉です）がそこらで手に入る事に気づき, さらには上司の不在によって統率は崩れ獄卒達は各自好きにするため惑星に散っていきました.",
-      "defName": "Alien_Gokusotsu",
-      "enabled": true,
-      "name": "獄卒",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+110.00 重量",
-          "+10% 燃えやすさ",
-          "+$1750 金額",
-          "+4.00 移動速度",
-          "+130 輸送能力",
-          "-10.0C 快適と感じる最低気温",
-          "+1000.0C 快適と感じる最高気温",
-          "+120% 掘削・速度",
-          "+120% 建造・速度",
-          "+0.5 調理・速度",
-          "+70% 栽培・速度",
-          "+50% 研究・速度",
-          "+120% 痛みへの限界値",
-          "+60.0% アーマー - 打撲系",
-          "-10.0% アーマー - 突刺系",
-          "+20.0% アーマー - 熱系"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "They were originally guards in a huge punishment facility spreading underground in another world. \nOne day, they were seduced by a newly-arrived scholar and sucked out into this world through a \"gate\" that they were made to build (perhaps with the promise of an endless supply of alcohol, etc.). \nFor a while afterwards, they worked together to find the scholar who had successfully escaped. \nHowever, they realized that their lives became mortal like the creatures of mortal world, and that their favorite things (alcohol, fighting, and human flesh) were available everywhere. In addition, the absence of their boss had destroyed their teamwork, and the all gokusotsu scattered to the planets to do as they pleased.",
-      "defName": "GHG_Mezu",
-      "enabled": true,
-      "name": "馬頭獄卒",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+110.00 重量",
-          "+10% 燃えやすさ",
-          "+$1750 金額",
-          "+4.00 移動速度",
-          "+130 輸送能力",
-          "-10.0C 快適と感じる最低気温",
-          "+1000.0C 快適と感じる最高気温",
-          "+120% 掘削・速度",
-          "+120% 建造・速度",
-          "+0.5 調理・速度",
-          "+70% 栽培・速度",
-          "+50% 研究・速度",
-          "+120% 痛みへの限界値",
-          "+60.0% アーマー - 打撲系",
-          "-10.0% アーマー - 突刺系",
-          "+20.0% アーマー - 熱系"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "They were originally guards in a huge punishment facility spreading underground in another world. \nOne day, they were seduced by a newly-arrived scholar and sucked out into this world through a \"gate\" that they were made to build (perhaps with the promise of an endless supply of alcohol, etc.). \nFor a while afterwards, they worked together to find the scholar who had successfully escaped. \nHowever, they realized that their lives became mortal like the creatures of mortal world, and that their favorite things (alcohol, fighting, and human flesh) were available everywhere. In addition, the absence of their boss had destroyed their teamwork, and the all gokusotsu scattered to the planets to do as they pleased.",
-      "defName": "GHG_Gozu",
-      "enabled": true,
-      "name": "牛頭獄卒",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
           "+55.00 重量",
           "+50% 燃えやすさ",
           "+3 名誉値",
@@ -17881,111 +18035,6 @@
       "data": {
         "customName": false,
         "stats": [
-          "+56.00 重量",
-          "+200% 燃えやすさ",
-          "+40.0% アーマー - 突刺系",
-          "+20.0% アーマー - 打撲系",
-          "+0.0% アーマー - 熱系",
-          "+3% 精神的弱さ",
-          "+0% 精神感応性",
-          "+100% 毒耐性",
-          "+100% 毒環境耐性",
-          "+80% 身につけやすさ",
-          "+140% 休息しやすさ",
-          "+200% 食事の早さ",
-          "+400% 免疫を得る速度",
-          "+150 輸送能力",
-          "+40 生肉の量",
-          "+0 生皮の量",
-          "+0 生き物スキル必要量",
-          "+100% 痛みへの限界値",
-          "+1.4 食料調達量",
-          "+90.00% 外交力",
-          "+90.00% 商人の勘",
-          "+90.00% 政治力",
-          "+90% 基本的な作業速度",
-          "+100% 作業・速度",
-          "+$2000 金額",
-          "+4.00 移動速度",
-          "-300.0C 快適と感じる最低気温",
-          "+23.0C 快適と感じる最高気温",
-          "+3 名誉値"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "ミンチョはもともと、食品会社「ICEcRIMe」がミュータントとミントチョコレートを組み合わせて作ったスライム型のプロモーションおもちゃでした。しかし、誤って実験者がメカナイトでスライムを作ってしまい、ただのおもちゃであるはずだったスライムは、人間を模倣し始めました。その後リコールが行われましたが「ミンチョ」と呼ばれる生き物はすでに多くの惑星に広がっていました。\n\nミンチョの体はミントチョコレートでできています。ミントチョコはミントとチョコレートで作られています。またミンチョから溶けたミントチョコが時々こぼれます。\n\nミンチョはスライムコアで身体を維持しています。コアが破壊されたり過度のダメージによってミンチョが倒れると、彼らはミントチョコレートの塊になります。しかし、スライムのコアが破壊されない限り、彼らには強力な再生能力があります。また、スライムコアと人間の脳の構造は異なります。したがって、ミンチョはサイコスードの影響を受けません。\n\nミンチョたちは人間に似ていますが、やや知能が低く、自分で何か新しいものを発見することができません。\n\nかなり奇妙な面もありますが、彼らは人間と人間型の種族に非常に友好的です。年齢や形や人種はミンチョにとって重要ではありません。ミントチョコを愛しているかが重要です。",
-      "defName": "Mincho_ThingDef",
-      "enabled": true,
-      "name": "ミンチョ",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+80.00 重量",
-          "+70% 燃えやすさ",
-          "+$5800 金額",
-          "+5 名誉値",
-          "+5.20 移動速度",
-          "+45.0C 快適と感じる最高気温",
-          "-45.0C 快適と感じる最低気温",
-          "+100% 休息しやすさ",
-          "+125% 食事の早さ",
-          "+150 輸送能力",
-          "+45 生肉の量",
-          "+75 生皮の量",
-          "+75% 痛みへの限界値",
-          "+100% 精神感応性",
-          "+40% 精神的弱さ",
-          "+60% 毒耐性",
-          "+60% 毒環境耐性",
-          "+1.2 回避率(白兵戦)",
-          "+1.0 命中率(白兵戦)",
-          "+125% 照準時間",
-          "+1.0 命中率(射撃)",
-          "+115.00% 外交力",
-          "+100% 売値掛け率",
-          "+125.00% 政治力",
-          "+50.00% 商人の勘",
-          "+0% メカノイド・寸断収率",
-          "+0% メカノイド・寸断速度",
-          "+0% 溶解・速度",
-          "+0% 作業・速度",
-          "+90% 建造・速度",
-          "+0% 食肉加工・収率",
-          "+0% 食肉加工・速度",
-          "+110.00% 食中毒・発生率",
-          "+0.0 調理・速度",
-          "+80% 栽培・速度",
-          "+120% 栽培・収率",
-          "+100% 身につけやすさ",
-          "+0% 研究・速度",
-          "+70% 看護・品質",
-          "+0% 合成・速度",
-          "+25% 外科手術の成功率",
-          "+150% 免疫を得る速度",
-          "+80% 掘削・速度",
-          "+120% 掘削・収率",
-          "+40.0% アーマー - 突刺系",
-          "+30.0% アーマー - 打撲系",
-          "+40.0% アーマー - 熱系",
-          "+500% 傷の治りやすさ"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "人間とドラゴンの特徴を併せ持つ美しい生物です.主に野生で目撃されます.彼女たちの銀色の毛は強度が高く柔らかく,闇市場で高く取引され,しばしばハンターに狙われることがあります.",
-      "defName": "Dragonian_Race",
-      "enabled": true,
-      "name": "ドラコニアン",
-      "price": 9667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
           "+70.00 重量",
           "+70% 燃えやすさ",
           "+$2000 金額",
@@ -18032,6 +18081,49 @@
       "defName": "Paniel_Race",
       "enabled": true,
       "name": "パニエル",
+      "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+56.00 重量",
+          "+200% 燃えやすさ",
+          "+40.0% アーマー - 突刺系",
+          "+20.0% アーマー - 打撲系",
+          "+0.0% アーマー - 熱系",
+          "+3% 精神的弱さ",
+          "+0% 精神感応性",
+          "+100% 毒耐性",
+          "+100% 毒環境耐性",
+          "+80% 身につけやすさ",
+          "+140% 休息しやすさ",
+          "+200% 食事の早さ",
+          "+400% 免疫を得る速度",
+          "+150 輸送能力",
+          "+40 生肉の量",
+          "+0 生皮の量",
+          "+0 生き物スキル必要量",
+          "+100% 痛みへの限界値",
+          "+1.4 食料調達量",
+          "+90.00% 外交力",
+          "+90.00% 商人の勘",
+          "+90.00% 政治力",
+          "+90% 基本的な作業速度",
+          "+100% 作業・速度",
+          "+$2000 金額",
+          "+4.00 移動速度",
+          "-300.0C 快適と感じる最低気温",
+          "+23.0C 快適と感じる最高気温",
+          "+3 名誉値"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "ミンチョはもともと、食品会社「ICEcRIMe」がミュータントとミントチョコレートを組み合わせて作ったスライム型のプロモーションおもちゃでした。しかし、誤って実験者がメカナイトでスライムを作ってしまい、ただのおもちゃであるはずだったスライムは、人間を模倣し始めました。その後リコールが行われましたが「ミンチョ」と呼ばれる生き物はすでに多くの惑星に広がっていました。\n\nミンチョの体はミントチョコレートでできています。ミントチョコはミントとチョコレートで作られています。またミンチョから溶けたミントチョコが時々こぼれます。\n\nミンチョはスライムコアで身体を維持しています。コアが破壊されたり過度のダメージによってミンチョが倒れると、彼らはミントチョコレートの塊になります。しかし、スライムのコアが破壊されない限り、彼らには強力な再生能力があります。また、スライムコアと人間の脳の構造は異なります。したがって、ミンチョはサイコスードの影響を受けません。\n\nミンチョたちは人間に似ていますが、やや知能が低く、自分で何か新しいものを発見することができません。\n\nかなり奇妙な面もありますが、彼らは人間と人間型の種族に非常に友好的です。年齢や形や人種はミンチョにとって重要ではありません。ミントチョコを愛しているかが重要です。",
+      "defName": "Mincho_ThingDef",
+      "enabled": true,
+      "name": "ミンチョ",
       "price": 3333
     }
   ]

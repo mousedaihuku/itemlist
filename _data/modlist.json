@@ -60,6 +60,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "HealerUser",
+    "name": "HAR Xenotype Patch + Replace Child Body",
+    "steamId": "2888530443",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -106,6 +112,12 @@
     "name": "MoHAR framework",
     "steamId": "2057001924",
     "version": "1.0.8331.27653"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Toggleable Overlays",
+    "steamId": "2608654598",
+    "version": "1.4"
   },
   {
     "author": "Rooloと Owlchemist",
@@ -186,6 +198,30 @@
     "version": null
   },
   {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bradsonとharkon",
+    "name": "Bradson's Main Button Icons for VE Textures",
+    "steamId": "2361775777",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Cosmo Corban",
+    "name": "AI Upscaled Textures - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREXと erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
     "author": "YAYO",
     "name": "Yayo's Animation (Continued)",
     "steamId": "2877292196",
@@ -220,6 +256,12 @@
     "name": "Common Sense - opportunistic cleaning patch",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "2633514537",
+    "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
@@ -354,12 +396,6 @@
     "version": null
   },
   {
-    "author": "Squirting Elephant",
-    "name": "No ZzZ",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "XeoNovaDan",
     "name": "[XND] Tiny Tweaks (Continued)",
     "steamId": "2270049772",
@@ -414,14 +450,14 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "大鳥",
-    "name": "Empire -100 goodwill in scenarios Fix",
+    "author": "TheWireLord",
+    "name": "Conduit Deconstruct",
     "steamId": null,
     "version": null
   },
   {
-    "author": "TheWireLord",
-    "name": "Conduit Deconstruct",
+    "author": "大鳥",
+    "name": "Empire -100 goodwill in scenarios Fix",
     "steamId": null,
     "version": null
   },
@@ -504,6 +540,12 @@
     "version": null
   },
   {
+    "author": "Owlchemist",
+    "name": "Moonlight",
+    "steamId": "2589384830",
+    "version": "1.4"
+  },
+  {
     "author": "SaberShip",
     "name": "No Precipitation Over Fog Of War",
     "steamId": "2836618393",
@@ -516,20 +558,14 @@
     "version": null
   },
   {
-    "author": "Malistaticyと Dhyne",
-    "name": "UnderWhere",
-    "steamId": null,
-    "version": null
+    "author": "Fuu Chan",
+    "name": "[Fuu] Uncompromising Fires",
+    "steamId": "2623963630",
+    "version": "1.1.0.0"
   },
   {
     "author": "Orion",
     "name": "Cash Register",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
     "steamId": null,
     "version": null
   },
@@ -624,12 +660,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Doug",
-    "name": "No Job Authors",
-    "steamId": "2009825774",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "telardo",
     "name": "No Laggy Bed",
     "steamId": "2790250834",
@@ -662,12 +692,6 @@
   {
     "author": "FlashPoint55",
     "name": "Atomic Coffee Maker mod",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "shakeyourbunny",
-    "name": "HD Terrain Texture Pack (patched)",
     "steamId": null,
     "version": null
   },
@@ -900,6 +924,12 @@
     "version": null
   },
   {
+    "author": "Dyrewulfe",
+    "name": "Better Message Placement (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Grimm",
     "name": "Un-Limited",
     "steamId": null,
@@ -924,20 +954,38 @@
     "version": null
   },
   {
-    "author": "Nals",
-    "name": "[NL] Chibi Face Male only",
+    "author": "Peppsen",
+    "name": "P-Music",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Nals",
-    "name": "[NL] Chibi Face Female only",
+    "author": "SteveZero",
+    "name": "Repairable Gear",
+    "steamId": "2482478785",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "RWLayout",
+    "steamId": "2209393954",
+    "version": "1.0.0"
+  },
+  {
+    "author": "marceline",
+    "name": "Milk Retexture",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Giant Space Hamster",
+    "name": "Moody",
+    "steamId": "826998327",
+    "version": "2.5.9.0"
+  },
+  {
     "author": "Nals",
-    "name": "[NL] Chibi Body",
+    "name": "[NL] Compatible Body 2",
     "steamId": null,
     "version": null
   },
@@ -960,28 +1008,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Peppsen",
-    "name": "P-Music",
+    "author": "sirreality",
+    "name": "Pawn Centric Work Priorities",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "marceline",
-    "name": "Milk Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SteveZero",
-    "name": "Repairable Gear",
-    "steamId": "2482478785",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Krypt",
-    "name": "RWLayout",
-    "steamId": "2209393954",
-    "version": "1.0.0"
   },
   {
     "author": "Krypt",
@@ -1010,6 +1040,18 @@
   {
     "author": "sindre0830",
     "name": "Lakes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Malistaticyと Dhyne",
+    "name": "UnderWhere",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kaitorisenkou",
+    "name": "Swimwear",
     "steamId": null,
     "version": null
   },
@@ -1084,6 +1126,12 @@
     "name": "Won hair_women ",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "zed_0xff",
+    "name": "Loft Bed",
+    "steamId": "2961708299",
+    "version": "1.0.0"
   },
   {
     "author": "Candycorn",
@@ -1231,6 +1279,12 @@
   },
   {
     "author": "Roo",
+    "name": "Anty the war ant race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roo",
     "name": "Gloomy Dragonian race",
     "steamId": null,
     "version": null
@@ -1284,16 +1338,16 @@
     "version": null
   },
   {
-    "author": "redbrick",
-    "name": "Oppai_addRace_patch",
+    "author": "Vazrua",
+    "name": "Dragonian Prime Facial Anims",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Apparel Tweaks",
-    "steamId": "2296697286",
-    "version": "1.0.0.0"
+    "author": "redbrick",
+    "name": "Oppai_addRace_patch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Udon",
@@ -1336,6 +1390,42 @@
     "name": "kemomimihouse HardworkingKz",
     "steamId": "2574995438",
     "version": "1.0.8343.10138"
+  },
+  {
+    "author": "Latki(vee)",
+    "name": "[Vee]Apparel Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Cosmo Corban",
+    "name": "AI Upscaled Textures - Mods",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jester Romut",
+    "name": "Anime Mech Retexture (WIP)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kor_HellCross",
+    "name": "H.C_AnimalReskins_Complete2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wolf478と IcyCheeseCake",
+    "name": "Wolfs Dryad Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
   },
   {
     "author": "Andreas Pardeike",
@@ -1386,22 +1476,28 @@
     "version": null
   },
   {
-    "author": "Cosmo Corban",
-    "name": "AI Upscaled Textures - Core",
+    "author": "latta",
+    "name": "Dev In Your Language",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Cosmo Corban",
-    "name": "AI Upscaled Textures - Mods",
-    "steamId": null,
-    "version": null
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Performance Analyzer",
-    "steamId": "2038874626",
-    "version": "1.0.0"
+    "author": "Owlchemist",
+    "name": "Toggleable Readouts",
+    "steamId": "2661792499",
+    "version": "1.4"
+  },
+  {
+    "author": "Tank",
+    "name": "Stylish Rim",
+    "steamId": "2747392932",
+    "version": "0.0.0.0"
   },
   {
     "author": "user19990313と Trinity",
@@ -1410,16 +1506,10 @@
     "version": "20.0.15.1"
   },
   {
-    "author": "latta",
-    "name": "Dev In Your Language",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Toggleable Readouts",
-    "steamId": "2661792499",
-    "version": "1.4"
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0"
   },
   {
     "author": "Krkr",
@@ -1483,7 +1573,19 @@
   },
   {
     "author": "Proxyer",
+    "name": "Vanilla Expanded Framework 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
     "name": "Simple sidearms 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Anty the war ant race 日本語翻訳",
     "steamId": null,
     "version": null
   },
@@ -1519,7 +1621,7 @@
   },
   {
     "author": "Lucifel",
-    "name": "Dragonian Race 日本語翻訳",
+    "name": "Gloomy Dragonian race 日本語翻訳",
     "steamId": null,
     "version": null
   },
@@ -1532,6 +1634,12 @@
   {
     "author": "Lucifel",
     "name": "Infusion 2 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Performance Optimizer 日本語翻訳追加",
     "steamId": null,
     "version": null
   },
@@ -1550,6 +1658,12 @@
   {
     "author": "Proxyer",
     "name": "Wall Light 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "namidasechi",
+    "name": "[SYR] Processor Framework 日本語追加",
     "steamId": null,
     "version": null
   },

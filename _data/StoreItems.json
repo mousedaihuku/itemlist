@@ -6769,12 +6769,6 @@
 		"defname": "RK_ApronSkirt_Child"
 	},
 	{
-		"abr": "longjohns",
-		"price": 95,
-		"category": "Underwear",
-		"defname": "UnderWhere_LongJohns"
-	},
-	{
 		"abr": "mrg-5ピストル",
 		"price": 3833,
 		"category": "遠距離武器",
@@ -7195,18 +7189,6 @@
 		"defname": "Meat_YR_Sikigami_Racoon"
 	},
 	{
-		"abr": "タンクトップ",
-		"price": 42,
-		"category": "下着(ブラ)",
-		"defname": "UnderWhere_Tanktop"
-	},
-	{
-		"abr": "チェストラップ",
-		"price": 38,
-		"category": "下着(ブラ)",
-		"defname": "UnderWhere_Chestwrap"
-	},
-	{
 		"abr": "トキサロープ",
 		"price": 583,
 		"category": "家畜",
@@ -7267,12 +7249,6 @@
 		"defname": "PowerfocusChip"
 	},
 	{
-		"abr": "パンティ",
-		"price": 42,
-		"category": "Underwear",
-		"defname": "UnderWhere_Panties"
-	},
-	{
 		"abr": "ひまわり湯薬",
 		"price": 88,
 		"category": "ドラッグ",
@@ -7297,22 +7273,10 @@
 		"defname": "Apparel_ClothMask"
 	},
 	{
-		"abr": "ブラ",
-		"price": 45,
-		"category": "下着(ブラ)",
-		"defname": "UnderWhere_Bra"
-	},
-	{
 		"abr": "ブラッドトーチ",
 		"price": 41,
 		"category": "その他",
 		"defname": "SanguphageMeetingTorch"
-	},
-	{
-		"abr": "フンドシ",
-		"price": 38,
-		"category": "Underwear",
-		"defname": "UnderWhere_Loincloth"
 	},
 	{
 		"abr": "ベータポリ",
@@ -7355,12 +7319,6 @@
 		"price": 600,
 		"category": "その他",
 		"defname": "Hemopump"
-	},
-	{
-		"abr": "ボクサーパンツ",
-		"price": 42,
-		"category": "Underwear",
-		"defname": "UnderWhere_Boxers"
 	},
 	{
 		"abr": "ポルクスの種",
@@ -16691,7 +16649,667 @@
 		"price": 650,
 		"category": "ロイヤリティ",
 		"defname": "DR_Seethrough"
+	},
+	{
+		"abr": "クーリンポスター(キミコ)",
+		"price": 165,
+		"category": "クーリンポスター",
+		"defname": "Kurin_Poster_B"
+	},
+	{
+		"abr": "クーリンポスター(チヨコ)",
+		"price": 165,
+		"category": "クーリンポスター",
+		"defname": "Kurin_Poster_A"
+	},
+	{
+		"abr": "クーリンポスター(ミカミ)",
+		"price": 165,
+		"category": "クーリンポスター",
+		"defname": "Kurin_Poster_C"
+	},
+	{
+		"abr": "アーマーパッド",
+		"price": 145,
+		"category": "着物",
+		"defname": "Swimwear_ArmorPads"
+	},
+	{
+		"abr": "サーフパンツ",
+		"price": 143,
+		"category": "Underwear",
+		"defname": "Swimwear_SwimTrunks"
+	},
+	{
+		"abr": "スク水",
+		"price": 193,
+		"category": "Underwear",
+		"defname": "Swimwear_Sukumizu"
+	},
+	{
+		"abr": "チェストラップ",
+		"price": 38,
+		"category": "下着(ブラ)",
+		"defname": "UnderWhere_Chestwrap"
+	},
+	{
+		"abr": "ビキニ",
+		"price": 143,
+		"category": "Underwear",
+		"defname": "Swimwear_Bikini"
+	},
+	{
+		"abr": "ビキニアーマー",
+		"price": 145,
+		"category": "Underwear",
+		"defname": "Swimwear_BikiniArmor"
+	},
+	{
+		"abr": "ビキニトップ",
+		"price": 91,
+		"category": "下着(ブラ)",
+		"defname": "Swimwear_BikiniTop"
+	},
+	{
+		"abr": "ブーメランパンツ",
+		"price": 143,
+		"category": "Underwear",
+		"defname": "Swimwear_SwimBriefs"
+	},
+	{
+		"abr": "ブルキニ",
+		"price": 291,
+		"category": "上着",
+		"defname": "Swimwear_burkini"
+	},
+	{
+		"abr": "フンドシ",
+		"price": 38,
+		"category": "Underwear",
+		"defname": "UnderWhere_Loincloth"
+	},
+	{
+		"abr": "ビア樽",
+		"price": 135,
+		"category": "生産物",
+		"defname": "BarrelProcessor"
+	},
+	{
+		"abr": "atアシッドアサルトライフル",
+		"price": 1500,
+		"category": "アンティ武器",
+		"defname": "AT_AcidAssaultRifle"
+	},
+	{
+		"abr": "atアシッドクロスボウ",
+		"price": 176,
+		"category": "アンティ武器",
+		"defname": "AT_AcidCross"
+	},
+	{
+		"abr": "atアシッドライトマシンガン",
+		"price": 1467,
+		"category": "アンティ武器",
+		"defname": "AT_LMG"
+	},
+	{
+		"abr": "atアシッドライフル",
+		"price": 867,
+		"category": "アンティ武器",
+		"defname": "AT_AcidRifle"
+	},
+	{
+		"abr": "atアシッドラインライフル",
+		"price": 1500,
+		"category": "アンティ武器",
+		"defname": "AT_AcidLineRifle"
+	},
+	{
+		"abr": "atアシッドランチャー",
+		"price": 1792,
+		"category": "アンティ武器",
+		"defname": "AT_AcidLauncher"
+	},
+	{
+		"abr": "atシックル",
+		"price": 203,
+		"category": "アンティ武器",
+		"defname": "AT_Sickle"
+	},
+	{
+		"abr": "atハルバード",
+		"price": 295,
+		"category": "アンティ武器",
+		"defname": "AT_Halberd"
+	},
+	{
+		"abr": "atハンマー",
+		"price": 295,
+		"category": "アンティ武器",
+		"defname": "AT_Hammer"
+	},
+	{
+		"abr": "atリフレウムガス放射器",
+		"price": 4350,
+		"category": "アンティ武器",
+		"defname": "AT_hydroheliumion_D"
+	},
+	{
+		"abr": "atレッドバーストクラスター",
+		"price": 5658,
+		"category": "アンティ武器",
+		"defname": "AT_hydroheliumion_C"
+	},
+	{
+		"abr": "atレッドバーストハルバード",
+		"price": 3267,
+		"category": "アンティ武器",
+		"defname": "AT_RedHalberd"
+	},
+	{
+		"abr": "atレッドバーストライフル",
+		"price": 3900,
+		"category": "アンティ武器",
+		"defname": "AT_hydroheliumion_A"
+	},
+	{
+		"abr": "atレッドバーストラインライフル",
+		"price": 3900,
+		"category": "アンティ武器",
+		"defname": "AT_hydroheliumion_B"
+	},
+	{
+		"abr": "at戦闘用グルーランチャー",
+		"price": 1558,
+		"category": "アンティ武器",
+		"defname": "AT_Combatglue"
+	},
+	{
+		"abr": "アシナガキアリの卵",
+		"price": 200,
+		"category": "加工品",
+		"defname": "EggAnty_Anoplolepis_gracilipes"
+	},
+	{
+		"abr": "アブラムシエキス",
+		"price": 10,
+		"category": "畜産物",
+		"defname": "AT_Aphidextract"
+	},
+	{
+		"abr": "アブラムシ飼養場",
+		"price": 2333,
+		"category": "生産物",
+		"defname": "At_Aphidfarm"
+	},
+	{
+		"abr": "アルゼンチンアリの卵",
+		"price": 200,
+		"category": "加工品",
+		"defname": "EggAnty_Linepithema_humile"
+	},
+	{
+		"abr": "アンティ",
+		"price": 13333,
+		"category": "Animal",
+		"defname": "Anty"
+	},
+	{
+		"abr": "アンティカタグリフィスアーマー",
+		"price": 4217,
+		"category": "装甲化",
+		"defname": "AT_AP_Power_A"
+	},
+	{
+		"abr": "アンティカタグリフィスアーマー(司令官用)",
+		"price": 4217,
+		"category": "装甲化",
+		"defname": "AT_AP_Power_B"
+	},
+	{
+		"abr": "アンティカタグリフィスヘルメット",
+		"price": 2125,
+		"category": "装甲化",
+		"defname": "AT_AP_Power_Head_A"
+	},
+	{
+		"abr": "アンティカタグリフィスヘルメット(司令官用)",
+		"price": 2125,
+		"category": "装甲化",
+		"defname": "AT_AP_Power_Head_B"
+	},
+	{
+		"abr": "アンティカタグリフィス腹部アーマー",
+		"price": 2725,
+		"category": "装甲化",
+		"defname": "AT_AP_AdditionalPower_A"
+	},
+	{
+		"abr": "アンティカタグリフィス腹部アーマー(司令官用)",
+		"price": 2725,
+		"category": "装甲化",
+		"defname": "AT_AP_AdditionalPower_B"
+	},
+	{
+		"abr": "アンティクロップトップ",
+		"price": 203,
+		"category": "下着",
+		"defname": "AT_AP_St_F"
+	},
+	{
+		"abr": "アンティケープコート",
+		"price": 392,
+		"category": "上着",
+		"defname": "AT_AP_St_C"
+	},
+	{
+		"abr": "アンティケープシャツ",
+		"price": 237,
+		"category": "下着",
+		"defname": "AT_AP_St_B"
+	},
+	{
+		"abr": "アンティジャケット",
+		"price": 375,
+		"category": "上着",
+		"defname": "AT_AP_St_D"
+	},
+	{
+		"abr": "アンティシャツ",
+		"price": 203,
+		"category": "下着",
+		"defname": "AT_AP_St_A"
+	},
+	{
+		"abr": "アンティチェインアーマー",
+		"price": 271,
+		"category": "下着",
+		"defname": "AT_AP_Chain_A"
+	},
+	{
+		"abr": "アンティディノポネラアーマー",
+		"price": 5067,
+		"category": "装甲化",
+		"defname": "AT_AP_Power_C"
+	},
+	{
+		"abr": "アンティディノポネラヘルメット",
+		"price": 2975,
+		"category": "装甲化",
+		"defname": "AT_AP_Power_Head_C"
+	},
+	{
+		"abr": "アンティディノポネラ腹部アーマー",
+		"price": 3575,
+		"category": "装甲化",
+		"defname": "AT_AP_AdditionalPower_C"
+	},
+	{
+		"abr": "アンティドレッドノート",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "AT_dreadnought"
+	},
+	{
+		"abr": "アンティハイブガード",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "AT_Hiveguard"
+	},
+	{
+		"abr": "アンティパラポネラアーマー",
+		"price": 5067,
+		"category": "装甲化",
+		"defname": "AT_AP_Power_D"
+	},
+	{
+		"abr": "アンティパラポネラヘルメット",
+		"price": 2975,
+		"category": "装甲化",
+		"defname": "AT_AP_Power_Head_D"
+	},
+	{
+		"abr": "アンティパラポネラ腹部アーマー",
+		"price": 3575,
+		"category": "装甲化",
+		"defname": "AT_AP_AdditionalPower_D"
+	},
+	{
+		"abr": "アンティプレートヘルム",
+		"price": 186,
+		"category": "帽子",
+		"defname": "AT_AP_Helm_A"
+	},
+	{
+		"abr": "アンティ司令官ケープ",
+		"price": 917,
+		"category": "ロイヤリティ",
+		"defname": "AT_AP_CO_A"
+	},
+	{
+		"abr": "アンティ司令官マント",
+		"price": 667,
+		"category": "ロイヤリティ",
+		"defname": "AT_AP_CO_B"
+	},
+	{
+		"abr": "アンティ腹部アーマープレート",
+		"price": 442,
+		"category": "装甲化",
+		"defname": "AT_AP_Additionalarmorplate_A"
+	},
+	{
+		"abr": "アンティ腹部チェインアーマー",
+		"price": 254,
+		"category": "装甲化",
+		"defname": "AT_AP_Additionalchain_A"
+	},
+	{
+		"abr": "アンティ軍服",
+		"price": 842,
+		"category": "下着",
+		"defname": "AT_AP_Shooter_A"
+	},
+	{
+		"abr": "アンティ軍服マント",
+		"price": 667,
+		"category": "上着",
+		"defname": "AT_AP_SH_A"
+	},
+	{
+		"abr": "アンティ防弾チョッキ",
+		"price": 375,
+		"category": "装甲化",
+		"defname": "AT_AP_Flakvest"
+	},
+	{
+		"abr": "アンティ防弾ヘルメット",
+		"price": 367,
+		"category": "帽子",
+		"defname": "AT_AP_Head_A"
+	},
+	{
+		"abr": "アンティ防弾ヘルメット(司令官用)",
+		"price": 367,
+		"category": "ロイヤリティ",
+		"defname": "AT_AP_Head_B"
+	},
+	{
+		"abr": "アンティx-ウォーギフトボックス",
+		"price": 1667,
+		"category": "遠距離武器",
+		"defname": "AT_PP_S"
+	},
+	{
+		"abr": "アンティの卵",
+		"price": 200,
+		"category": "加工品",
+		"defname": "EggAnty"
+	},
+	{
+		"abr": "アンティの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Anty"
+	},
+	{
+		"abr": "アンティバリケードキット",
+		"price": 1108,
+		"category": "ユーティリティ",
+		"defname": "AT_Apparel_barricade"
+	},
+	{
+		"abr": "アンティフェロモンパック",
+		"price": 7,
+		"category": "加工品",
+		"defname": "Anty_pheromone"
+	},
+	{
+		"abr": "アンティミシン台",
+		"price": 492,
+		"category": "生産物",
+		"defname": "AntyCopyTailoringBench"
+	},
+	{
+		"abr": "アンティ外骨格",
+		"price": 10,
+		"category": "原材料",
+		"defname": "AntyExoskeleton"
+	},
+	{
+		"abr": "アンティ射撃フェロモン",
+		"price": 42,
+		"category": "ドラッグ",
+		"defname": "Antypheromone_Shooting"
+	},
+	{
+		"abr": "アンティ強化外骨格",
+		"price": 5867,
+		"category": "強化",
+		"defname": "AT_Reinforcedexoskeleton_Thing"
+	},
+	{
+		"abr": "アンティ突撃フェロモン",
+		"price": 42,
+		"category": "ドラッグ",
+		"defname": "Antypheromone_Charge_Fix"
+	},
+	{
+		"abr": "アンティ精密工作機械",
+		"price": 642,
+		"category": "生産物",
+		"defname": "AntyCopyTableMachining"
+	},
+	{
+		"abr": "アンティ自爆フェロモン",
+		"price": 42,
+		"category": "ドラッグ",
+		"defname": "Antypheromone_Suicide"
+	},
+	{
+		"abr": "アンティ解体図",
+		"price": 467,
+		"category": "その他",
+		"defname": "AT_Chart"
+	},
+	{
+		"abr": "アンティ超再生装置",
+		"price": 3675,
+		"category": "家具",
+		"defname": "AT_Superregenerationdevice"
+	},
+	{
+		"abr": "アンティ軌道支援キット",
+		"price": 200,
+		"category": "ユーティリティ",
+		"defname": "AT_Apparel_orbitalbombardment"
+	},
+	{
+		"abr": "アンティ電動食肉加工台",
+		"price": 433,
+		"category": "生産物",
+		"defname": "AntyTableButcher"
+	},
+	{
+		"abr": "コヌカアリの卵",
+		"price": 200,
+		"category": "加工品",
+		"defname": "EggAnty_Tapinoma_melanocephalum"
+	},
+	{
+		"abr": "サスライアリの卵",
+		"price": 200,
+		"category": "加工品",
+		"defname": "EggAnty_Dorylus"
+	},
+	{
+		"abr": "スワミィの卵",
+		"price": 200,
+		"category": "加工品",
+		"defname": "AT_Eggswarmy"
+	},
+	{
+		"abr": "ターゲットフェロモンキット",
+		"price": 717,
+		"category": "ユーティリティ",
+		"defname": "AT_Apparel_pheromone_TP"
+	},
+	{
+		"abr": "トフシアリの卵",
+		"price": 200,
+		"category": "加工品",
+		"defname": "EggAnty_Solenopsis_Invicta"
+	},
+	{
+		"abr": "ドレッドノートの繭",
+		"price": 867,
+		"category": "加工品",
+		"defname": "AT_EggDreadnought"
+	},
+	{
+		"abr": "ハイブガードの繭",
+		"price": 867,
+		"category": "加工品",
+		"defname": "AT_EggHiveguard"
+	},
+	{
+		"abr": "ヒト",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Tribal_Proty"
+	},
+	{
+		"abr": "プロティ",
+		"price": 583,
+		"category": "家畜",
+		"defname": "Anty_prototype"
+	},
+	{
+		"abr": "プロティガム",
+		"price": 0,
+		"category": "食物",
+		"defname": "ProtyGum"
+	},
+	{
+		"abr": "プロティの卵",
+		"price": 12,
+		"category": "卵(有精卵)",
+		"defname": "EggProty"
+	},
+	{
+		"abr": "プロティの卵(無精卵)",
+		"price": 12,
+		"category": "卵(無精卵)",
+		"defname": "EggProtyUn"
+	},
+	{
+		"abr": "リサイクルコア",
+		"price": 667,
+		"category": "加工品",
+		"defname": "Anty_Recyclecore"
+	},
+	{
+		"abr": "リサイクルタレット",
+		"price": 1467,
+		"category": "防衛",
+		"defname": "Anty_RecycleTurret"
+	},
+	{
+		"abr": "リサイクルタレット-内幕アドオン",
+		"price": 1467,
+		"category": "防衛",
+		"defname": "Anty_RecycleTurretB"
+	},
+	{
+		"abr": "リサイクルタレット-妨害アドオン",
+		"price": 2133,
+		"category": "防衛",
+		"defname": "Anty_RecycleTurretC"
+	},
+	{
+		"abr": "リサイクルマイン",
+		"price": 992,
+		"category": "防衛",
+		"defname": "AT_TP_AMM"
+	},
+	{
+		"abr": "リフレウム",
+		"price": 22,
+		"category": "原材料",
+		"defname": "Refleum"
+	},
+	{
+		"abr": "リフレウムガスパック",
+		"price": 775,
+		"category": "ユーティリティ",
+		"defname": "AT_Apparel_CombatSmoke"
+	},
+	{
+		"abr": "リフレウム培養器",
+		"price": 4433,
+		"category": "生産物",
+		"defname": "At_farm"
+	},
+	{
+		"abr": "ロフトベッド",
+		"price": 174,
+		"category": "家具",
+		"defname": "LoftBed"
+	},
+	{
+		"abr": "即席t-バンカーキット",
+		"price": 1450,
+		"category": "ユーティリティ",
+		"defname": "AT_Apparel_bunker"
+	},
+	{
+		"abr": "土だんご",
+		"price": 333,
+		"category": "物品",
+		"defname": "AT_RandomBox"
+	},
+	{
+		"abr": "変異リフレウム",
+		"price": 1333,
+		"category": "加工品",
+		"defname": "AntyTransitionRefleum_Thing"
+	},
+	{
+		"abr": "変異リフレウム培養器",
+		"price": 14150,
+		"category": "生産物",
+		"defname": "At_TransitionRefleumincubator"
+	},
+	{
+		"abr": "外骨格カバーキット",
+		"price": 425,
+		"category": "ユーティリティ",
+		"defname": "AT_Apparel_chunk"
+	},
+	{
+		"abr": "外骨格生成機",
+		"price": 1642,
+		"category": "生産物",
+		"defname": "AntyExoskeleton_Production"
+	},
+	{
+		"abr": "実験型変異リフレウム",
+		"price": 1333,
+		"category": "加工品",
+		"defname": "AntyTransitionRefleum_Thing_Test"
+	},
+	{
+		"abr": "戦闘刺激ゼリー",
+		"price": 17,
+		"category": "ドラッグ",
+		"defname": "Battlestimulation_jelly_thing"
+	},
+	{
+		"abr": "戦闘用グルー弾",
+		"price": 92,
+		"category": "迫撃砲弾",
+		"defname": "Shell_AT_glueBomb"
 	}
 	],
-	"total": 2782
+	"total": 2886
 }

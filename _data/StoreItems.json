@@ -17249,7 +17249,301 @@
 		"price": 3333,
 		"category": "付与器",
 		"defname": "Infusion_Infuser_Legendary"
+	},
+	{
+		"abr": "rbpdw",
+		"price": 458,
+		"category": "遠距離武器",
+		"defname": "RB_F_PDW"
+	},
+	{
+		"abr": "rbインテリ眼鏡",
+		"price": 105,
+		"category": "帽子",
+		"defname": "RB_Glasses"
+	},
+	{
+		"abr": "rbウサ耳付きジャケット",
+		"price": 392,
+		"category": "ケープ",
+		"defname": "RB_Earjacket"
+	},
+	{
+		"abr": "rbカジュアルシャツ",
+		"price": 286,
+		"category": "下着",
+		"defname": "RB_CasualTshirt"
+	},
+	{
+		"abr": "rbキャミソール",
+		"price": 39,
+		"category": "下着",
+		"defname": "RB_Camisole"
+	},
+	{
+		"abr": "rbコック帽",
+		"price": 206,
+		"category": "帽子",
+		"defname": "RB_Cookhat"
+	},
+	{
+		"abr": "rbコック服",
+		"price": 750,
+		"category": "下着",
+		"defname": "RB_Cookwear"
+	},
+	{
+		"abr": "rbサマーカーディガン",
+		"price": 683,
+		"category": "ケープ",
+		"defname": "RB_Summerouter"
+	},
+	{
+		"abr": "rbサマーハット",
+		"price": 238,
+		"category": "帽子",
+		"defname": "RB_Summerhat"
+	},
+	{
+		"abr": "rbスタージャンパー",
+		"price": 392,
+		"category": "ケープ",
+		"defname": "RB_Starjacket"
+	},
+	{
+		"abr": "rbタイ付制服",
+		"price": 342,
+		"category": "下着",
+		"defname": "RB_Casualtieshirt"
+	},
+	{
+		"abr": "rbネックマフラー",
+		"price": 130,
+		"category": "ネック",
+		"defname": "RB_Neckscarf"
+	},
+	{
+		"abr": "rbファッションベレー帽",
+		"price": 113,
+		"category": "帽子",
+		"defname": "RB_Fashionhat"
+	},
+	{
+		"abr": "rbブレザー",
+		"price": 330,
+		"category": "ケープ",
+		"defname": "RB_Blazer"
+	},
+	{
+		"abr": "rbヘアリボン",
+		"price": 59,
+		"category": "帽子",
+		"defname": "RB_Headribbon"
+	},
+	{
+		"abr": "rbリボン付制服",
+		"price": 342,
+		"category": "下着",
+		"defname": "RB_Casualribbonshirt"
+	},
+	{
+		"abr": "rb冬用アウタージャケット",
+		"price": 425,
+		"category": "ケープ",
+		"defname": "RB_Winterouter"
+	},
+	{
+		"abr": "rb冬用アルパカ帽子",
+		"price": 110,
+		"category": "帽子",
+		"defname": "RB_Winterhat"
+	},
+	{
+		"abr": "rb冬用セーター",
+		"price": 375,
+		"category": "下着",
+		"defname": "RB_Winterknit"
+	},
+	{
+		"abr": "rb司令官コート",
+		"price": 508,
+		"category": "ケープ",
+		"defname": "RB_HighCloak"
+	},
+	{
+		"abr": "rb司令官帽",
+		"price": 392,
+		"category": "装甲化",
+		"defname": "RB_SeniorOfficerhat"
+	},
+	{
+		"abr": "rb司令官服",
+		"price": 900,
+		"category": "下着",
+		"defname": "RB_SeniorOfficer"
+	},
+	{
+		"abr": "rb士官ベレー帽",
+		"price": 260,
+		"category": "帽子",
+		"defname": "RB_Subofficerhat"
+	},
+	{
+		"abr": "rb士官服",
+		"price": 633,
+		"category": "下着",
+		"defname": "RB_Subofficer"
+	},
+	{
+		"abr": "rb夏向け上下セット",
+		"price": 342,
+		"category": "下着",
+		"defname": "RB_Summerfit"
+	},
+	{
+		"abr": "rb安全ヘルメット",
+		"price": 152,
+		"category": "装甲化",
+		"defname": "RB_Safehelmet"
+	},
+	{
+		"abr": "rb強化尻尾(ラビ)",
+		"price": 1717,
+		"category": "強化",
+		"defname": "RB_BionicTail"
+	},
+	{
+		"abr": "rb手縫いエプロン",
+		"price": 209,
+		"category": "ケープ",
+		"defname": "RB_Apron"
+	},
+	{
+		"abr": "rb技官つなぎ服",
+		"price": 533,
+		"category": "下着",
+		"defname": "RB_Technician"
+	},
+	{
+		"abr": "rb正規軍パワーアーマー",
+		"price": 4583,
+		"category": "装甲化",
+		"defname": "RB_RegularInfantrySuit"
+	},
+	{
+		"abr": "rb正規軍パワーヘルメット",
+		"price": 1758,
+		"category": "装甲化",
+		"defname": "RB_RegularInfantryhelmet"
+	},
+	{
+		"abr": "rb白衣",
+		"price": 508,
+		"category": "ケープ",
+		"defname": "RB_Inteligown"
+	},
+	{
+		"abr": "rb研究職員服",
+		"price": 500,
+		"category": "ケープ",
+		"defname": "RB_Energygown"
+	},
+	{
+		"abr": "rb農家の服",
+		"price": 533,
+		"category": "下着",
+		"defname": "RB_Handygirl"
+	},
+	{
+		"abr": "rb野戦ヘルメット",
+		"price": 583,
+		"category": "装甲化",
+		"defname": "RB_Infantryhelmet"
+	},
+	{
+		"abr": "rb野戦服a型",
+		"price": 1225,
+		"category": "装甲化",
+		"defname": "RB_Infantryuniform"
+	},
+	{
+		"abr": "rb野戦服b型",
+		"price": 1225,
+		"category": "装甲化",
+		"defname": "RB_Infantrynewuniform"
+	},
+	{
+		"abr": "rb野戦防弾ベスト",
+		"price": 783,
+		"category": "装甲化",
+		"defname": "RB_Infantryvest"
+	},
+	{
+		"abr": "rb鍋帽子",
+		"price": 62,
+		"category": "帽子",
+		"defname": "RB_Metalpot"
+	},
+	{
+		"abr": "rb電力管理局職員服",
+		"price": 625,
+		"category": "下着",
+		"defname": "RB_Energymanager"
+	},
+	{
+		"abr": "スパイスティー",
+		"price": 100,
+		"category": "ドラッグ",
+		"defname": "PlanetariumTea"
+	},
+	{
+		"abr": "スパイス結晶体",
+		"price": 33,
+		"category": "ドラッグ",
+		"defname": "RB_Braincrystal"
+	},
+	{
+		"abr": "プラネタリウム",
+		"price": 100,
+		"category": "ドラッグ",
+		"defname": "RefinedPlanetarium"
+	},
+	{
+		"abr": "ムーンシルク",
+		"price": 20,
+		"category": "織物",
+		"defname": "Moonsilk"
+	},
+	{
+		"abr": "ムーンスレッド",
+		"price": 8,
+		"category": "織物",
+		"defname": "Moonthread"
+	},
+	{
+		"abr": "ラビ",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "Rabbie"
+	},
+	{
+		"abr": "ラビの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Rabbie"
+	},
+	{
+		"abr": "ラビ専用精密工作機械",
+		"price": 758,
+		"category": "生産物",
+		"defname": "RB_MoonTableMachining"
+	},
+	{
+		"abr": "ラビ専用ミシン台",
+		"price": 517,
+		"category": "生産物",
+		"defname": "RB_MoonTailoringBench"
 	}
 	],
-	"total": 2875
+	"total": 2924
 }

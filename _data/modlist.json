@@ -578,8 +578,8 @@
   {
     "author": "Adamas",
     "name": "Hospitality: Casino",
-    "steamId": "2939292644",
-    "version": "1.4.0.0"
+    "steamId": "",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sandy",
@@ -1424,6 +1424,18 @@
   {
     "author": "Wolf478と IcyCheeseCake",
     "name": "Wolfs Dryad Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Issac Zhuang",
+    "name": "Muzzle Flash",
+    "steamId": "2917732219",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NomadRw",
+    "name": "Projectile Retexture",
     "steamId": null,
     "version": null
   },

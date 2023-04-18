@@ -441,7 +441,7 @@
 	{
 		"abr": "カマド",
 		"price": 265,
-		"category": "生産物",
+		"category": "",
 		"defname": "FueledStove"
 	},
 	{
@@ -6307,36 +6307,6 @@
 		"defname": "ACMM_atomiccoffee"
 	},
 	{
-		"abr": "動物の像",
-		"price": 358,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfAnimal1x"
-	},
-	{
-		"abr": "動物の像(2x2)",
-		"price": 1258,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfAnimal2x"
-	},
-	{
-		"abr": "入植者の像",
-		"price": 358,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfColonistK"
-	},
-	{
-		"abr": "大ぶりの入植者の像",
-		"price": 633,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfColonistKLarge"
-	},
-	{
-		"abr": "巨大な入植者の像",
-		"price": 1258,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfColonistKGrand"
-	},
-	{
 		"abr": "ファクトリーホッパー",
 		"price": 138,
 		"category": "生産物",
@@ -9269,18 +9239,6 @@
 		"price": 833,
 		"category": "不活性な遺物",
 		"defname": "VIE_RelicInertTools"
-	},
-	{
-		"abr": "壁灯",
-		"price": 16,
-		"category": "家具",
-		"defname": "Lighting_MURWallLight"
-	},
-	{
-		"abr": "壁灯(太陽光)",
-		"price": 32,
-		"category": "家具",
-		"defname": "Lighting_MURWallSunLight"
 	},
 	{
 		"abr": "一人用冷蔵庫",
@@ -17522,7 +17480,7 @@
 	},
 	{
 		"abr": "ラビ",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Rabbie"
 	},
@@ -17543,7 +17501,733 @@
 		"price": 517,
 		"category": "生産物",
 		"defname": "RB_MoonTailoringBench"
-	}
+	},
+	{
+		"abr": "dr子供服",
+		"price": 1658,
+		"category": "装甲化",
+		"defname": "DR_AP_Child"
+	},
+	{
+		"abr": "_bonsaiseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed__Bonsai"
+	},
+	{
+		"abr": "_haygrassseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed__Haygrass"
+	},
+	{
+		"abr": "_ironsasaseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed__IronSasa"
+	},
+	{
+		"abr": "_timbershroomseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed__Timbershroom"
+	},
+	{
+		"abr": "blossomseeds",
+		"price": 6,
+		"category": "種",
+		"defname": "Seed_GL_A"
+	},
+	{
+		"abr": "exc_farm_silvervineseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed_ExC_Farm_Silvervine"
+	},
+	{
+		"abr": "fibercornseeds",
+		"price": 3,
+		"category": "種",
+		"defname": "Seed_Fibercorn"
+	},
+	{
+		"abr": "glossomseeds",
+		"price": 6,
+		"category": "種",
+		"defname": "Seed_GL_B"
+	},
+	{
+		"abr": "graypineseeds",
+		"price": 6,
+		"category": "種",
+		"defname": "Seed_GrayPine"
+	},
+	{
+		"abr": "heyra_beanseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed_Heyra_Bean"
+	},
+	{
+		"abr": "ivyseed",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed_SPBD_Ivy"
+	},
+	{
+		"abr": "jewel_orchidseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed_Jewel_Orchid"
+	},
+	{
+		"abr": "mincho_minchoshroomseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed_Mincho_Minchoshroom"
+	},
+	{
+		"abr": "mincho_mintseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed_Mincho_Mint"
+	},
+	{
+		"abr": "nutrifungusseeds",
+		"price": 9,
+		"category": "種",
+		"defname": "Seed_Nutrifungus"
+	},
+	{
+		"abr": "paracyteseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed_Paracyte"
+	},
+	{
+		"abr": "pebblecactusseeds",
+		"price": 8,
+		"category": "種",
+		"defname": "Seed_PebbleCactus"
+	},
+	{
+		"abr": "pomanasyrriumseeds",
+		"price": 25,
+		"category": "種",
+		"defname": "Seed_Pomanasyrrium"
+	},
+	{
+		"abr": "ratpalmseeds",
+		"price": 6,
+		"category": "種",
+		"defname": "Seed_RatPalm"
+	},
+	{
+		"abr": "rf_soybeanseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed_RF_Soybean"
+	},
+	{
+		"abr": "rf_wasabiseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed_RF_Wasabi"
+	},
+	{
+		"abr": "toxipotatoseeds",
+		"price": 5,
+		"category": "種",
+		"defname": "Seed_Toxipotato"
+	},
+	{
+		"abr": "witchwoodseeds",
+		"price": 6,
+		"category": "種",
+		"defname": "Seed_Witchwood"
+	},
+	{
+		"abr": "yokai__icefruitseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed_Yokai__IceFruit"
+	},
+	{
+		"abr": "yokai__smokesporeseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed_Yokai__SmokeSpore"
+	},
+	{
+		"abr": "yokai__sunfruitseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed_Yokai__SunFruit"
+	},
+	{
+		"abr": "yokai__watersporeseeds",
+		"price": 42,
+		"category": "種",
+		"defname": "Seed_Yokai__WaterSpore"
+	},
+	{
+		"abr": "yurancherrytreeseed",
+		"price": 10,
+		"category": "種",
+		"defname": "Seed_YR_Big"
+	},
+	{
+		"abr": "イチゴの種",
+		"price": 12,
+		"category": "種",
+		"defname": "Seed_Strawberry"
+	},
+	{
+		"abr": "イトヤナギの種",
+		"price": 4,
+		"category": "種",
+		"defname": "Seed_TreeCypress"
+	},
+	{
+		"abr": "オークの種",
+		"price": 3,
+		"category": "種",
+		"defname": "Seed_TreeOak"
+	},
+	{
+		"abr": "カエデの種",
+		"price": 3,
+		"category": "種",
+		"defname": "Seed_TreeMaple"
+	},
+	{
+		"abr": "カカオの種",
+		"price": 23,
+		"category": "種",
+		"defname": "Seed_Cocoa"
+	},
+	{
+		"abr": "カカオ豆",
+		"price": 3,
+		"category": "植物原料",
+		"defname": "RawCocoaBeans"
+	},
+	{
+		"abr": "カバの種",
+		"price": 3,
+		"category": "種",
+		"defname": "Seed_TreeBirch"
+	},
+	{
+		"abr": "サイコイドの種",
+		"price": 17,
+		"category": "種",
+		"defname": "Seed_Psychoid"
+	},
+	{
+		"abr": "ジャガイモの種",
+		"price": 9,
+		"category": "種",
+		"defname": "Seed_Potato"
+	},
+	{
+		"abr": "スモークリーフの種",
+		"price": 13,
+		"category": "種",
+		"defname": "Seed_Smokeleaf"
+	},
+	{
+		"abr": "セクロピアの種",
+		"price": 3,
+		"category": "種",
+		"defname": "Seed_TreeCecropia"
+	},
+	{
+		"abr": "チークの種",
+		"price": 4,
+		"category": "種",
+		"defname": "Seed_TreeTeak"
+	},
+	{
+		"abr": "ティンクトリアの種",
+		"price": 7,
+		"category": "種",
+		"defname": "Seed_Tinctoria"
+	},
+	{
+		"abr": "ティンクトリアの葉",
+		"price": 2,
+		"category": "植物原料",
+		"defname": "RawTinctoria"
+	},
+	{
+		"abr": "デビルストランドの種菌",
+		"price": 33,
+		"category": "種",
+		"defname": "Seed_Devilstrand"
+	},
+	{
+		"abr": "トウモロコシの種",
+		"price": 9,
+		"category": "種",
+		"defname": "Seed_Corn"
+	},
+	{
+		"abr": "ヒールルートの種",
+		"price": 24,
+		"category": "種",
+		"defname": "Seed_Healroot"
+	},
+	{
+		"abr": "ひまわりの種",
+		"price": 11,
+		"category": "種",
+		"defname": "Miho_Seed_Posflower"
+	},
+	{
+		"abr": "ベンケイチュウの種",
+		"price": 5,
+		"category": "種",
+		"defname": "Seed_SaguaroCactus"
+	},
+	{
+		"abr": "ホップの種",
+		"price": 11,
+		"category": "種",
+		"defname": "Seed_Hops"
+	},
+	{
+		"abr": "ポプラの種",
+		"price": 4,
+		"category": "種",
+		"defname": "Seed_TreePoplar"
+	},
+	{
+		"abr": "マツの種",
+		"price": 3,
+		"category": "種",
+		"defname": "Seed_TreePine"
+	},
+	{
+		"abr": "ヤシの種",
+		"price": 3,
+		"category": "種",
+		"defname": "Seed_TreePalm"
+	},
+	{
+		"abr": "ヤナギの種",
+		"price": 4,
+		"category": "種",
+		"defname": "Seed_TreeWillow"
+	},
+	{
+		"abr": "リュウケツジュの種",
+		"price": 4,
+		"category": "種",
+		"defname": "Seed_TreeDrago"
+	},
+	{
+		"abr": "入植者の像",
+		"price": 358,
+		"category": "芸術品",
+		"defname": "TMB_StatueOfColonistK"
+	},
+	{
+		"abr": "動物の像",
+		"price": 358,
+		"category": "芸術品",
+		"defname": "TMB_StatueOfAnimal1x"
+	},
+	{
+		"abr": "動物の像(2x2)",
+		"price": 1258,
+		"category": "芸術品",
+		"defname": "TMB_StatueOfAnimal2x"
+	},
+	{
+		"abr": "大ぶりの入植者の像",
+		"price": 633,
+		"category": "芸術品",
+		"defname": "TMB_StatueOfColonistKLarge"
+	},
+	{
+		"abr": "子供用のプレートアーマー",
+		"price": 725,
+		"category": "装甲化",
+		"defname": "Apparel_cskKidPlateArmor"
+	},
+	{
+		"abr": "liquidfreezer",
+		"price": 1250,
+		"category": "家具",
+		"defname": "VFE_MechanoidLiquidFreezer"
+	},
+	{
+		"abr": "x線監視カメラ",
+		"price": 400,
+		"category": "防衛",
+		"defname": "SurveillanceCamera_XRaySurveillanceCamera"
+	},
+	{
+		"abr": "アーマーラック",
+		"price": 139,
+		"category": "家具",
+		"defname": "ArmorRacks_ArmorRack"
+	},
+	{
+		"abr": "バスケット",
+		"price": 383,
+		"category": "家具",
+		"defname": "LWM_FabricHamper"
+	},
+	{
+		"abr": "パレット",
+		"price": 220,
+		"category": "家具",
+		"defname": "LWM_Pallet"
+	},
+	{
+		"abr": "ミートフック",
+		"price": 254,
+		"category": "家具",
+		"defname": "LWM_Meat_Hook"
+	},
+	{
+		"abr": "仮設ヒューズ",
+		"price": 120,
+		"category": "パワー",
+		"defname": "Building_RTMakeshiftFuse"
+	},
+	{
+		"abr": "修繕アーマーラック",
+		"price": 1125,
+		"category": "家具",
+		"defname": "ArmorRacks_MendingArmorRack"
+	},
+	{
+		"abr": "回路遮断機",
+		"price": 278,
+		"category": "パワー",
+		"defname": "Building_RTCircuitBreaker"
+	},
+	{
+		"abr": "大型コンテナ",
+		"price": 305,
+		"category": "家具",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "大型ロッカー",
+		"price": 257,
+		"category": "家具",
+		"defname": "LWM_BigShelf"
+	},
+	{
+		"abr": "子供用の防弾ジャケット",
+		"price": 425,
+		"category": "装甲化",
+		"defname": "Apparel_cskKidFlakJacket"
+	},
+	{
+		"abr": "子供用の防弾チョッキ",
+		"price": 316,
+		"category": "装甲化",
+		"defname": "Apparel_cskKidFlakVest"
+	},
+	{
+		"abr": "子供用の防弾パンツ",
+		"price": 316,
+		"category": "装甲化",
+		"defname": "Apparel_cskKidFlakPants"
+	},
+	{
+		"abr": "巨大な入植者の像",
+		"price": 1258,
+		"category": "芸術品",
+		"defname": "TMB_StatueOfColonistKGrand"
+	},
+	{
+		"abr": "干し草入れ",
+		"price": 287,
+		"category": "家具",
+		"defname": "LWM_Hayloft"
+	},
+	{
+		"abr": "木綿の種",
+		"price": 19,
+		"category": "種",
+		"defname": "Seed_Cotton"
+	},
+	{
+		"abr": "梱包パレット",
+		"price": 321,
+		"category": "家具",
+		"defname": "LWM_Pallet_Covered"
+	},
+	{
+		"abr": "機械化アーマーラック",
+		"price": 575,
+		"category": "家具",
+		"defname": "ArmorRacks_MechanizedArmorRack"
+	},
+	{
+		"abr": "武器キャビネット",
+		"price": 254,
+		"category": "家具",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "武器ラック(2個用)",
+		"price": 204,
+		"category": "家具",
+		"defname": "WeaponRacks_2Rack"
+	},
+	{
+		"abr": "武器ラック(3個用)",
+		"price": 204,
+		"category": "家具",
+		"defname": "WeaponRacks_3Rack"
+	},
+	{
+		"abr": "武器ラック(4個用)",
+		"price": 204,
+		"category": "家具",
+		"defname": "WeaponRacks_4Rack"
+	},
+	{
+		"abr": "武器ロッカー",
+		"price": 237,
+		"category": "家具",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "生のデビルストランド",
+		"price": 7,
+		"category": "植物原料",
+		"defname": "RawDevilstrand"
+	},
+	{
+		"abr": "生のヒールルート",
+		"price": 4,
+		"category": "植物原料",
+		"defname": "RawHealroot"
+	},
+	{
+		"abr": "チェス盤",
+		"price": 281,
+		"category": "家具",
+		"defname": "ChessTable"
+	},
+	{
+		"abr": "ビリヤード台",
+		"price": 600,
+		"category": "",
+		"defname": "BilliardsTable"
+	},
+	{
+		"abr": "largegenebank",
+		"price": 783,
+		"category": "生産物",
+		"defname": "LargeGeneBank"
+	},
+	{
+		"abr": "smallgenebank",
+		"price": 148,
+		"category": "生産物",
+		"defname": "SmallGeneBank"
+	},
+	{
+		"abr": "原子力発電",
+		"price": 10067,
+		"category": "パワー",
+		"defname": "sd_adv_powergen_nuclear_power_plant"
+	},
+	{
+		"abr": "地熱発電(改良型)",
+		"price": 3908,
+		"category": "パワー",
+		"defname": "sd_adv_powergen_adv_geothermal_generator"
+	},
+	{
+		"abr": "100人用ベッド",
+		"price": 8025,
+		"category": "家具",
+		"defname": "SSB_SuperBedZ"
+	},
+	{
+		"abr": "100人用豪華なベッド",
+		"price": 52150,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedZ"
+	},
+	{
+		"abr": "10人用ベッド",
+		"price": 825,
+		"category": "家具",
+		"defname": "SSB_SuperBedX"
+	},
+	{
+		"abr": "10人用豪華なベッド",
+		"price": 5567,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedX"
+	},
+	{
+		"abr": "11人用ベッド",
+		"price": 900,
+		"category": "家具",
+		"defname": "SSB_SuperBedXI"
+	},
+	{
+		"abr": "11人用豪華なベッド",
+		"price": 6092,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedXI"
+	},
+	{
+		"abr": "12人用ベッド",
+		"price": 983,
+		"category": "家具",
+		"defname": "SSB_SuperBedXII"
+	},
+	{
+		"abr": "12人用豪華なベッド",
+		"price": 6617,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedXII"
+	},
+	{
+		"abr": "13人用ベッド",
+		"price": 1067,
+		"category": "家具",
+		"defname": "SSB_SuperBedXIII"
+	},
+	{
+		"abr": "13人用豪華なベッド",
+		"price": 7150,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedXIII"
+	},
+	{
+		"abr": "14人用ベッド",
+		"price": 1142,
+		"category": "家具",
+		"defname": "SSB_SuperBedXIIII"
+	},
+	{
+		"abr": "14人用豪華なベッド",
+		"price": 7675,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedXIIII"
+	},
+	{
+		"abr": "15人用ベッド",
+		"price": 1225,
+		"category": "家具",
+		"defname": "SSB_SuperBedXV"
+	},
+	{
+		"abr": "15人用豪華なベッド",
+		"price": 8625,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedXV"
+	},
+	{
+		"abr": "30人用ベッド",
+		"price": 2425,
+		"category": "家具",
+		"defname": "SSB_SuperBedXXX"
+	},
+	{
+		"abr": "30人用豪華なベッド",
+		"price": 16817,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedXXX"
+	},
+	{
+		"abr": "3人用ベッド",
+		"price": 249,
+		"category": "家具",
+		"defname": "SSB_SuperBedIII"
+	},
+	{
+		"abr": "3人用豪華なベッド",
+		"price": 1858,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedIII"
+	},
+	{
+		"abr": "4人用ベッド",
+		"price": 331,
+		"category": "家具",
+		"defname": "SSB_SuperBedIIII"
+	},
+	{
+		"abr": "4人用豪華なベッド",
+		"price": 2392,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedIIII"
+	},
+	{
+		"abr": "5人用ベッド",
+		"price": 417,
+		"category": "家具",
+		"defname": "SSB_SuperBedV"
+	},
+	{
+		"abr": "5人用豪華なベッド",
+		"price": 2917,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedV"
+	},
+	{
+		"abr": "6人用ベッド",
+		"price": 492,
+		"category": "家具",
+		"defname": "SSB_SuperBedVI"
+	},
+	{
+		"abr": "6人用豪華なベッド",
+		"price": 3450,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedVI"
+	},
+	{
+		"abr": "7人用ベッド",
+		"price": 575,
+		"category": "家具",
+		"defname": "SSB_SuperBedVII"
+	},
+	{
+		"abr": "7人用豪華なベッド",
+		"price": 3975,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedVII"
+	},
+	{
+		"abr": "8人用ベッド",
+		"price": 658,
+		"category": "家具",
+		"defname": "SSB_SuperBedVIII"
+	},
+	{
+		"abr": "8人用豪華なベッド",
+		"price": 4508,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedVIII"
+	},
+	{
+		"abr": "9人用ベッド",
+		"price": 742,
+		"category": "家具",
+		"defname": "SSB_SuperBedVIIII"
+	},
+	{
+		"abr": "9人用豪華なベッド",
+		"price": 5033,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedVIIII"
+	},
 	],
-	"total": 2924
+	"total": 3053
 }

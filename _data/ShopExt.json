@@ -2088,7 +2088,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは本当に異種族を嫌っていて,全く信用しません.動物より下等な存在と見なしています.\n(Humanoid Alien Races)",
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.\n(Humanoid Alien Races)",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -2114,7 +2114,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmyは異種族に性的な魅力を感じます.興味津々です.\n(Humanoid Alien Races)",
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.\n(Humanoid Alien Races)",
       "stats": [],
       "conflicts": [
         "宿り木"

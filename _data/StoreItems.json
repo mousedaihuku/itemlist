@@ -18011,7 +18011,13 @@
 		"price": 51,
 		"category": "家具",
 		"defname": "EtnManger"
+	},
+	{
+		"abr": "セラピー用ソファ",
+		"price": 475,
+		"category": "家具",
+		"defname": "Couch"
 	}
 	],
-	"total": 3002
+	"total": 3003
 }

@@ -18,6 +18,30 @@
     "version": "1.0.0"
   },
   {
+    "author": "latta",
+    "name": "FSharp.Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "Dev In Your Language",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "nmkj",
+    "name": "Custom Fonts",
+    "steamId": "2829295971",
+    "version": "2.0.3"
+  },
+  {
+    "author": "Smash Philと Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "2878587061",
+    "version": "1.4.7"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -34,6 +58,42 @@
     "name": "JecsTools",
     "steamId": "932008009",
     "version": "1.4.1.1"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Toggleable Overlays",
+    "steamId": "2608654598",
+    "version": "1.4"
+  },
+  {
+    "author": "Augurr",
+    "name": "RimFridge Updated",
+    "steamId": "2878183338",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Alan Darivaと Usagirei",
+    "name": "More Planning [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Nals",
@@ -54,6 +114,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "HealerUser",
+    "name": "HAR Xenotype Patch + Replace Child Body",
+    "steamId": "2888530443",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -64,18 +130,6 @@
     "name": "XML Extensions",
     "steamId": "2574315206",
     "version": "1.7.0"
-  },
-  {
-    "author": "latta",
-    "name": "FSharp.Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Uuugggg",
-    "name": "TDS Bug Fixes",
-    "steamId": "2895035527",
-    "version": "1.0.0.0"
   },
   {
     "author": "Mlie",
@@ -180,22 +234,64 @@
     "version": null
   },
   {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bradsonとharkon",
+    "name": "Bradson's Main Button Icons for VE Textures",
+    "steamId": "2361775777",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Cosmo Corban",
+    "name": "AI Upscaled Textures - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREXと erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
     "author": "YAYO",
     "name": "Yayo's Animation (Continued)",
     "steamId": "2877292196",
     "version": "1.0.0.0"
   },
   {
-    "author": "Epicguru",
-    "name": "Melee Animation",
-    "steamId": "2944488802",
-    "version": "1.0.0"
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
     "version": "2.7.7366"
+  },
+  {
+    "author": "Jaxxa",
+    "name": "ED-EnhancedOptions [1.4]",
+    "steamId": "2897488240",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0"
+  },
+  {
+    "author": "YAYO",
+    "name": "VOTE and LEADER (Continued)",
+    "steamId": "2896484287",
+    "version": "1.4.1"
+  },
+  {
+    "author": "Mehni, XeoNovaDan, simplyWiri, Miyuri (ZXfkSIE)と Kaedys",
+    "name": "4M Mehni's Misc Modifications [1.2+]",
+    "steamId": "2228765246",
+    "version": "1.4.0.0"
   },
   {
     "author": "avilmask",
@@ -210,16 +306,34 @@
     "version": null
   },
   {
-    "author": "Akarthus",
-    "name": "The Cosmic Odyssey - Victoria Valiant",
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "2633514537",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Share The Load",
+    "steamId": "1356838246",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Undraft After Tucking",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Smash Philと Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "2878587061",
-    "version": "1.4.7"
+    "author": "KingsMan_",
+    "name": "Barbatos StoryTeller",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Akarthus",
+    "name": "The Cosmic Odyssey - Victoria Valiant",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oblitus",
@@ -246,6 +360,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Uuugggg",
+    "name": "TDS Bug Fixes",
+    "steamId": "2895035527",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
     "author": "miyamiya",
     "name": "Wild Plant Picker",
     "steamId": null,
@@ -259,33 +385,9 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Dubwise",
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
     "version": "1.2.7365"
-  },
-  {
-    "author": "Updated by Ogliss",
-    "name": "Pawn Badge Fan Fork [Adopted]",
-    "steamId": "2526040241",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Alan Darivaと Usagirei",
-    "name": "More Planning [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Razor 2.3",
@@ -313,12 +415,6 @@
   },
   {
     "author": "Uuugggg",
-    "name": "TD Enhancement Pack",
-    "steamId": "1339135272",
-    "version": "1.3.8.0"
-  },
-  {
-    "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.1.0.0"
@@ -326,12 +422,6 @@
   {
     "author": "tikubonn",
     "name": "DontBlockDoor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Squirting Elephant",
-    "name": "No ZzZ",
     "steamId": null,
     "version": null
   },
@@ -390,16 +480,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "TheWireLord",
+    "name": "Conduit Deconstruct",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "大鳥",
     "name": "Empire -100 goodwill in scenarios Fix",
     "steamId": null,
     "version": null
   },
   {
-    "author": "TheWireLord",
-    "name": "Conduit Deconstruct",
-    "steamId": null,
-    "version": null
+    "author": "Nonnonstop",
+    "name": "Resize Character Info",
+    "steamId": "2893950488",
+    "version": "1.0.0"
   },
   {
     "author": "aRandomKiwi",
@@ -432,6 +528,12 @@
     "version": null
   },
   {
+    "author": "SeoHyeon",
+    "name": "Safe Drug Policy Generator",
+    "steamId": "2582640021",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions",
     "steamId": null,
@@ -460,12 +562,6 @@
     "name": "QualityBuilder",
     "steamId": "754637870",
     "version": "1.0.17"
-  },
-  {
-    "author": "Dingo",
-    "name": "No Forced Slowdown",
-    "steamId": "1419593453",
-    "version": "1.4.8329.1"
   },
   {
     "author": "Arquebus",
@@ -498,20 +594,14 @@
     "version": null
   },
   {
-    "author": "Malistaticyと Dhyne",
-    "name": "UnderWhere",
-    "steamId": null,
-    "version": null
+    "author": "Fuu Chan",
+    "name": "[Fuu] Uncompromising Fires",
+    "steamId": "2623963630",
+    "version": "1.1.0.0"
   },
   {
     "author": "Orion",
     "name": "Cash Register",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
     "steamId": null,
     "version": null
   },
@@ -524,8 +614,8 @@
   {
     "author": "Adamas",
     "name": "Hospitality: Casino",
-    "steamId": "2939292644",
-    "version": "1.4.0.0"
+    "steamId": "",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sandy",
@@ -546,6 +636,12 @@
     "version": "1.0.06"
   },
   {
+    "author": "Uuugggg",
+    "name": "TD Find Lib",
+    "steamId": "2895299310",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
@@ -556,12 +652,6 @@
     "name": "Colony Manager",
     "steamId": "715565262",
     "version": "4.33.649"
-  },
-  {
-    "author": "Ogre",
-    "name": "OgreStack",
-    "steamId": "1447140290",
-    "version": "1.0.0.0"
   },
   {
     "author": "YukiAiko",
@@ -594,21 +684,9 @@
     "version": null
   },
   {
-    "author": "avilmask",
-    "name": "Micro Designations",
-    "steamId": "1877972690",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "yrtwof",
     "name": "My Fave Streamers",
     "steamId": "2403318601",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Doug",
-    "name": "No Job Authors",
-    "steamId": "2009825774",
     "version": "1.0.0.0"
   },
   {
@@ -616,12 +694,6 @@
     "name": "No Laggy Bed",
     "steamId": "2790250834",
     "version": "1.2.0.0"
-  },
-  {
-    "author": "winggar",
-    "name": "No Shadows",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Lanilorと Proxyer",
@@ -648,20 +720,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Line Of Sight Fix",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FlashPoint55",
     "name": "Atomic Coffee Maker mod",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "shakeyourbunny",
-    "name": "HD Terrain Texture Pack (patched)",
     "steamId": null,
     "version": null
   },
@@ -681,18 +741,6 @@
     "author": "hatena",
     "name": "Animal Discovery",
     "steamId": "2172166576",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "民火",
-    "name": "Statue of Animal",
-    "steamId": "1629099614",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "民火",
-    "name": "Statue of Colonist",
-    "steamId": "1539031321",
     "version": "1.0.0.0"
   },
   {
@@ -780,6 +828,12 @@
     "version": null
   },
   {
+    "author": "LordKuper",
+    "name": "Equipment Manager",
+    "steamId": "2790435986",
+    "version": "1.4.0.0"
+  },
+  {
     "author": "Faeldrayと original by Willelbini",
     "name": "Pawns Paint! Restored (Continued)",
     "steamId": null,
@@ -816,10 +870,10 @@
     "version": "1.4.2"
   },
   {
-    "author": "misonomi",
-    "name": "Mod Hairs Only",
-    "steamId": null,
-    "version": null
+    "author": "Mlie",
+    "name": "Release When Healthy",
+    "steamId": "2506029522",
+    "version": "1.4.1"
   },
   {
     "author": "pointfeev",
@@ -834,34 +888,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Owlchemist",
+    "name": "Smart Farming",
+    "steamId": "2619652663",
+    "version": "1.4"
+  },
+  {
     "author": "OPERATOR",
     "name": "Go Away Eye Strain!",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "YAYO",
-    "name": "VOTE and LEADER (Continued)",
-    "steamId": "2896484287",
-    "version": "1.4.1"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "TD Find Lib",
-    "steamId": "2895299310",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Falconne",
-    "name": "Better Workbench Management",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Everybody Gets One",
-    "steamId": "1687566130",
-    "version": "1.0.0.0"
   },
   {
     "author": "Proxyer",
@@ -888,14 +924,44 @@
     "version": null
   },
   {
+    "author": "民火",
+    "name": "Cut plants before building",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "latta",
     "name": "Infusion 2",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Everybody Gets One",
+    "steamId": "1687566130",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Paragon",
     "name": "UnLimitedArmor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Compatible Body 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dyrewulfe",
+    "name": "Better Message Placement (Continued)",
     "steamId": null,
     "version": null
   },
@@ -906,8 +972,38 @@
     "version": null
   },
   {
+    "author": "NandonaltとTejko",
+    "name": "Snowy Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "民火",
+    "name": "Selectable Sculpture Graphic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "民火",
+    "name": "Statue of Colonist",
+    "steamId": "1539031321",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "民火",
+    "name": "Statue of Animal",
+    "steamId": "1629099614",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "SteveZero",
     "name": "Condition Matters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaire82",
+    "name": "HD Head Attatchments for Nals Facial Animation",
     "steamId": null,
     "version": null
   },
@@ -916,6 +1012,174 @@
     "name": "Repairable Gear",
     "steamId": "2482478785",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "RWLayout",
+    "steamId": "2209393954",
+    "version": "1.0.0"
+  },
+  {
+    "author": "marceline",
+    "name": "Milk Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Giant Space Hamster",
+    "name": "Moody",
+    "steamId": "826998327",
+    "version": "2.5.9.0"
+  },
+  {
+    "author": "Nonnonstop",
+    "name": "Resize Architect Info",
+    "steamId": "2832684885",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Nonnonstop",
+    "name": "Resize Filter Tab",
+    "steamId": "",
+    "version": "1.0.0"
+  },
+  {
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Realistic Body",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaire82",
+    "name": "Compatible-Like Body | Children",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Custom Coordinate Offsets",
+    "steamId": "1909870211",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NALS",
+    "name": "[NL] Apparel Paper Pattern",
+    "steamId": "2480887589",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Paul Freeman",
+    "name": "Free Will",
+    "steamId": "2580837227",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "民火",
+    "name": "Open Door Manually",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "民火",
+    "name": "Force Lovin Room",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "Grouped Pawns Lists",
+    "steamId": "2340773428",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "1-2-3 Personalities M1",
+    "steamId": "2527258500",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "1-2-3 Personalities M2",
+    "steamId": "2781023972",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Prisoners Need Recruiting",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "Mass Lovin'",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Backup Power",
+    "steamId": "2084493662",
+    "version": "1.10.175"
+  },
+  {
+    "author": "Lowli",
+    "name": "Gene Bank Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrus",
+    "name": "Biosculpter Pod and Neural Supercharger Resize",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Creeper",
+    "name": "BetterInfoCard",
+    "steamId": "2890920739",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Compilatronと Owlchemist",
+    "name": "Power Tab 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wiri",
+    "name": "Compositable Loadouts",
+    "steamId": "2679126859",
+    "version": "1.0.0"
+  },
+  {
+    "author": "seeki",
+    "name": "Pets Can Eat from Wall Refrigerator",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "Prioritize Meals over Preserved Foods",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Lanilor",
@@ -936,8 +1200,32 @@
     "version": null
   },
   {
+    "author": "Ratys",
+    "name": "RT Fuse",
+    "steamId": "728314182",
+    "version": "1.6.0.0"
+  },
+  {
     "author": "sindre0830",
     "name": "Lakes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Malistaticyと Dhyne",
+    "name": "UnderWhere",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Candied_Skull",
+    "name": "[Biotech] Kids - More Vanilla Clothing WIP",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kaitorisenkou",
+    "name": "Swimwear",
     "steamId": null,
     "version": null
   },
@@ -958,6 +1246,12 @@
     "name": "Bill Doors' Instant Noodles",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "khamenman",
+    "name": "Armor Racks",
+    "steamId": "1875828205",
+    "version": "1.0.0.0"
   },
   {
     "author": "GloomyLynx NukaFrog",
@@ -996,6 +1290,12 @@
     "version": null
   },
   {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Ceiling",
+    "steamId": "2571003732",
+    "version": "1.4"
+  },
+  {
     "author": "JI_Won",
     "name": "Won hair_men",
     "steamId": null,
@@ -1014,6 +1314,24 @@
     "version": null
   },
   {
+    "author": "tikubonn",
+    "name": "SurveillanceCamera",
+    "steamId": "2573654478",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Weapon Racks",
+    "steamId": "2788630748",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "zed_0xff",
+    "name": "Loft Bed",
+    "steamId": "2961708299",
+    "version": "1.0.0"
+  },
+  {
     "author": "Candycorn",
     "name": "Candy Hairstyles",
     "steamId": null,
@@ -1022,6 +1340,12 @@
   {
     "author": "Gloomylynx.Kotobike",
     "name": "Gloomy Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "amegakull",
+    "name": "Simple Nekomimi Xenotype",
     "steamId": null,
     "version": null
   },
@@ -1050,20 +1374,38 @@
     "version": null
   },
   {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Vendan, Kiame Vivacityと\"Just Harry\"",
-    "name": "RimFridge: Now with Shelves!",
-    "steamId": "2898411376",
-    "version": "1.0.0"
-  },
-  {
     "author": "dracoix",
     "name": "Door Mat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Eiten",
+    "name": "BetterManger",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "Super Size Bed!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Redundantusage",
+    "name": "Biotech Gene Variety",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sulusdacor",
+    "name": "[sd] Advanced Powergeneration (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Despenso",
+    "name": "Small Hi-tech Research Bench",
     "steamId": null,
     "version": null
   },
@@ -1158,8 +1500,20 @@
     "version": null
   },
   {
+    "author": "Demi, 어리연, Nemonianと gguake",
+    "name": "Paniel the Automata",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Runne Latki",
+    "name": "Rabbie The Moonrabbit race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roo",
-    "name": "Dragonian race",
+    "name": "Gloomy Dragonian race",
     "steamId": null,
     "version": null
   },
@@ -1206,16 +1560,34 @@
     "version": null
   },
   {
-    "author": "redbrick",
-    "name": "Oppai_addRace_patch",
+    "author": "Talos",
+    "name": "Heyra Face FacialAnime",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Apparel Tweaks",
-    "steamId": "2296697286",
-    "version": "1.0.0.0"
+    "author": "塔洛斯",
+    "name": "Paniel Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ancot",
+    "name": "Ancots Dragonian Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hourai_haikus",
+    "name": "Rabbie Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "redbrick",
+    "name": "Oppai_addRace_patch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Udon",
@@ -1254,10 +1626,70 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "paundo2",
+    "name": "[PAU] Touhou yukkuri",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "MooとVelc",
     "name": "kemomimihouse HardworkingKz",
     "steamId": "2574995438",
     "version": "1.0.8343.10138"
+  },
+  {
+    "author": "Latki(vee)",
+    "name": "[Vee]Apparel Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Cosmo Corban",
+    "name": "AI Upscaled Textures - Mods",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Issac Zhuang",
+    "name": "Muzzle Flash",
+    "steamId": "2917732219",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NomadRw",
+    "name": "Projectile Bullet Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wolf478と IcyCheeseCake",
+    "name": "Wolfs Dryad Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "iFlash",
+    "name": "Clean Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kor_HellCross",
+    "name": "H.C_AnimalReskins_Complete2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jester Romut",
+    "name": "Anime Mech Retexture (WIP)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
   },
   {
     "author": "Andreas Pardeike",
@@ -1270,12 +1702,6 @@
     "name": "ToolkitCore",
     "steamId": "2018368654",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "RimWorld-CrowdControl",
-    "name": "RimWorld CrowdControl",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "hodlhodl",
@@ -1308,16 +1734,16 @@
     "version": null
   },
   {
-    "author": "Cosmo Corban",
-    "name": "AI Upscaled Textures - Core",
-    "steamId": null,
-    "version": null
+    "author": "Owlchemist",
+    "name": "Toggleable Readouts",
+    "steamId": "2661792499",
+    "version": "1.4"
   },
   {
-    "author": "Cosmo Corban",
-    "name": "AI Upscaled Textures - Mods",
-    "steamId": null,
-    "version": null
+    "author": "Tank",
+    "name": "Stylish Rim",
+    "steamId": "2747392932",
+    "version": "0.0.0.0"
   },
   {
     "author": "user19990313と Trinity",
@@ -1326,22 +1752,22 @@
     "version": "20.0.15.1"
   },
   {
-    "author": "latta",
-    "name": "Dev In Your Language",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Toggleable Readouts",
-    "steamId": "2661792499",
-    "version": "1.4"
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0"
   },
   {
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
+  },
+  {
+    "author": "miyamiya",
+    "name": "Harmony Patch Finder",
+    "steamId": "",
+    "version": "1.0.0.0"
   },
   {
     "author": "namidasechi",
@@ -1399,6 +1825,12 @@
   },
   {
     "author": "Proxyer",
+    "name": "Vanilla Expanded Framework 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
     "name": "Simple sidearms 日本語翻訳追加",
     "steamId": null,
     "version": null
@@ -1435,7 +1867,7 @@
   },
   {
     "author": "Lucifel",
-    "name": "Dragonian Race 日本語翻訳",
+    "name": "Gloomy Dragonian race 日本語翻訳",
     "steamId": null,
     "version": null
   },
@@ -1453,19 +1885,37 @@
   },
   {
     "author": "Proxyer",
+    "name": "Dubs Performance Analyzer 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
     "name": "Ratkin Apparel+ 日本語翻訳追加",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Proxyer",
-    "name": "Wall Light 日本語翻訳追加",
+    "author": "Lucifel",
+    "name": "Paniel the Automata 日本語翻訳",
     "steamId": null,
     "version": null
   },
   {
     "author": "Proxyer",
-    "name": "TD Find Lib 日本語翻訳追加",
+    "name": "Rabbie The Moonrabbit 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "namidasechi",
+    "name": "[SYR] Processor Framework 日本語追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Biotech Gene Variety 日本語翻訳追加",
     "steamId": null,
     "version": null
   },
@@ -1482,6 +1932,18 @@
     "version": null
   },
   {
+    "author": "Proxyer",
+    "name": "RT Fuse 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "TD Find Lib 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Lucifel",
     "name": "A RimWorld of Magic 日本語翻訳",
     "steamId": null,
@@ -1489,7 +1951,19 @@
   },
   {
     "author": "Lucifel",
+    "name": "LWM's Deep Storage 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
     "name": "Heyra the Horned 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "denev",
+    "name": "Smart Farming 日本語化",
     "steamId": null,
     "version": null
   },

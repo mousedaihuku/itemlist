@@ -439,12 +439,6 @@
 		"defname": "ElectricStove"
 	},
 	{
-		"abr": "カマド",
-		"price": 265,
-		"category": "",
-		"defname": "FueledStove"
-	},
-	{
 		"abr": "ストーンカッター",
 		"price": 358,
 		"category": "生産物",
@@ -17509,324 +17503,6 @@
 		"defname": "DR_AP_Child"
 	},
 	{
-		"abr": "_bonsaiseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed__Bonsai"
-	},
-	{
-		"abr": "_haygrassseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed__Haygrass"
-	},
-	{
-		"abr": "_ironsasaseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed__IronSasa"
-	},
-	{
-		"abr": "_timbershroomseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed__Timbershroom"
-	},
-	{
-		"abr": "blossomseeds",
-		"price": 6,
-		"category": "種",
-		"defname": "Seed_GL_A"
-	},
-	{
-		"abr": "exc_farm_silvervineseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed_ExC_Farm_Silvervine"
-	},
-	{
-		"abr": "fibercornseeds",
-		"price": 3,
-		"category": "種",
-		"defname": "Seed_Fibercorn"
-	},
-	{
-		"abr": "glossomseeds",
-		"price": 6,
-		"category": "種",
-		"defname": "Seed_GL_B"
-	},
-	{
-		"abr": "graypineseeds",
-		"price": 6,
-		"category": "種",
-		"defname": "Seed_GrayPine"
-	},
-	{
-		"abr": "heyra_beanseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed_Heyra_Bean"
-	},
-	{
-		"abr": "ivyseed",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed_SPBD_Ivy"
-	},
-	{
-		"abr": "jewel_orchidseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed_Jewel_Orchid"
-	},
-	{
-		"abr": "mincho_minchoshroomseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed_Mincho_Minchoshroom"
-	},
-	{
-		"abr": "mincho_mintseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed_Mincho_Mint"
-	},
-	{
-		"abr": "nutrifungusseeds",
-		"price": 9,
-		"category": "種",
-		"defname": "Seed_Nutrifungus"
-	},
-	{
-		"abr": "paracyteseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed_Paracyte"
-	},
-	{
-		"abr": "pebblecactusseeds",
-		"price": 8,
-		"category": "種",
-		"defname": "Seed_PebbleCactus"
-	},
-	{
-		"abr": "pomanasyrriumseeds",
-		"price": 25,
-		"category": "種",
-		"defname": "Seed_Pomanasyrrium"
-	},
-	{
-		"abr": "ratpalmseeds",
-		"price": 6,
-		"category": "種",
-		"defname": "Seed_RatPalm"
-	},
-	{
-		"abr": "rf_soybeanseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed_RF_Soybean"
-	},
-	{
-		"abr": "rf_wasabiseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed_RF_Wasabi"
-	},
-	{
-		"abr": "toxipotatoseeds",
-		"price": 5,
-		"category": "種",
-		"defname": "Seed_Toxipotato"
-	},
-	{
-		"abr": "witchwoodseeds",
-		"price": 6,
-		"category": "種",
-		"defname": "Seed_Witchwood"
-	},
-	{
-		"abr": "yokai__icefruitseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed_Yokai__IceFruit"
-	},
-	{
-		"abr": "yokai__smokesporeseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed_Yokai__SmokeSpore"
-	},
-	{
-		"abr": "yokai__sunfruitseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed_Yokai__SunFruit"
-	},
-	{
-		"abr": "yokai__watersporeseeds",
-		"price": 42,
-		"category": "種",
-		"defname": "Seed_Yokai__WaterSpore"
-	},
-	{
-		"abr": "yurancherrytreeseed",
-		"price": 10,
-		"category": "種",
-		"defname": "Seed_YR_Big"
-	},
-	{
-		"abr": "イチゴの種",
-		"price": 12,
-		"category": "種",
-		"defname": "Seed_Strawberry"
-	},
-	{
-		"abr": "イトヤナギの種",
-		"price": 4,
-		"category": "種",
-		"defname": "Seed_TreeCypress"
-	},
-	{
-		"abr": "オークの種",
-		"price": 3,
-		"category": "種",
-		"defname": "Seed_TreeOak"
-	},
-	{
-		"abr": "カエデの種",
-		"price": 3,
-		"category": "種",
-		"defname": "Seed_TreeMaple"
-	},
-	{
-		"abr": "カカオの種",
-		"price": 23,
-		"category": "種",
-		"defname": "Seed_Cocoa"
-	},
-	{
-		"abr": "カカオ豆",
-		"price": 3,
-		"category": "植物原料",
-		"defname": "RawCocoaBeans"
-	},
-	{
-		"abr": "カバの種",
-		"price": 3,
-		"category": "種",
-		"defname": "Seed_TreeBirch"
-	},
-	{
-		"abr": "サイコイドの種",
-		"price": 17,
-		"category": "種",
-		"defname": "Seed_Psychoid"
-	},
-	{
-		"abr": "ジャガイモの種",
-		"price": 9,
-		"category": "種",
-		"defname": "Seed_Potato"
-	},
-	{
-		"abr": "スモークリーフの種",
-		"price": 13,
-		"category": "種",
-		"defname": "Seed_Smokeleaf"
-	},
-	{
-		"abr": "セクロピアの種",
-		"price": 3,
-		"category": "種",
-		"defname": "Seed_TreeCecropia"
-	},
-	{
-		"abr": "チークの種",
-		"price": 4,
-		"category": "種",
-		"defname": "Seed_TreeTeak"
-	},
-	{
-		"abr": "ティンクトリアの種",
-		"price": 7,
-		"category": "種",
-		"defname": "Seed_Tinctoria"
-	},
-	{
-		"abr": "ティンクトリアの葉",
-		"price": 2,
-		"category": "植物原料",
-		"defname": "RawTinctoria"
-	},
-	{
-		"abr": "デビルストランドの種菌",
-		"price": 33,
-		"category": "種",
-		"defname": "Seed_Devilstrand"
-	},
-	{
-		"abr": "トウモロコシの種",
-		"price": 9,
-		"category": "種",
-		"defname": "Seed_Corn"
-	},
-	{
-		"abr": "ヒールルートの種",
-		"price": 24,
-		"category": "種",
-		"defname": "Seed_Healroot"
-	},
-	{
-		"abr": "ひまわりの種",
-		"price": 11,
-		"category": "種",
-		"defname": "Miho_Seed_Posflower"
-	},
-	{
-		"abr": "ベンケイチュウの種",
-		"price": 5,
-		"category": "種",
-		"defname": "Seed_SaguaroCactus"
-	},
-	{
-		"abr": "ホップの種",
-		"price": 11,
-		"category": "種",
-		"defname": "Seed_Hops"
-	},
-	{
-		"abr": "ポプラの種",
-		"price": 4,
-		"category": "種",
-		"defname": "Seed_TreePoplar"
-	},
-	{
-		"abr": "マツの種",
-		"price": 3,
-		"category": "種",
-		"defname": "Seed_TreePine"
-	},
-	{
-		"abr": "ヤシの種",
-		"price": 3,
-		"category": "種",
-		"defname": "Seed_TreePalm"
-	},
-	{
-		"abr": "ヤナギの種",
-		"price": 4,
-		"category": "種",
-		"defname": "Seed_TreeWillow"
-	},
-	{
-		"abr": "リュウケツジュの種",
-		"price": 4,
-		"category": "種",
-		"defname": "Seed_TreeDrago"
-	},
-	{
 		"abr": "入植者の像",
 		"price": 358,
 		"category": "芸術品",
@@ -17953,12 +17629,6 @@
 		"defname": "LWM_Hayloft"
 	},
 	{
-		"abr": "木綿の種",
-		"price": 19,
-		"category": "種",
-		"defname": "Seed_Cotton"
-	},
-	{
 		"abr": "梱包パレット",
 		"price": 321,
 		"category": "家具",
@@ -18001,28 +17671,10 @@
 		"defname": "LWM_WeaponsLocker"
 	},
 	{
-		"abr": "生のデビルストランド",
-		"price": 7,
-		"category": "植物原料",
-		"defname": "RawDevilstrand"
-	},
-	{
-		"abr": "生のヒールルート",
-		"price": 4,
-		"category": "植物原料",
-		"defname": "RawHealroot"
-	},
-	{
 		"abr": "チェス盤",
 		"price": 281,
 		"category": "家具",
 		"defname": "ChessTable"
-	},
-	{
-		"abr": "ビリヤード台",
-		"price": 600,
-		"category": "",
-		"defname": "BilliardsTable"
 	},
 	{
 		"abr": "largegenebank",
@@ -18228,6 +17880,138 @@
 		"category": "家具",
 		"defname": "SSB_SuperRoyalBedVIIII"
 	},
+	{
+		"abr": "太陽光発電(改良型)",
+		"price": 1358,
+		"category": "パワー",
+		"defname": "sd_adv_powergen_adv_solar_generator"
+	},
+	{
+		"abr": "水力発電(改良型)",
+		"price": 2142,
+		"category": "パワー",
+		"defname": "sd_adv_powergen_WatermillGenerator"
+	},
+	{
+		"abr": "監視カメラ",
+		"price": 118,
+		"category": "防衛",
+		"defname": "SurveillanceCamera_SurveillanceCamera"
+	},
+	{
+		"abr": "研究卓",
+		"price": 350,
+		"category": "生産物",
+		"defname": "SimpleResearchBench"
+	},
+	{
+		"abr": "薬箱",
+		"price": 203,
+		"category": "家具",
+		"defname": "LWM_Medicine_Cabinet"
+	},
+	{
+		"abr": "衣類タンス",
+		"price": 170,
+		"category": "家具",
+		"defname": "LWM_Clothing_Rack"
+	},
+	{
+		"abr": "超巨大ロッカー",
+		"price": 550,
+		"category": "家具",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "配膳棚",
+		"price": 255,
+		"category": "家具",
+		"defname": "LWM_MealRack"
+	},
+	{
+		"abr": "金庫",
+		"price": 1017,
+		"category": "家具",
+		"defname": "LWM_Safe"
+	},
+	{
+		"abr": "風力発電機(改良型)",
+		"price": 1258,
+		"category": "パワー",
+		"defname": "sd_adv_powergen_adv_wind_turbine"
+	},
+	{
+		"abr": "食料用バスケット",
+		"price": 270,
+		"category": "家具",
+		"defname": "LWM_Food_Basket"
+	},
+	{
+		"abr": "ゆっくりおまんじゅう",
+		"price": 4,
+		"category": "生野菜",
+		"defname": "RawOmanju"
+	},
+	{
+		"abr": "ゆっくり霊夢",
+		"price": 83,
+		"category": "家畜",
+		"defname": "Yukkuri_Reimu"
+	},
+	{
+		"abr": "ゆっくり霊夢の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Yukkuri_Reimu"
+	},
+	{
+		"abr": "ゆっくり魔理沙",
+		"price": 83,
+		"category": "家畜",
+		"defname": "Yukkuri_Marisa"
+	},
+	{
+		"abr": "ゆっくり魔理沙の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Yukkuri_Marisa"
+	},
+	{
+		"abr": "大型遺伝子プロセッサ",
+		"price": 1758,
+		"category": "生産物",
+		"defname": "ThingGeneMacroprocessor"
+	},
+	{
+		"abr": "遺伝子アーカイブ",
+		"price": 1142,
+		"category": "生産物",
+		"defname": "ThingGeneArchive"
+	},
+	{
+		"abr": "遺伝子サブプロセッサ",
+		"price": 1358,
+		"category": "生産物",
+		"defname": "ThingGeneSubprocessor"
+	},
+	{
+		"abr": "遺伝子レジスタ",
+		"price": 2667,
+		"category": "生産物",
+		"defname": "ThingGeneRegister"
+	},
+	{
+		"abr": "飼い葉桶1x1",
+		"price": 26,
+		"category": "家具",
+		"defname": "EtnMangerSingle"
+	},
+	{
+		"abr": "飼い葉桶1x2",
+		"price": 51,
+		"category": "家具",
+		"defname": "EtnManger"
+	}
 	],
-	"total": 3053
+	"total": 3002
 }

@@ -18,6 +18,24 @@
     "version": "1.0.0"
   },
   {
+    "author": "latta",
+    "name": "FSharp.Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "Dev In Your Language",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "nmkj",
+    "name": "Custom Fonts",
+    "steamId": "2829295971",
+    "version": "2.0.3"
+  },
+  {
     "author": "Smash Philと Neceros",
     "name": "SRTS Expanded",
     "steamId": "2878587061",
@@ -40,6 +58,42 @@
     "name": "JecsTools",
     "steamId": "932008009",
     "version": "1.4.1.1"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Toggleable Overlays",
+    "steamId": "2608654598",
+    "version": "1.4"
+  },
+  {
+    "author": "Augurr",
+    "name": "RimFridge Updated",
+    "steamId": "2878183338",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Alan Darivaと Usagirei",
+    "name": "More Planning [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Nals",
@@ -78,12 +132,6 @@
     "version": "1.7.0"
   },
   {
-    "author": "latta",
-    "name": "FSharp.Core",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "Clothing Sorter",
     "steamId": "2275655161",
@@ -106,12 +154,6 @@
     "name": "MoHAR framework",
     "steamId": "2057001924",
     "version": "1.0.8331.27653"
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Toggleable Overlays",
-    "steamId": "2608654598",
-    "version": "1.4"
   },
   {
     "author": "Rooloと Owlchemist",
@@ -234,18 +276,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Augurr",
-    "name": "RimFridge Updated",
-    "steamId": "2878183338",
-    "version": "1.2.1.0"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.4.1.1"
-  },
-  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
@@ -355,27 +385,9 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Dubwise",
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
     "version": "1.2.7365"
-  },
-  {
-    "author": "Alan Darivaと Usagirei",
-    "name": "More Planning [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Razor 2.3",
@@ -672,12 +684,6 @@
     "version": null
   },
   {
-    "author": "avilmask",
-    "name": "Micro Designations",
-    "steamId": "1877972690",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "yrtwof",
     "name": "My Fave Streamers",
     "steamId": "2403318601",
@@ -930,12 +936,6 @@
     "version": null
   },
   {
-    "author": "PepeLeSpooder",
-    "name": "Vanilla Music Additions",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": null,
@@ -1122,6 +1122,24 @@
     "version": null
   },
   {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Darkside",
+    "name": "KilledEnemyAutoAllowed (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Fluffy",
     "name": "Backup Power",
     "steamId": "2084493662",
@@ -1158,6 +1176,18 @@
     "version": "1.0.0"
   },
   {
+    "author": "seeki",
+    "name": "Pets Can Eat from Wall Refrigerator",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "Prioritize Meals over Preserved Foods",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
@@ -1174,12 +1204,6 @@
     "name": "AutoVents",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Owlchemist, CitizenKanyeと Charlott",
-    "name": "SeedsPlease: Lite",
-    "steamId": "2586052937",
-    "version": "1.4"
   },
   {
     "author": "Ratys",
@@ -1362,8 +1386,20 @@
     "version": null
   },
   {
+    "author": "Eiten",
+    "name": "BetterManger",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Udon",
     "name": "Super Size Bed!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Redundantusage",
+    "name": "Biotech Gene Variety",
     "steamId": null,
     "version": null
   },
@@ -1596,6 +1632,12 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "paundo2",
+    "name": "[PAU] Touhou yukkuri",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "MooとVelc",
     "name": "kemomimihouse HardworkingKz",
     "steamId": "2574995438",
@@ -1621,7 +1663,7 @@
   },
   {
     "author": "NomadRw",
-    "name": "Projectile Retexture",
+    "name": "Projectile Bullet Retexture",
     "steamId": null,
     "version": null
   },
@@ -1694,12 +1736,6 @@
   {
     "author": "erdelf",
     "name": "ShowModDesignators (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "latta",
-    "name": "Dev In Your Language",
     "steamId": null,
     "version": null
   },
@@ -1880,6 +1916,12 @@
   {
     "author": "namidasechi",
     "name": "[SYR] Processor Framework 日本語追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Biotech Gene Variety 日本語翻訳追加",
     "steamId": null,
     "version": null
   },

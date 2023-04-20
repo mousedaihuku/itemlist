@@ -9013,12 +9013,6 @@
 		"defname": "ConcreteSlab"
 	},
 	{
-		"abr": "ロフトベッド",
-		"price": 174,
-		"category": "家具",
-		"defname": "LoftBed"
-	},
-	{
 		"abr": "アミュレット",
 		"price": 833,
 		"category": "不活性な遺物",
@@ -18017,7 +18011,13 @@
 		"price": 475,
 		"category": "家具",
 		"defname": "Couch"
-	}
+	},
+	{
+		"abr": "doubleloftbed",
+		"price": 312,
+		"category": "家具",
+		"defname": "DoubleLoftBed"
+	},
 	],
-	"total": 3003
+	"total": 3004
 }

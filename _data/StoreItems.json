@@ -3181,1392 +3181,6 @@
 		"defname": "SRTSMkIV"
 	},
 	{
-		"abr": "ストーンゴーレム",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "TM_StoneGolem"
-	},
-	{
-		"abr": "サンドストーンゴーレム",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "TM_SandstoneGolem"
-	},
-	{
-		"abr": "ライムストーンゴーレム",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "TM_LimestoneGolem"
-	},
-	{
-		"abr": "グラナイトゴーレム",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "TM_GraniteGolem"
-	},
-	{
-		"abr": "スレートゴーレム",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "TM_SlateGolem"
-	},
-	{
-		"abr": "マーブルゴーレム",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "TM_MarbleGolem"
-	},
-	{
-		"abr": "メカゴーレム",
-		"price": 5000,
-		"category": "Animal",
-		"defname": "TM_MechaGolem"
-	},
-	{
-		"abr": "フレッシュゴーレム",
-		"price": 4500,
-		"category": "Animal",
-		"defname": "TM_FleshGolem"
-	},
-	{
-		"abr": "ホロウゴーレム",
-		"price": 9167,
-		"category": "Animal",
-		"defname": "TM_HollowGolem"
-	},
-	{
-		"abr": "マハラルゴーレム",
-		"price": 3000,
-		"category": "Animal",
-		"defname": "TM_MaharalGolem"
-	},
-	{
-		"abr": "ダイアウルフ",
-		"price": 3667,
-		"category": "家畜",
-		"defname": "TM_Dire_WolfR"
-	},
-	{
-		"abr": "巻物：祖霊の絆",
-		"price": 417,
-		"category": "無し",
-		"defname": "MagicArtifact_RerollSpiritBond"
-	},
-	{
-		"abr": "霊統の欠片",
-		"price": 1167,
-		"category": "無し",
-		"defname": "TM_Artifact_ClassExtraction"
-	},
-	{
-		"abr": "技能のエッセンス",
-		"price": 833,
-		"category": "無し",
-		"defname": "TM_MagicArtifact_MightEssence"
-	},
-	{
-		"abr": "魔術のエッセンス",
-		"price": 833,
-		"category": "無し",
-		"defname": "TM_MagicArtifact_MagicEssence"
-	},
-	{
-		"abr": "生命の種",
-		"price": 2,
-		"category": "魔法アイテム",
-		"defname": "SeedofRegrowth"
-	},
-	{
-		"abr": "保持の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_maxMP_minor"
-	},
-	{
-		"abr": "保持の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_maxMP"
-	},
-	{
-		"abr": "保持の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_maxMP_major"
-	},
-	{
-		"abr": "再生の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_mpRegenRate_minor"
-	},
-	{
-		"abr": "再生の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_mpRegenRate"
-	},
-	{
-		"abr": "再生の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_mpRegenRate_major"
-	},
-	{
-		"abr": "保存の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_mpCost_minor"
-	},
-	{
-		"abr": "保存の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_mpCost"
-	},
-	{
-		"abr": "保存の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_mpCost_major"
-	},
-	{
-		"abr": "加速の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_coolDown_minor"
-	},
-	{
-		"abr": "加速の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_coolDown"
-	},
-	{
-		"abr": "加速の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_coolDown_major"
-	},
-	{
-		"abr": "習得の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_xpGain_minor"
-	},
-	{
-		"abr": "習得の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_xpGain"
-	},
-	{
-		"abr": "習得の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_xpGain_major"
-	},
-	{
-		"abr": "耐性の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_arcaneRes_minor"
-	},
-	{
-		"abr": "耐性の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_arcaneRes"
-	},
-	{
-		"abr": "耐性の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_arcaneRes_major"
-	},
-	{
-		"abr": "力の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_arcaneDmg_minor"
-	},
-	{
-		"abr": "力の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_arcaneDmg"
-	},
-	{
-		"abr": "力の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_arcaneDmg_major"
-	},
-	{
-		"abr": "奇跡の魔石(小)",
-		"price": 1983,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_wonder_minor"
-	},
-	{
-		"abr": "奇跡の魔石",
-		"price": 4417,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_wonder"
-	},
-	{
-		"abr": "奇跡の魔石(大)",
-		"price": 10917,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_wonder_major"
-	},
-	{
-		"abr": "未精製の魔石",
-		"price": 8,
-		"category": "加工した魔石",
-		"defname": "RawMagicyte"
-	},
-	{
-		"abr": "マナウィーブ",
-		"price": 15,
-		"category": "織物",
-		"defname": "TM_Manaweave"
-	},
-	{
-		"abr": "アルケリウム",
-		"price": 22,
-		"category": "原材料",
-		"defname": "TM_Arcalleum"
-	},
-	{
-		"abr": "デモンハイド",
-		"price": 27,
-		"category": "革",
-		"defname": "TM_Demonhide"
-	},
-	{
-		"abr": "デモンスケイル",
-		"price": 30,
-		"category": "原材料",
-		"defname": "TM_Demonscale"
-	},
-	{
-		"abr": "魔導書：???",
-		"price": 2500,
-		"category": "書物",
-		"defname": "BookOfQuestion"
-	},
-	{
-		"abr": "破れた書物：炎",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfInnerFire"
-	},
-	{
-		"abr": "破れた書物：氷",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfHeartOfFrost"
-	},
-	{
-		"abr": "破れた書物：雷",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfStormBorn"
-	},
-	{
-		"abr": "破れた書物：秘術",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfArcanist"
-	},
-	{
-		"abr": "破れた書物：聖騎士",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfValiant"
-	},
-	{
-		"abr": "破れた書物：召喚",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfSummoner"
-	},
-	{
-		"abr": "破れた書物：ドルイド",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfNature"
-	},
-	{
-		"abr": "破れた書物：死霊術",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfUndead"
-	},
-	{
-		"abr": "破れた書物：司祭",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfPriest"
-	},
-	{
-		"abr": "破れた書物：詩人",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfBard"
-	},
-	{
-		"abr": "破れた書物：悪魔学",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfDemons"
-	},
-	{
-		"abr": "破れた書物：風水",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfEarth"
-	},
-	{
-		"abr": "破れた書物：魔工技師",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfMagitech"
-	},
-	{
-		"abr": "破れた書物：操血術",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfHemomancy"
-	},
-	{
-		"abr": "破れた書物：付与術師",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfEnchanter"
-	},
-	{
-		"abr": "破れた書物：時空魔術師",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfChronomancer"
-	},
-	{
-		"abr": "破れた書物：混沌魔術",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfChaos"
-	},
-	{
-		"abr": "破れた書物：光魔術師",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfTheSun"
-	},
-	{
-		"abr": "破れた書物：祈祷師",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfShamanism"
-	},
-	{
-		"abr": "破れた書物：人形術師",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfGolemancy"
-	},
-	{
-		"abr": "魔導書：炎",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfInnerFire"
-	},
-	{
-		"abr": "魔導書：氷",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfHeartOfFrost"
-	},
-	{
-		"abr": "魔導書：雷",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfStormBorn"
-	},
-	{
-		"abr": "魔導書：秘術",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfArcanist"
-	},
-	{
-		"abr": "聖書：聖騎士",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfValiant"
-	},
-	{
-		"abr": "魔導書：召喚",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfSummoner"
-	},
-	{
-		"abr": "魔導書：ドルイド",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfDruid"
-	},
-	{
-		"abr": "魔導書：死霊術",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfNecromancer"
-	},
-	{
-		"abr": "魔導書：司祭",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfPriest"
-	},
-	{
-		"abr": "魔導書：詩人",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfBard"
-	},
-	{
-		"abr": "魔導書：悪魔学",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfDemons"
-	},
-	{
-		"abr": "魔導書：風水",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfEarth"
-	},
-	{
-		"abr": "魔導書：魔工技師",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfMagitech"
-	},
-	{
-		"abr": "魔導書：操血術",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfHemomancy"
-	},
-	{
-		"abr": "魔導書：付与術師",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfEnchanter"
-	},
-	{
-		"abr": "魔導書：時空魔術師",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfChronomancer"
-	},
-	{
-		"abr": "魔導書：混沌魔術",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfChaos"
-	},
-	{
-		"abr": "魔導書：光魔術",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfTheSun"
-	},
-	{
-		"abr": "魔導書：祈祷師",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfShamanism"
-	},
-	{
-		"abr": "魔導書：人形術師",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfGolemancy"
-	},
-	{
-		"abr": "戦闘教本：剣闘士",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfGladiator"
-	},
-	{
-		"abr": "戦闘教本：念動力者",
-		"price": 4750,
-		"category": "書物",
-		"defname": "BookOfPsionic"
-	},
-	{
-		"abr": "戦闘教本：フェイスレス",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfFaceless"
-	},
-	{
-		"abr": "戦闘教本：狙撃手",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfSniper"
-	},
-	{
-		"abr": "戦闘教本：剣舞の舞い手",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfBladedancer"
-	},
-	{
-		"abr": "戦闘教本：レンジャー",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfRanger"
-	},
-	{
-		"abr": "戦闘教本：死の騎士",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfDeathKnight"
-	},
-	{
-		"abr": "戦闘教本：モンク",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfMonk"
-	},
-	{
-		"abr": "戦闘教本：司令官",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfCommander"
-	},
-	{
-		"abr": "スーパーソルジャーシーラム",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfSuperSoldier"
-	},
-	{
-		"abr": "魔導書：影",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfShadow"
-	},
-	{
-		"abr": "戦闘教本：薬剤師",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfApothecary"
-	},
-	{
-		"abr": "魔法の呪文：魔力弾",
-		"price": 950,
-		"category": "巻物",
-		"defname": "SpellOf_ArcaneBolt"
-	},
-	{
-		"abr": "魔法の呪文：ブリンク",
-		"price": 833,
-		"category": "巻物",
-		"defname": "SpellOf_Blink"
-	},
-	{
-		"abr": "魔法の呪文：ブラー",
-		"price": 967,
-		"category": "巻物",
-		"defname": "SpellOf_Blur"
-	},
-	{
-		"abr": "魔法の呪文：放熱",
-		"price": 633,
-		"category": "巻物",
-		"defname": "SpellOf_Cooler"
-	},
-	{
-		"abr": "魔法の呪文：風の妖精",
-		"price": 967,
-		"category": "巻物",
-		"defname": "SpellOf_DirtDevil"
-	},
-	{
-		"abr": "魔法の呪文：emp",
-		"price": 967,
-		"category": "巻物",
-		"defname": "SpellOf_EMP"
-	},
-	{
-		"abr": "魔法の呪文：消火",
-		"price": 567,
-		"category": "巻物",
-		"defname": "SpellOf_Extinguish"
-	},
-	{
-		"abr": "魔法の呪文：ヒール",
-		"price": 767,
-		"category": "巻物",
-		"defname": "SpellOf_Heal"
-	},
-	{
-		"abr": "火の呪文：ヒートシールド",
-		"price": 1000,
-		"category": "巻物",
-		"defname": "SpellOf_HeatShield"
-	},
-	{
-		"abr": "魔法の呪文：熱源作成",
-		"price": 633,
-		"category": "巻物",
-		"defname": "SpellOf_Heater"
-	},
-	{
-		"abr": "魔法の呪文：イグナイト",
-		"price": 950,
-		"category": "巻物",
-		"defname": "SpellOf_Ignite"
-	},
-	{
-		"abr": "魔法の呪文：メイジライト",
-		"price": 633,
-		"category": "巻物",
-		"defname": "SpellOf_MageLight"
-	},
-	{
-		"abr": "魔法の呪文：パワーノード",
-		"price": 1017,
-		"category": "巻物",
-		"defname": "SpellOf_PowerNode"
-	},
-	{
-		"abr": "魔法の呪文：レイン",
-		"price": 433,
-		"category": "巻物",
-		"defname": "SpellOf_Rain"
-	},
-	{
-		"abr": "魔法の呪文：スナップフリーズ",
-		"price": 950,
-		"category": "巻物",
-		"defname": "SpellOf_SnapFreeze"
-	},
-	{
-		"abr": "魔法の呪文：スモーククラウド",
-		"price": 700,
-		"category": "巻物",
-		"defname": "SpellOf_SmokeCloud"
-	},
-	{
-		"abr": "魔法の呪文：サンライト",
-		"price": 1117,
-		"category": "巻物",
-		"defname": "SpellOf_Sunlight"
-	},
-	{
-		"abr": "人形術師の呪文：吸魔の烙印",
-		"price": 1567,
-		"category": "巻物",
-		"defname": "SpellOf_BrandSiphon"
-	},
-	{
-		"abr": "人形術師の呪文：壮健の烙印",
-		"price": 1333,
-		"category": "巻物",
-		"defname": "SpellOf_BrandFitness"
-	},
-	{
-		"abr": "人形術師の呪文：情動の烙印",
-		"price": 1567,
-		"category": "巻物",
-		"defname": "SpellOf_BrandEmotion"
-	},
-	{
-		"abr": "人形術師の呪文：活力の烙印",
-		"price": 1333,
-		"category": "巻物",
-		"defname": "SpellOf_BrandVitality"
-	},
-	{
-		"abr": "人形術師の呪文：保護の烙印",
-		"price": 1567,
-		"category": "巻物",
-		"defname": "SpellOf_BrandProtection"
-	},
-	{
-		"abr": "人形術師の呪文：智覚の烙印",
-		"price": 1333,
-		"category": "巻物",
-		"defname": "SpellOf_BrandAwareness"
-	},
-	{
-		"abr": "雷の呪文：バッテリー充電",
-		"price": 833,
-		"category": "巻物",
-		"defname": "SpellOf_ChargeBattery"
-	},
-	{
-		"abr": "火の呪文：焼灼止血",
-		"price": 533,
-		"category": "巻物",
-		"defname": "SpellOf_CauterizeWound"
-	},
-	{
-		"abr": "死霊術師の呪文：屍大吸収",
-		"price": 833,
-		"category": "巻物",
-		"defname": "SpellOf_ConsumeCorpse_Mass"
-	},
-	{
-		"abr": "バードの呪文：不協和音",
-		"price": 1267,
-		"category": "巻物",
-		"defname": "SpellOf_Discord"
-	},
-	{
-		"abr": "火の呪文：大地乾燥",
-		"price": 900,
-		"category": "巻物",
-		"defname": "SpellOf_DryGround"
-	},
-	{
-		"abr": "氷の呪文：大地湿潤",
-		"price": 900,
-		"category": "巻物",
-		"defname": "SpellOf_WetGround"
-	},
-	{
-		"abr": "魔法の呪文：次元収納",
-		"price": 2333,
-		"category": "巻物",
-		"defname": "SpellOf_MagicWardrobe"
-	},
-	{
-		"abr": "魔法の呪文：不可視",
-		"price": 2000,
-		"category": "巻物",
-		"defname": "SpellOf_Invisibility"
-	},
-	{
-		"abr": "魔法の呪文：雷トラップ",
-		"price": 2000,
-		"category": "巻物",
-		"defname": "SpellOf_LightningTrap"
-	},
-	{
-		"abr": "魔法の呪文：マナシールド",
-		"price": 1600,
-		"category": "巻物",
-		"defname": "SpellOf_ManaShield"
-	},
-	{
-		"abr": "神聖の呪文：シールドアザー",
-		"price": 1267,
-		"category": "巻物",
-		"defname": "SpellOf_ShieldOther"
-	},
-	{
-		"abr": "魔法の呪文：修繕",
-		"price": 1792,
-		"category": "巻物",
-		"defname": "SpellOf_SpellMending"
-	},
-	{
-		"abr": "魔法の呪文：マナ吸収",
-		"price": 1267,
-		"category": "巻物",
-		"defname": "SpellOf_SiphonMana"
-	},
-	{
-		"abr": "魔法の呪文：ミニオン召喚",
-		"price": 1750,
-		"category": "巻物",
-		"defname": "SpellOf_SummonMinion"
-	},
-	{
-		"abr": "魔法の呪文：テレポート",
-		"price": 2200,
-		"category": "巻物",
-		"defname": "SpellOf_Teleport"
-	},
-	{
-		"abr": "魔法の呪文：マナ転送",
-		"price": 1267,
-		"category": "巻物",
-		"defname": "SpellOf_TransferMana"
-	},
-	{
-		"abr": "エンパスの記憶：哀憶トノ決別",
-		"price": 1267,
-		"category": "巻物",
-		"defname": "SpellOf_FadeEmotions"
-	},
-	{
-		"abr": "付与術師の呪文：記憶消去",
-		"price": 1367,
-		"category": "巻物",
-		"defname": "SpellOf_BlankMind"
-	},
-	{
-		"abr": "ドルイドの呪文：イバラの茂み",
-		"price": 950,
-		"category": "巻物",
-		"defname": "SpellOf_BriarPatch"
-	},
-	{
-		"abr": "ドルイドの呪文：豊かな大地",
-		"price": 1233,
-		"category": "巻物",
-		"defname": "SpellOf_FertileLands"
-	},
-	{
-		"abr": "氷の呪文：アルターストーム",
-		"price": 1417,
-		"category": "巻物",
-		"defname": "SpellOf_AlterStorm"
-	},
-	{
-		"abr": "魔工技師の呪文：ナノマシン調整",
-		"price": 1417,
-		"category": "巻物",
-		"defname": "SpellOf_MechaniteReprogramming"
-	},
-	{
-		"abr": "魔工技師の呪文：オーバードライブ",
-		"price": 800,
-		"category": "巻物",
-		"defname": "SpellOf_Overdrive"
-	},
-	{
-		"abr": "魔工技師の呪文：サボタージュ",
-		"price": 667,
-		"category": "巻物",
-		"defname": "SpellOf_Sabotage"
-	},
-	{
-		"abr": "魔工技師の呪文：キネティックシールド",
-		"price": 833,
-		"category": "巻物",
-		"defname": "SpellOf_TechnoShield"
-	},
-	{
-		"abr": "バードの呪文：戦いの賛歌",
-		"price": 2750,
-		"category": "巻物",
-		"defname": "SpellOf_BattleHymn"
-	},
-	{
-		"abr": "氷の呪文：ブリザード",
-		"price": 3583,
-		"category": "巻物",
-		"defname": "SpellOf_Blizzard"
-	},
-	{
-		"abr": "鮮血魔術師の呪文：ブラッドムーン",
-		"price": 3750,
-		"category": "巻物",
-		"defname": "SpellOf_BloodMoon"
-	},
-	{
-		"abr": "雷の呪文：アイオブザストーム",
-		"price": 3583,
-		"category": "巻物",
-		"defname": "SpellOf_EyeOfTheStorm"
-	},
-	{
-		"abr": "火の呪文：ファイアストーム",
-		"price": 3583,
-		"category": "巻物",
-		"defname": "SpellOf_Firestorm"
-	},
-	{
-		"abr": "秘術の呪文：ゲートウェイ",
-		"price": 4767,
-		"category": "巻物",
-		"defname": "SpellOf_FoldReality"
-	},
-	{
-		"abr": "祈祷の呪文：祖霊召喚",
-		"price": 3767,
-		"category": "巻物",
-		"defname": "SpellOf_GuardianSpirit"
-	},
-	{
-		"abr": "聖騎士の呪文：聖なる怒り",
-		"price": 3167,
-		"category": "巻物",
-		"defname": "SpellOf_HolyWrath"
-	},
-	{
-		"abr": "死霊術師の呪文：リッチ形態",
-		"price": 4292,
-		"category": "巻物",
-		"defname": "SpellOf_LichForm"
-	},
-	{
-		"abr": "人形術師の呪文：リビングウォール",
-		"price": 3667,
-		"category": "巻物",
-		"defname": "SpellOf_LivingWall"
-	},
-	{
-		"abr": "風水師の呪文：隕石",
-		"price": 2750,
-		"category": "巻物",
-		"defname": "SpellOf_Meteor"
-	},
-	{
-		"abr": "魔工技師の呪文：軌道攻撃",
-		"price": 2833,
-		"category": "巻物",
-		"defname": "SpellOf_OrbitalStrike"
-	},
-	{
-		"abr": "魔人の呪文：サイキックショック",
-		"price": 3000,
-		"category": "巻物",
-		"defname": "SpellOf_PsychicShock"
-	},
-	{
-		"abr": "時空魔術師の呪文：時間復元",
-		"price": 3333,
-		"category": "巻物",
-		"defname": "SpellOf_Recall"
-	},
-	{
-		"abr": "ドルイドの呪文：四肢再生",
-		"price": 3100,
-		"category": "巻物",
-		"defname": "SpellOf_RegrowLimb"
-	},
-	{
-		"abr": "司祭の呪文：リザレクション",
-		"price": 6250,
-		"category": "巻物",
-		"defname": "SpellOf_Resurrection"
-	},
-	{
-		"abr": "サキュバスの呪文：スコーン",
-		"price": 2750,
-		"category": "巻物",
-		"defname": "SpellOf_Scorn"
-	},
-	{
-		"abr": "付与術師の呪文：変身",
-		"price": 3333,
-		"category": "巻物",
-		"defname": "SpellOf_Shapeshift"
-	},
-	{
-		"abr": "召喚師の呪文：ポッピー召喚",
-		"price": 3767,
-		"category": "巻物",
-		"defname": "SpellOf_SummonPoppi"
-	},
-	{
-		"abr": "光魔術師の呪文：光の精霊",
-		"price": 3767,
-		"category": "巻物",
-		"defname": "SpellOf_SpiritOfLight"
-	},
-	{
-		"abr": "戦士の技能：投げナイフ",
-		"price": 1583,
-		"category": "巻物",
-		"defname": "SkillOf_ThrowingKnife"
-	},
-	{
-		"abr": "戦士の技能：憤怒の炎",
-		"price": 1583,
-		"category": "巻物",
-		"defname": "SkillOf_BurningFury"
-	},
-	{
-		"abr": "戦士の技能：集中",
-		"price": 1333,
-		"category": "巻物",
-		"defname": "SkillOf_FightersFocus"
-	},
-	{
-		"abr": "戦士の技能：装備修繕",
-		"price": 1167,
-		"category": "巻物",
-		"defname": "SkillOf_GearRepair"
-	},
-	{
-		"abr": "戦士の技能：重い一撃",
-		"price": 1250,
-		"category": "巻物",
-		"defname": "SkillOf_HeavyBlow"
-	},
-	{
-		"abr": "戦士の技能：内気功",
-		"price": 833,
-		"category": "巻物",
-		"defname": "SkillOf_InnerHealing"
-	},
-	{
-		"abr": "戦士の技能：レギオン",
-		"price": 1333,
-		"category": "巻物",
-		"defname": "SkillOf_Legion"
-	},
-	{
-		"abr": "戦士の技能：柄頭攻撃",
-		"price": 1667,
-		"category": "巻物",
-		"defname": "SkillOf_PommelStrike"
-	},
-	{
-		"abr": "戦士の技能：疾走",
-		"price": 833,
-		"category": "巻物",
-		"defname": "SkillOf_Sprint"
-	},
-	{
-		"abr": "戦士の技能：逞しい背中",
-		"price": 1000,
-		"category": "巻物",
-		"defname": "SkillOf_StrongBack"
-	},
-	{
-		"abr": "戦士の技能：タウント",
-		"price": 1667,
-		"category": "巻物",
-		"defname": "SkillOf_Taunt"
-	},
-	{
-		"abr": "戦士の技能：テンペストストライク",
-		"price": 1000,
-		"category": "巻物",
-		"defname": "SkillOf_TempestStrike"
-	},
-	{
-		"abr": "戦士の技能：厚い皮",
-		"price": 667,
-		"category": "巻物",
-		"defname": "SkillOf_ThickSkin"
-	},
-	{
-		"abr": "薬剤師のレシピ：ブリス",
-		"price": 950,
-		"category": "巻物",
-		"defname": "SkillOf_HerbalBliss"
-	},
-	{
-		"abr": "薬剤師のレシピ：クラリティー",
-		"price": 1733,
-		"category": "巻物",
-		"defname": "SkillOf_HerbalClarity"
-	},
-	{
-		"abr": "魔法の見識の宝石",
-		"price": 5000,
-		"category": "無し",
-		"defname": "GemstoneOfInsight_Magic"
-	},
-	{
-		"abr": "戦いの見識の宝石",
-		"price": 4000,
-		"category": "無し",
-		"defname": "GemstoneOfInsight_Might"
-	},
-	{
-		"abr": "アイボリースピア",
-		"price": 1333,
-		"category": "近接",
-		"defname": "TM_ElephantSpear"
-	},
-	{
-		"abr": "アイボリータスク",
-		"price": 200,
-		"category": "近接",
-		"defname": "TM_ElephantTusk"
-	},
-	{
-		"abr": "アイボリーボウ",
-		"price": 2083,
-		"category": "遠隔",
-		"defname": "TM_ElephantBow"
-	},
-	{
-		"abr": "スランボアックス",
-		"price": 7750,
-		"category": "近接",
-		"defname": "TM_ThrumboAxe"
-	},
-	{
-		"abr": "スランボセイバー",
-		"price": 5833,
-		"category": "近接",
-		"defname": "TM_ThrumboSaber"
-	},
-	{
-		"abr": "栄光の戦鎚",
-		"price": 2825,
-		"category": "近接",
-		"defname": "TM_GloryMaul"
-	},
-	{
-		"abr": "破壊のメイス",
-		"price": 6058,
-		"category": "近接",
-		"defname": "TM_Decimation"
-	},
-	{
-		"abr": "ルーンブレード",
-		"price": 13333,
-		"category": "近接",
-		"defname": "TM_Ruunbled"
-	},
-	{
-		"abr": "スランボウ",
-		"price": 7467,
-		"category": "遠隔",
-		"defname": "TM_ThrumBow"
-	},
-	{
-		"abr": "デーモンズファング",
-		"price": 6150,
-		"category": "近接",
-		"defname": "TM_DemonFang"
-	},
-	{
-		"abr": "炎の杖",
-		"price": 800,
-		"category": "魔法杖",
-		"defname": "TM_FireWand"
-	},
-	{
-		"abr": "氷の杖",
-		"price": 800,
-		"category": "魔法杖",
-		"defname": "TM_IceWand"
-	},
-	{
-		"abr": "雷の杖",
-		"price": 800,
-		"category": "魔法杖",
-		"defname": "TM_LightningWand"
-	},
-	{
-		"abr": "守護者の杖",
-		"price": 5583,
-		"category": "魔法杖",
-		"defname": "TM_DefenderStaff"
-	},
-	{
-		"abr": "灼熱の杖",
-		"price": 6250,
-		"category": "魔法杖",
-		"defname": "TM_BlazingPowerStaff"
-	},
-	{
-		"abr": "極寒の杖",
-		"price": 7500,
-		"category": "魔法杖",
-		"defname": "TM_WinterStaff"
-	},
-	{
-		"abr": "マナポーション",
-		"price": 150,
-		"category": "ドラッグ",
-		"defname": "ManaPotion"
-	},
-	{
-		"abr": "放浪者の外套",
-		"price": 1375,
-		"category": "ロイヤリティ",
-		"defname": "TM_MaestersCloak"
-	},
-	{
-		"abr": "覇権のローブ",
-		"price": 4233,
-		"category": "ロイヤリティ",
-		"defname": "DemonLordCloak"
-	},
-	{
-		"abr": "魔術師のローブ",
-		"price": 3767,
-		"category": "ロイヤリティ",
-		"defname": "DarkRobe"
-	},
-	{
-		"abr": "古代の鎖帷子",
-		"price": 2742,
-		"category": "着物",
-		"defname": "AncientMail"
-	},
-	{
-		"abr": "剛勇の鎧",
-		"price": 2750,
-		"category": "装甲化",
-		"defname": "RoyalArmor"
-	},
-	{
-		"abr": "魔除けの外套",
-		"price": 4242,
-		"category": "上着",
-		"defname": "TM_DreamcatcherBuckskin"
-	},
-	{
-		"abr": "アークメイジのローブ",
-		"price": 5525,
-		"category": "ロイヤリティ",
-		"defname": "ArchMageRobe"
-	},
-	{
-		"abr": "ウィザードハット",
-		"price": 392,
-		"category": "帽子",
-		"defname": "TM_WizardHat"
-	},
-	{
-		"abr": "秘術の頭巾",
-		"price": 817,
-		"category": "ロイヤリティ",
-		"defname": "ArcaneHood"
-	},
-	{
-		"abr": "狂気の頭巾",
-		"price": 1008,
-		"category": "ロイヤリティ",
-		"defname": "HoodOfMadness"
-	},
-	{
-		"abr": "剛勇の兜",
-		"price": 975,
-		"category": "帽子",
-		"defname": "RoyalHelm"
-	},
-	{
-		"abr": "模範の兜",
-		"price": 1725,
-		"category": "装甲化",
-		"defname": "ParagonHelm"
-	},
-	{
-		"abr": "魔除けの宝冠",
-		"price": 3008,
-		"category": "帽子",
-		"defname": "TM_DreamcatcherCoronet"
-	},
-	{
-		"abr": "平和主義者の篭手",
-		"price": 6375,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_BracersOfThePacifist"
-	},
-	{
-		"abr": "防護の篭手",
-		"price": 1483,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_BracersOfDefense"
-	},
-	{
-		"abr": "偏向の篭手",
-		"price": 1558,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_BracersOfDeflection"
-	},
-	{
-		"abr": "鋭い知性の指輪",
-		"price": 3500,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_RingOfKeenIntellect"
-	},
-	{
-		"abr": "鮮血の指輪",
-		"price": 3167,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_RingOfBlood"
-	},
-	{
-		"abr": "悠久なる青の指輪",
-		"price": 3333,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_RingOfEternalBlue"
-	},
-	{
-		"abr": "怨念の指輪",
-		"price": 3167,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_RingOfMalice"
-	},
-	{
-		"abr": "信念のオーブ",
-		"price": 2500,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_OrbOfConviction"
-	},
-	{
-		"abr": "魂のオーブ(空)",
-		"price": 2500,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_OrbOfSouls"
-	},
-	{
-		"abr": "魂のオーブ(満)",
-		"price": 2500,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_OrbOfSouls_Full"
-	},
-	{
-		"abr": "久遠のオーブ",
-		"price": 2500,
-		"category": "無し",
-		"defname": "TM_Artifact_OrbOfEternal"
-	},
-	{
-		"abr": "死霊術のオーブ",
-		"price": 3000,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_NecroticOrb"
-	},
-	{
-		"abr": "ポマナフルーツ",
-		"price": 4,
-		"category": "生野菜",
-		"defname": "TM_RawPomanasyrrium"
-	},
-	{
-		"abr": "すり潰されたポマナ",
-		"price": 1,
-		"category": "生野菜",
-		"defname": "TM_RawPomanaMash"
-	},
-	{
-		"abr": "シリウム",
-		"price": 75,
-		"category": "ドラッグ",
-		"defname": "TM_Syrrium"
-	},
-	{
-		"abr": "未記入の破れた書物",
-		"price": 2333,
-		"category": "書物",
-		"defname": "UnfinishedArcane"
-	},
-	{
-		"abr": "未記入の魔導書",
-		"price": 4392,
-		"category": "書物",
-		"defname": "UnfinishedAdvArcane"
-	},
-	{
-		"abr": "未記入の戦闘教本",
-		"price": 3425,
-		"category": "書物",
-		"defname": "UnfinishedMartial"
-	},
-	{
 		"abr": "ミーティアライト",
 		"price": -10,
 		"category": "原材料",
@@ -6247,30 +4861,6 @@
 		"defname": "BarrelProcessor"
 	},
 	{
-		"abr": "cashregister",
-		"price": 173,
-		"category": "家具",
-		"defname": "CashRegister_CashRegister"
-	},
-	{
-		"abr": "リム・アンド・リール",
-		"price": 4167,
-		"category": "娯楽",
-		"defname": "HC_SlotMachineRed"
-	},
-	{
-		"abr": "リム・ア・ムーラ",
-		"price": 4167,
-		"category": "娯楽",
-		"defname": "HC_SlotMachineGreen"
-	},
-	{
-		"abr": "リム・オブ・フォーチュン",
-		"price": 4167,
-		"category": "娯楽",
-		"defname": "HC_SlotMachineBlue"
-	},
-	{
 		"abr": "基本的な管理者の机",
 		"price": 262,
 		"category": "生産物",
@@ -7625,12 +6215,6 @@
 		"price": 8,
 		"category": "畜産物",
 		"defname": "SterilizationMilk"
-	},
-	{
-		"abr": "空の付与器",
-		"price": 833,
-		"category": "付与器",
-		"defname": "Infusion_InfuserEmpty"
 	},
 	{
 		"abr": "簡素な修繕作業台",
@@ -9005,12 +7589,6 @@
 		"price": 3,
 		"category": "ペットフード(家畜用飼料)",
 		"defname": "PFP_LikeMeat"
-	},
-	{
-		"abr": "強化コンクリート",
-		"price": 13,
-		"category": "原材料",
-		"defname": "ConcreteSlab"
 	},
 	{
 		"abr": "アミュレット",
@@ -16405,412 +14983,412 @@
 		"defname": "Meat_Toxalope"
 	},
 	{
-		"abr": "ホロウゴーレムの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_HollowGolem"
+		"abr": "100人用ベッド",
+		"price": 8025,
+		"category": "家具",
+		"defname": "SSB_SuperBedZ"
 	},
 	{
-		"abr": "悪魔の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_DemonR"
+		"abr": "100人用豪華なベッド",
+		"price": 52150,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedZ"
 	},
 	{
-		"abr": "悪魔の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_LesserDemonR"
+		"abr": "10人用ベッド",
+		"price": 825,
+		"category": "家具",
+		"defname": "SSB_SuperBedX"
 	},
 	{
-		"abr": "狼肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Dire_WolfR"
+		"abr": "10人用豪華なベッド",
+		"price": 5567,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedX"
 	},
 	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_LesserEarth_ElementalR"
+		"abr": "11人用ベッド",
+		"price": 900,
+		"category": "家具",
+		"defname": "SSB_SuperBedXI"
 	},
 	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Earth_ElementalR"
+		"abr": "11人用豪華なベッド",
+		"price": 6092,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedXI"
 	},
 	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_GreaterEarth_ElementalR"
+		"abr": "12人用ベッド",
+		"price": 983,
+		"category": "家具",
+		"defname": "SSB_SuperBedXII"
 	},
 	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_LesserFire_ElementalR"
+		"abr": "12人用豪華なベッド",
+		"price": 6617,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedXII"
 	},
 	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Fire_ElementalR"
+		"abr": "13人用ベッド",
+		"price": 1067,
+		"category": "家具",
+		"defname": "SSB_SuperBedXIII"
 	},
 	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_GreaterFire_ElementalR"
+		"abr": "13人用豪華なベッド",
+		"price": 7150,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedXIII"
 	},
 	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_LesserWater_ElementalR"
+		"abr": "14人用ベッド",
+		"price": 1142,
+		"category": "家具",
+		"defname": "SSB_SuperBedXIIII"
 	},
 	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Water_ElementalR"
+		"abr": "14人用豪華なベッド",
+		"price": 7675,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedXIIII"
 	},
 	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_GreaterWater_ElementalR"
+		"abr": "15人用ベッド",
+		"price": 1225,
+		"category": "家具",
+		"defname": "SSB_SuperBedXV"
 	},
 	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_LesserWind_ElementalR"
+		"abr": "15人用豪華なベッド",
+		"price": 8625,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedXV"
 	},
 	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Wind_ElementalR"
+		"abr": "30人用ベッド",
+		"price": 2425,
+		"category": "家具",
+		"defname": "SSB_SuperBedXXX"
 	},
 	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_GreaterWind_ElementalR"
+		"abr": "30人用豪華なベッド",
+		"price": 16817,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedXXX"
 	},
 	{
-		"abr": "ミニオンの謎の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_MinionR"
+		"abr": "3人用ベッド",
+		"price": 249,
+		"category": "家具",
+		"defname": "SSB_SuperBedIII"
 	},
 	{
-		"abr": "上級ミニオンの謎の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_GreaterMinionR"
+		"abr": "3人用豪華なベッド",
+		"price": 1858,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedIII"
 	},
 	{
-		"abr": "石(下級センチネル)",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Lesser_SentinelR"
+		"abr": "4人用ベッド",
+		"price": 331,
+		"category": "家具",
+		"defname": "SSB_SuperBedIIII"
 	},
 	{
-		"abr": "石(センチネル)",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SentinelR"
+		"abr": "4人用豪華なベッド",
+		"price": 2392,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedIIII"
 	},
 	{
-		"abr": "石(上級センチネル)",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Greater_SentinelR"
+		"abr": "5人用ベッド",
+		"price": 417,
+		"category": "家具",
+		"defname": "SSB_SuperBedV"
 	},
 	{
-		"abr": "スケルトンリッチの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SkeletonLichR"
+		"abr": "5人用豪華なベッド",
+		"price": 2917,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedV"
 	},
 	{
-		"abr": "ジャイアントスケルトンの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_GiantSkeletonR"
+		"abr": "6人用ベッド",
+		"price": 492,
+		"category": "家具",
+		"defname": "SSB_SuperBedVI"
 	},
 	{
-		"abr": "スケルトンの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SkeletonR"
+		"abr": "6人用豪華なベッド",
+		"price": 3450,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedVI"
 	},
 	{
-		"abr": "スピリットベアの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SpiritBearR"
+		"abr": "7人用ベッド",
+		"price": 575,
+		"category": "家具",
+		"defname": "SSB_SuperBedVII"
 	},
 	{
-		"abr": "スピリットマングースの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SpiritMongooseR"
+		"abr": "7人用豪華なベッド",
+		"price": 3975,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedVII"
 	},
 	{
-		"abr": "スピリットクロウの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SpiritCrowR"
+		"abr": "8人用ベッド",
+		"price": 658,
+		"category": "家具",
+		"defname": "SSB_SuperBedVIII"
 	},
 	{
-		"abr": "スピリットウルフの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SpiritWolfR"
+		"abr": "8人用豪華なベッド",
+		"price": 4508,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedVIII"
 	},
 	{
-		"abr": "ポッピーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Poppi"
+		"abr": "9人用ベッド",
+		"price": 742,
+		"category": "家具",
+		"defname": "SSB_SuperBedVIIII"
 	},
 	{
-		"abr": "エンフォーサーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_EF_B_M_race_a"
+		"abr": "9人用豪華なベッド",
+		"price": 5033,
+		"category": "家具",
+		"defname": "SSB_SuperRoyalBedVIIII"
 	},
 	{
-		"abr": "エンフォーサーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_EF_B_M_race_b"
+		"abr": "ancientmail",
+		"price": 2742,
+		"category": "着物",
+		"defname": "AncientMail"
 	},
 	{
-		"abr": "エンフォーサーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_EF_B_M_race_c"
+		"abr": "apothecaryrecipe:bliss",
+		"price": 950,
+		"category": "巻物",
+		"defname": "SkillOf_HerbalBliss"
 	},
 	{
-		"abr": "エンフォーサーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_EF_B_M_race_d"
+		"abr": "apothecaryrecipe:clarity",
+		"price": 1733,
+		"category": "巻物",
+		"defname": "SkillOf_HerbalClarity"
 	},
 	{
-		"abr": "エンフォーサーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_EF_B_M_race_e"
+		"abr": "arcalleum",
+		"price": 22,
+		"category": "原材料",
+		"defname": "TM_Arcalleum"
 	},
 	{
-		"abr": "エンフォーサーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_EF_M_race_a"
+		"abr": "arcanegemofacceleration",
+		"price": 650,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_coolDown"
 	},
 	{
-		"abr": "先鋒種の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_RQ_Monster_race_Summon_a"
+		"abr": "arcanegemofconservation",
+		"price": 650,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_mpCost"
 	},
 	{
-		"abr": "狙撃種の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_RQ_Monster_race_Summon_b"
+		"abr": "arcanegemofforce",
+		"price": 650,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_arcaneDmg"
 	},
 	{
-		"abr": "乱射種の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_RQ_Monster_race_Summon_c"
+		"abr": "arcanegemofholding",
+		"price": 650,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_maxMP"
 	},
 	{
-		"abr": "汚染種の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_RQ_Monster_race_Summon_d"
+		"abr": "arcanegemoflearning",
+		"price": 650,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_xpGain"
 	},
 	{
-		"abr": "炸裂種の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_RQ_Monster_race_Summon_e"
+		"abr": "arcanegemofregeneration",
+		"price": 650,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_mpRegenRate"
 	},
 	{
-		"abr": "裁断種の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_RQ_Monster_race_Summon_f"
+		"abr": "arcanegemofresistance",
+		"price": 650,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_arcaneRes"
 	},
 	{
-		"abr": "突撃種の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_RQ_Monster_race_Summon_g"
+		"abr": "arcanegemofwonder",
+		"price": 4417,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_wonder"
 	},
 	{
-		"abr": "斥候種の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_RQ_Monster_race_Summon_h"
+		"abr": "arcanehood",
+		"price": 817,
+		"category": "ロイヤリティ",
+		"defname": "ArcaneHood"
 	},
 	{
-		"abr": "損壊した眷属の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_RQ_Monster_race_Summon_y"
+		"abr": "arcanescript:???",
+		"price": 2500,
+		"category": "書物",
+		"defname": "BookOfQuestion"
 	},
 	{
-		"abr": "元型種の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_RQ_Monster_race_Summon_z"
+		"abr": "arcanespell:gateway",
+		"price": 4767,
+		"category": "巻物",
+		"defname": "SpellOf_FoldReality"
 	},
 	{
-		"abr": "竜の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Yokai_Dragon_MoonDragon"
+		"abr": "arcanetome:bard",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfBard"
 	},
 	{
-		"abr": "妖怪の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Yokai_Kamaitachi"
+		"abr": "arcanetome:brightmage",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfTheSun"
 	},
 	{
-		"abr": "ラットキンの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Ratkin"
+		"abr": "arcanetome:chaosmage",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfChaos"
 	},
 	{
-		"abr": "ラットキン実験体の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Ratkin_Su"
+		"abr": "arcanetome:chronomancer",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfChronomancer"
 	},
 	{
-		"abr": "キングハムスターの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_RK_KingHamster"
+		"abr": "arcanetome:demonology",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfDemons"
 	},
 	{
-		"abr": "ロッティの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Rotti"
+		"abr": "arcanetome:earth",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfEarth"
 	},
 	{
-		"abr": "ユランの肉",
-		"price": 1,
-		"category": "生肉",
-		"defname": "Meat_Yuran_Race"
+		"abr": "arcanetome:enchanter",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfEnchanter"
 	},
 	{
-		"abr": "カメの式神の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_YR_Sikigami_Turtle"
+		"abr": "arcanetome:fire",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfInnerFire"
 	},
 	{
-		"abr": "タヌキの式神の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_YR_Sikigami_Racoon"
+		"abr": "arcanetome:golemancer",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfGolemancy"
 	},
 	{
-		"abr": "ミホの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Alien_Miho"
+		"abr": "arcanetome:hemomancy",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfHemomancy"
 	},
 	{
-		"abr": "青銅縦目仮面機関車の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Heyra_MobileTotem"
+		"abr": "arcanetome:ice",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfHeartOfFrost"
 	},
 	{
-		"abr": "裂肢者の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Heyra_Dismemberer"
+		"abr": "arcanetome:lightning",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfStormBorn"
 	},
 	{
-		"abr": "ヘイラの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Alien_Heyra"
+		"abr": "arcanetome:nature",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfDruid"
 	},
 	{
-		"abr": "ロンの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Alien_Heyra_Rong"
+		"abr": "arcanetome:necromancer",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfNecromancer"
 	},
 	{
-		"abr": "マルの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Maru"
+		"abr": "arcanetome:power",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfArcanist"
 	},
 	{
-		"abr": "ボリの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Alien_Bori"
+		"abr": "arcanetome:priest",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfPriest"
 	},
 	{
-		"abr": "ふわふわコリーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Canis_Lupus_Crinitus"
+		"abr": "arcanetome:shadow",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfShadow"
 	},
 	{
-		"abr": "シフォンの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Alien_SP"
+		"abr": "arcanetome:shaman",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfShamanism"
 	},
 	{
-		"abr": "ドラコニアンの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Dragonian_Race"
+		"abr": "arcanetome:summoning",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfSummoner"
 	},
 	{
-		"abr": "アマゾンの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_AA_Amazon"
+		"abr": "arcanetome:technomancy",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfMagitech"
 	},
 	{
-		"abr": "pork",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_ExC_NEKO_Pig"
+		"abr": "armorofthevaliant",
+		"price": 2750,
+		"category": "装甲化",
+		"defname": "RoyalArmor"
 	},
 	{
-		"abr": "lamb",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_ExC_NEKO_Sheep"
+		"abr": "bardspell:battlehymn",
+		"price": 2750,
+		"category": "巻物",
+		"defname": "SpellOf_BattleHymn"
 	},
 	{
-		"abr": "chiken",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_ExC_NEKO_Chiken"
+		"abr": "bardspell:discord",
+		"price": 1267,
+		"category": "巻物",
+		"defname": "SpellOf_Discord"
 	},
 	{
 		"abr": "beef",
@@ -16819,382 +15397,1084 @@
 		"defname": "Meat_ExC_NEKO_Cow"
 	},
 	{
-		"abr": "ドラゴンの肉",
+		"abr": "bloodmagespell:bloodmoon",
+		"price": 3750,
+		"category": "巻物",
+		"defname": "SpellOf_BloodMoon"
+	},
+	{
+		"abr": "boriの肉",
 		"price": 3,
 		"category": "生肉",
-		"defname": "Meat_Red_Dragon"
+		"defname": "Meat_Alien_Bori"
 	},
 	{
-		"abr": "テックプリント(カタフラクトアーマー)",
-		"price": 5000,
-		"category": "テックプリント",
-		"defname": "Techprint_CataphractArmor"
+		"abr": "bracersofdefense",
+		"price": 1483,
+		"category": "アーティファクト",
+		"defname": "TM_Artifact_BracersOfDefense"
 	},
 	{
-		"abr": "テックプリント(ジャンプパック)",
+		"abr": "bracersofdeflection",
+		"price": 1558,
+		"category": "アーティファクト",
+		"defname": "TM_Artifact_BracersOfDeflection"
+	},
+	{
+		"abr": "bracersofthepacifist",
+		"price": 6375,
+		"category": "アーティファクト",
+		"defname": "TM_Artifact_BracersOfThePacifist"
+	},
+	{
+		"abr": "braincrystal",
+		"price": 33,
+		"category": "ドラッグ",
+		"defname": "RB_Braincrystal"
+	},
+	{
+		"abr": "brightmagespell:spiritoflight",
+		"price": 3767,
+		"category": "巻物",
+		"defname": "SpellOf_SpiritOfLight"
+	},
+	{
+		"abr": "cashregister",
+		"price": 173,
+		"category": "家具",
+		"defname": "CashRegister_CashRegister"
+	},
+	{
+		"abr": "chiken",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_ExC_NEKO_Chiken"
+	},
+	{
+		"abr": "childdress",
+		"price": 1658,
+		"category": "装甲化",
+		"defname": "DR_AP_Child"
+	},
+	{
+		"abr": "chronomancerspell:recall",
 		"price": 3333,
-		"category": "テックプリント",
-		"defname": "Techprint_JumpPack"
+		"category": "巻物",
+		"defname": "SpellOf_Recall"
 	},
 	{
-		"abr": "テックプリント(ブレインワイヤー)",
-		"price": 1667,
-		"category": "テックプリント",
-		"defname": "Techprint_BrainWiring"
+		"abr": "circuitbreaker",
+		"price": 278,
+		"category": "パワー",
+		"defname": "Building_RTCircuitBreaker"
 	},
 	{
-		"abr": "テックプリント(専門的義手)",
-		"price": 1667,
-		"category": "テックプリント",
-		"defname": "Techprint_SpecializedLimbs"
+		"abr": "cloakofsupremacy",
+		"price": 4233,
+		"category": "ロイヤリティ",
+		"defname": "DemonLordCloak"
 	},
 	{
-		"abr": "テックプリント(暗器)",
-		"price": 1667,
-		"category": "テックプリント",
-		"defname": "Techprint_CompactWeaponry"
+		"abr": "combatform:faceless",
+		"price": 4292,
+		"category": "書物",
+		"defname": "BookOfFaceless"
 	},
 	{
-		"abr": "テックプリント(毒物合成)",
-		"price": 1667,
-		"category": "テックプリント",
-		"defname": "Techprint_VenomSynthesis"
+		"abr": "combatform:gladiator",
+		"price": 4292,
+		"category": "書物",
+		"defname": "BookOfGladiator"
 	},
 	{
-		"abr": "テックプリント(人工代謝)",
-		"price": 3333,
-		"category": "テックプリント",
-		"defname": "Techprint_ArtificialMetabolism"
+		"abr": "combatpower:psionic",
+		"price": 4750,
+		"category": "書物",
+		"defname": "BookOfPsionic"
 	},
 	{
-		"abr": "テックプリント(神経計算機)",
-		"price": 3333,
-		"category": "テックプリント",
-		"defname": "Techprint_NeuralComputation"
+		"abr": "combatstyle:apothecary",
+		"price": 4292,
+		"category": "書物",
+		"defname": "BookOfApothecary"
 	},
 	{
-		"abr": "テックプリント(皮膚強化)",
-		"price": 3333,
-		"category": "テックプリント",
-		"defname": "Techprint_SkinHardening"
+		"abr": "combatstyle:bladedancer",
+		"price": 4292,
+		"category": "書物",
+		"defname": "BookOfBladedancer"
 	},
 	{
-		"abr": "テックプリント(ヒーリングファクター)",
-		"price": 3333,
-		"category": "テックプリント",
-		"defname": "Techprint_HealingFactors"
+		"abr": "combatstyle:commander",
+		"price": 4292,
+		"category": "書物",
+		"defname": "BookOfCommander"
 	},
 	{
-		"abr": "テックプリント(肉体整形)",
-		"price": 3333,
-		"category": "テックプリント",
-		"defname": "Techprint_FleshShaping"
+		"abr": "combatstyle:deathknight",
+		"price": 4292,
+		"category": "書物",
+		"defname": "BookOfDeathKnight"
 	},
 	{
-		"abr": "テックプリント(分子解析)",
-		"price": 3333,
-		"category": "テックプリント",
-		"defname": "Techprint_MolecularAnalysis"
+		"abr": "combatstyle:monk",
+		"price": 4292,
+		"category": "書物",
+		"defname": "BookOfMonk"
 	},
 	{
-		"abr": "テックプリント(体内時計調整)",
-		"price": 3333,
-		"category": "テックプリント",
-		"defname": "Techprint_CircadianInfluence"
+		"abr": "combatstyle:ranger",
+		"price": 4292,
+		"category": "書物",
+		"defname": "BookOfRanger"
 	},
 	{
-		"abr": "テックプリント(チャージ兵器)",
-		"price": 1667,
-		"category": "テックプリント",
-		"defname": "Techprint_RK_ChargedWeapon"
+		"abr": "combatstyle:sniper",
+		"price": 4292,
+		"category": "書物",
+		"defname": "BookOfSniper"
 	},
 	{
-		"abr": "テックプリント(応用研究-防弾繊維)",
-		"price": 1333,
-		"category": "テックプリント",
-		"defname": "Techprint_MaruRB"
-	},
-	{
-		"abr": "テックプリント(応用研究-負数力学)",
-		"price": 2000,
-		"category": "テックプリント",
-		"defname": "Techprint_MaruRC"
-	},
-	{
-		"abr": "テックプリント(虫娘の秘薬)",
-		"price": 5000,
-		"category": "テックプリント",
-		"defname": "Techprint_IGSecretmedicine"
-	},
-	{
-		"abr": "サイトレーナー(痛み止め)",
-		"price": 417,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Painblock"
-	},
-	{
-		"abr": "サイトレーナー(スタン)",
-		"price": 417,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Stun"
-	},
-	{
-		"abr": "サイトレーナー(重荷)",
-		"price": 417,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Burden"
-	},
-	{
-		"abr": "サイトレーナー(盲目の波動)",
-		"price": 667,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_BlindingPulse"
-	},
-	{
-		"abr": "サイトレーナー(ニューラルヒートダンプ)",
-		"price": 667,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_EntropyDump"
-	},
-	{
-		"abr": "サイトレーナー(手招き)",
-		"price": 917,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Beckon"
-	},
-	{
-		"abr": "サイトレーナー(空間識失調の波動)",
-		"price": 917,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_VertigoPulse"
-	},
-	{
-		"abr": "サイトレーナー(吹き飛ばし)",
-		"price": 917,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_ChaosSkip"
-	},
-	{
-		"abr": "サイトレーナー(スキップ)",
-		"price": 1167,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Skip"
-	},
-	{
-		"abr": "サイトレーナー(防壁)",
-		"price": 1167,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Wallraise"
-	},
-	{
-		"abr": "サイトレーナー(スモークポップ)",
-		"price": 1167,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Smokepop"
-	},
-	{
-		"abr": "サイトレーナー(フォーカス)",
-		"price": 1167,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Focus"
-	},
-	{
-		"abr": "サイトレーナー(ベルセルク)",
-		"price": 1417,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Berserk"
-	},
-	{
-		"abr": "サイトレーナー(不可視)",
-		"price": 1417,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Invisibility"
-	},
-	{
-		"abr": "サイトレーナー(狂戦士の波動)",
-		"price": 1667,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_BerserkPulse"
-	},
-	{
-		"abr": "サイトレーナー(人狩りの波動)",
-		"price": 1667,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_ManhunterPulse"
-	},
-	{
-		"abr": "サイトレーナー(カオススキップ)",
-		"price": 1667,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_MassChaosSkip"
-	},
-	{
-		"abr": "サイトレーナー(ウォータースキップ)",
-		"price": 667,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Waterskip"
-	},
-	{
-		"abr": "サイトレーナー(フラッシュストーム)",
-		"price": 1417,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Flashstorm"
-	},
-	{
-		"abr": "サイトレーナー(スキップシールド)",
-		"price": 1667,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_BulletShield"
-	},
-	{
-		"abr": "サイトレーナー(ソーラーピンホール)",
-		"price": 417,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_SolarPinhole"
-	},
-	{
-		"abr": "サイトレーナー(信頼の言葉)",
-		"price": 417,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_WordOfTrust"
-	},
-	{
-		"abr": "サイトレーナー(喜びの言葉)",
-		"price": 667,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_WordOfJoy"
-	},
-	{
-		"abr": "サイトレーナー(恋愛の言葉)",
-		"price": 917,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_WordOfLove"
-	},
-	{
-		"abr": "サイトレーナー(平静の言葉)",
-		"price": 1167,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_WordOfSerenity"
-	},
-	{
-		"abr": "サイトレーナー(激励の言葉)",
-		"price": 1417,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_WordOfInspiration"
-	},
-	{
-		"abr": "サイトレーナー(ファースキップ)",
-		"price": 1417,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Farskip"
-	},
-	{
-		"abr": "サイトレーナー(ニューロクェイク)",
-		"price": 1667,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Neuroquake"
-	},
-	{
-		"abr": "サイトレーナー(ブロックスキップ)",
-		"price": 417,
-		"category": "サイトレイナー",
-		"defname": "Psytrainer_Chunkskip"
-	},
-	{
-		"abr": "スキルトレイナー(射撃)",
-		"price": 1250,
-		"category": "スキルトレイナー",
-		"defname": "Neurotrainer_Shooting"
-	},
-	{
-		"abr": "スキルトレイナー(格闘)",
-		"price": 1250,
-		"category": "スキルトレイナー",
-		"defname": "Neurotrainer_Melee"
-	},
-	{
-		"abr": "スキルトレイナー(建築)",
-		"price": 1250,
-		"category": "スキルトレイナー",
-		"defname": "Neurotrainer_Construction"
-	},
-	{
-		"abr": "スキルトレイナー(採掘)",
-		"price": 1250,
-		"category": "スキルトレイナー",
-		"defname": "Neurotrainer_Mining"
-	},
-	{
-		"abr": "スキルトレイナー(料理)",
-		"price": 1250,
-		"category": "スキルトレイナー",
-		"defname": "Neurotrainer_Cooking"
-	},
-	{
-		"abr": "スキルトレイナー(栽培)",
-		"price": 1250,
-		"category": "スキルトレイナー",
-		"defname": "Neurotrainer_Plants"
-	},
-	{
-		"abr": "スキルトレイナー(動物)",
-		"price": 1250,
-		"category": "スキルトレイナー",
-		"defname": "Neurotrainer_Animals"
-	},
-	{
-		"abr": "スキルトレイナー(工芸)",
-		"price": 1250,
-		"category": "スキルトレイナー",
-		"defname": "Neurotrainer_Crafting"
-	},
-	{
-		"abr": "スキルトレイナー(芸術)",
-		"price": 1250,
-		"category": "スキルトレイナー",
-		"defname": "Neurotrainer_Artistic"
-	},
-	{
-		"abr": "スキルトレイナー(医術)",
-		"price": 1250,
-		"category": "スキルトレイナー",
-		"defname": "Neurotrainer_Medicine"
-	},
-	{
-		"abr": "スキルトレイナー(社交)",
-		"price": 1250,
-		"category": "スキルトレイナー",
-		"defname": "Neurotrainer_Social"
-	},
-	{
-		"abr": "スキルトレイナー(知力)",
-		"price": 1250,
-		"category": "スキルトレイナー",
-		"defname": "Neurotrainer_Intellectual"
-	},
-	{
-		"abr": "コモン付与器",
+		"abr": "commoninfuser",
 		"price": 333,
 		"category": "付与器",
 		"defname": "Infusion_Infuser_Common"
 	},
 	{
-		"abr": "アンコモン付与器",
+		"abr": "concreteslabs",
+		"price": 13,
+		"category": "原材料",
+		"defname": "ConcreteSlab"
+	},
+	{
+		"abr": "decimation",
+		"price": 6058,
+		"category": "近接",
+		"defname": "TM_Decimation"
+	},
+	{
+		"abr": "demonflesh",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_DemonR"
+	},
+	{
+		"abr": "demonflesh",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_LesserDemonR"
+	},
+	{
+		"abr": "demonhide",
+		"price": 27,
+		"category": "革",
+		"defname": "TM_Demonhide"
+	},
+	{
+		"abr": "demon'sfang",
+		"price": 6150,
+		"category": "近接",
+		"defname": "TM_DemonFang"
+	},
+	{
+		"abr": "demonscale",
+		"price": 30,
+		"category": "原材料",
+		"defname": "TM_Demonscale"
+	},
+	{
+		"abr": "direwolf",
+		"price": 3667,
+		"category": "家畜",
+		"defname": "TM_Dire_WolfR"
+	},
+	{
+		"abr": "dismembererの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Heyra_Dismemberer"
+	},
+	{
+		"abr": "divinetome:paladin",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfValiant"
+	},
+	{
+		"abr": "doubleloftbed",
+		"price": 312,
+		"category": "家具",
+		"defname": "DoubleLoftBed"
+	},
+	{
+		"abr": "dragonianの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Dragonian_Race"
+	},
+	{
+		"abr": "dreamcatcherbuckskin",
+		"price": 4242,
+		"category": "上着",
+		"defname": "TM_DreamcatcherBuckskin"
+	},
+	{
+		"abr": "dreamcatchercoronet",
+		"price": 3008,
+		"category": "帽子",
+		"defname": "TM_DreamcatcherCoronet"
+	},
+	{
+		"abr": "druidspell:briarpatch",
+		"price": 950,
+		"category": "巻物",
+		"defname": "SpellOf_BriarPatch"
+	},
+	{
+		"abr": "druidspell:fertilelands",
+		"price": 1233,
+		"category": "巻物",
+		"defname": "SpellOf_FertileLands"
+	},
+	{
+		"abr": "druidspell:regrowlimb",
+		"price": 3100,
+		"category": "巻物",
+		"defname": "SpellOf_RegrowLimb"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_LesserEarth_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_Earth_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_GreaterEarth_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_LesserFire_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_Fire_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_GreaterFire_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_LesserWater_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_Water_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_GreaterWater_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_LesserWind_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_Wind_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_GreaterWind_ElementalR"
+	},
+	{
+		"abr": "elephantbow",
+		"price": 2083,
+		"category": "遠隔",
+		"defname": "TM_ElephantBow"
+	},
+	{
+		"abr": "elephantspear",
+		"price": 1333,
+		"category": "近接",
+		"defname": "TM_ElephantSpear"
+	},
+	{
+		"abr": "elephanttusk",
+		"price": 200,
+		"category": "近接",
+		"defname": "TM_ElephantTusk"
+	},
+	{
+		"abr": "empathability:fadeemotions",
+		"price": 1267,
+		"category": "巻物",
+		"defname": "SpellOf_FadeEmotions"
+	},
+	{
+		"abr": "emptyinfuser",
 		"price": 833,
 		"category": "付与器",
-		"defname": "Infusion_Infuser_Uncommon"
+		"defname": "Infusion_InfuserEmpty"
 	},
 	{
-		"abr": "レア付与器",
+		"abr": "enchanterspell:blankmind",
+		"price": 1367,
+		"category": "巻物",
+		"defname": "SpellOf_BlankMind"
+	},
+	{
+		"abr": "enchanterspell:shapeshift",
+		"price": 3333,
+		"category": "巻物",
+		"defname": "SpellOf_Shapeshift"
+	},
+	{
+		"abr": "essenceofmagic",
+		"price": 833,
+		"category": "無し",
+		"defname": "TM_MagicArtifact_MagicEssence"
+	},
+	{
+		"abr": "essenceofmight",
+		"price": 833,
+		"category": "無し",
+		"defname": "TM_MagicArtifact_MightEssence"
+	},
+	{
+		"abr": "fighterskill:burningfury",
+		"price": 1583,
+		"category": "巻物",
+		"defname": "SkillOf_BurningFury"
+	},
+	{
+		"abr": "fighterskill:fightersfocus",
+		"price": 1333,
+		"category": "巻物",
+		"defname": "SkillOf_FightersFocus"
+	},
+	{
+		"abr": "fighterskill:gearrepair",
+		"price": 1167,
+		"category": "巻物",
+		"defname": "SkillOf_GearRepair"
+	},
+	{
+		"abr": "fighterskill:heavyblow",
+		"price": 1250,
+		"category": "巻物",
+		"defname": "SkillOf_HeavyBlow"
+	},
+	{
+		"abr": "fighterskill:innerhealing",
+		"price": 833,
+		"category": "巻物",
+		"defname": "SkillOf_InnerHealing"
+	},
+	{
+		"abr": "fighterskill:legion",
+		"price": 1333,
+		"category": "巻物",
+		"defname": "SkillOf_Legion"
+	},
+	{
+		"abr": "fighterskill:pommelstrike",
 		"price": 1667,
-		"category": "付与器",
-		"defname": "Infusion_Infuser_Rare"
+		"category": "巻物",
+		"defname": "SkillOf_PommelStrike"
 	},
 	{
-		"abr": "レジェンダリー付与器",
+		"abr": "fighterskill:sprint",
+		"price": 833,
+		"category": "巻物",
+		"defname": "SkillOf_Sprint"
+	},
+	{
+		"abr": "fighterskill:strongback",
+		"price": 1000,
+		"category": "巻物",
+		"defname": "SkillOf_StrongBack"
+	},
+	{
+		"abr": "fighterskill:taunt",
+		"price": 1667,
+		"category": "巻物",
+		"defname": "SkillOf_Taunt"
+	},
+	{
+		"abr": "fighterskill:tempeststrike",
+		"price": 1000,
+		"category": "巻物",
+		"defname": "SkillOf_TempestStrike"
+	},
+	{
+		"abr": "fighterskill:thickskin",
+		"price": 667,
+		"category": "巻物",
+		"defname": "SkillOf_ThickSkin"
+	},
+	{
+		"abr": "fighterskill:throwingknife",
+		"price": 1583,
+		"category": "巻物",
+		"defname": "SkillOf_ThrowingKnife"
+	},
+	{
+		"abr": "firespell:cauterizewound",
+		"price": 533,
+		"category": "巻物",
+		"defname": "SpellOf_CauterizeWound"
+	},
+	{
+		"abr": "firespell:dryground",
+		"price": 900,
+		"category": "巻物",
+		"defname": "SpellOf_DryGround"
+	},
+	{
+		"abr": "firespell:firestorm",
+		"price": 3583,
+		"category": "巻物",
+		"defname": "SpellOf_Firestorm"
+	},
+	{
+		"abr": "firespell:heatshield",
+		"price": 1000,
+		"category": "巻物",
+		"defname": "SpellOf_HeatShield"
+	},
+	{
+		"abr": "fleshgolem",
+		"price": 4500,
+		"category": "Animal",
+		"defname": "TM_FleshGolem"
+	},
+	{
+		"abr": "gemofarcaneinsight",
+		"price": 5000,
+		"category": "無し",
+		"defname": "GemstoneOfInsight_Magic"
+	},
+	{
+		"abr": "gemofphysicalinsight",
+		"price": 4000,
+		"category": "無し",
+		"defname": "GemstoneOfInsight_Might"
+	},
+	{
+		"abr": "geomancerspell:meteor",
+		"price": 2750,
+		"category": "巻物",
+		"defname": "SpellOf_Meteor"
+	},
+	{
+		"abr": "giantskeletonの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_GiantSkeletonR"
+	},
+	{
+		"abr": "glorymaul",
+		"price": 2825,
+		"category": "近接",
+		"defname": "TM_GloryMaul"
+	},
+	{
+		"abr": "golemancerspell:awarenessbrand",
+		"price": 1333,
+		"category": "巻物",
+		"defname": "SpellOf_BrandAwareness"
+	},
+	{
+		"abr": "golemancerspell:emotionbrand",
+		"price": 1567,
+		"category": "巻物",
+		"defname": "SpellOf_BrandEmotion"
+	},
+	{
+		"abr": "golemancerspell:fitnessbrand",
+		"price": 1333,
+		"category": "巻物",
+		"defname": "SpellOf_BrandFitness"
+	},
+	{
+		"abr": "golemancerspell:livingwall",
+		"price": 3667,
+		"category": "巻物",
+		"defname": "SpellOf_LivingWall"
+	},
+	{
+		"abr": "golemancerspell:protectionbrand",
+		"price": 1567,
+		"category": "巻物",
+		"defname": "SpellOf_BrandProtection"
+	},
+	{
+		"abr": "golemancerspell:siphonbrand",
+		"price": 1567,
+		"category": "巻物",
+		"defname": "SpellOf_BrandSiphon"
+	},
+	{
+		"abr": "golemancerspell:vitalitybrand",
+		"price": 1333,
+		"category": "巻物",
+		"defname": "SpellOf_BrandVitality"
+	},
+	{
+		"abr": "granitegolem",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "TM_GraniteGolem"
+	},
+	{
+		"abr": "helmofthevaliant",
+		"price": 975,
+		"category": "帽子",
+		"defname": "RoyalHelm"
+	},
+	{
+		"abr": "heyrantotemcarrierの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Heyra_MobileTotem"
+	},
+	{
+		"abr": "heyraの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Alien_Heyra"
+	},
+	{
+		"abr": "hollowgolem",
+		"price": 9167,
+		"category": "Animal",
+		"defname": "TM_HollowGolem"
+	},
+	{
+		"abr": "hollowgolemの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_HollowGolem"
+	},
+	{
+		"abr": "holycasterspell:shieldother",
+		"price": 1267,
+		"category": "巻物",
+		"defname": "SpellOf_ShieldOther"
+	},
+	{
+		"abr": "hoodofmadness",
+		"price": 1008,
+		"category": "ロイヤリティ",
+		"defname": "HoodOfMadness"
+	},
+	{
+		"abr": "icespell:alterstorm",
+		"price": 1417,
+		"category": "巻物",
+		"defname": "SpellOf_AlterStorm"
+	},
+	{
+		"abr": "icespell:blizzard",
+		"price": 3583,
+		"category": "巻物",
+		"defname": "SpellOf_Blizzard"
+	},
+	{
+		"abr": "icespell:moisturizeground",
+		"price": 900,
+		"category": "巻物",
+		"defname": "SpellOf_WetGround"
+	},
+	{
+		"abr": "lamb",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_ExC_NEKO_Sheep"
+	},
+	{
+		"abr": "largegenebank",
+		"price": 783,
+		"category": "生産物",
+		"defname": "LargeGeneBank"
+	},
+	{
+		"abr": "legendaryinfuser",
 		"price": 3333,
 		"category": "付与器",
 		"defname": "Infusion_Infuser_Legendary"
+	},
+	{
+		"abr": "lightningspell:chargebattery",
+		"price": 833,
+		"category": "巻物",
+		"defname": "SpellOf_ChargeBattery"
+	},
+	{
+		"abr": "lightningspell:eyeofthestorm",
+		"price": 3583,
+		"category": "巻物",
+		"defname": "SpellOf_EyeOfTheStorm"
+	},
+	{
+		"abr": "limestonegolem",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "TM_LimestoneGolem"
+	},
+	{
+		"abr": "liquidfreezer",
+		"price": 1250,
+		"category": "家具",
+		"defname": "VFE_MechanoidLiquidFreezer"
+	},
+	{
+		"abr": "magerobe",
+		"price": 3767,
+		"category": "ロイヤリティ",
+		"defname": "DarkRobe"
+	},
+	{
+		"abr": "magespell:arcanebolt",
+		"price": 950,
+		"category": "巻物",
+		"defname": "SpellOf_ArcaneBolt"
+	},
+	{
+		"abr": "magespell:blink",
+		"price": 833,
+		"category": "巻物",
+		"defname": "SpellOf_Blink"
+	},
+	{
+		"abr": "magespell:blur",
+		"price": 967,
+		"category": "巻物",
+		"defname": "SpellOf_Blur"
+	},
+	{
+		"abr": "magespell:dirtdevil",
+		"price": 967,
+		"category": "巻物",
+		"defname": "SpellOf_DirtDevil"
+	},
+	{
+		"abr": "magespell:emp",
+		"price": 967,
+		"category": "巻物",
+		"defname": "SpellOf_EMP"
+	},
+	{
+		"abr": "magespell:extinguish",
+		"price": 567,
+		"category": "巻物",
+		"defname": "SpellOf_Extinguish"
+	},
+	{
+		"abr": "magespell:heal",
+		"price": 767,
+		"category": "巻物",
+		"defname": "SpellOf_Heal"
+	},
+	{
+		"abr": "magespell:ignite",
+		"price": 950,
+		"category": "巻物",
+		"defname": "SpellOf_Ignite"
+	},
+	{
+		"abr": "magespell:invisibility",
+		"price": 2000,
+		"category": "巻物",
+		"defname": "SpellOf_Invisibility"
+	},
+	{
+		"abr": "magespell:lightningtrap",
+		"price": 2000,
+		"category": "巻物",
+		"defname": "SpellOf_LightningTrap"
+	},
+	{
+		"abr": "magespell:magelight",
+		"price": 633,
+		"category": "巻物",
+		"defname": "SpellOf_MageLight"
+	},
+	{
+		"abr": "magespell:magiccooler",
+		"price": 633,
+		"category": "巻物",
+		"defname": "SpellOf_Cooler"
+	},
+	{
+		"abr": "magespell:magicheater",
+		"price": 633,
+		"category": "巻物",
+		"defname": "SpellOf_Heater"
+	},
+	{
+		"abr": "magespell:magicwardrobe",
+		"price": 2333,
+		"category": "巻物",
+		"defname": "SpellOf_MagicWardrobe"
+	},
+	{
+		"abr": "magespell:manashield",
+		"price": 1600,
+		"category": "巻物",
+		"defname": "SpellOf_ManaShield"
+	},
+	{
+		"abr": "magespell:powernode",
+		"price": 1017,
+		"category": "巻物",
+		"defname": "SpellOf_PowerNode"
+	},
+	{
+		"abr": "magespell:rain",
+		"price": 433,
+		"category": "巻物",
+		"defname": "SpellOf_Rain"
+	},
+	{
+		"abr": "magespell:siphonmana",
+		"price": 1267,
+		"category": "巻物",
+		"defname": "SpellOf_SiphonMana"
+	},
+	{
+		"abr": "magespell:smokecloud",
+		"price": 700,
+		"category": "巻物",
+		"defname": "SpellOf_SmokeCloud"
+	},
+	{
+		"abr": "magespell:snapfreeze",
+		"price": 950,
+		"category": "巻物",
+		"defname": "SpellOf_SnapFreeze"
+	},
+	{
+		"abr": "magespell:spellmending",
+		"price": 1792,
+		"category": "巻物",
+		"defname": "SpellOf_SpellMending"
+	},
+	{
+		"abr": "magespell:summonminion",
+		"price": 1750,
+		"category": "巻物",
+		"defname": "SpellOf_SummonMinion"
+	},
+	{
+		"abr": "magespell:sunlight",
+		"price": 1117,
+		"category": "巻物",
+		"defname": "SpellOf_Sunlight"
+	},
+	{
+		"abr": "magespell:teleport",
+		"price": 2200,
+		"category": "巻物",
+		"defname": "SpellOf_Teleport"
+	},
+	{
+		"abr": "magespell:transfermana",
+		"price": 1267,
+		"category": "巻物",
+		"defname": "SpellOf_TransferMana"
+	},
+	{
+		"abr": "maharalgolem",
+		"price": 3000,
+		"category": "Animal",
+		"defname": "TM_MaharalGolem"
+	},
+	{
+		"abr": "majorarcanegemofacceleration",
+		"price": 1592,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_coolDown_major"
+	},
+	{
+		"abr": "majorarcanegemofconservation",
+		"price": 1592,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_mpCost_major"
+	},
+	{
+		"abr": "majorarcanegemofforce",
+		"price": 1592,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_arcaneDmg_major"
+	},
+	{
+		"abr": "majorarcanegemofholding",
+		"price": 1592,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_maxMP_major"
+	},
+	{
+		"abr": "majorarcanegemoflearning",
+		"price": 1592,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_xpGain_major"
+	},
+	{
+		"abr": "majorarcanegemofregeneration",
+		"price": 1592,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_mpRegenRate_major"
+	},
+	{
+		"abr": "majorarcanegemofresistance",
+		"price": 1592,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_arcaneRes_major"
+	},
+	{
+		"abr": "majorarcanegemofwonder",
+		"price": 10917,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_wonder_major"
+	},
+	{
+		"abr": "makeshiftfuse",
+		"price": 120,
+		"category": "パワー",
+		"defname": "Building_RTMakeshiftFuse"
+	},
+	{
+		"abr": "manapotion",
+		"price": 150,
+		"category": "ドラッグ",
+		"defname": "ManaPotion"
+	},
+	{
+		"abr": "manaweave",
+		"price": 15,
+		"category": "織物",
+		"defname": "TM_Manaweave"
+	},
+	{
+		"abr": "marblegolem",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "TM_MarbleGolem"
+	},
+	{
+		"abr": "maruの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Maru"
+	},
+	{
+		"abr": "mashedpomana",
+		"price": -10,
+		"category": "生野菜",
+		"defname": "TM_RawPomanaMash"
+	},
+	{
+		"abr": "meat",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_SpiritWolfR"
+	},
+	{
+		"abr": "mecha-golem",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "TM_MechaGolem"
+	},
+	{
+		"abr": "minorarcanegemofacceleration",
+		"price": 283,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_coolDown_minor"
+	},
+	{
+		"abr": "minorarcanegemofconservation",
+		"price": 283,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_mpCost_minor"
+	},
+	{
+		"abr": "minorarcanegemofforce",
+		"price": 283,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_arcaneDmg_minor"
+	},
+	{
+		"abr": "minorarcanegemofholding",
+		"price": 283,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_maxMP_minor"
+	},
+	{
+		"abr": "minorarcanegemoflearning",
+		"price": 283,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_xpGain_minor"
+	},
+	{
+		"abr": "minorarcanegemofregeneration",
+		"price": 283,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_mpRegenRate_minor"
+	},
+	{
+		"abr": "minorarcanegemofresistance",
+		"price": 283,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_arcaneRes_minor"
+	},
+	{
+		"abr": "minorarcanegemofwonder",
+		"price": 1983,
+		"category": "加工した魔石",
+		"defname": "TM_EStone_wonder_minor"
+	},
+	{
+		"abr": "moonmachiningtable",
+		"price": 758,
+		"category": "生産物",
+		"defname": "RB_MoonTableMachining"
+	},
+	{
+		"abr": "moontailorbench",
+		"price": 517,
+		"category": "生産物",
+		"defname": "RB_MoonTailoringBench"
+	},
+	{
+		"abr": "moonthread",
+		"price": 8,
+		"category": "織物",
+		"defname": "Moonthread"
+	},
+	{
+		"abr": "mysterymeat",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_MinionR"
+	},
+	{
+		"abr": "mysterymeat",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_GreaterMinionR"
+	},
+	{
+		"abr": "necromancerspell:lichform",
+		"price": 4292,
+		"category": "巻物",
+		"defname": "SpellOf_LichForm"
+	},
+	{
+		"abr": "necromancerspell:massconsumecorpse",
+		"price": 833,
+		"category": "巻物",
+		"defname": "SpellOf_ConsumeCorpse_Mass"
+	},
+	{
+		"abr": "necroticorb",
+		"price": 3000,
+		"category": "アーティファクト",
+		"defname": "TM_Artifact_NecroticOrb"
+	},
+	{
+		"abr": "orbofconviction",
+		"price": 2500,
+		"category": "アーティファクト",
+		"defname": "TM_Artifact_OrbOfConviction"
+	},
+	{
+		"abr": "orbofsouls(empty)",
+		"price": 2500,
+		"category": "アーティファクト",
+		"defname": "TM_Artifact_OrbOfSouls"
+	},
+	{
+		"abr": "orbofsouls(filled)",
+		"price": 2500,
+		"category": "アーティファクト",
+		"defname": "TM_Artifact_OrbOfSouls_Full"
+	},
+	{
+		"abr": "orboftheeternal",
+		"price": 2500,
+		"category": "無し",
+		"defname": "TM_Artifact_OrbOfEternal"
+	},
+	{
+		"abr": "paladinspell:holywrath",
+		"price": 3167,
+		"category": "巻物",
+		"defname": "SpellOf_HolyWrath"
+	},
+	{
+		"abr": "paragon'shelm",
+		"price": 1725,
+		"category": "装甲化",
+		"defname": "ParagonHelm"
+	},
+	{
+		"abr": "planetarium",
+		"price": 100,
+		"category": "ドラッグ",
+		"defname": "RefinedPlanetarium"
+	},
+	{
+		"abr": "planetariumtea",
+		"price": 100,
+		"category": "ドラッグ",
+		"defname": "PlanetariumTea"
+	},
+	{
+		"abr": "pomanafruit",
+		"price": 4,
+		"category": "生野菜",
+		"defname": "TM_RawPomanasyrrium"
+	},
+	{
+		"abr": "poppiの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_Poppi"
+	},
+	{
+		"abr": "pork",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_ExC_NEKO_Pig"
 	},
 	{
 		"abr": "rbpdw",
@@ -17437,100 +16717,10 @@
 		"defname": "RB_Energymanager"
 	},
 	{
-		"abr": "スパイスティー",
-		"price": 100,
-		"category": "ドラッグ",
-		"defname": "PlanetariumTea"
-	},
-	{
-		"abr": "スパイス結晶体",
-		"price": 33,
-		"category": "ドラッグ",
-		"defname": "RB_Braincrystal"
-	},
-	{
-		"abr": "プラネタリウム",
-		"price": 100,
-		"category": "ドラッグ",
-		"defname": "RefinedPlanetarium"
-	},
-	{
-		"abr": "ムーンシルク",
-		"price": 20,
-		"category": "織物",
-		"defname": "Moonsilk"
-	},
-	{
-		"abr": "ムーンスレッド",
-		"price": 8,
-		"category": "織物",
-		"defname": "Moonthread"
-	},
-	{
-		"abr": "ラビ",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Rabbie"
-	},
-	{
-		"abr": "ラビの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Rabbie"
-	},
-	{
-		"abr": "ラビ専用精密工作機械",
-		"price": 758,
+		"abr": "smallgenebank",
+		"price": 148,
 		"category": "生産物",
-		"defname": "RB_MoonTableMachining"
-	},
-	{
-		"abr": "ラビ専用ミシン台",
-		"price": 517,
-		"category": "生産物",
-		"defname": "RB_MoonTailoringBench"
-	},
-	{
-		"abr": "dr子供服",
-		"price": 1658,
-		"category": "装甲化",
-		"defname": "DR_AP_Child"
-	},
-	{
-		"abr": "入植者の像",
-		"price": 358,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfColonistK"
-	},
-	{
-		"abr": "動物の像",
-		"price": 358,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfAnimal1x"
-	},
-	{
-		"abr": "動物の像(2x2)",
-		"price": 1258,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfAnimal2x"
-	},
-	{
-		"abr": "大ぶりの入植者の像",
-		"price": 633,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfColonistKLarge"
-	},
-	{
-		"abr": "子供用のプレートアーマー",
-		"price": 725,
-		"category": "装甲化",
-		"defname": "Apparel_cskKidPlateArmor"
-	},
-	{
-		"abr": "liquidfreezer",
-		"price": 1250,
-		"category": "家具",
-		"defname": "VFE_MechanoidLiquidFreezer"
+		"defname": "SmallGeneBank"
 	},
 	{
 		"abr": "x線監視カメラ",
@@ -17539,10 +16729,538 @@
 		"defname": "SurveillanceCamera_XRaySurveillanceCamera"
 	},
 	{
-		"abr": "アーマーラック",
-		"price": 139,
+		"abr": "アークメイジのローブ",
+		"price": 5525,
+		"category": "ロイヤリティ",
+		"defname": "ArchMageRobe"
+	},
+	{
+		"abr": "アマゾンの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_AA_Amazon"
+	},
+	{
+		"abr": "アンコモン付与器",
+		"price": 833,
+		"category": "付与器",
+		"defname": "Infusion_Infuser_Uncommon"
+	},
+	{
+		"abr": "ウィザードハット",
+		"price": 392,
+		"category": "帽子",
+		"defname": "TM_WizardHat"
+	},
+	{
+		"abr": "エンフォーサーの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_EF_B_M_race_a"
+	},
+	{
+		"abr": "エンフォーサーの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_EF_B_M_race_b"
+	},
+	{
+		"abr": "エンフォーサーの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_EF_B_M_race_c"
+	},
+	{
+		"abr": "エンフォーサーの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_EF_B_M_race_d"
+	},
+	{
+		"abr": "エンフォーサーの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_EF_B_M_race_e"
+	},
+	{
+		"abr": "エンフォーサーの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_EF_M_race_a"
+	},
+	{
+		"abr": "カメの式神の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_YR_Sikigami_Turtle"
+	},
+	{
+		"abr": "キングハムスターの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_RK_KingHamster"
+	},
+	{
+		"abr": "サイトレーナー(ウォータースキップ)",
+		"price": 667,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Waterskip"
+	},
+	{
+		"abr": "サイトレーナー(カオススキップ)",
+		"price": 1667,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_MassChaosSkip"
+	},
+	{
+		"abr": "サイトレーナー(スキップ)",
+		"price": 1167,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Skip"
+	},
+	{
+		"abr": "サイトレーナー(スキップシールド)",
+		"price": 1667,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_BulletShield"
+	},
+	{
+		"abr": "サイトレーナー(スタン)",
+		"price": 417,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Stun"
+	},
+	{
+		"abr": "サイトレーナー(スモークポップ)",
+		"price": 1167,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Smokepop"
+	},
+	{
+		"abr": "サイトレーナー(ソーラーピンホール)",
+		"price": 417,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_SolarPinhole"
+	},
+	{
+		"abr": "サイトレーナー(ニューラルヒートダンプ)",
+		"price": 667,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_EntropyDump"
+	},
+	{
+		"abr": "サイトレーナー(ニューロクェイク)",
+		"price": 1667,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Neuroquake"
+	},
+	{
+		"abr": "サイトレーナー(ファースキップ)",
+		"price": 1417,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Farskip"
+	},
+	{
+		"abr": "サイトレーナー(フォーカス)",
+		"price": 1167,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Focus"
+	},
+	{
+		"abr": "サイトレーナー(フラッシュストーム)",
+		"price": 1417,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Flashstorm"
+	},
+	{
+		"abr": "サイトレーナー(ブロックスキップ)",
+		"price": 417,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Chunkskip"
+	},
+	{
+		"abr": "サイトレーナー(ベルセルク)",
+		"price": 1417,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Berserk"
+	},
+	{
+		"abr": "サイトレーナー(不可視)",
+		"price": 1417,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Invisibility"
+	},
+	{
+		"abr": "サイトレーナー(人狩りの波動)",
+		"price": 1667,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_ManhunterPulse"
+	},
+	{
+		"abr": "サイトレーナー(信頼の言葉)",
+		"price": 417,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_WordOfTrust"
+	},
+	{
+		"abr": "サイトレーナー(吹き飛ばし)",
+		"price": 917,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_ChaosSkip"
+	},
+	{
+		"abr": "サイトレーナー(喜びの言葉)",
+		"price": 667,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_WordOfJoy"
+	},
+	{
+		"abr": "サイトレーナー(平静の言葉)",
+		"price": 1167,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_WordOfSerenity"
+	},
+	{
+		"abr": "サイトレーナー(恋愛の言葉)",
+		"price": 917,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_WordOfLove"
+	},
+	{
+		"abr": "サイトレーナー(手招き)",
+		"price": 917,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Beckon"
+	},
+	{
+		"abr": "サイトレーナー(激励の言葉)",
+		"price": 1417,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_WordOfInspiration"
+	},
+	{
+		"abr": "サイトレーナー(狂戦士の波動)",
+		"price": 1667,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_BerserkPulse"
+	},
+	{
+		"abr": "サイトレーナー(痛み止め)",
+		"price": 417,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Painblock"
+	},
+	{
+		"abr": "サイトレーナー(盲目の波動)",
+		"price": 667,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_BlindingPulse"
+	},
+	{
+		"abr": "サイトレーナー(空間識失調の波動)",
+		"price": 917,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_VertigoPulse"
+	},
+	{
+		"abr": "サイトレーナー(重荷)",
+		"price": 417,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Burden"
+	},
+	{
+		"abr": "サイトレーナー(防壁)",
+		"price": 1167,
+		"category": "サイトレイナー",
+		"defname": "Psytrainer_Wallraise"
+	},
+	{
+		"abr": "サキュバスの呪文：スコーン",
+		"price": 2750,
+		"category": "巻物",
+		"defname": "SpellOf_Scorn"
+	},
+	{
+		"abr": "サンドストーンゴーレム",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "TM_SandstoneGolem"
+	},
+	{
+		"abr": "シフォンの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Alien_SP"
+	},
+	{
+		"abr": "シリウム",
+		"price": 75,
+		"category": "ドラッグ",
+		"defname": "TM_Syrrium"
+	},
+	{
+		"abr": "スーパーソルジャーシーラム",
+		"price": 5500,
+		"category": "書物",
+		"defname": "BookOfSuperSoldier"
+	},
+	{
+		"abr": "スキルトレイナー(動物)",
+		"price": 1250,
+		"category": "スキルトレイナー",
+		"defname": "Neurotrainer_Animals"
+	},
+	{
+		"abr": "スキルトレイナー(医術)",
+		"price": 1250,
+		"category": "スキルトレイナー",
+		"defname": "Neurotrainer_Medicine"
+	},
+	{
+		"abr": "スキルトレイナー(射撃)",
+		"price": 1250,
+		"category": "スキルトレイナー",
+		"defname": "Neurotrainer_Shooting"
+	},
+	{
+		"abr": "スキルトレイナー(工芸)",
+		"price": 1250,
+		"category": "スキルトレイナー",
+		"defname": "Neurotrainer_Crafting"
+	},
+	{
+		"abr": "スキルトレイナー(建築)",
+		"price": 1250,
+		"category": "スキルトレイナー",
+		"defname": "Neurotrainer_Construction"
+	},
+	{
+		"abr": "スキルトレイナー(採掘)",
+		"price": 1250,
+		"category": "スキルトレイナー",
+		"defname": "Neurotrainer_Mining"
+	},
+	{
+		"abr": "スキルトレイナー(料理)",
+		"price": 1250,
+		"category": "スキルトレイナー",
+		"defname": "Neurotrainer_Cooking"
+	},
+	{
+		"abr": "スキルトレイナー(格闘)",
+		"price": 1250,
+		"category": "スキルトレイナー",
+		"defname": "Neurotrainer_Melee"
+	},
+	{
+		"abr": "スキルトレイナー(栽培)",
+		"price": 1250,
+		"category": "スキルトレイナー",
+		"defname": "Neurotrainer_Plants"
+	},
+	{
+		"abr": "スキルトレイナー(知力)",
+		"price": 1250,
+		"category": "スキルトレイナー",
+		"defname": "Neurotrainer_Intellectual"
+	},
+	{
+		"abr": "スキルトレイナー(社交)",
+		"price": 1250,
+		"category": "スキルトレイナー",
+		"defname": "Neurotrainer_Social"
+	},
+	{
+		"abr": "スキルトレイナー(芸術)",
+		"price": 1250,
+		"category": "スキルトレイナー",
+		"defname": "Neurotrainer_Artistic"
+	},
+	{
+		"abr": "スケルトンの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_SkeletonR"
+	},
+	{
+		"abr": "スケルトンリッチの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_SkeletonLichR"
+	},
+	{
+		"abr": "ストーンゴーレム",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "TM_StoneGolem"
+	},
+	{
+		"abr": "スピリットクロウの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_SpiritCrowR"
+	},
+	{
+		"abr": "スピリットベアの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_SpiritBearR"
+	},
+	{
+		"abr": "スピリットマングースの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_SpiritMongooseR"
+	},
+	{
+		"abr": "スランボアックス",
+		"price": 7750,
+		"category": "近接",
+		"defname": "TM_ThrumboAxe"
+	},
+	{
+		"abr": "スランボウ",
+		"price": 7467,
+		"category": "遠隔",
+		"defname": "TM_ThrumBow"
+	},
+	{
+		"abr": "スランボセイバー",
+		"price": 5833,
+		"category": "近接",
+		"defname": "TM_ThrumboSaber"
+	},
+	{
+		"abr": "スレートゴーレム",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "TM_SlateGolem"
+	},
+	{
+		"abr": "セラピー用ソファ",
+		"price": 475,
 		"category": "家具",
-		"defname": "ArmorRacks_ArmorRack"
+		"defname": "Couch"
+	},
+	{
+		"abr": "タヌキの式神の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_YR_Sikigami_Racoon"
+	},
+	{
+		"abr": "チェス盤",
+		"price": 281,
+		"category": "家具",
+		"defname": "ChessTable"
+	},
+	{
+		"abr": "テックプリント(カタフラクトアーマー)",
+		"price": 5000,
+		"category": "テックプリント",
+		"defname": "Techprint_CataphractArmor"
+	},
+	{
+		"abr": "テックプリント(ジャンプパック)",
+		"price": 3333,
+		"category": "テックプリント",
+		"defname": "Techprint_JumpPack"
+	},
+	{
+		"abr": "テックプリント(チャージ兵器)",
+		"price": 1667,
+		"category": "テックプリント",
+		"defname": "Techprint_RK_ChargedWeapon"
+	},
+	{
+		"abr": "テックプリント(ヒーリングファクター)",
+		"price": 3333,
+		"category": "テックプリント",
+		"defname": "Techprint_HealingFactors"
+	},
+	{
+		"abr": "テックプリント(ブレインワイヤー)",
+		"price": 1667,
+		"category": "テックプリント",
+		"defname": "Techprint_BrainWiring"
+	},
+	{
+		"abr": "テックプリント(人工代謝)",
+		"price": 3333,
+		"category": "テックプリント",
+		"defname": "Techprint_ArtificialMetabolism"
+	},
+	{
+		"abr": "テックプリント(体内時計調整)",
+		"price": 3333,
+		"category": "テックプリント",
+		"defname": "Techprint_CircadianInfluence"
+	},
+	{
+		"abr": "テックプリント(分子解析)",
+		"price": 3333,
+		"category": "テックプリント",
+		"defname": "Techprint_MolecularAnalysis"
+	},
+	{
+		"abr": "テックプリント(専門的義手)",
+		"price": 1667,
+		"category": "テックプリント",
+		"defname": "Techprint_SpecializedLimbs"
+	},
+	{
+		"abr": "テックプリント(応用研究-負数力学)",
+		"price": 2000,
+		"category": "テックプリント",
+		"defname": "Techprint_MaruRC"
+	},
+	{
+		"abr": "テックプリント(応用研究-防弾繊維)",
+		"price": 1333,
+		"category": "テックプリント",
+		"defname": "Techprint_MaruRB"
+	},
+	{
+		"abr": "テックプリント(暗器)",
+		"price": 1667,
+		"category": "テックプリント",
+		"defname": "Techprint_CompactWeaponry"
+	},
+	{
+		"abr": "テックプリント(毒物合成)",
+		"price": 1667,
+		"category": "テックプリント",
+		"defname": "Techprint_VenomSynthesis"
+	},
+	{
+		"abr": "テックプリント(皮膚強化)",
+		"price": 3333,
+		"category": "テックプリント",
+		"defname": "Techprint_SkinHardening"
+	},
+	{
+		"abr": "テックプリント(神経計算機)",
+		"price": 3333,
+		"category": "テックプリント",
+		"defname": "Techprint_NeuralComputation"
+	},
+	{
+		"abr": "テックプリント(肉体整形)",
+		"price": 3333,
+		"category": "テックプリント",
+		"defname": "Techprint_FleshShaping"
+	},
+	{
+		"abr": "テックプリント(虫娘の秘薬)",
+		"price": 5000,
+		"category": "テックプリント",
+		"defname": "Techprint_IGSecretmedicine"
+	},
+	{
+		"abr": "ドラゴンの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Red_Dragon"
 	},
 	{
 		"abr": "バスケット",
@@ -17557,388 +17275,28 @@
 		"defname": "LWM_Pallet"
 	},
 	{
+		"abr": "ふわふわコリーの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Canis_Lupus_Crinitus"
+	},
+	{
 		"abr": "ミートフック",
 		"price": 254,
 		"category": "家具",
 		"defname": "LWM_Meat_Hook"
 	},
 	{
-		"abr": "仮設ヒューズ",
-		"price": 120,
-		"category": "パワー",
-		"defname": "Building_RTMakeshiftFuse"
+		"abr": "ミホの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Alien_Miho"
 	},
 	{
-		"abr": "修繕アーマーラック",
-		"price": 1125,
-		"category": "家具",
-		"defname": "ArmorRacks_MendingArmorRack"
-	},
-	{
-		"abr": "回路遮断機",
-		"price": 278,
-		"category": "パワー",
-		"defname": "Building_RTCircuitBreaker"
-	},
-	{
-		"abr": "大型コンテナ",
-		"price": 305,
-		"category": "家具",
-		"defname": "LWM_DeepStorage_Skip"
-	},
-	{
-		"abr": "大型ロッカー",
-		"price": 257,
-		"category": "家具",
-		"defname": "LWM_BigShelf"
-	},
-	{
-		"abr": "子供用の防弾ジャケット",
-		"price": 425,
-		"category": "装甲化",
-		"defname": "Apparel_cskKidFlakJacket"
-	},
-	{
-		"abr": "子供用の防弾チョッキ",
-		"price": 316,
-		"category": "装甲化",
-		"defname": "Apparel_cskKidFlakVest"
-	},
-	{
-		"abr": "子供用の防弾パンツ",
-		"price": 316,
-		"category": "装甲化",
-		"defname": "Apparel_cskKidFlakPants"
-	},
-	{
-		"abr": "巨大な入植者の像",
-		"price": 1258,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfColonistKGrand"
-	},
-	{
-		"abr": "干し草入れ",
-		"price": 287,
-		"category": "家具",
-		"defname": "LWM_Hayloft"
-	},
-	{
-		"abr": "梱包パレット",
-		"price": 321,
-		"category": "家具",
-		"defname": "LWM_Pallet_Covered"
-	},
-	{
-		"abr": "機械化アーマーラック",
-		"price": 575,
-		"category": "家具",
-		"defname": "ArmorRacks_MechanizedArmorRack"
-	},
-	{
-		"abr": "武器キャビネット",
-		"price": 254,
-		"category": "家具",
-		"defname": "LWM_WeaponsCabinet"
-	},
-	{
-		"abr": "武器ラック(2個用)",
-		"price": 204,
-		"category": "家具",
-		"defname": "WeaponRacks_2Rack"
-	},
-	{
-		"abr": "武器ラック(3個用)",
-		"price": 204,
-		"category": "家具",
-		"defname": "WeaponRacks_3Rack"
-	},
-	{
-		"abr": "武器ラック(4個用)",
-		"price": 204,
-		"category": "家具",
-		"defname": "WeaponRacks_4Rack"
-	},
-	{
-		"abr": "武器ロッカー",
-		"price": 237,
-		"category": "家具",
-		"defname": "LWM_WeaponsLocker"
-	},
-	{
-		"abr": "チェス盤",
-		"price": 281,
-		"category": "家具",
-		"defname": "ChessTable"
-	},
-	{
-		"abr": "largegenebank",
-		"price": 783,
-		"category": "生産物",
-		"defname": "LargeGeneBank"
-	},
-	{
-		"abr": "smallgenebank",
-		"price": 148,
-		"category": "生産物",
-		"defname": "SmallGeneBank"
-	},
-	{
-		"abr": "原子力発電",
-		"price": 10067,
-		"category": "パワー",
-		"defname": "sd_adv_powergen_nuclear_power_plant"
-	},
-	{
-		"abr": "地熱発電(改良型)",
-		"price": 3908,
-		"category": "パワー",
-		"defname": "sd_adv_powergen_adv_geothermal_generator"
-	},
-	{
-		"abr": "100人用ベッド",
-		"price": 8025,
-		"category": "家具",
-		"defname": "SSB_SuperBedZ"
-	},
-	{
-		"abr": "100人用豪華なベッド",
-		"price": 52150,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedZ"
-	},
-	{
-		"abr": "10人用ベッド",
-		"price": 825,
-		"category": "家具",
-		"defname": "SSB_SuperBedX"
-	},
-	{
-		"abr": "10人用豪華なベッド",
-		"price": 5567,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedX"
-	},
-	{
-		"abr": "11人用ベッド",
-		"price": 900,
-		"category": "家具",
-		"defname": "SSB_SuperBedXI"
-	},
-	{
-		"abr": "11人用豪華なベッド",
-		"price": 6092,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedXI"
-	},
-	{
-		"abr": "12人用ベッド",
-		"price": 983,
-		"category": "家具",
-		"defname": "SSB_SuperBedXII"
-	},
-	{
-		"abr": "12人用豪華なベッド",
-		"price": 6617,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedXII"
-	},
-	{
-		"abr": "13人用ベッド",
-		"price": 1067,
-		"category": "家具",
-		"defname": "SSB_SuperBedXIII"
-	},
-	{
-		"abr": "13人用豪華なベッド",
-		"price": 7150,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedXIII"
-	},
-	{
-		"abr": "14人用ベッド",
-		"price": 1142,
-		"category": "家具",
-		"defname": "SSB_SuperBedXIIII"
-	},
-	{
-		"abr": "14人用豪華なベッド",
-		"price": 7675,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedXIIII"
-	},
-	{
-		"abr": "15人用ベッド",
-		"price": 1225,
-		"category": "家具",
-		"defname": "SSB_SuperBedXV"
-	},
-	{
-		"abr": "15人用豪華なベッド",
-		"price": 8625,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedXV"
-	},
-	{
-		"abr": "30人用ベッド",
-		"price": 2425,
-		"category": "家具",
-		"defname": "SSB_SuperBedXXX"
-	},
-	{
-		"abr": "30人用豪華なベッド",
-		"price": 16817,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedXXX"
-	},
-	{
-		"abr": "3人用ベッド",
-		"price": 249,
-		"category": "家具",
-		"defname": "SSB_SuperBedIII"
-	},
-	{
-		"abr": "3人用豪華なベッド",
-		"price": 1858,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedIII"
-	},
-	{
-		"abr": "4人用ベッド",
-		"price": 331,
-		"category": "家具",
-		"defname": "SSB_SuperBedIIII"
-	},
-	{
-		"abr": "4人用豪華なベッド",
-		"price": 2392,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedIIII"
-	},
-	{
-		"abr": "5人用ベッド",
-		"price": 417,
-		"category": "家具",
-		"defname": "SSB_SuperBedV"
-	},
-	{
-		"abr": "5人用豪華なベッド",
-		"price": 2917,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedV"
-	},
-	{
-		"abr": "6人用ベッド",
-		"price": 492,
-		"category": "家具",
-		"defname": "SSB_SuperBedVI"
-	},
-	{
-		"abr": "6人用豪華なベッド",
-		"price": 3450,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedVI"
-	},
-	{
-		"abr": "7人用ベッド",
-		"price": 575,
-		"category": "家具",
-		"defname": "SSB_SuperBedVII"
-	},
-	{
-		"abr": "7人用豪華なベッド",
-		"price": 3975,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedVII"
-	},
-	{
-		"abr": "8人用ベッド",
-		"price": 658,
-		"category": "家具",
-		"defname": "SSB_SuperBedVIII"
-	},
-	{
-		"abr": "8人用豪華なベッド",
-		"price": 4508,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedVIII"
-	},
-	{
-		"abr": "9人用ベッド",
-		"price": 742,
-		"category": "家具",
-		"defname": "SSB_SuperBedVIIII"
-	},
-	{
-		"abr": "9人用豪華なベッド",
-		"price": 5033,
-		"category": "家具",
-		"defname": "SSB_SuperRoyalBedVIIII"
-	},
-	{
-		"abr": "太陽光発電(改良型)",
-		"price": 1358,
-		"category": "パワー",
-		"defname": "sd_adv_powergen_adv_solar_generator"
-	},
-	{
-		"abr": "水力発電(改良型)",
-		"price": 2142,
-		"category": "パワー",
-		"defname": "sd_adv_powergen_WatermillGenerator"
-	},
-	{
-		"abr": "監視カメラ",
-		"price": 118,
-		"category": "防衛",
-		"defname": "SurveillanceCamera_SurveillanceCamera"
-	},
-	{
-		"abr": "研究卓",
-		"price": 350,
-		"category": "生産物",
-		"defname": "SimpleResearchBench"
-	},
-	{
-		"abr": "薬箱",
-		"price": 203,
-		"category": "家具",
-		"defname": "LWM_Medicine_Cabinet"
-	},
-	{
-		"abr": "衣類タンス",
-		"price": 170,
-		"category": "家具",
-		"defname": "LWM_Clothing_Rack"
-	},
-	{
-		"abr": "超巨大ロッカー",
-		"price": 550,
-		"category": "家具",
-		"defname": "LWM_VeryBigShelf"
-	},
-	{
-		"abr": "配膳棚",
-		"price": 255,
-		"category": "家具",
-		"defname": "LWM_MealRack"
-	},
-	{
-		"abr": "金庫",
-		"price": 1017,
-		"category": "家具",
-		"defname": "LWM_Safe"
-	},
-	{
-		"abr": "風力発電機(改良型)",
-		"price": 1258,
-		"category": "パワー",
-		"defname": "sd_adv_powergen_adv_wind_turbine"
-	},
-	{
-		"abr": "食料用バスケット",
-		"price": 270,
-		"category": "家具",
-		"defname": "LWM_Food_Basket"
+		"abr": "ムーンシルク",
+		"price": 20,
+		"category": "織物",
+		"defname": "Moonsilk"
 	},
 	{
 		"abr": "ゆっくりおまんじゅう",
@@ -17971,28 +17329,604 @@
 		"defname": "Meat_Yukkuri_Marisa"
 	},
 	{
-		"abr": "大型遺伝子プロセッサ",
-		"price": 1758,
-		"category": "生産物",
-		"defname": "ThingGeneMacroprocessor"
+		"abr": "ユランの肉",
+		"price": 1,
+		"category": "生肉",
+		"defname": "Meat_Yuran_Race"
 	},
 	{
-		"abr": "遺伝子アーカイブ",
-		"price": 1142,
-		"category": "生産物",
-		"defname": "ThingGeneArchive"
+		"abr": "ラットキンの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Ratkin"
 	},
 	{
-		"abr": "遺伝子サブプロセッサ",
+		"abr": "ラットキン実験体の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Ratkin_Su"
+	},
+	{
+		"abr": "ラビ",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Rabbie"
+	},
+	{
+		"abr": "ラビの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Rabbie"
+	},
+	{
+		"abr": "リム・ア・ムーラ",
+		"price": 4167,
+		"category": "娯楽",
+		"defname": "HC_SlotMachineGreen"
+	},
+	{
+		"abr": "リム・アンド・リール",
+		"price": 4167,
+		"category": "娯楽",
+		"defname": "HC_SlotMachineRed"
+	},
+	{
+		"abr": "リム・オブ・フォーチュン",
+		"price": 4167,
+		"category": "娯楽",
+		"defname": "HC_SlotMachineBlue"
+	},
+	{
+		"abr": "ルーンブレード",
+		"price": 13333,
+		"category": "近接",
+		"defname": "TM_Ruunbled"
+	},
+	{
+		"abr": "レア付与器",
+		"price": 1667,
+		"category": "付与器",
+		"defname": "Infusion_Infuser_Rare"
+	},
+	{
+		"abr": "ロッティの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Rotti"
+	},
+	{
+		"abr": "ロフトベッド",
+		"price": 174,
+		"category": "家具",
+		"defname": "LoftBed"
+	},
+	{
+		"abr": "ロンの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Alien_Heyra_Rong"
+	},
+	{
+		"abr": "乱射種の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_RQ_Monster_race_Summon_c"
+	},
+	{
+		"abr": "元型種の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_RQ_Monster_race_Summon_z"
+	},
+	{
+		"abr": "先鋒種の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_RQ_Monster_race_Summon_a"
+	},
+	{
+		"abr": "入植者の像",
+		"price": 358,
+		"category": "芸術品",
+		"defname": "TMB_StatueOfColonistK"
+	},
+	{
+		"abr": "動物の像",
+		"price": 358,
+		"category": "芸術品",
+		"defname": "TMB_StatueOfAnimal1x"
+	},
+	{
+		"abr": "動物の像(2x2)",
+		"price": 1258,
+		"category": "芸術品",
+		"defname": "TMB_StatueOfAnimal2x"
+	},
+	{
+		"abr": "原子力発電",
+		"price": 10067,
+		"category": "パワー",
+		"defname": "sd_adv_powergen_nuclear_power_plant"
+	},
+	{
+		"abr": "召喚師の呪文：ポッピー召喚",
+		"price": 3767,
+		"category": "巻物",
+		"defname": "SpellOf_SummonPoppi"
+	},
+	{
+		"abr": "司祭の呪文：リザレクション",
+		"price": 6250,
+		"category": "巻物",
+		"defname": "SpellOf_Resurrection"
+	},
+	{
+		"abr": "地熱発電(改良型)",
+		"price": 3908,
+		"category": "パワー",
+		"defname": "sd_adv_powergen_adv_geothermal_generator"
+	},
+	{
+		"abr": "大ぶりの入植者の像",
+		"price": 633,
+		"category": "芸術品",
+		"defname": "TMB_StatueOfColonistKLarge"
+	},
+	{
+		"abr": "大型コンテナ",
+		"price": 305,
+		"category": "家具",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "大型ロッカー",
+		"price": 257,
+		"category": "家具",
+		"defname": "LWM_BigShelf"
+	},
+	{
+		"abr": "太陽光発電(改良型)",
 		"price": 1358,
-		"category": "生産物",
-		"defname": "ThingGeneSubprocessor"
+		"category": "パワー",
+		"defname": "sd_adv_powergen_adv_solar_generator"
 	},
 	{
-		"abr": "遺伝子レジスタ",
-		"price": 2667,
+		"abr": "妖怪の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Yokai_Kamaitachi"
+	},
+	{
+		"abr": "子供用のプレートアーマー",
+		"price": 725,
+		"category": "装甲化",
+		"defname": "Apparel_cskKidPlateArmor"
+	},
+	{
+		"abr": "子供用の防弾ジャケット",
+		"price": 425,
+		"category": "装甲化",
+		"defname": "Apparel_cskKidFlakJacket"
+	},
+	{
+		"abr": "子供用の防弾チョッキ",
+		"price": 316,
+		"category": "装甲化",
+		"defname": "Apparel_cskKidFlakVest"
+	},
+	{
+		"abr": "子供用の防弾パンツ",
+		"price": 316,
+		"category": "装甲化",
+		"defname": "Apparel_cskKidFlakPants"
+	},
+	{
+		"abr": "守護者の杖",
+		"price": 5583,
+		"category": "魔法杖",
+		"defname": "TM_DefenderStaff"
+	},
+	{
+		"abr": "巨大な入植者の像",
+		"price": 1258,
+		"category": "芸術品",
+		"defname": "TMB_StatueOfColonistKGrand"
+	},
+	{
+		"abr": "巻物：祖霊の絆",
+		"price": 417,
+		"category": "無し",
+		"defname": "MagicArtifact_RerollSpiritBond"
+	},
+	{
+		"abr": "干し草入れ",
+		"price": 287,
+		"category": "家具",
+		"defname": "LWM_Hayloft"
+	},
+	{
+		"abr": "怨念の指輪",
+		"price": 3167,
+		"category": "アーティファクト",
+		"defname": "TM_Artifact_RingOfMalice"
+	},
+	{
+		"abr": "悠久なる青の指輪",
+		"price": 3333,
+		"category": "アーティファクト",
+		"defname": "TM_Artifact_RingOfEternalBlue"
+	},
+	{
+		"abr": "損壊した眷属の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_RQ_Monster_race_Summon_y"
+	},
+	{
+		"abr": "放浪者の外套",
+		"price": 1375,
+		"category": "ロイヤリティ",
+		"defname": "TM_MaestersCloak"
+	},
+	{
+		"abr": "斥候種の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_RQ_Monster_race_Summon_h"
+	},
+	{
+		"abr": "未精製の魔石",
+		"price": 8,
+		"category": "加工した魔石",
+		"defname": "RawMagicyte"
+	},
+	{
+		"abr": "未記入の戦闘教本",
+		"price": 3425,
+		"category": "書物",
+		"defname": "UnfinishedMartial"
+	},
+	{
+		"abr": "未記入の破れた書物",
+		"price": 2333,
+		"category": "書物",
+		"defname": "UnfinishedArcane"
+	},
+	{
+		"abr": "未記入の魔導書",
+		"price": 4392,
+		"category": "書物",
+		"defname": "UnfinishedAdvArcane"
+	},
+	{
+		"abr": "梱包パレット",
+		"price": 321,
+		"category": "家具",
+		"defname": "LWM_Pallet_Covered"
+	},
+	{
+		"abr": "極寒の杖",
+		"price": 7500,
+		"category": "魔法杖",
+		"defname": "TM_WinterStaff"
+	},
+	{
+		"abr": "武器キャビネット",
+		"price": 254,
+		"category": "家具",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "武器ラック(2個用)",
+		"price": 204,
+		"category": "家具",
+		"defname": "WeaponRacks_2Rack"
+	},
+	{
+		"abr": "武器ラック(3個用)",
+		"price": 204,
+		"category": "家具",
+		"defname": "WeaponRacks_3Rack"
+	},
+	{
+		"abr": "武器ラック(4個用)",
+		"price": 204,
+		"category": "家具",
+		"defname": "WeaponRacks_4Rack"
+	},
+	{
+		"abr": "武器ロッカー",
+		"price": 237,
+		"category": "家具",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "水力発電(改良型)",
+		"price": 2142,
+		"category": "パワー",
+		"defname": "sd_adv_powergen_WatermillGenerator"
+	},
+	{
+		"abr": "氷の杖",
+		"price": 800,
+		"category": "魔法杖",
+		"defname": "TM_IceWand"
+	},
+	{
+		"abr": "汚染種の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_RQ_Monster_race_Summon_d"
+	},
+	{
+		"abr": "灼熱の杖",
+		"price": 6250,
+		"category": "魔法杖",
+		"defname": "TM_BlazingPowerStaff"
+	},
+	{
+		"abr": "炎の杖",
+		"price": 800,
+		"category": "魔法杖",
+		"defname": "TM_FireWand"
+	},
+	{
+		"abr": "炸裂種の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_RQ_Monster_race_Summon_e"
+	},
+	{
+		"abr": "狙撃種の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_RQ_Monster_race_Summon_b"
+	},
+	{
+		"abr": "狼肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_Dire_WolfR"
+	},
+	{
+		"abr": "生命の種",
+		"price": 2,
+		"category": "魔法アイテム",
+		"defname": "SeedofRegrowth"
+	},
+	{
+		"abr": "監視カメラ",
+		"price": 118,
+		"category": "防衛",
+		"defname": "SurveillanceCamera_SurveillanceCamera"
+	},
+	{
+		"abr": "石(センチネル)",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_SentinelR"
+	},
+	{
+		"abr": "石(上級センチネル)",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_Greater_SentinelR"
+	},
+	{
+		"abr": "石(下級センチネル)",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_TM_Lesser_SentinelR"
+	},
+	{
+		"abr": "研究卓",
+		"price": 350,
 		"category": "生産物",
-		"defname": "ThingGeneRegister"
+		"defname": "SimpleResearchBench"
+	},
+	{
+		"abr": "破れた書物：ドルイド",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfNature"
+	},
+	{
+		"abr": "破れた書物：人形術師",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfGolemancy"
+	},
+	{
+		"abr": "破れた書物：付与術師",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfEnchanter"
+	},
+	{
+		"abr": "破れた書物：光魔術師",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfTheSun"
+	},
+	{
+		"abr": "破れた書物：召喚",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfSummoner"
+	},
+	{
+		"abr": "破れた書物：司祭",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfPriest"
+	},
+	{
+		"abr": "破れた書物：悪魔学",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfDemons"
+	},
+	{
+		"abr": "破れた書物：操血術",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfHemomancy"
+	},
+	{
+		"abr": "破れた書物：時空魔術師",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfChronomancer"
+	},
+	{
+		"abr": "破れた書物：死霊術",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfUndead"
+	},
+	{
+		"abr": "破れた書物：氷",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfHeartOfFrost"
+	},
+	{
+		"abr": "破れた書物：混沌魔術",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfChaos"
+	},
+	{
+		"abr": "破れた書物：炎",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfInnerFire"
+	},
+	{
+		"abr": "破れた書物：祈祷師",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfShamanism"
+	},
+	{
+		"abr": "破れた書物：秘術",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfArcanist"
+	},
+	{
+		"abr": "破れた書物：聖騎士",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfValiant"
+	},
+	{
+		"abr": "破れた書物：詩人",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfBard"
+	},
+	{
+		"abr": "破れた書物：雷",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfStormBorn"
+	},
+	{
+		"abr": "破れた書物：風水",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfEarth"
+	},
+	{
+		"abr": "破れた書物：魔工技師",
+		"price": 2917,
+		"category": "書物",
+		"defname": "Torn_BookOfMagitech"
+	},
+	{
+		"abr": "祈祷の呪文：祖霊召喚",
+		"price": 3767,
+		"category": "巻物",
+		"defname": "SpellOf_GuardianSpirit"
+	},
+	{
+		"abr": "突撃種の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_RQ_Monster_race_Summon_g"
+	},
+	{
+		"abr": "竜の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Yokai_Dragon_MoonDragon"
+	},
+	{
+		"abr": "薬箱",
+		"price": 203,
+		"category": "家具",
+		"defname": "LWM_Medicine_Cabinet"
+	},
+	{
+		"abr": "衣類タンス",
+		"price": 170,
+		"category": "家具",
+		"defname": "LWM_Clothing_Rack"
+	},
+	{
+		"abr": "裁断種の肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BOSS_RQ_Monster_race_Summon_f"
+	},
+	{
+		"abr": "超巨大ロッカー",
+		"price": 550,
+		"category": "家具",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "配膳棚",
+		"price": 255,
+		"category": "家具",
+		"defname": "LWM_MealRack"
+	},
+	{
+		"abr": "金庫",
+		"price": 1017,
+		"category": "家具",
+		"defname": "LWM_Safe"
+	},
+	{
+		"abr": "鋭い知性の指輪",
+		"price": 3500,
+		"category": "アーティファクト",
+		"defname": "TM_Artifact_RingOfKeenIntellect"
+	},
+	{
+		"abr": "雷の杖",
+		"price": 800,
+		"category": "魔法杖",
+		"defname": "TM_LightningWand"
+	},
+	{
+		"abr": "霊統の欠片",
+		"price": 1167,
+		"category": "無し",
+		"defname": "TM_Artifact_ClassExtraction"
+	},
+	{
+		"abr": "風力発電機(改良型)",
+		"price": 1258,
+		"category": "パワー",
+		"defname": "sd_adv_powergen_adv_wind_turbine"
+	},
+	{
+		"abr": "食料用バスケット",
+		"price": 270,
+		"category": "家具",
+		"defname": "LWM_Food_Basket"
 	},
 	{
 		"abr": "飼い葉桶1x1",
@@ -18007,17 +17941,65 @@
 		"defname": "EtnManger"
 	},
 	{
-		"abr": "セラピー用ソファ",
-		"price": 475,
-		"category": "家具",
-		"defname": "Couch"
+		"abr": "魔人の呪文：サイキックショック",
+		"price": 3000,
+		"category": "巻物",
+		"defname": "SpellOf_PsychicShock"
 	},
 	{
-		"abr": "doubleloftbed",
-		"price": 312,
-		"category": "家具",
-		"defname": "DoubleLoftBed"
+		"abr": "魔工技師の呪文：オーバードライブ",
+		"price": 800,
+		"category": "巻物",
+		"defname": "SpellOf_Overdrive"
+	},
+	{
+		"abr": "魔工技師の呪文：キネティックシールド",
+		"price": 833,
+		"category": "巻物",
+		"defname": "SpellOf_TechnoShield"
+	},
+	{
+		"abr": "魔工技師の呪文：サボタージュ",
+		"price": 667,
+		"category": "巻物",
+		"defname": "SpellOf_Sabotage"
+	},
+	{
+		"abr": "魔工技師の呪文：ナノマシン調整",
+		"price": 1417,
+		"category": "巻物",
+		"defname": "SpellOf_MechaniteReprogramming"
+	},
+	{
+		"abr": "魔工技師の呪文：軌道攻撃",
+		"price": 2833,
+		"category": "巻物",
+		"defname": "SpellOf_OrbitalStrike"
+	},
+	{
+		"abr": "鮮血の指輪",
+		"price": 3167,
+		"category": "アーティファクト",
+		"defname": "TM_Artifact_RingOfBlood"
+	},
+	{
+		"abr": "dragonianmidoffdress",
+		"price": 650,
+		"category": "ロイヤリティ",
+		"defname": "DR_MidOff"
+	},
+	{
+		"abr": "dragonianslaveblindfold",
+		"price": 558,
+		"category": "ロイヤリティ",
+		"defname": "DR_SlaveBlindfold"
+	},
+	{
+		"abr": "dragonianslavecloth",
+		"price": 650,
+		"category": "ロイヤリティ",
+		"defname": "DR_SlaveCloth"
 	},
 	],
-	"total": 3004
+	"total": 3014
 }

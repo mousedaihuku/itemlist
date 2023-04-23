@@ -18,10 +18,52 @@
     "version": "1.0.0"
   },
   {
+    "author": "Smash Philと Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "2878587061",
+    "version": "1.4.7"
+  },
+  {
     "author": "UnlimitedHugsと Owlchemist",
     "name": "HugsLib",
     "steamId": "",
     "version": "1.4"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "jecrellとcontributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - Experimentals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1240.0"
   },
   {
     "author": "latta",
@@ -42,28 +84,16 @@
     "version": "2.0.3"
   },
   {
-    "author": "Smash Philと Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "2878587061",
-    "version": "1.4.7"
-  },
-  {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
-    "author": "jecrellとcontributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.4.1.1"
-  },
-  {
     "author": "Owlchemist",
     "name": "Toggleable Overlays",
     "steamId": "2608654598",
     "version": "1.4"
+  },
+  {
+    "author": "HodlhodlとSaschahi",
+    "name": "ToolkitExt",
+    "steamId": "2824222570",
+    "version": "1.1.1.3"
   },
   {
     "author": "Augurr",
@@ -96,34 +126,10 @@
     "version": null
   },
   {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - Experimentals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "HealerUser",
     "name": "HAR Xenotype Patch + Replace Child Body",
     "steamId": "2888530443",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.4.1240.0"
   },
   {
     "author": "Imranfish",
@@ -234,6 +240,36 @@
     "version": null
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.8391.36780"
+  },
+  {
+    "author": "Yoann",
+    "name": "Common Sense - opportunistic cleaning patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.5.2.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TD Enhancement Pack",
+    "steamId": "1339135272",
+    "version": "1.3.8.0"
+  },
+  {
     "author": "Orion",
     "name": "Hospitality",
     "steamId": null,
@@ -264,12 +300,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
     "author": "Jaxxa",
     "name": "ED-EnhancedOptions [1.4]",
     "steamId": "2897488240",
@@ -294,14 +324,8 @@
     "version": "1.4.0.0"
   },
   {
-    "author": "avilmask",
-    "name": "Common Sense",
-    "steamId": "1561769193",
-    "version": "1.0.8391.36780"
-  },
-  {
-    "author": "Yoann",
-    "name": "Common Sense - opportunistic cleaning patch",
+    "author": "tikubonn",
+    "name": "DontBlockDoor",
     "steamId": null,
     "version": null
   },
@@ -372,12 +396,6 @@
     "version": "2.17.133"
   },
   {
-    "author": "miyamiya",
-    "name": "Wild Plant Picker",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Kiame Vivacityと Taranchuk",
     "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings [1.4]",
     "steamId": null,
@@ -408,22 +426,10 @@
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Camera+",
-    "steamId": "867467808",
-    "version": "2.5.2.0"
-  },
-  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.1.0.0"
-  },
-  {
-    "author": "tikubonn",
-    "name": "DontBlockDoor",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "XeoNovaDan",
@@ -792,12 +798,6 @@
     "version": "1.4.6.0"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Complex Jobs",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Si-Cafe",
     "name": "[RF] Fishing-ReWork (Continued)",
     "steamId": "2920098766",
@@ -826,12 +826,6 @@
     "name": "Real Faction Guest (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "LordKuper",
-    "name": "Equipment Manager",
-    "steamId": "2790435986",
-    "version": "1.4.0.0"
   },
   {
     "author": "Faeldrayと original by Willelbini",
@@ -1140,6 +1134,18 @@
     "version": null
   },
   {
+    "author": "LordKuper",
+    "name": "Equipment Manager",
+    "steamId": "2790435986",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "Netrve",
+    "name": "Hunters Use Melee! (Continued)",
+    "steamId": "2900108163",
+    "version": "1.4.2"
+  },
+  {
     "author": "Fluffy",
     "name": "Backup Power",
     "steamId": "2084493662",
@@ -1158,22 +1164,10 @@
     "version": null
   },
   {
-    "author": "Creeper",
-    "name": "BetterInfoCard",
-    "steamId": "2890920739",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Compilatronと Owlchemist",
     "name": "Power Tab 2",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Wiri",
-    "name": "Compositable Loadouts",
-    "steamId": "2679126859",
-    "version": "1.0.0"
   },
   {
     "author": "seeki",
@@ -1188,12 +1182,6 @@
     "version": null
   },
   {
-    "author": "Netrve",
-    "name": "Hunters Use Melee! (Continued)",
-    "steamId": "2900108163",
-    "version": "1.4.2"
-  },
-  {
     "author": "Orion",
     "name": "Therapy",
     "steamId": null,
@@ -1204,6 +1192,12 @@
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.8.1"
+  },
+  {
+    "author": "gguake",
+    "name": "Apparel BodyType Resolver",
+    "steamId": "2037354634",
+    "version": "1.0.0.0"
   },
   {
     "author": "Lanilor",
@@ -1270,12 +1264,6 @@
     "name": "Bill Doors' Instant Noodles",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "khamenman",
-    "name": "Armor Racks",
-    "steamId": "1875828205",
-    "version": "1.0.0.0"
   },
   {
     "author": "GloomyLynx NukaFrog",
@@ -1416,12 +1404,6 @@
     "version": null
   },
   {
-    "author": "Redundantusage",
-    "name": "Biotech Gene Variety",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "sulusdacor",
     "name": "[sd] Advanced Powergeneration (Continued)",
     "steamId": null,
@@ -1548,6 +1530,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "SutSutMan",
+    "name": "Marilyn the Mincho Worshipper Witch ~ HAR ver.",
+    "steamId": "2604973449",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Ancot",
     "name": "Yuran Facial Animation",
     "steamId": null,
@@ -1608,14 +1596,14 @@
     "version": null
   },
   {
-    "author": "redbrick",
-    "name": "Oppai_addRace_patch",
+    "author": "Talos",
+    "name": "Mincho Witch FacialAnime",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Udon",
-    "name": "野生のアマゾン",
+    "author": "redbrick",
+    "name": "Oppai_addRace_patch",
     "steamId": null,
     "version": null
   },
@@ -1650,16 +1638,22 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "MooとVelc",
+    "name": "kemomimihouse HardworkingKz",
+    "steamId": "2574995438",
+    "version": "1.0.8343.10138"
+  },
+  {
     "author": "paundo2",
     "name": "[PAU] Touhou yukkuri",
     "steamId": null,
     "version": null
   },
   {
-    "author": "MooとVelc",
-    "name": "kemomimihouse HardworkingKz",
-    "steamId": "2574995438",
-    "version": "1.0.8343.10138"
+    "author": "Udon",
+    "name": "野生のアマゾン",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Latki(vee)",
@@ -1752,12 +1746,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "HodlhodlとSaschahi",
-    "name": "ToolkitExt",
-    "steamId": "2824222570",
-    "version": "1.1.1.3"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
@@ -1774,12 +1762,6 @@
     "name": "Toggleable Readouts",
     "steamId": "2661792499",
     "version": "1.4"
-  },
-  {
-    "author": "Tank",
-    "name": "Stylish Rim",
-    "steamId": "2747392932",
-    "version": "0.0.0.0"
   },
   {
     "author": "user19990313と Trinity",
@@ -1950,14 +1932,14 @@
     "version": null
   },
   {
-    "author": "Proxyer",
-    "name": "Biotech Gene Variety 日本語翻訳追加",
+    "author": "Lucifel",
+    "name": "Maru RaceMod 日本語翻訳",
     "steamId": null,
     "version": null
   },
   {
     "author": "Lucifel",
-    "name": "Maru RaceMod 日本語翻訳",
+    "name": "Marilyn the Mincho Worshipper Witch ~ HAR ver. 日本語翻訳",
     "steamId": null,
     "version": null
   },

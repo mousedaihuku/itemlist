@@ -90,12 +90,6 @@
     "version": "1.4"
   },
   {
-    "author": "HodlhodlとSaschahi",
-    "name": "ToolkitExt",
-    "steamId": "2824222570",
-    "version": "1.1.1.3"
-  },
-  {
     "author": "Augurr",
     "name": "RimFridge Updated",
     "steamId": "2878183338",
@@ -150,6 +144,30 @@
     "version": "1.4"
   },
   {
+    "author": "DarkFlame7",
+    "name": "Job In Bar",
+    "steamId": "2086300611",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TDS Bug Fixes",
+    "steamId": "2895035527",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TD Find Lib",
+    "steamId": "2895299310",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornsonと Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -160,6 +178,12 @@
     "name": "MoHAR framework",
     "steamId": "2057001924",
     "version": "1.0.8331.27653"
+  },
+  {
+    "author": "Evelyn",
+    "name": "Consistent Map Stone",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Rooloと Owlchemist",
@@ -184,12 +208,6 @@
     "name": "[1.4]Requeen Boss",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "uniinu",
-    "name": "妖怪村",
-    "steamId": "1532938687",
-    "version": "1.0.0.0"
   },
   {
     "author": "Rainbeau Flambe (original), Kiame Vivacityと Taranchuk",
@@ -378,24 +396,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "VouLT",
-    "name": "Better Pawn Control",
-    "steamId": "1541460369",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "TDS Bug Fixes",
-    "steamId": "2895035527",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Blueprints",
-    "steamId": "708455313",
-    "version": "2.17.133"
-  },
-  {
     "author": "Kiame Vivacityと Taranchuk",
     "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings [1.4]",
     "steamId": null,
@@ -426,16 +426,10 @@
     "version": null
   },
   {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "XeoNovaDan",
     "name": "[XND] Tiny Tweaks (Continued)",
     "steamId": "2270049772",
-    "version": "1.4.3"
+    "version": "1.4.4"
   },
   {
     "author": "NavySeal",
@@ -570,6 +564,12 @@
     "version": "1.0.17"
   },
   {
+    "author": "Evelyn",
+    "name": "Soil Relocation Framework",
+    "steamId": "2654088143",
+    "version": "1.2.3"
+  },
+  {
     "author": "Arquebus",
     "name": "Hotseat - Dynamic Storyteller Switcher",
     "steamId": "2175327693",
@@ -580,6 +580,12 @@
     "name": "Monster Go-Juice",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "VouLT",
+    "name": "Better Pawn Control",
+    "steamId": "1541460369",
+    "version": "1.0.0.0"
   },
   {
     "author": "JovianPug",
@@ -627,24 +633,6 @@
     "author": "Sandy",
     "name": "RPG Style Inventory Revamped",
     "steamId": "2478833213",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "DarkFlame7",
-    "name": "Job In Bar",
-    "steamId": "2086300611",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "DerekBickley",
-    "name": "[LTO] Colony Groups",
-    "steamId": "2345493945",
-    "version": "1.0.06"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "TD Find Lib",
-    "steamId": "2895299310",
     "version": "1.0.0.0"
   },
   {
@@ -849,7 +837,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.4.0"
+    "version": "1.12.6.0"
   },
   {
     "author": "dracoix",
@@ -1224,6 +1212,18 @@
     "version": "1.6.0.0"
   },
   {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "Machine",
+    "name": "Raise The Roof 1.4",
+    "steamId": "1776143665",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "sindre0830",
     "name": "Lakes",
     "steamId": null,
@@ -1296,12 +1296,6 @@
     "version": null
   },
   {
-    "author": "Porohkun",
-    "name": "Concrete Walls",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Owlchemist",
     "name": "Simple Utilities: Ceiling",
     "steamId": "2571003732",
@@ -1346,12 +1340,6 @@
   {
     "author": "Gloomylynx.Kotobike",
     "name": "Gloomy Hair",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "amegakull",
-    "name": "Simple Nekomimi Xenotype",
     "steamId": null,
     "version": null
   },
@@ -1522,6 +1510,12 @@
     "name": "Gloomy Dragonian race",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "uniinu",
+    "name": "妖怪村",
+    "steamId": "1532938687",
+    "version": "1.0.0.0"
   },
   {
     "author": "SutSutManと Dalrae",
@@ -1710,6 +1704,12 @@
     "version": null
   },
   {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Apparel Tweaks",
     "steamId": "2296697286",
@@ -1720,6 +1720,12 @@
     "name": "Range Finder",
     "steamId": "1332119637",
     "version": "2.4.0.0"
+  },
+  {
+    "author": "Roo",
+    "name": "Race freezing stopper",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "hodlhodl",
@@ -1752,10 +1758,34 @@
     "version": "6.3.0.0.biotech.b6"
   },
   {
+    "author": "HodlhodlとSaschahi",
+    "name": "ToolkitExt",
+    "steamId": "2824222570",
+    "version": "1.1.1.3"
+  },
+  {
     "author": "erdelf",
     "name": "ShowModDesignators (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "miyamiya",
+    "name": "Harmony Patch Finder",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "Block Unwanted Minutiae",
+    "steamId": "2266225921",
+    "version": "3.2"
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
+    "version": "1.0.0.0"
   },
   {
     "author": "Owlchemist",
@@ -1780,12 +1810,6 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
-  },
-  {
-    "author": "miyamiya",
-    "name": "Harmony Patch Finder",
-    "steamId": "",
-    "version": "1.0.0.0"
   },
   {
     "author": "namidasechi",
@@ -1860,12 +1884,6 @@
     "version": null
   },
   {
-    "author": "namidasechi",
-    "name": "Concrete Walls 日本語追加",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Lucifel",
     "name": "Yuran race 日本語翻訳",
     "steamId": null,
@@ -1892,6 +1910,12 @@
   {
     "author": "Proxyer",
     "name": "Map Preview 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Performance Optimizer 日本語翻訳追加",
     "steamId": null,
     "version": null
   },

@@ -42,12 +42,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "jecrellとcontributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.4.1.1"
-  },
-  {
     "author": "Nals",
     "name": "[NL] Facial Animation - WIP",
     "steamId": "1635901197",
@@ -168,12 +162,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "JME, Caaz, Odeum, Pphhyy the greatと Zylle",
-    "name": "Music Expanded Framework",
-    "steamId": "2891663812",
-    "version": "1.0.1.0"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornsonと Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -184,18 +172,6 @@
     "name": "MoHAR framework",
     "steamId": "2057001924",
     "version": "1.0.8331.27653"
-  },
-  {
-    "author": "JME, Caaz, Odeum, Pphhyy the greatと Zylle",
-    "name": "Music Expanded Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JME, Caaz, Odeum, Pphhyy the greatと Zylle",
-    "name": "Music Expanded Wasteland",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Evelyn",
@@ -244,6 +220,12 @@
     "name": "[LC] Consolidated Traits",
     "steamId": "2879753009",
     "version": "1.0.8335.14924"
+  },
+  {
+    "author": "Redundantusage",
+    "name": "Biotech Gene Variety",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "divineDerivative",
@@ -352,12 +334,6 @@
     "name": "The Cosmic Odyssey - Victoria Valiant",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oblitus",
-    "name": "Animals Logic",
-    "steamId": "1098354593",
-    "version": "1.0.8420.33175"
   },
   {
     "author": "dhultgren",
@@ -480,6 +456,12 @@
     "version": null
   },
   {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "uniinu",
     "name": "おっぱい追加",
     "steamId": null,
@@ -532,6 +514,12 @@
     "name": "QualityBuilder",
     "steamId": "754637870",
     "version": "1.0.17"
+  },
+  {
+    "author": "Alias",
+    "name": "De-generalize Work",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Evelyn",
@@ -630,12 +618,6 @@
     "version": null
   },
   {
-    "author": "NightmareCorporation",
-    "name": "DBH & VFEC/Hot Spring Compatibility",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Syrus",
     "name": "Light Map",
     "steamId": null,
@@ -700,12 +682,6 @@
     "name": "Tab-sorting",
     "steamId": "2138635288",
     "version": "1.4.2"
-  },
-  {
-    "author": "Ryder",
-    "name": "SatisfiedStorage",
-    "steamId": "2003354028",
-    "version": "1.0.0.0"
   },
   {
     "author": "Edern",
@@ -870,12 +846,6 @@
     "version": null
   },
   {
-    "author": "民火",
-    "name": "Cut plants before building",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": "",
@@ -924,12 +894,6 @@
     "version": null
   },
   {
-    "author": "Zaire82",
-    "name": "HD Head Attatchments for Nals Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Krypt",
     "name": "RWLayout",
     "steamId": "2209393954",
@@ -951,12 +915,6 @@
     "author": "legodude17",
     "name": "Quality Colors",
     "steamId": "2420141361",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "NALS",
-    "name": "[NL] Apparel Paper Pattern",
-    "steamId": "2480887589",
     "version": "1.0.0.0"
   },
   {
@@ -1026,12 +984,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "gguake",
-    "name": "Optional Name Display",
-    "steamId": "2466336893",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Darkside",
     "name": "KilledEnemyAutoAllowed (Continued)",
     "steamId": null,
@@ -1048,18 +1000,6 @@
     "name": "Equipment Manager",
     "steamId": "2790435986",
     "version": "1.4.0.0"
-  },
-  {
-    "author": "Netrve",
-    "name": "Hunters Use Melee! (Continued)",
-    "steamId": "2900108163",
-    "version": "1.4.2"
-  },
-  {
-    "author": "Lowli",
-    "name": "Gene Bank Plus",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Syrus",
@@ -1116,44 +1056,20 @@
     "version": "1.4.2"
   },
   {
-    "author": "Jecrell",
-    "name": "RimWriter - Books, Scrolls, Tablets, and Libraries (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ratys",
-    "name": "RT Fuse",
-    "steamId": "728314182",
-    "version": "1.6.0.0"
-  },
-  {
-    "author": "Machine",
-    "name": "Raise The Roof 1.4",
-    "steamId": "1776143665",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "sindre0830",
     "name": "Lakes",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Malistaticyと Dhyne",
-    "name": "UnderWhere",
+    "author": "aco",
+    "name": "Base 00_00",
     "steamId": null,
     "version": null
   },
   {
     "author": "Candied_Skull",
     "name": "[Biotech] Kids - More Vanilla Clothing WIP",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "kaitorisenkou",
-    "name": "Swimwear",
     "steamId": null,
     "version": null
   },
@@ -1184,12 +1100,6 @@
   {
     "author": "Xavior",
     "name": "Glitter Tech",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "tikubonn",
-    "name": "StuffedDoll",
     "steamId": null,
     "version": null
   },
@@ -1230,12 +1140,6 @@
     "version": null
   },
   {
-    "author": "tikubonn",
-    "name": "SurveillanceCamera",
-    "steamId": "2573654478",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "Owlchemist",
     "name": "Simple Utilities: Fridge",
     "steamId": null,
@@ -1272,12 +1176,6 @@
     "version": null
   },
   {
-    "author": "zed_0xff",
-    "name": "Loft Bed",
-    "steamId": "2961708299",
-    "version": "1.0.0"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornsonと legodude17",
     "name": "Vanilla Ideology Expanded - Relics and Artifacts",
     "steamId": null,
@@ -1292,6 +1190,12 @@
   {
     "author": "Eiten",
     "name": "BetterManger",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mawy",
+    "name": "Craftable",
     "steamId": null,
     "version": null
   },
@@ -1368,44 +1272,20 @@
     "version": null
   },
   {
+    "author": "Seiochと MaroonToon",
+    "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "huhu",
+    "name": "Ratkin hairs for kurin HAR",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sparrows",
     "name": "Miho spawn without psylink",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "muri",
-    "name": "Gokusotsu the Hell Guard",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bando",
-    "name": "Heyra the Horned",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "いのしし_3",
-    "name": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-    "steamId": "2670355481",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "VAMV",
-    "name": "Maru Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Millap",
-    "name": "Bori race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Demi, 어리연, Nemonianと gguake",
-    "name": "Paniel the Automata",
     "steamId": null,
     "version": null
   },
@@ -1428,18 +1308,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SutSutManと Dalrae",
-    "name": "Mincho, The Mint Choco Slime ~ HAR ver.",
-    "steamId": "2477501851",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SutSutMan",
-    "name": "Marilyn the Mincho Worshipper Witch ~ HAR ver.",
-    "steamId": "2604973449",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Ancot",
     "name": "Yuran Facial Animation",
     "steamId": null,
@@ -1453,37 +1321,13 @@
   },
   {
     "author": "塔洛斯",
-    "name": "Nals_FA_for_Heyra",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "塔洛斯",
     "name": "Nals FA for Ratkin",
     "steamId": null,
     "version": null
   },
   {
-    "author": "w3057011537",
-    "name": "Maru Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Talos",
-    "name": "Mincho FacialAnime",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Talos",
-    "name": "Heyra Face FacialAnime",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "塔洛斯",
-    "name": "Paniel Facial Animation",
+    "author": "darkmiz",
+    "name": "Kurin HAR Facial Animation",
     "steamId": null,
     "version": null
   },
@@ -1500,28 +1344,10 @@
     "version": null
   },
   {
-    "author": "Talos",
-    "name": "Mincho Witch FacialAnime",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "redbrick",
     "name": "Oppai_addRace_patch",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Udon",
-    "name": "Extend the Cat",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Onyxae",
-    "name": "Dragons Descent",
-    "steamId": "2026992161",
-    "version": "1.0.0.0"
   },
   {
     "author": "psychelo",
@@ -1568,18 +1394,6 @@
   {
     "author": "Cosmo Corban",
     "name": "AI Upscaled Textures - Mods",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Issac Zhuang",
-    "name": "Muzzle Flash",
-    "steamId": "2917732219",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "NomadRw",
-    "name": "Projectile Bullet Retexture",
     "steamId": null,
     "version": null
   },
@@ -1636,6 +1450,12 @@
     "name": "Range Finder",
     "steamId": "1332119637",
     "version": "2.4.0.0"
+  },
+  {
+    "author": "apricot77",
+    "name": "Xenotype Alteration",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Roo",
@@ -1782,6 +1602,12 @@
     "version": null
   },
   {
+    "author": "Lucifel",
+    "name": "Kurin HAR Edition 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Proxyer",
     "name": "Dubs Bad Hygiene 日本語翻訳追加",
     "steamId": null,
@@ -1796,6 +1622,12 @@
   {
     "author": "Lucifel",
     "name": "kemomimihouse Kz,HardworkingKz 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Biotech Gene Variety 日本語翻訳追加",
     "steamId": null,
     "version": null
   },
@@ -1836,12 +1668,6 @@
     "version": null
   },
   {
-    "author": "Lucifel",
-    "name": "Paniel the Automata 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Proxyer",
     "name": "Rabbie The Moonrabbit 日本語翻訳追加",
     "steamId": null,
@@ -1850,30 +1676,6 @@
   {
     "author": "namidasechi",
     "name": "[SYR] Processor Framework 日本語追加",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Maru RaceMod 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Marilyn the Mincho Worshipper Witch ~ HAR ver. 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Kurin, The Three Tailed Fox [Deluxe Edition] 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Proxyer",
-    "name": "RT Fuse 日本語翻訳追加",
     "steamId": null,
     "version": null
   },
@@ -1890,8 +1692,8 @@
     "version": null
   },
   {
-    "author": "Lucifel",
-    "name": "Heyra the Horned 日本語翻訳",
+    "author": "Proxyer",
+    "name": "Mid-saver Saver 日本語翻訳追加",
     "steamId": null,
     "version": null
   },
@@ -1916,18 +1718,6 @@
   {
     "author": "Proxyer",
     "name": "Dubs Apparel Tweaks 日本語翻訳追加",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Proxyer",
-    "name": "Mincho HAR ver 日本語翻訳追加",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Bori race 日本語翻訳",
     "steamId": null,
     "version": null
   }

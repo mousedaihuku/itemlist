@@ -7014,547 +7014,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "クーリンです.\n\n¯\\_(ツ)_/¯",
-      "stats": [
-        "+2 知力",
-        "-2 動物",
-        "+1.0 美しさ",
-        "+25.00% 商人の勘"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+2 知力",
-          "-2 動物",
-          "+1.0 美しさ",
-          "+25.00% 商人の勘"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kurin_Trait",
-      "name": "クーリン"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは,植物が好きな変わり者のクーリンです...",
-      "stats": [
-        "+10 栽培",
-        "+30% 栽培・速度"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+10 栽培",
-          "+30% 栽培・速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kurin_Trait_StrangeKurin",
-      "name": "変わり者のクーリン"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは,自分の遺伝子を改良するプログラムに参加しました.",
-      "stats": [
-        "+25% 身につけやすさ",
-        "+25% 毒耐性",
-        "+25% 毒環境耐性"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+25% 身につけやすさ",
-          "+25% 毒耐性",
-          "+25% 毒環境耐性"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kurin_Trait_UpgradedKurin",
-      "name": "強化されたクーリン"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "キミリです.\n\n¯\\_(ツ)_/¯",
-      "stats": [
-        "+1.0 美しさ"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+1.0 美しさ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kimiri_Trait",
-      "name": "キミリ"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "クーリンメカノイドです.\n\n¯\\_(ツ)_/¯",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "KurinMechanoid_Trait",
-      "name": "クーリンメカノイド"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは,マルです.火の温もりを感じながら自分が生きていることを思い出し,感覚を研ぎ澄ましています.",
-      "stats": [
-        "炎瞑想フォーカスタイプが許可されています。"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "炎瞑想フォーカスタイプが許可されています。"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Maru Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Maru_flameworship",
-      "name": "炎崇拝"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "物,出来事,技術,すべてに原因と結果が存在します.\nTimmyは,そのような因果関係を理解し,何かを学ぶことが病みつきになりました.",
-      "stats": [
-        "+25% 身につけやすさ",
-        "+20% 売値掛け率"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+25% 身につけやすさ",
-          "+20% 売値掛け率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Maru Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MRT_Eyetrait",
-      "name": "慧眼"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyの体は先天的に優れた柔軟性を持っています.\n人より丈夫で柔軟な体は狩りにおいてかなりの利点を持ちます.",
-      "stats": [
-        "+10.0 回避率(白兵戦)",
-        "+0.20 移動速度"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+10.0 回避率(白兵戦)",
-          "+0.20 移動速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Maru Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MRT_Bodytrait",
-      "name": "柔軟な身体"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは自身は正しいと思っています.\nその確固たる信念はまるで信仰心のように自分の意志に肯定的な影響を与えますが,他人の意見を無視する傾向もあります.",
-      "stats": [
-        "-9% 精神的弱さ",
-        "+10% 基本的な作業速度",
-        "+50% 全体的な信仰度の損失率"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "-9% 精神的弱さ",
-          "+10% 基本的な作業速度",
-          "+50% 全体的な信仰度の損失率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Maru Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MRT_Mentaltrait",
-      "name": "独善的"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "強い指導力を持った人物は常に肯定的であれ否定的であれ周辺の人々に影響を及ぼします.\nそんな人物がどんな道を選ぶか,どんな人生を生きていくかは誰にもわかりません.しかしひとつ確かなのは,人知れず消えてしまうような平凡な人物はそんな人物にはなれないということです.\n\nTimmyは生まれつきそんな才能を持っています.",
-      "stats": [
-        "-100% 精神的弱さ"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "-100% 精神的弱さ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Maru Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MRT_Mountaintrait",
-      "name": "指導者の器"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは小さな音すら聞き逃さない敏感な耳を持っています.\n音に敏感だという点は,集落の外での生活では長所たり得ますが,深く眠ることができないという短所でもあります.",
-      "stats": [
-        "-20% 休息しやすさ",
-        "+8.0 回避率(白兵戦)",
-        "+2.0 命中率(白兵戦)"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "-20% 休息しやすさ",
-          "+8.0 回避率(白兵戦)",
-          "+2.0 命中率(白兵戦)"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Maru Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MRT_Eartrait",
-      "name": "敏感な耳"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは実験的に培養されたマルです.\n他のマルより優れた身体能力を持っていますが,不完全な設計で作られたため,自己免疫力が非常に劣ります.",
-      "stats": [
-        "-16% 免疫を得る速度",
-        "+15.0 回避率(白兵戦)",
-        "+0.60 移動速度"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "-16% 免疫を得る速度",
-          "+15.0 回避率(白兵戦)",
-          "+0.60 移動速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Maru Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MRT_Prototype",
-      "name": "試作体"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "偉業を成し遂げる才能の片鱗です.",
-      "stats": [
-        "+75% 身につけやすさ"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+75% 身につけやすさ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Maru Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MRT_MountainA",
-      "name": "飽くなき探求心"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "偉業を成し遂げる才能の片鱗です.",
-      "stats": [
-        "-14% 精神的弱さ",
-        "+40% 基本的な作業速度"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "-14% 精神的弱さ",
-          "+40% 基本的な作業速度"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Maru Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MRT_MountainB",
-      "name": "知的好奇心"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "偉業を成し遂げる才能の片鱗です.",
-      "stats": [
-        "+150.00% 外交力",
-        "+150.00% 政治力"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+150.00% 外交力",
-          "+150.00% 政治力"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Maru Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MRT_MountainC",
-      "name": "保守継続"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "偉業を成し遂げる才能の片鱗です.",
-      "stats": [
-        "-25% 精神的弱さ"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "-25% 精神的弱さ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Maru Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MRT_MountainD",
-      "name": "摩耗と信念"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは,ボリです.速い心臓の鼓動が新陳代謝を活性化して,移動速度が速くなりますが,呼吸が荒くなったり,気が荒くなったりします.",
-      "stats": [
-        "+0.20 移動速度",
-        "-10.00% 政治力"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+0.20 移動速度",
-          "-10.00% 政治力"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Bori race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Bori_Rough_heart",
-      "name": "血が騒ぐ"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy finds it difficult to focus on distant targets, and prefer to get up close and personal.",
+      "description": "Timmyは、遠くの目標に集中することが困難であることを発見し、近いことを好む。",
       "stats": [
         "-2 射撃",
         "+2 格闘",
@@ -7596,7 +7056,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy could spot a target from nearly a hundred meters, yet still somehow walk into walls.",
+      "description": "Timmyは、100メートル近くからターゲットを見つけることができましたが、それでもどういうわけか壁に足を踏み入れました。",
       "stats": [
         "+2 射撃",
         "-2 格闘",
@@ -7638,7 +7098,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy's movements are smooth and graceful.",
+      "description": "Timmyの動きはスムーズで優雅です。",
       "stats": [
         "+2.0 回避率(白兵戦)",
         "+0.10 移動速度"
@@ -7672,7 +7132,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is so rigid, it's almost like 彼 is souless.",
+      "description": "Timmyはあまりにも硬いので、彼はほとんど魂がないようなものです。",
       "stats": [
         "-2.0 回避率(白兵戦)",
         "-0.10 移動速度"
@@ -7706,7 +7166,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy takes care of 彼の personal hygiene.",
+      "description": "Timmyは彼の個人の衛生管理をしています。",
       "stats": [
         "-10.00% 食中毒・発生率"
       ],
@@ -7738,7 +7198,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy doesn't care about 彼の hygiene, and sometimes get sick from bad food.",
+      "description": "Timmyは彼の衛生状態を気にせず、悪い食べ物で病気になることがあります。",
       "stats": [
         "+10.00% 食中毒・発生率"
       ],
@@ -7770,7 +7230,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy often gets 彼の way with things.",
+      "description": "Timmyは、物事で彼の方法をとることがよくあります。",
       "stats": [
         "+25.00% 外交力",
         "+25.00% 逮捕成功率"
@@ -7804,7 +7264,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has never won a debate in 彼の life.",
+      "description": "Timmyは彼の人生で一度もディベートに勝ったことがない。",
       "stats": [
         "-25.00% 外交力",
         "-25.00% 逮捕成功率"
@@ -7838,7 +7298,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has been in plenty of fights since 彼 was a kid, and had built up a tolerance to injury and pain as a result.",
+      "description": "Timmyは彼が子供の頃から多くの戦いを繰り広げており、その結果、怪我や痛みに対する耐性を身につけていました。",
       "stats": [
         "-10% 受けるダメージ倍率",
         "+5% 痛みへの限界値"
@@ -7874,7 +7334,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy lived a pampered life until now, and is unused to the brutal challenges present out in the Rim.",
+      "description": "Timmyは今まで甘やかされた生活を送っており、リムで提示される残酷な挑戦に慣れていません。",
       "stats": [
         "+10% 受けるダメージ倍率",
         "-5% 痛みへの限界値"
@@ -7912,7 +7372,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy always tackle his tasks with great enthusism.",
+      "description": "Timmyは常に熱心に彼の仕事に取り組んでいます。",
       "stats": [
         "+20% 基本的な作業速度",
         "+0.15 移動速度"
@@ -7946,7 +7406,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is slow. Sooo... slooow...",
+      "description": "Timmyは遅いです。 すっごく...すごい...",
       "stats": [
         "-20% 基本的な作業速度",
         "-0.15 移動速度"
@@ -7980,7 +7440,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy always sleep like a baby.",
+      "description": "Timmyは、いつも赤ちゃんのように寝ています。",
       "stats": [
         "+25% 休息しやすさ"
       ],
@@ -8012,7 +7472,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy often has a difficult time falling asleep.",
+      "description": "Timmyは、眠りにつくのに苦労することがよくあります。",
       "stats": [
         "-25% 休息しやすさ"
       ],
@@ -8044,7 +7504,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is quite productive when it comes to work.",
+      "description": "Timmyは仕事になるとかなり生産性が高いです。",
       "stats": [
         "+20% 基本的な作業速度",
         "+20% 身につけやすさ"
@@ -8078,7 +7538,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is somewhat of a bottleneck in the colony.",
+      "description": "Timmyは、コロニーのボトルネックのようなものです。",
       "stats": [
         "-20% 基本的な作業速度",
         "-20% 身につけやすさ"
@@ -8112,7 +7572,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is brave, 彼 would stand 彼の where others would scramble and run.",
+      "description": "Timmyは勇敢で、彼は他の人がスクランブルしてる走るところが彼の立つ場所だろう。",
       "stats": [
         "-5% 精神的弱さ",
         "+5% 痛みへの限界値"
@@ -8146,7 +7606,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "When there's a fight, Timmy is the first to run.",
+      "description": "喧嘩になったらTimmyが先に逃げます。",
       "stats": [
         "+5% 精神的弱さ",
         "-5% 痛みへの限界値"
@@ -8180,7 +7640,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy likes a good fight, 彼 will sometimes start a fight just because 彼 can.",
+      "description": "Timmyは良い戦いが好きで、彼はそうすることができるからといって、時々喧嘩を売ります。",
       "stats": [
         "+5% 精神的弱さ"
       ],
@@ -8212,7 +7672,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is usually calm and collected.",
+      "description": "Timmyは普段は落ち着いていてまとまっています。",
       "stats": [
         "-5% 精神的弱さ"
       ],
@@ -8244,7 +7704,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is more comfortable being in hot environment than his peers.",
+      "description": "Timmyは仲間よりも暑い環境にいる方が快適です。",
       "stats": [
         "+3.0C 快適と感じる最高気温"
       ],
@@ -8276,7 +7736,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy does not like being in the heat.",
+      "description": "Timmyは暑いのが好きではありません。",
       "stats": [
         "-3.0C 快適と感じる最高気温"
       ],
@@ -8308,7 +7768,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is more comfortable being in cold environment than his peers.",
+      "description": "Timmyは仲間よりも寒い環境にいる方が快適です。",
       "stats": [
         "-3.0C 快適と感じる最低気温"
       ],
@@ -8340,7 +7800,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy does not like being in the cold.",
+      "description": "Timmyは寒いのが好きではありません。",
       "stats": [
         "+3.0C 快適と感じる最低気温"
       ],
@@ -8372,7 +7832,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a well built body, people around 彼 find that rather attractive.",
+      "description": "Timmyは体格が良いので、彼の周りの人はそれをむしろ魅力的に感じます。",
       "stats": [
         "+5 輸送能力",
         "+1.0 美しさ"
@@ -8406,7 +7866,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy looks a bit fragile, but not in a lovable way.",
+      "description": "Timmyは少し脆そうで、魅力的ではない。",
       "stats": [
         "-5 輸送能力",
         "-1.0 美しさ"
@@ -8440,7 +7900,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy doesn't eat or drink much.",
+      "description": "Timmyはあまり食べたり飲んだりしません。",
       "stats": [],
       "conflicts": [
         "ravenous",
@@ -8468,7 +7928,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a bottomless pit for a stomach.",
+      "description": "Timmyには、お腹に底なしの穴があります。",
       "stats": [],
       "conflicts": [
         "abstinent",
@@ -8496,7 +7956,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is naturally talented, 彼 gets a headstart before everyone else.",
+      "description": "Timmyは生まれながらにして才能があり、彼は誰よりも早く頭角を現します。",
       "stats": [
         "+4 射撃",
         "+4 格闘",
@@ -8550,7 +8010,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is someone everyone loves to hate.",
+      "description": "Timmyは、誰もが憎めない人です。",
       "stats": [
         "-4 射撃",
         "-4 格闘",
@@ -8604,7 +8064,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy takes great care in the preparation of food, 彼 never skip a step just to have an early meal.",
+      "description": "Timmy】は食事の準備に細心の注意を払い、【彼】は早く食事を作るのにも手を抜かない。",
       "stats": [
         "-0.8 調理・速度",
         "-10.00% 食中毒・発生率"
@@ -8638,7 +8098,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy couldn't care less about following the recipes as long as 彼 can get food into 彼の mouth in record time.",
+      "description": "Timmy】は【彼】が記録的な速さで食事を提供して【彼の】に食べさせれるのなら、レシピなんてどうでもいいと思ってます。",
       "stats": [
         "+0.8 調理・速度",
         "+10.00% 食中毒・発生率"
@@ -8672,7 +8132,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy lives a healthy lifestyle, and wakes up feeling energetic and cheerful.",
+      "description": "Timmyは健康的な生活をしていて、元気に明るく目覚めています。",
       "stats": [
         "+10% 休息しやすさ",
         "+10% 免疫を得る速度",
@@ -8714,7 +8174,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy gets ill quite often, and seem to require more effort to get out of bed than the average person.",
+      "description": "Timmy】はよく病気になりベッドから起き上がるのも普通の人より努力が必要なようです。",
       "stats": [
         "-10% 休息しやすさ",
         "-10% 免疫を得る速度",
@@ -8756,7 +8216,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is comfortable in all seasons.",
+      "description": "Timmy】はどんな季節でも快適に過ごします。",
       "stats": [
         "+3.0C 快適と感じる最高気温",
         "-3.0C 快適と感じる最低気温"
@@ -8790,7 +8250,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy thinks that summer is way too hot, and winter is way too cold.",
+      "description": "Timmy】は夏は暑すぎるし、冬は寒すぎると思っています。",
       "stats": [
         "-3.0C 快適と感じる最高気温",
         "+3.0C 快適と感じる最低気温"
@@ -8824,7 +8284,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has good reaction time and finds physical activities less stressful than 彼の peers.",
+      "description": "Timmyは反応時間が良く、彼の仲間よりも身体活動のストレスが少ないことがわかります。",
       "stats": [
         "+2.0 命中率(射撃)",
         "+2.0 命中率(白兵戦)",
@@ -8860,7 +8320,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is easily distracted and often mess up when it comes to physical activities.",
+      "description": "Timmyは気が散りやすく、それが戦闘になるとしばしば台無しにしてしまいます。",
       "stats": [
         "-2.0 命中率(射撃)",
         "-2.0 命中率(白兵戦)",
@@ -8896,7 +8356,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is what people refer to as a 'stronk boi'.",
+      "description": "Timmyは、人々が'ストロンクボイ'と呼ぶものです。",
       "stats": [
         "-10% 受けるダメージ倍率",
         "+10% 免疫を得る速度",
@@ -8940,7 +8400,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is so fragile, it doesn't take much to take 彼を out of action.",
+      "description": "Timmyは非常に打たれ弱いため、彼を動けなくするのにそれほど時間はかかりません。",
       "stats": [
         "+10% 受けるダメージ倍率",
         "-10% 免疫を得る速度",
@@ -8986,7 +8446,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Whether by sheer optimism or a force of personality, Timmy always manages to see the bright side of life.",
+      "description": "楽観的であろうと個性的であろうとTimmyは常に人の明るい面を見ることができます。",
       "stats": [
         "+3 芸術"
       ],
@@ -9018,7 +8478,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Life to Timmy is an endless, boring joke that 彼 just can't get away from.",
+      "description": "Timmyにとっての人生は彼が終わらしたくも終われず逃げることも出来ない多忙な状態になるでしょう",
       "stats": [
         "-3 芸術"
       ],
@@ -9050,7 +8510,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has an interest in understanding the workings of the world, and is able to apply 彼の knowledge in daily life.",
+      "description": "Timmy】は世界の仕組みを理解することに興味があり、【彼の】の知識を日常生活で活用することができる。",
       "stats": [
         "+4 知力",
         "-5% 精神的弱さ"
@@ -9084,7 +8544,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Gaps in Timmy's education and general lack of curiosity makes life often stressful for 彼を.",
+      "description": "Timmyの教育のギャップと一般的な好奇心の欠如は彼をの生活をしばしばストレスを感じるでしょう。",
       "stats": [
         "-4 知力",
         "+5% 精神的弱さ"
@@ -9118,7 +8578,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy likes to keep 彼の surroundings clean, and is used to being in an organised environment.",
+      "description": "Timmy】は【彼の】の周囲をきれいに保つのが好きで、整理整頓された環境に慣れている。",
       "stats": [
         "+5% 休息しやすさ",
         "+5% 基本的な作業速度",
@@ -9154,7 +8614,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy often neglect their surroundings, making it difficult for 彼を to get work done.",
+      "description": "Timmyは周囲を顧みないことが多く、彼をが仕事をするのが難しくなっています。",
       "stats": [
         "-5% 休息しやすさ",
         "-5% 基本的な作業速度",
@@ -9809,552 +9269,6 @@
       "data": {
         "customName": false,
         "stats": [
-          "+110.00 重量",
-          "+10% 燃えやすさ",
-          "+$1750 金額",
-          "+4.00 移動速度",
-          "+130 輸送能力",
-          "-10.0C 快適と感じる最低気温",
-          "+1000.0C 快適と感じる最高気温",
-          "+120% 掘削・速度",
-          "+120% 建造・速度",
-          "+0.5 調理・速度",
-          "+70% 栽培・速度",
-          "+50% 研究・速度",
-          "+120% 痛みへの限界値",
-          "+60.0% アーマー - 打撲系",
-          "-10.0% アーマー - 突刺系",
-          "+20.0% アーマー - 熱系"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "彼らはもともと異世界の地下に広がる巨大な懲罰施設の獄卒達でした.\nある時新しく入獄してきた学者にそそのかされ（おそらく酒が無限に出てくるなどと言われて）作らされた”門”によってこの世界へ吸い出されてきました.\n彼らはその後しばらくは, まんまと脱獄に成功した学者を探し出して職場に戻るため一丸となっていました.\nしかし自分達の生命が現世の生物のように有限のものになっている事や彼らの好物（酒や闘い, それに人肉です）がそこらで手に入る事に気づき, さらには上司の不在によって統率は崩れ獄卒達は各自好きにするため惑星に散っていきました.",
-      "defName": "Alien_Gokusotsu",
-      "enabled": false,
-      "name": "獄卒",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+110.00 重量",
-          "+10% 燃えやすさ",
-          "+$1750 金額",
-          "+4.00 移動速度",
-          "+130 輸送能力",
-          "-10.0C 快適と感じる最低気温",
-          "+1000.0C 快適と感じる最高気温",
-          "+120% 掘削・速度",
-          "+120% 建造・速度",
-          "+0.5 調理・速度",
-          "+70% 栽培・速度",
-          "+50% 研究・速度",
-          "+120% 痛みへの限界値",
-          "+60.0% アーマー - 打撲系",
-          "-10.0% アーマー - 突刺系",
-          "+20.0% アーマー - 熱系"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "They were originally guards in a huge punishment facility spreading underground in another world. \nOne day, they were seduced by a newly-arrived scholar and sucked out into this world through a \"gate\" that they were made to build (perhaps with the promise of an endless supply of alcohol, etc.). \nFor a while afterwards, they worked together to find the scholar who had successfully escaped. \nHowever, they realized that their lives became mortal like the creatures of mortal world, and that their favorite things (alcohol, fighting, and human flesh) were available everywhere. In addition, the absence of their boss had destroyed their teamwork, and the all gokusotsu scattered to the planets to do as they pleased.",
-      "defName": "GHG_Mezu",
-      "enabled": false,
-      "name": "馬頭獄卒",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+110.00 重量",
-          "+10% 燃えやすさ",
-          "+$1750 金額",
-          "+4.00 移動速度",
-          "+130 輸送能力",
-          "-10.0C 快適と感じる最低気温",
-          "+1000.0C 快適と感じる最高気温",
-          "+120% 掘削・速度",
-          "+120% 建造・速度",
-          "+0.5 調理・速度",
-          "+70% 栽培・速度",
-          "+50% 研究・速度",
-          "+120% 痛みへの限界値",
-          "+60.0% アーマー - 打撲系",
-          "-10.0% アーマー - 突刺系",
-          "+20.0% アーマー - 熱系"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "They were originally guards in a huge punishment facility spreading underground in another world. \nOne day, they were seduced by a newly-arrived scholar and sucked out into this world through a \"gate\" that they were made to build (perhaps with the promise of an endless supply of alcohol, etc.). \nFor a while afterwards, they worked together to find the scholar who had successfully escaped. \nHowever, they realized that their lives became mortal like the creatures of mortal world, and that their favorite things (alcohol, fighting, and human flesh) were available everywhere. In addition, the absence of their boss had destroyed their teamwork, and the all gokusotsu scattered to the planets to do as they pleased.",
-      "defName": "GHG_Gozu",
-      "enabled": true,
-      "name": "牛頭獄卒",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+65.00 重量",
-          "+100% 燃えやすさ",
-          "+$2750 金額",
-          "+4.55 移動速度",
-          "+28.0C 快適と感じる最高気温",
-          "+16.0C 快適と感じる最低気温",
-          "+100% 免疫を得る速度",
-          "+75 輸送能力",
-          "+80 生肉の量",
-          "+50 生皮の量",
-          "+100% 精神感応性",
-          "+0.9 回避率(白兵戦)",
-          "+100.00% 政治力",
-          "+100% 作業・速度",
-          "+100% 合成・速度",
-          "+100% 看護・速度",
-          "+100% 看護・品質",
-          "+100% 外科手術の成功率",
-          "+6 名誉値"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "ヘイラたちがRimworldに定住したのは大昔のことでした.彼らは,時折,頭の中で囁き声が聞こえるという独特の超能力があります.その囁きは,ほとんどが断片的な言葉ですが,ヘイラたちはそれを神の御告げだと信じています.この囁きが本物かどうかはわかりません.しかし,ヘイラたちが人間よりも高い精神感応性を持っていることは確認されています.",
-      "defName": "Alien_Heyra",
-      "enabled": true,
-      "name": "ヘイラ",
-      "price": 4583
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+65.00 重量",
-          "+100% 燃えやすさ",
-          "+$2750 金額",
-          "+4.80 移動速度",
-          "+35.0C 快適と感じる最高気温",
-          "+10.0C 快適と感じる最低気温",
-          "+100% 免疫を得る速度",
-          "+75 輸送能力",
-          "+80 生肉の量",
-          "+50 生皮の量",
-          "+80% 精神感応性",
-          "+1.2 回避率(白兵戦)",
-          "+55.00% 政治力",
-          "+80% 作業・速度",
-          "+120% 合成・速度",
-          "+100% 看護・速度",
-          "+100% 看護・品質",
-          "+100% 外科手術の成功率",
-          "+6 名誉値"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "この残虐で野蛮なロン族はヘイラ族の宿敵です.道徳的観念を捨て,人類の最も原始的な欲求だけを重視します.一連の証拠から,ロン族がヘイラ族の一分派であることを示していますが,ヘイラ族の最高位司祭はそれを認めていません.",
-      "defName": "Alien_Heyra_Rong",
-      "enabled": true,
-      "name": "ロン",
-      "price": 4583
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 重量",
-          "+100% 燃えやすさ",
-          "+$2625 金額",
-          "+4.60 移動速度",
-          "+14.0C 快適と感じる最低気温",
-          "+28.0C 快適と感じる最高気温",
-          "+75 生皮の量",
-          "+135 生肉の量",
-          "+3 名誉値",
-          "+75 輸送能力",
-          "+0% 毒耐性",
-          "+0% 毒環境耐性",
-          "+100.00% 外交力",
-          "+100.00% 政治力",
-          "+100% 免疫を得る速度",
-          "+100% 掘削・速度",
-          "+100% 研究・速度",
-          "+100% 栽培・速度"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "三本の尻尾を持つキツネの遺伝子を持つ種族です.\n\n\"クーリン\"は,繁栄したGlitterworldの遺伝子操作によって誕生した生物学的種族です.彼らのDNAには,自然進化の過程で人間のDNAが持つ欠点がありません.さらに,キツネのような3本の尻尾,キツネのような耳、高い敏捷性,優れた視覚と聴覚,優れた感覚器官など,\"遺伝子学的ヒトベース\"の優れた特徴を持っています.",
-      "defName": "Kurin",
-      "enabled": true,
-      "name": "クーリン",
-      "price": 4375
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 重量",
-          "+100% 燃えやすさ",
-          "+$2625 金額",
-          "+4.60 移動速度",
-          "-26.0C 快適と感じる最低気温",
-          "+26.0C 快適と感じる最高気温",
-          "+75 生皮の量",
-          "+135 生肉の量",
-          "+3 名誉値",
-          "+75 輸送能力",
-          "+0% 毒耐性",
-          "+0% 毒環境耐性",
-          "+100.00% 外交力",
-          "+100.00% 政治力",
-          "+100% 免疫を得る速度",
-          "+100% 栽培・速度",
-          "+100% 栽培・収率",
-          "+100% 家畜・収穫速度",
-          "+100% 家畜・収穫収率",
-          "+100% 掘削・速度",
-          "+100% 掘削・収率",
-          "+100% 研究・速度",
-          "+100% 身につけやすさ"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "\"キミリ\"は,Kurinworldの遺伝子操作によって誕生した生物学的種族です.そのDNAは,クーリンと,クーリンがある惑星で発見したドラゴンのような種族のDNAをミックスしたものです.\"遺伝子学的クーリンベース\"に,そのドラゴン種のような尻尾,ドラゴン種のような耳,クーリンよりも丈夫な体,ドラゴン種のような毒性免疫力の向上など,いくつかの特徴を加えられています.\n\n社会的にはクーリンと対等な立場にありますが,クーリンとは違い,頭脳労働が苦手なため,肉体労働に従事することが多いようです.\n\nまた,キミリは雌雄同体であり,女性器と男性器を持つ両性具有なので,全員が自分で性別を自由に選んでいます.",
-      "defName": "Kimiri",
-      "enabled": true,
-      "name": "キミリ",
-      "price": 4375
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 重量",
-          "+0% 燃えやすさ",
-          "+$3790 金額",
-          "-100.0C 快適と感じる最低気温",
-          "+250.0C 快適と感じる最高気温",
-          "+0% 精神感応性",
-          "+100% 毒耐性",
-          "+100% 毒環境耐性",
-          "+0 生肉の量",
-          "+500% 痛みへの限界値",
-          "+0% 精神的弱さ",
-          "+0% 身につけやすさ",
-          "+0 生皮の量",
-          "+0.00% 政治力",
-          "+5.00 移動速度",
-          "+115.0% アーマー - 突刺系",
-          "+72.0% アーマー - 打撲系",
-          "+200.0% アーマー - 熱系",
-          "+150% ドア近接ダメージ掛け率",
-          "+60% EMP耐性"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "オーバーロードはクーリン共和国タイタン級クーリンメカノイドで,重戦闘支援や強固な施設への強襲を目的として作られました.",
-      "defName": "Overlord",
-      "enabled": false,
-      "name": "オーバーロード",
-      "price": 6317
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 重量",
-          "+0% 燃えやすさ",
-          "+$1750 金額",
-          "-100.0C 快適と感じる最低気温",
-          "+250.0C 快適と感じる最高気温",
-          "+0% 精神感応性",
-          "+100% 毒耐性",
-          "+100% 毒環境耐性",
-          "+0 生肉の量",
-          "+500% 痛みへの限界値",
-          "+0% 精神的弱さ",
-          "+0% 身につけやすさ",
-          "+0 生皮の量",
-          "+0.00% 政治力",
-          "+5.00 移動速度",
-          "+92.0% アーマー - 突刺系",
-          "+40.0% アーマー - 打撲系",
-          "+200.0% アーマー - 熱系",
-          "+150% ドア近接ダメージ掛け率"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "ピースキーパーはクーリン共和国バウンサー級クーリンメカノイドで,戦闘用に作られました.",
-      "defName": "Peacekeeper",
-      "enabled": false,
-      "name": "ピースキーパー",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 重量",
-          "+0% 燃えやすさ",
-          "+$950 金額",
-          "-100.0C 快適と感じる最低気温",
-          "+250.0C 快適と感じる最高気温",
-          "+0% 精神感応性",
-          "+100% 毒耐性",
-          "+100% 毒環境耐性",
-          "+0 生肉の量",
-          "+500% 痛みへの限界値",
-          "+0% 精神的弱さ",
-          "+0% 身につけやすさ",
-          "+0 生皮の量",
-          "+0.00% 政治力",
-          "+5.80 移動速度",
-          "+61.6% アーマー - 突刺系",
-          "+40.0% アーマー - 打撲系",
-          "+200.0% アーマー - 熱系",
-          "+150% ドア近接ダメージ掛け率"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "スマーティはクーリン共和国スマートサーバント級クーリンメカノイドで,搭載しているモジュールによって,さまざまなタスクに対応できるよう作られました.",
-      "defName": "Smarty",
-      "enabled": false,
-      "name": "スマーティ",
-      "price": 1583
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+55.00 重量",
-          "+50% 燃えやすさ",
-          "+3 名誉値",
-          "+$2200 金額",
-          "+5.00 移動速度",
-          "+35% 精神的弱さ",
-          "+20.0C 快適と感じる最高気温",
-          "-1.0C 快適と感じる最低気温",
-          "+100% 免疫を得る速度",
-          "+75 輸送能力",
-          "+60 生肉の量",
-          "+50 生皮の量",
-          "+80% 痛みへの限界値",
-          "+100% 精神感応性",
-          "+1.2 回避率(白兵戦)",
-          "+1.0 命中率(白兵戦)",
-          "+100% 照準時間",
-          "+1.0 命中率(射撃)",
-          "+100% 売値掛け率",
-          "+90.00% 外交力",
-          "+90.00% 商人の勘",
-          "+90.00% 政治力",
-          "+100% メカノイド・寸断収率",
-          "+100% メカノイド・寸断速度",
-          "+100% 溶解・速度",
-          "+100% 作業・速度",
-          "+100% 食肉加工・収率",
-          "+100% 食肉加工・速度",
-          "+100.00% 食中毒・発生率",
-          "+1.0 調理・速度",
-          "+90% 休息しやすさ",
-          "+80% 栽培・速度",
-          "+100% 研究・速度",
-          "+100% 看護・品質",
-          "+100% 合成・速度",
-          "+100% 外科手術の成功率",
-          "+100% 掘削・速度",
-          "+100% 掘削・収率",
-          "+110% 狩り"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "名も知らぬ文明の廃墟に住む種族です.極北人,ユキヒョウなどとも呼ばれ,広範囲にわたって小さな社会を形成して暮らしています.",
-      "defName": "Maru",
-      "enabled": true,
-      "name": "マル",
-      "price": 3667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+65.00 重量",
-          "+100% 燃えやすさ",
-          "+$2000 金額",
-          "+2 名誉値",
-          "+75 輸送能力",
-          "+80% 身につけやすさ",
-          "+50% 精神感応性",
-          "+100% 休息しやすさ",
-          "+80% 基本的な作業速度",
-          "+1.15 食料調達量",
-          "+100.00% 外交力",
-          "+70.00% 政治力",
-          "+70.00% 商人の勘",
-          "+40 生皮の量",
-          "+85% 痛みへの限界値",
-          "+30% 精神的弱さ",
-          "+18.0C 快適と感じる最低気温",
-          "+30.0C 快適と感じる最高気温",
-          "+5.50 移動速度",
-          "+100% 毒耐性",
-          "+90% 照準時間",
-          "+10.0 回避率(白兵戦)",
-          "+1.5 命中率(白兵戦)"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "強い縄張り意識を持つように遺伝子操作された犬獣人です.犬の耳と尻尾を持っています.",
-      "defName": "Alien_Bori",
-      "enabled": true,
-      "name": "ボリ",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+65.00 重量",
-          "+150% 燃えやすさ",
-          "+$3000 金額",
-          "+4 名誉値",
-          "+45 輸送能力",
-          "+150% 身につけやすさ",
-          "+30% 精神感応性",
-          "+75% 休息しやすさ",
-          "+105% 基本的な作業速度",
-          "+1 食料調達量",
-          "+130.00% 外交力",
-          "+130.00% 政治力",
-          "+130.00% 商人の勘",
-          "+70 生皮の量",
-          "+50% 痛みへの限界値",
-          "+30% 精神的弱さ",
-          "+5.0C 快適と感じる最低気温",
-          "+28.0C 快適と感じる最高気温",
-          "+4.50 移動速度",
-          "+120% 照準時間",
-          "+5.0 回避率(白兵戦)",
-          "+0.8 命中率(白兵戦)"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "美しく強力な\"アリス\"という羊毛を生産するように遺伝子操作された羊の獣人です.ほとんどの個体が脆弱です.また搾乳することでミルクも収穫できます.",
-      "defName": "Alien_SP",
-      "enabled": true,
-      "name": "シフォン",
-      "price": 5000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+70.00 重量",
-          "+70% 燃えやすさ",
-          "+$2000 金額",
-          "+4.60 移動速度",
-          "+0 名誉値",
-          "+38.0C 快適と感じる最高気温",
-          "+4.0C 快適と感じる最低気温",
-          "+100% 休息しやすさ",
-          "+100% 食事の早さ",
-          "+120% 免疫を得る速度",
-          "+100 輸送能力",
-          "+99% 痛みへの限界値",
-          "+80% 毒耐性",
-          "+75% 毒環境耐性",
-          "+60% 精神感応性",
-          "+0% 身につけやすさ",
-          "+0.00% 食中毒・発生率",
-          "+0 生肉の量",
-          "+0 生皮の量",
-          "+1.0 回避率(白兵戦)",
-          "+1.0 命中率(白兵戦)",
-          "+100% 照準時間",
-          "+1.0 命中率(射撃)",
-          "+0.0% アーマー - 突刺系",
-          "+0.0% アーマー - 打撲系",
-          "+0.0% アーマー - 熱系",
-          "+80.00% 外交力",
-          "+100% 売値掛け率",
-          "+100.00% 政治力",
-          "+30% 精神的弱さ",
-          "+100% 基本的な作業速度",
-          "+100% 看護・速度",
-          "+100% 看護・品質",
-          "+100% 医療・処置速度",
-          "+100% 外科手術の成功率",
-          "+100% 建造・速度",
-          "+10% 研究・速度",
-          "+0% 生殖能力"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "PnL工業が設計したオートマトンです.",
-      "defName": "Paniel_Race",
-      "enabled": false,
-      "name": "パニエル",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+56.00 重量",
-          "+200% 燃えやすさ",
-          "+40.0% アーマー - 突刺系",
-          "+20.0% アーマー - 打撲系",
-          "+0.0% アーマー - 熱系",
-          "+3% 精神的弱さ",
-          "+0% 精神感応性",
-          "+100% 毒耐性",
-          "+100% 毒環境耐性",
-          "+80% 身につけやすさ",
-          "+140% 休息しやすさ",
-          "+200% 食事の早さ",
-          "+400% 免疫を得る速度",
-          "+150 輸送能力",
-          "+40 生肉の量",
-          "+0 生皮の量",
-          "+0 生き物スキル必要量",
-          "+100% 痛みへの限界値",
-          "+1.4 食料調達量",
-          "+90.00% 外交力",
-          "+90.00% 商人の勘",
-          "+90.00% 政治力",
-          "+90% 基本的な作業速度",
-          "+100% 作業・速度",
-          "+$2000 金額",
-          "+4.00 移動速度",
-          "-300.0C 快適と感じる最低気温",
-          "+23.0C 快適と感じる最高気温",
-          "+3 名誉値"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "ミンチョはもともと、食品会社「ICEcRIMe」がミュータントとミントチョコレートを組み合わせて作ったスライム型のプロモーションおもちゃでした。しかし、誤って実験者がメカナイトでスライムを作ってしまい、ただのおもちゃであるはずだったスライムは、人間を模倣し始めました。その後リコールが行われましたが「ミンチョ」と呼ばれる生き物はすでに多くの惑星に広がっていました。\n\nミンチョの体はミントチョコレートでできています。ミントチョコはミントとチョコレートで作られています。またミンチョから溶けたミントチョコが時々こぼれます。\n\nミンチョはスライムコアで身体を維持しています。コアが破壊されたり過度のダメージによってミンチョが倒れると、彼らはミントチョコレートの塊になります。しかし、スライムのコアが破壊されない限り、彼らには強力な再生能力があります。また、スライムコアと人間の脳の構造は異なります。したがって、ミンチョはサイコスードの影響を受けません。\n\nミンチョたちは人間に似ていますが、やや知能が低く、自分で何か新しいものを発見することができません。\n\nかなり奇妙な面もありますが、彼らは人間と人間型の種族に非常に友好的です。年齢や形や人種はミンチョにとって重要ではありません。ミントチョコを愛しているかが重要です。",
-      "defName": "Mincho_ThingDef",
-      "enabled": true,
-      "name": "ミンチョ",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
           "+55.00 重量",
           "+100% 燃えやすさ",
           "+$2000 金額",
@@ -10407,24 +9321,41 @@
       "data": {
         "customName": false,
         "stats": [
-          "+60.00 重量",
-          "+100% 燃えやすさ",
-          "+150% 精神感応性",
-          "+$2100 金額",
-          "+4.60 移動速度",
-          "-100.0C 快適と感じる最低気温",
-          "+30.0C 快適と感じる最高気温",
-          "+50 生皮の量",
-          "+15 名誉値"
+          "+50.00 重量",
+          "+30% 燃えやすさ",
+          "+$3500 金額",
+          "+5.00 移動速度",
+          "+40% 精神的弱さ",
+          "+42.0C 快適と感じる最高気温",
+          "+10.0C 快適と感じる最低気温",
+          "+110% 免疫を得る速度",
+          "+70 輸送能力",
+          "+55 生肉の量",
+          "+55 生皮の量",
+          "+80% 痛みへの限界値",
+          "+130.00% 外交力",
+          "+120% 売値掛け率",
+          "+120.00% 政治力",
+          "+110% メカノイド・寸断収率",
+          "+110% メカノイド・寸断速度",
+          "+100% 溶解・速度",
+          "+90% 研究・速度",
+          "+70% 掘削・速度",
+          "+105% 食肉加工・収率",
+          "+90% 食肉加工・速度",
+          "+80.00% 食中毒・発生率",
+          "+1.1 調理・速度",
+          "+110% 休息しやすさ",
+          "+80% 栽培・速度"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "マリリン-ミンチョ魔女は,ミンチョを盲目的に崇拝する魔女です.\n\n彼女は,ミンチョを崇拝する部族の酋長の娘として生まれました.彼女は,誰でもミンチョに\"昇天\"させる能力を持っていました.不幸にも,帝国は彼女を敵を討つための武器として使おうと考え,彼女が暮らす部族の集落に襲撃をかけました.そして彼女の部族を救おうとしたミンチョを含め,部族全員が虐殺されてしまいました.\n\n誘拐されたマリリンは,家族や部族の人々,そして神々をも失ったことで,精神的に追い詰められました.帝国が行った恐ろしい実験は,それをさらに悪化させました.\n\n狂気に囚われた彼女は,研究室にいる全員を凍死させて脱出しました.帝国の実験による新たな覚醒の力を得て,狂気に捻じ曲げられたミンチョの言葉を広めようとしています.\n\n身体能力は普通のヒトと変わりませんが,体内に組み込まれたメカナイトにより,毒素に対する抵抗力が非常に強いです.",
-      "defName": "MinchoWitch",
+      "description": "キツネの遺伝子を持つ女性だけの種族です.元々は惑星アオラーラを故郷とするGlitterworldで作られた種族でしたが,内戦のせいで故郷を追われることになりました.現在では,彼女たちはRimworldに広く根付いているようです.",
+      "defName": "Kurin_Race",
       "enabled": true,
-      "name": "ミンチョ魔女",
-      "price": 3500
+      "name": "クーリン",
+      "price": 5833
     }
   ]
 }

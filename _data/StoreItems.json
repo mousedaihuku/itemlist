@@ -1161,13 +1161,13 @@
 	{
 		"abr": "ウォーマスク",
 		"price": 101,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "Apparel_WarMask"
 	},
 	{
 		"abr": "ベール",
 		"price": 75,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "Apparel_WarVeil"
 	},
 	{
@@ -1197,7 +1197,7 @@
 	{
 		"abr": "精神波遮断ヘルメット",
 		"price": 417,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "Apparel_PsychicFoilHelmet"
 	},
 	{
@@ -1347,199 +1347,199 @@
 	{
 		"abr": "ブリーチアックス",
 		"price": 197,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_BreachAxe"
 	},
 	{
 		"abr": "メイス",
 		"price": 203,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_Mace"
 	},
 	{
 		"abr": "グラディウス",
 		"price": 239,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_Gladius"
 	},
 	{
 		"abr": "ロングソード",
 		"price": 442,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_LongSword"
 	},
 	{
 		"abr": "クラブ",
 		"price": 141,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_Club"
 	},
 	{
 		"abr": "ナイフ",
 		"price": 111,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_Knife"
 	},
 	{
 		"abr": "イクワ",
 		"price": 197,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_Ikwa"
 	},
 	{
 		"abr": "スピア",
 		"price": 322,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_Spear"
 	},
 	{
 		"abr": "リボルバー",
 		"price": 226,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_Revolver"
 	},
 	{
 		"abr": "自動式拳銃",
 		"price": 232,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_Autopistol"
 	},
 	{
 		"abr": "マシンピストル",
 		"price": 367,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_MachinePistol"
 	},
 	{
 		"abr": "火炎筒投射機",
 		"price": 567,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_IncendiaryLauncher"
 	},
 	{
 		"abr": "煙幕筒投射機",
 		"price": 633,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_SmokeLauncher"
 	},
 	{
 		"abr": "empランチャー",
 		"price": 842,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_EmpLauncher"
 	},
 	{
 		"abr": "ライフル",
 		"price": 425,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_BoltActionRifle"
 	},
 	{
 		"abr": "ポンプ式散弾銃",
 		"price": 425,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_PumpShotgun"
 	},
 	{
 		"abr": "自動式ショットガン",
 		"price": 675,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_ChainShotgun"
 	},
 	{
 		"abr": "サブマシンガン",
 		"price": 592,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_HeavySMG"
 	},
 	{
 		"abr": "軽機関銃",
 		"price": 708,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_LMG"
 	},
 	{
 		"abr": "軍用ライフル",
 		"price": 800,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_AssaultRifle"
 	},
 	{
 		"abr": "狙撃銃",
 		"price": 883,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_SniperRifle"
 	},
 	{
 		"abr": "ミニガン",
 		"price": 1933,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_Minigun"
 	},
 	{
 		"abr": "三連装ロケットランチャー",
 		"price": 1667,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_TripleRocket"
 	},
 	{
 		"abr": "最終ロケット兵器",
 		"price": 1667,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_DoomsdayRocket"
 	},
 	{
 		"abr": "手榴弾",
 		"price": 442,
-		"category": "投擲武器",
+		"category": "グレネード",
 		"defname": "Weapon_GrenadeFrag"
 	},
 	{
 		"abr": "モロトフのカクテル",
 		"price": 408,
-		"category": "投擲武器",
+		"category": "グレネード",
 		"defname": "Weapon_GrenadeMolotov"
 	},
 	{
 		"abr": "手榴弾(emp)",
 		"price": 525,
-		"category": "投擲武器",
+		"category": "グレネード",
 		"defname": "Weapon_GrenadeEMP"
 	},
 	{
 		"abr": "ショートボウ",
 		"price": 74,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Bow_Short"
 	},
 	{
 		"abr": "投槍",
 		"price": 182,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Pila"
 	},
 	{
 		"abr": "リカーブボウ",
 		"price": 110,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Bow_Recurve"
 	},
 	{
 		"abr": "グレートボウ",
 		"price": 174,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Bow_Great"
 	},
 	{
 		"abr": "チャージライフル",
 		"price": 1683,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_ChargeRifle"
 	},
 	{
 		"abr": "チャージランス",
 		"price": 2258,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_ChargeLance"
 	},
 	{
@@ -2361,55 +2361,55 @@
 	{
 		"abr": "ガンリンク",
 		"price": 575,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "Apparel_Gunlink"
 	},
 	{
 		"abr": "ペルソナモノソード",
 		"price": 5000,
-		"category": "ペルソナ武器",
+		"category": "ペルソナ",
 		"defname": "MeleeWeapon_MonoSwordBladelink"
 	},
 	{
 		"abr": "ペルソナゼウスハンマー",
 		"price": 5000,
-		"category": "ペルソナ武器",
+		"category": "ペルソナ",
 		"defname": "MeleeWeapon_ZeusHammerBladelink"
 	},
 	{
 		"abr": "ペルソナプラズマソード",
 		"price": 5000,
-		"category": "ペルソナ武器",
+		"category": "ペルソナ",
 		"defname": "MeleeWeapon_PlasmaSwordBladelink"
 	},
 	{
 		"abr": "戦斧",
 		"price": 209,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_Axe"
 	},
 	{
 		"abr": "ウォーハンマー",
 		"price": 608,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_Warhammer"
 	},
 	{
 		"abr": "モノソード",
 		"price": 3333,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_MonoSword"
 	},
 	{
 		"abr": "ゼウスハンマー",
 		"price": 3333,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_Zeushammer"
 	},
 	{
 		"abr": "プラズマソード",
 		"price": 3333,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_PlasmaSword"
 	},
 	{
@@ -2421,7 +2421,7 @@
 	{
 		"abr": "エルテックススタッフ",
 		"price": 3333,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_PsyfocusStaff"
 	},
 	{
@@ -2595,13 +2595,13 @@
 	{
 		"abr": "奴隷の首輪",
 		"price": 94,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "Apparel_Collar"
 	},
 	{
 		"abr": "オーソリティキャップ",
 		"price": 92,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "Apparel_AuthorityCap"
 	},
 	{
@@ -2625,7 +2625,7 @@
 	{
 		"abr": "奴隷の革帯",
 		"price": 275,
-		"category": "上着",
+		"category": "Special",
 		"defname": "Apparel_BodyStrap"
 	},
 	{
@@ -2643,7 +2643,7 @@
 	{
 		"abr": "苦悶の王冠",
 		"price": 91,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "Apparel_TortureCrown"
 	},
 	{
@@ -3021,19 +3021,19 @@
 	{
 		"abr": "無線ヘッドセット",
 		"price": 383,
-		"category": "帽子",
+		"category": "Mechanitor",
 		"defname": "Apparel_AirwireHeadset"
 	},
 	{
 		"abr": "アレイヘッドセット",
 		"price": 600,
-		"category": "帽子",
+		"category": "Mechanitor",
 		"defname": "Apparel_ArrayHeadset"
 	},
 	{
 		"abr": "インテグレータヘッドセット",
 		"price": 4058,
-		"category": "帽子",
+		"category": "Mechanitor",
 		"defname": "Apparel_IntegratorHeadset"
 	},
 	{
@@ -3051,25 +3051,25 @@
 	{
 		"abr": "ガスマスク",
 		"price": 176,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "Apparel_GasMask"
 	},
 	{
 		"abr": "フェイスマスク",
 		"price": 38,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "Apparel_ClothMask"
 	},
 	{
 		"abr": "制御パック",
 		"price": 658,
-		"category": "ユーティリティ",
+		"category": "Mechanitor",
 		"defname": "Apparel_PackControl"
 	},
 	{
 		"abr": "帯域幅パック",
 		"price": 2275,
-		"category": "ユーティリティ",
+		"category": "Mechanitor",
 		"defname": "Apparel_PackBandwidth"
 	},
 	{
@@ -3087,7 +3087,7 @@
 	{
 		"abr": "重装弾ベルト",
 		"price": 271,
-		"category": "上着",
+		"category": "Special",
 		"defname": "Apparel_Bandolier"
 	},
 	{
@@ -3099,19 +3099,19 @@
 	{
 		"abr": "毒爆弾投射機",
 		"price": 633,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_ToxbombLauncher"
 	},
 	{
 		"abr": "手榴弾(毒ガス)",
 		"price": 525,
-		"category": "投擲武器",
+		"category": "グレネード",
 		"defname": "Weapon_GrenadeTox"
 	},
 	{
 		"abr": "火炎弓",
 		"price": 75,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Flamebow"
 	},
 	{
@@ -3433,27 +3433,21 @@
 		"defname": "AIChip"
 	},
 	{
-		"abr": "ai管理者",
-		"price": 7833,
-		"category": "生産物",
-		"defname": "FM_AIManager"
-	},
-	{
 		"abr": "apb-1ピストル",
 		"price": 2667,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_APB-1Pistol"
 	},
 	{
 		"abr": "apb-1プロジェクター",
 		"price": 3667,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_APB-1Projector"
 	},
 	{
 		"abr": "apb-1ライフル",
 		"price": 3167,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_APB-1Rifle"
 	},
 	{
@@ -3501,7 +3495,7 @@
 	{
 		"abr": "bfr3000",
 		"price": 3133,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_BFR"
 	},
 	{
@@ -3573,7 +3567,7 @@
 	{
 		"abr": "drメイス",
 		"price": 1467,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "DR_BattleMace"
 	},
 	{
@@ -3639,7 +3633,7 @@
 	{
 		"abr": "emrg-1",
 		"price": 2333,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_EMRifle"
 	},
 	{
@@ -3669,13 +3663,13 @@
 	{
 		"abr": "kittycrackソード",
 		"price": 233,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "ExC_Weapon_KCSword"
 	},
 	{
 		"abr": "kittycrackライフル",
 		"price": 1483,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "ExC_Gun_KC_Rifle"
 	},
 	{
@@ -3693,7 +3687,7 @@
 	{
 		"abr": "liquidfreezer",
 		"price": 1250,
-		"category": "家具",
+		"category": "",
 		"defname": "VFE_MechanoidLiquidFreezer"
 	},
 	{
@@ -4059,187 +4053,187 @@
 	{
 		"abr": "mrクリーヴァ",
 		"price": 194,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MR_C_O"
 	},
 	{
 		"abr": "mrクリーヴァ：切削",
 		"price": 425,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MR_C_BO"
 	},
 	{
 		"abr": "mrクリーヴァ：煙幕",
 		"price": 1192,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MR_C_BT"
 	},
 	{
 		"abr": "mrクリーヴァ：煙幕",
 		"price": 1550,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_C_BTT"
 	},
 	{
 		"abr": "mrクリーヴァ：硬化",
 		"price": 492,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MR_C_AO"
 	},
 	{
 		"abr": "mrクリーヴァ：結晶化",
 		"price": 875,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MR_C_AT"
 	},
 	{
 		"abr": "mrクリーヴァ：結晶化",
 		"price": 1442,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MR_C_ATT"
 	},
 	{
 		"abr": "mrコンパウンドボウ",
 		"price": 492,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_CPB_O"
 	},
 	{
 		"abr": "mrコンパウンドボウ",
 		"price": 500,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_CPB_OT"
 	},
 	{
 		"abr": "mrコンパウンドボウ：律動",
 		"price": 2775,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_CPB_AT"
 	},
 	{
 		"abr": "mrコンパウンドボウ：律動",
 		"price": 2825,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_CPB_ATT"
 	},
 	{
 		"abr": "mrコンパウンドボウ：推力",
 		"price": 2858,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_CPB_BT"
 	},
 	{
 		"abr": "mrコンパウンドボウ：推力",
 		"price": 2842,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_CPB_BTT"
 	},
 	{
 		"abr": "mrコンパウンドボウ：爆発",
 		"price": 1058,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_CPB_BO"
 	},
 	{
 		"abr": "mrコンパウンドボウ：爆発",
 		"price": 1058,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_CPB_BOT"
 	},
 	{
 		"abr": "mrコンパウンドボウ：高質量",
 		"price": 1025,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_CPB_AO"
 	},
 	{
 		"abr": "mrコンパウンドボウ：高質量",
 		"price": 1058,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_CPB_AOT"
 	},
 	{
 		"abr": "mrハンドアックス",
 		"price": 264,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_HA_O"
 	},
 	{
 		"abr": "mrハンドアックス：引伸",
 		"price": 617,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_HA_AO"
 	},
 	{
 		"abr": "mrハンドアックス：投擲",
 		"price": 1767,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_HA_AT"
 	},
 	{
 		"abr": "mrハンドアックス：狩猟",
 		"price": 1900,
-		"category": "遠距離武器",
+		"category": "近接",
 		"defname": "MR_HA_BT"
 	},
 	{
 		"abr": "mrハンドアックス：追蹤",
 		"price": 558,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_HA_BO"
 	},
 	{
 		"abr": "mrホエールハープーン",
 		"price": 261,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_WH_O"
 	},
 	{
 		"abr": "mrホエールハープーン：内装反重力",
 		"price": 617,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_WH_BO"
 	},
 	{
 		"abr": "mrホエールハープーン：外装反重力",
 		"price": 1567,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_WH_BT"
 	},
 	{
 		"abr": "mrホエールハープーン：外装反重力",
 		"price": 1258,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_WH_BTT"
 	},
 	{
 		"abr": "mrホエールハープーン：引掠",
 		"price": 1567,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_WH_AT"
 	},
 	{
 		"abr": "mrホエールハープーン：引掠",
 		"price": 1567,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_WH_ATT"
 	},
 	{
 		"abr": "mrホエールハープーン：改修",
 		"price": 592,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "MR_WH_AO"
 	},
 	{
 		"abr": "mrg-5ピストル",
 		"price": 3833,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_MRGPistol"
 	},
 	{
 		"abr": "mrg-5ライフル",
 		"price": 4333,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_MRGRifle"
 	},
 	{
@@ -4263,7 +4257,7 @@
 	{
 		"abr": "pnlウォーハンマー",
 		"price": 942,
-		"category": "PnL近接武器",
+		"category": "近接",
 		"defname": "PN_WarHammer"
 	},
 	{
@@ -4347,7 +4341,7 @@
 	{
 		"abr": "pnlショベル",
 		"price": 215,
-		"category": "PnL近接武器",
+		"category": "近接",
 		"defname": "PN_Shovel"
 	},
 	{
@@ -4359,55 +4353,55 @@
 	{
 		"abr": "pnlストームハンマー",
 		"price": 5000,
-		"category": "PnLペルソナ武器",
+		"category": "近接",
 		"defname": "PN_RoyalHammer_Bladelink"
 	},
 	{
 		"abr": "pnlストームランス",
 		"price": 5000,
-		"category": "PnLペルソナ武器",
+		"category": "近接",
 		"defname": "PN_StormLance_Bladelink"
 	},
 	{
 		"abr": "pnlチェインソード",
 		"price": 328,
-		"category": "PnL近接武器",
+		"category": "近接",
 		"defname": "PN_Chainsword"
 	},
 	{
 		"abr": "pnlチェインロングソード",
 		"price": 775,
-		"category": "PnL近接武器",
+		"category": "近接",
 		"defname": "PN_Chainlongsword"
 	},
 	{
 		"abr": "pnlツインピストル",
 		"price": 3392,
-		"category": "PnL射撃武器",
+		"category": "遠隔",
 		"defname": "PN_TwinPistol"
 	},
 	{
 		"abr": "pnlハンドキャノン",
 		"price": 1417,
-		"category": "PnL射撃武器",
+		"category": "遠隔",
 		"defname": "PN_Cannon"
 	},
 	{
 		"abr": "pnlブラッドチェインソード",
 		"price": 5000,
-		"category": "PnLペルソナ武器",
+		"category": "近接",
 		"defname": "PN_Chainsword_Bladelink"
 	},
 	{
 		"abr": "pnlマシンガン",
 		"price": 1367,
-		"category": "PnL射撃武器",
+		"category": "遠隔",
 		"defname": "PN_Machinegun"
 	},
 	{
 		"abr": "pnlマルチランチャー(wip)",
 		"price": 5617,
-		"category": "PnL射撃武器",
+		"category": "遠隔",
 		"defname": "PN_RoyalLSW"
 	},
 	{
@@ -4425,13 +4419,13 @@
 	{
 		"abr": "pnlライフル",
 		"price": 742,
-		"category": "PnL射撃武器",
+		"category": "遠隔",
 		"defname": "PN_Rifle"
 	},
 	{
 		"abr": "pnlリボルバー",
 		"price": 375,
-		"category": "PnL射撃武器",
+		"category": "遠隔",
 		"defname": "PN_Revolver"
 	},
 	{
@@ -4443,25 +4437,25 @@
 	{
 		"abr": "pnlロイヤルセイバー",
 		"price": 5000,
-		"category": "PnLペルソナ武器",
+		"category": "近接",
 		"defname": "PN_RoyalSaber_Bladelink"
 	},
 	{
 		"abr": "pnlロイヤルヘビースラグライフル",
 		"price": 6033,
-		"category": "PnL射撃武器",
+		"category": "遠隔",
 		"defname": "PN_RoyalHeavySlug"
 	},
 	{
 		"abr": "pnlロイヤルマシンガン",
 		"price": 8033,
-		"category": "PnL射撃武器",
+		"category": "遠隔",
 		"defname": "PN_RoyalMachinegun"
 	},
 	{
 		"abr": "pnlロイヤルライフル",
 		"price": 3392,
-		"category": "PnL射撃武器",
+		"category": "遠隔",
 		"defname": "PN_RoyalRifle"
 	},
 	{
@@ -4551,7 +4545,7 @@
 	{
 		"abr": "pnl試作レールガン",
 		"price": 2083,
-		"category": "PnL射撃武器",
+		"category": "遠隔",
 		"defname": "PN_PrototypeRailGun"
 	},
 	{
@@ -4605,7 +4599,7 @@
 	{
 		"abr": "prototypepulserifle",
 		"price": 2150,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_PrototypePulseRifle"
 	},
 	{
@@ -4629,7 +4623,7 @@
 	{
 		"abr": "rbpdw",
 		"price": 458,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RB_F_PDW"
 	},
 	{
@@ -4701,7 +4695,7 @@
 	{
 		"abr": "rbファッションベレー帽",
 		"price": 113,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "RB_Fashionhat"
 	},
 	{
@@ -4821,7 +4815,7 @@
 	{
 		"abr": "rb研究職員服",
 		"price": 500,
-		"category": "ケープ",
+		"category": "Special",
 		"defname": "RB_Energygown"
 	},
 	{
@@ -4869,25 +4863,25 @@
 	{
 		"abr": "rkアサシン投げナイフ",
 		"price": 136,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_AssassinKnife"
 	},
 	{
 		"abr": "rkアサルトライフル",
 		"price": 1950,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_AssaultRifle"
 	},
 	{
 		"abr": "rkイヤフォン",
 		"price": 241,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "RK_Earphone"
 	},
 	{
 		"abr": "rkインフェルノグレネードランチャー",
 		"price": 3067,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_InfernoGrenadeLauncher"
 	},
 	{
@@ -4929,13 +4923,13 @@
 	{
 		"abr": "rkガンランス(拡散型)",
 		"price": 1283,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Gunlance_SpreadType"
 	},
 	{
 		"abr": "rkガンランス(通常型)",
 		"price": 1283,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Gunlance_NormalType"
 	},
 	{
@@ -4977,13 +4971,13 @@
 	{
 		"abr": "rkクロスボウ",
 		"price": 158,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_Crossbow"
 	},
 	{
 		"abr": "rkクワ",
 		"price": 283,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Hockey"
 	},
 	{
@@ -5001,7 +4995,7 @@
 	{
 		"abr": "rkサイナイフ",
 		"price": 8333,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Archoknife"
 	},
 	{
@@ -5031,7 +5025,7 @@
 	{
 		"abr": "rkジェノサイド",
 		"price": 8333,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_Genocide"
 	},
 	{
@@ -5055,7 +5049,7 @@
 	{
 		"abr": "rkショットガン",
 		"price": 567,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_Rifle_line"
 	},
 	{
@@ -5073,37 +5067,37 @@
 	{
 		"abr": "rkダガー",
 		"price": 128,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Dagger"
 	},
 	{
 		"abr": "rkちいさな鉛筆",
 		"price": 56,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Pencil"
 	},
 	{
 		"abr": "rkチャージライフル",
 		"price": 5000,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_ChargeRifle"
 	},
 	{
 		"abr": "rkツインブレード",
 		"price": 883,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_TwoBladed"
 	},
 	{
 		"abr": "rkツーハンドソード",
 		"price": 817,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_TwoHanded"
 	},
 	{
 		"abr": "rkつるはし",
 		"price": 247,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Pickaxe"
 	},
 	{
@@ -5181,7 +5175,7 @@
 	{
 		"abr": "rkハンドキャノン",
 		"price": 2275,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_Cannon"
 	},
 	{
@@ -5193,7 +5187,7 @@
 	{
 		"abr": "rkフォーク",
 		"price": 283,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Fork"
 	},
 	{
@@ -5205,7 +5199,7 @@
 	{
 		"abr": "rkフラグメンテーションクロスボウ",
 		"price": 1475,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_HECrossbow"
 	},
 	{
@@ -5229,7 +5223,7 @@
 	{
 		"abr": "rkフレイル",
 		"price": 280,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Flail"
 	},
 	{
@@ -5253,13 +5247,13 @@
 	{
 		"abr": "rkフレシェットスナイパーライフル",
 		"price": 775,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_FlechetteSniperRifle"
 	},
 	{
 		"abr": "rkフレシェットライフル",
 		"price": 658,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_FlechetteRifle"
 	},
 	{
@@ -5283,7 +5277,7 @@
 	{
 		"abr": "rkヘビーランス",
 		"price": 875,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_HeavyLance"
 	},
 	{
@@ -5295,7 +5289,7 @@
 	{
 		"abr": "rkマシンクロスボウ",
 		"price": 650,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_MachineCrossBow"
 	},
 	{
@@ -5325,7 +5319,7 @@
 	{
 		"abr": "rkメイス",
 		"price": 425,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Mace"
 	},
 	{
@@ -5337,7 +5331,7 @@
 	{
 		"abr": "rkラットキンスナイパーライフル",
 		"price": 592,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_SniperRifle"
 	},
 	{
@@ -5355,7 +5349,7 @@
 	{
 		"abr": "rkラットキンライフル",
 		"price": 467,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_Rifle"
 	},
 	{
@@ -5385,13 +5379,13 @@
 	{
 		"abr": "rkレイダースティック",
 		"price": 247,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_WonderStick"
 	},
 	{
 		"abr": "rkレイピア",
 		"price": 239,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Rapier"
 	},
 	{
@@ -5409,25 +5403,25 @@
 	{
 		"abr": "rkロッティ帽子",
 		"price": 57,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "RK_RottiHat"
 	},
 	{
 		"abr": "rkワンハンドソード",
 		"price": 425,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_OneHanded"
 	},
 	{
 		"abr": "rk両手大剣",
 		"price": 1167,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_M_BigSword"
 	},
 	{
 		"abr": "rk信号銃",
 		"price": 517,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_SignalGun"
 	},
 	{
@@ -5439,13 +5433,13 @@
 	{
 		"abr": "rk園芸ソード",
 		"price": 592,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_LongSword"
 	},
 	{
 		"abr": "rk士官制服",
 		"price": 858,
-		"category": "下着",
+		"category": "Special",
 		"defname": "RK_MilUniform"
 	},
 	{
@@ -5493,7 +5487,7 @@
 	{
 		"abr": "rk対戦車ライフル",
 		"price": 842,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_AntiTank"
 	},
 	{
@@ -5505,7 +5499,7 @@
 	{
 		"abr": "rk小さなペイントトレイ",
 		"price": 56,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_PaintTray"
 	},
 	{
@@ -5517,7 +5511,7 @@
 	{
 		"abr": "rk巨人殺し",
 		"price": 3217,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_GiantKiller"
 	},
 	{
@@ -5529,7 +5523,7 @@
 	{
 		"abr": "rk強化クロスボウ",
 		"price": 263,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_EnhanceCrossBow"
 	},
 	{
@@ -5565,19 +5559,19 @@
 	{
 		"abr": "rk斧",
 		"price": 283,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Axe"
 	},
 	{
 		"abr": "rk木刀",
 		"price": 148,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_WoodenSword"
 	},
 	{
 		"abr": "rk木製ランス",
 		"price": 400,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_LightLance"
 	},
 	{
@@ -5589,13 +5583,13 @@
 	{
 		"abr": "rk機械クロスボウ",
 		"price": 550,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_AutoCrossBow"
 	},
 	{
 		"abr": "rk画家のドレス",
 		"price": 248,
-		"category": "下着",
+		"category": "Special",
 		"defname": "RK_PainterDress"
 	},
 	{
@@ -5619,25 +5613,25 @@
 	{
 		"abr": "rk聖書",
 		"price": 106,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Bible"
 	},
 	{
 		"abr": "rk肉切り包丁",
 		"price": 247,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_Cleaver"
 	},
 	{
 		"abr": "rk花火ランチャー",
 		"price": 3375,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_RocketLauncher"
 	},
 	{
 		"abr": "rk補助照準スナイパーライフル",
 		"price": 917,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "RK_AuxiliaryAiming"
 	},
 	{
@@ -5655,7 +5649,7 @@
 	{
 		"abr": "rk鉢巻き",
 		"price": 383,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "RK_HeadBand"
 	},
 	{
@@ -5691,7 +5685,7 @@
 	{
 		"abr": "rk魔法の杖",
 		"price": 104,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "RK_MagicWand"
 	},
 	{
@@ -5709,7 +5703,7 @@
 	{
 		"abr": "smallinfernospewer",
 		"price": 2333,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "VFE_Gun_InfernoSpewerSmall"
 	},
 	{
@@ -5765,12 +5759,6 @@
 		"price": 400,
 		"category": "防衛",
 		"defname": "SurveillanceCamera_XRaySurveillanceCamera"
-	},
-	{
-		"abr": "アークメイジのローブ",
-		"price": 5525,
-		"category": "ロイヤリティ",
-		"defname": "ArchMageRobe"
 	},
 	{
 		"abr": "アーケード（おばちゃんご飯できたよ）",
@@ -5875,24 +5863,6 @@
 		"defname": "Meat_Ibex"
 	},
 	{
-		"abr": "アイボリースピア",
-		"price": 1333,
-		"category": "近接",
-		"defname": "TM_ElephantSpear"
-	},
-	{
-		"abr": "アイボリータスク",
-		"price": 200,
-		"category": "近接",
-		"defname": "TM_ElephantTusk"
-	},
-	{
-		"abr": "アイボリーボウ",
-		"price": 2083,
-		"category": "遠隔",
-		"defname": "TM_ElephantBow"
-	},
-	{
 		"abr": "アオメのジュース",
 		"price": 5,
 		"category": "獣耳製品",
@@ -5943,7 +5913,7 @@
 	{
 		"abr": "アマゾンのツノ",
 		"price": 11,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "AS_MeleeWeapon_AmazonHorn"
 	},
 	{
@@ -5971,12 +5941,6 @@
 		"defname": "SP_Weave"
 	},
 	{
-		"abr": "アルケリウム",
-		"price": 22,
-		"category": "原材料",
-		"defname": "TM_Arcalleum"
-	},
-	{
 		"abr": "アルパカの肉",
 		"price": 3,
 		"category": "生肉",
@@ -5993,12 +5957,6 @@
 		"price": 195,
 		"category": "原材料",
 		"defname": "AlphaPoly"
-	},
-	{
-		"abr": "アンコモン付与器",
-		"price": 833,
-		"category": "付与器",
-		"defname": "Infusion_Infuser_Uncommon"
 	},
 	{
 		"abr": "アンチョビ(生)",
@@ -6093,7 +6051,7 @@
 	{
 		"abr": "インフェルノスピューワー",
 		"price": 2333,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "VFE_Gun_InfernoSpewer"
 	},
 	{
@@ -6101,12 +6059,6 @@
 		"price": 833,
 		"category": "不活性な遺物",
 		"defname": "VIE_RelicInertImplant"
-	},
-	{
-		"abr": "ウィザードハット",
-		"price": 392,
-		"category": "帽子",
-		"defname": "TM_WizardHat"
 	},
 	{
 		"abr": "ウィッカーマン",
@@ -6251,12 +6203,6 @@
 		"price": 138,
 		"category": "家具",
 		"defname": "RGK_EndTableWithLamp"
-	},
-	{
-		"abr": "エンパスの記憶：哀憶トノ決別",
-		"price": 1267,
-		"category": "巻物",
-		"defname": "SpellOf_FadeEmotions"
 	},
 	{
 		"abr": "エンフォーサーの肉",
@@ -6411,7 +6357,7 @@
 	{
 		"abr": "オリオン製ロケットランチャー",
 		"price": 1500,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_OCRocket"
 	},
 	{
@@ -6423,19 +6369,19 @@
 	{
 		"abr": "オリオン製警棒",
 		"price": 1375,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_GTPacifier"
 	},
 	{
 		"abr": "オリオン製防衛ピストル",
 		"price": 1333,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_OCPDPistol"
 	},
 	{
 		"abr": "オリオン製防衛ライフル",
 		"price": 1667,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Gun_OCPDRifle"
 	},
 	{
@@ -6687,7 +6633,7 @@
 	{
 		"abr": "キミリカタナ",
 		"price": 633,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "Kimiri_MeleeWeapon_Katana"
 	},
 	{
@@ -6807,13 +6753,13 @@
 	{
 		"abr": "クーリンアンメイカー",
 		"price": 6400,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Unmaker"
 	},
 	{
 		"abr": "クーリンウィンガー",
 		"price": 908,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Sniper_Rifle"
 	},
 	{
@@ -6855,13 +6801,13 @@
 	{
 		"abr": "クーリンカタナ",
 		"price": 633,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "Kurin_MeleeWeapon_Katana"
 	},
 	{
 		"abr": "クーリンカルネージ",
 		"price": 1858,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Special_Heavy_Rocket_Launcher"
 	},
 	{
@@ -6897,7 +6843,7 @@
 	{
 		"abr": "クーリンサイドキック",
 		"price": 842,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Assault_Rifle"
 	},
 	{
@@ -6915,7 +6861,7 @@
 	{
 		"abr": "クーリンサプレッサー",
 		"price": 2708,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Charge_LMG"
 	},
 	{
@@ -6939,7 +6885,7 @@
 	{
 		"abr": "クーリンシングルテイク",
 		"price": 2892,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Sniper_Charge_Rifle"
 	},
 	{
@@ -6963,13 +6909,13 @@
 	{
 		"abr": "クーリンスカルハッカー(he)",
 		"price": 1417,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Heavy_Sniper_Rifle_HE"
 	},
 	{
 		"abr": "クーリンスカルハッカー(pa)",
 		"price": 1283,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Heavy_Sniper_Rifle"
 	},
 	{
@@ -6999,7 +6945,7 @@
 	{
 		"abr": "クーリンスプリッター",
 		"price": 3725,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Overlord_Gun_Rocket_Launcher"
 	},
 	{
@@ -7011,13 +6957,13 @@
 	{
 		"abr": "クーリンセンチネル",
 		"price": 975,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Heavy_Assault_Rifle"
 	},
 	{
 		"abr": "クーリンタイフーン",
 		"price": 1867,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Special_Rocket_Launcher_Typhoon"
 	},
 	{
@@ -7029,31 +6975,31 @@
 	{
 		"abr": "クーリンダムネーション",
 		"price": 1267,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Special_Rocket_Launcher"
 	},
 	{
 		"abr": "クーリンディスラプター",
 		"price": 2458,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Charge_Rifle"
 	},
 	{
 		"abr": "クーリントゥイーカー",
 		"price": 309,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Pistol"
 	},
 	{
 		"abr": "クーリントリックスター",
 		"price": 667,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Heavy_SMG"
 	},
 	{
 		"abr": "クーリンネガティヴライフル",
 		"price": 5975,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Overlord_Gun_Heavy_Sniper_Charge_Rifle"
 	},
 	{
@@ -7143,19 +7089,19 @@
 	{
 		"abr": "クーリンプランカー",
 		"price": 467,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Stun_Pistol"
 	},
 	{
 		"abr": "クーリンプレデター",
 		"price": 2033,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Gauss_Rifle"
 	},
 	{
 		"abr": "クーリンフレンドシップ",
 		"price": 742,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Auto_Shotgun"
 	},
 	{
@@ -7203,7 +7149,7 @@
 	{
 		"abr": "クーリンマッチ",
 		"price": 1117,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Flamethrower"
 	},
 	{
@@ -7221,31 +7167,31 @@
 	{
 		"abr": "クーリンラヴァジャー",
 		"price": 1083,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Grenade_Launcher"
 	},
 	{
 		"abr": "クーリンラヴァジャー(emp弾)",
 		"price": 1083,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Grenade_Launcher_EMPM"
 	},
 	{
 		"abr": "クーリンラヴァジャー(消火弾)",
 		"price": 1083,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Grenade_Launcher_FEM"
 	},
 	{
 		"abr": "クーリンラヴァジャー(焼夷弾)",
 		"price": 1083,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Grenade_Launcher_IM"
 	},
 	{
 		"abr": "クーリンラヴァジャー(煙幕弾)",
 		"price": 1083,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Grenade_Launcher_SM"
 	},
 	{
@@ -7347,7 +7293,7 @@
 	{
 		"abr": "クーリン儀式剣",
 		"price": 767,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "Kurin_MeleeWeapon_Ceremonial_Sword"
 	},
 	{
@@ -7557,13 +7503,13 @@
 	{
 		"abr": "クーリン狩猟用ショットガン",
 		"price": 508,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Hunting_Shotgun"
 	},
 	{
 		"abr": "クーリン苦無",
 		"price": 143,
-		"category": "白兵戦武器",
+		"category": "遠隔",
 		"defname": "Kurin_Gun_Surigum"
 	},
 	{
@@ -7789,12 +7735,6 @@
 		"defname": "VAGPGratin"
 	},
 	{
-		"abr": "グラナイトゴーレム",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "TM_GraniteGolem"
-	},
-	{
 		"abr": "クリームトラねこ",
 		"price": 667,
 		"category": "家畜",
@@ -8005,12 +7945,6 @@
 		"defname": "Meat_Cobra"
 	},
 	{
-		"abr": "コモン付与器",
-		"price": 333,
-		"category": "付与器",
-		"defname": "Infusion_Infuser_Common"
-	},
-	{
 		"abr": "コロニスツトオブザリム",
 		"price": 250,
 		"category": "家具",
@@ -8031,7 +7965,7 @@
 	{
 		"abr": "コンの侍刀レプリカ",
 		"price": 2517,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_konkatana"
 	},
 	{
@@ -8365,12 +8299,6 @@
 		"defname": "DBHSaunaSeating"
 	},
 	{
-		"abr": "サキュバスの呪文：スコーン",
-		"price": 2750,
-		"category": "巻物",
-		"defname": "SpellOf_Scorn"
-	},
-	{
 		"abr": "サクランボ",
 		"price": 2,
 		"category": "生野菜",
@@ -8417,12 +8345,6 @@
 		"price": 3,
 		"category": "生肉",
 		"defname": "Meat_Monkey"
-	},
-	{
-		"abr": "サンドストーンゴーレム",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "TM_SandstoneGolem"
 	},
 	{
 		"abr": "しか",
@@ -8487,7 +8409,7 @@
 	{
 		"abr": "シフォン木の杖",
 		"price": 185,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "SP_Staff_Wood"
 	},
 	{
@@ -8499,7 +8421,7 @@
 	{
 		"abr": "シフォン現代式杖",
 		"price": 203,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "SP_Staff"
 	},
 	{
@@ -8543,12 +8465,6 @@
 		"price": 33,
 		"category": "調理済",
 		"defname": "VAGPGermanFries"
-	},
-	{
-		"abr": "ジャイアントスケルトンの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_GiantSkeletonR"
 	},
 	{
 		"abr": "じゃがバター",
@@ -8623,12 +8539,6 @@
 		"defname": "VAGPChurrasco"
 	},
 	{
-		"abr": "シリウム",
-		"price": 75,
-		"category": "ドラッグ",
-		"defname": "TM_Syrrium"
-	},
-	{
 		"abr": "シリコン",
 		"price": 2,
 		"category": "加工品",
@@ -8667,7 +8577,7 @@
 	{
 		"abr": "シロの忍刀レプリカ",
 		"price": 1833,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "MeleeWeapon_sirokatana"
 	},
 	{
@@ -8723,12 +8633,6 @@
 		"price": 2267,
 		"category": "生産物",
 		"defname": "VFE_Supercomputer"
-	},
-	{
-		"abr": "スーパーソルジャーシーラム",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfSuperSoldier"
 	},
 	{
 		"abr": "スキルトレイナー(動物)",
@@ -8821,18 +8725,6 @@
 		"defname": "DD_Apparel_ScaleMail"
 	},
 	{
-		"abr": "スケルトンの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SkeletonR"
-	},
-	{
-		"abr": "スケルトンリッチの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SkeletonLichR"
-	},
-	{
 		"abr": "スタック",
 		"price": 833,
 		"category": "不活性な遺物",
@@ -8849,12 +8741,6 @@
 		"price": 67,
 		"category": "調理済",
 		"defname": "VAGPSteaktower"
-	},
-	{
-		"abr": "ストーンゴーレム",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "TM_StoneGolem"
 	},
 	{
 		"abr": "スパイスティー",
@@ -8875,30 +8761,6 @@
 		"defname": "Apparel_NanoSpeed"
 	},
 	{
-		"abr": "スピリットウルフの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SpiritWolfR"
-	},
-	{
-		"abr": "スピリットクロウの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SpiritCrowR"
-	},
-	{
-		"abr": "スピリットベアの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SpiritBearR"
-	},
-	{
-		"abr": "スピリットマングースの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SpiritMongooseR"
-	},
-	{
 		"abr": "スマーティドリルテイル",
 		"price": 1692,
 		"category": "強化",
@@ -8911,24 +8773,6 @@
 		"defname": "ExC_NEKO_Thrumbo"
 	},
 	{
-		"abr": "スランボアックス",
-		"price": 7750,
-		"category": "近接",
-		"defname": "TM_ThrumboAxe"
-	},
-	{
-		"abr": "スランボウ",
-		"price": 7467,
-		"category": "遠隔",
-		"defname": "TM_ThrumBow"
-	},
-	{
-		"abr": "スランボセイバー",
-		"price": 5833,
-		"category": "近接",
-		"defname": "TM_ThrumboSaber"
-	},
-	{
 		"abr": "スランボの肉",
 		"price": 3,
 		"category": "生肉",
@@ -8937,7 +8781,7 @@
 	{
 		"abr": "スランボバトルアックス",
 		"price": 1833,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "DDMeleeWeapon_ThrumboBattleAxe"
 	},
 	{
@@ -8945,18 +8789,6 @@
 		"price": 117,
 		"category": "調理済",
 		"defname": "VAGPThrumboomeatcutletsandwich"
-	},
-	{
-		"abr": "すり潰されたポマナ",
-		"price": -10,
-		"category": "生野菜",
-		"defname": "TM_RawPomanaMash"
-	},
-	{
-		"abr": "スレートゴーレム",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "TM_SlateGolem"
 	},
 	{
 		"abr": "セラピー用ソファ",
@@ -9011,12 +8843,6 @@
 		"price": 100,
 		"category": "生の魚",
 		"defname": "RF_FishB"
-	},
-	{
-		"abr": "ダイアウルフ",
-		"price": 3667,
-		"category": "家畜",
-		"defname": "TM_Dire_WolfR"
 	},
 	{
 		"abr": "タイタニアンフード",
@@ -9075,7 +8901,7 @@
 	{
 		"abr": "ダブルクロスボウ",
 		"price": 500,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "DD_Bow_DoubleCrossbow"
 	},
 	{
@@ -9111,7 +8937,7 @@
 	{
 		"abr": "チェストラップ",
 		"price": 38,
-		"category": "下着(ブラ)",
+		"category": "",
 		"defname": "UnderWhere_Chestwrap"
 	},
 	{
@@ -9191,12 +9017,6 @@
 		"price": 229,
 		"category": "家具",
 		"defname": "RGK_TableC"
-	},
-	{
-		"abr": "デーモンズファング",
-		"price": 6150,
-		"category": "近接",
-		"defname": "TM_DemonFang"
 	},
 	{
 		"abr": "テックプリント(カタフラクトアーマー)",
@@ -9307,18 +9127,6 @@
 		"defname": "GL_Teddy"
 	},
 	{
-		"abr": "デモンスケイル",
-		"price": 30,
-		"category": "原材料",
-		"defname": "TM_Demonscale"
-	},
-	{
-		"abr": "デモンハイド",
-		"price": 27,
-		"category": "革",
-		"defname": "TM_Demonhide"
-	},
-	{
 		"abr": "デリシャスセットa",
 		"price": 13,
 		"category": "ペットフード(家畜用飼料)",
@@ -9395,12 +9203,6 @@
 		"price": 1667,
 		"category": "家畜",
 		"defname": "ExC_NEKO_Tiger"
-	},
-	{
-		"abr": "トラクター(s)",
-		"price": 71,
-		"category": "家具",
-		"defname": "Tractor_S"
 	},
 	{
 		"abr": "ドラコオーブ",
@@ -9501,13 +9303,13 @@
 	{
 		"abr": "ドラゴンファイア・ランチャー",
 		"price": 5000,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "DD_Gun_DragonfireLauncher"
 	},
 	{
 		"abr": "ドラチェンソード",
 		"price": 3667,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "DD_MeleeWeapon_DrachenSword"
 	},
 	{
@@ -9533,24 +9335,6 @@
 		"price": 67,
 		"category": "調理済",
 		"defname": "VAGPDria"
-	},
-	{
-		"abr": "ドルイドの呪文：イバラの茂み",
-		"price": 950,
-		"category": "巻物",
-		"defname": "SpellOf_BriarPatch"
-	},
-	{
-		"abr": "ドルイドの呪文：四肢再生",
-		"price": 3100,
-		"category": "巻物",
-		"defname": "SpellOf_RegrowLimb"
-	},
-	{
-		"abr": "ドルイドの呪文：豊かな大地",
-		"price": 1233,
-		"category": "巻物",
-		"defname": "SpellOf_FertileLands"
 	},
 	{
 		"abr": "ナノスーツ",
@@ -9715,18 +9499,6 @@
 		"defname": "HardScale"
 	},
 	{
-		"abr": "バードの呪文：不協和音",
-		"price": 1267,
-		"category": "巻物",
-		"defname": "SpellOf_Discord"
-	},
-	{
-		"abr": "バードの呪文：戦いの賛歌",
-		"price": 2750,
-		"category": "巻物",
-		"defname": "SpellOf_BattleHymn"
-	},
-	{
 		"abr": "ハービンジャー(fxts)",
 		"price": 15775,
 		"category": "建築物",
@@ -9811,12 +9583,6 @@
 		"defname": "Meat_Husky"
 	},
 	{
-		"abr": "バスケット",
-		"price": 383,
-		"category": "家具",
-		"defname": "LWM_FabricHamper"
-	},
-	{
 		"abr": "バスマット",
 		"price": 71,
 		"category": "家具",
@@ -9845,12 +9611,6 @@
 		"price": 13,
 		"category": "獣耳少女の毛",
 		"defname": "hanaWool"
-	},
-	{
-		"abr": "パレット",
-		"price": 220,
-		"category": "家具",
-		"defname": "LWM_Pallet"
 	},
 	{
 		"abr": "パワーアーム",
@@ -10155,7 +9915,7 @@
 	{
 		"abr": "フォーカストーム",
 		"price": 2667,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "DDMeleeWeapon_FocusingTome"
 	},
 	{
@@ -10255,12 +10015,6 @@
 		"defname": "PlayerHandbook"
 	},
 	{
-		"abr": "フレッシュゴーレム",
-		"price": 4500,
-		"category": "Animal",
-		"defname": "TM_FleshGolem"
-	},
-	{
 		"abr": "フロストセイバーの毛",
 		"price": 4,
 		"category": "髪の毛",
@@ -10281,7 +10035,7 @@
 	{
 		"abr": "フンドシ",
 		"price": 38,
-		"category": "Underwear",
+		"category": "",
 		"defname": "UnderWhere_Loincloth"
 	},
 	{
@@ -10305,7 +10059,7 @@
 	{
 		"abr": "ヘイラコンバットグラス",
 		"price": 1558,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "Heyra_Aimbot"
 	},
 	{
@@ -10335,13 +10089,13 @@
 	{
 		"abr": "ヘイラ佩剣",
 		"price": 239,
-		"category": "ヘイラ武器",
+		"category": "近接",
 		"defname": "Heyra_Sword"
 	},
 	{
 		"abr": "ヘイラ佩剣(禁軍)",
 		"price": 417,
-		"category": "ヘイラ武器",
+		"category": "近接",
 		"defname": "Heyra_Forbiddenarmysword"
 	},
 	{
@@ -10383,7 +10137,7 @@
 	{
 		"abr": "ヘイラ天人囁弓",
 		"price": 5000,
-		"category": "ヘイラ秘宝",
+		"category": "遠隔",
 		"defname": "Heyra_Celestialwhisper"
 	},
 	{
@@ -10401,13 +10155,13 @@
 	{
 		"abr": "ヘイラ方天戟",
 		"price": 272,
-		"category": "ヘイラ武器",
+		"category": "近接",
 		"defname": "Heyra_Halberd"
 	},
 	{
 		"abr": "ヘイラ方天戟(禁軍)",
 		"price": 450,
-		"category": "ヘイラ武器",
+		"category": "近接",
 		"defname": "Heyra_Forbiddenarmyhalberd"
 	},
 	{
@@ -10431,19 +10185,19 @@
 	{
 		"abr": "ヘイラ甘澤宝剣",
 		"price": 1000,
-		"category": "ヘイラ武器",
+		"category": "近接",
 		"defname": "Heyra_Swordmastersword"
 	},
 	{
 		"abr": "ヘイラ破城鎚",
 		"price": 342,
-		"category": "ヘイラ武器",
+		"category": "近接",
 		"defname": "Heyra_Warhammer"
 	},
 	{
 		"abr": "ヘイラ神火弩",
 		"price": 1008,
-		"category": "ヘイラ武器",
+		"category": "遠隔",
 		"defname": "Heyra_Blastcrossbow"
 	},
 	{
@@ -10515,7 +10269,7 @@
 	{
 		"abr": "ヘイラ連弩",
 		"price": 255,
-		"category": "ヘイラ武器",
+		"category": "遠隔",
 		"defname": "Heyra_Crossbow"
 	},
 	{
@@ -10551,7 +10305,7 @@
 	{
 		"abr": "ヘイラ闘戈",
 		"price": 272,
-		"category": "ヘイラ武器",
+		"category": "近接",
 		"defname": "Heyra_Daggeraxe"
 	},
 	{
@@ -10729,22 +10483,10 @@
 		"defname": "Yokai_Hodama"
 	},
 	{
-		"abr": "ポッピーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Poppi"
-	},
-	{
 		"abr": "ポップコーン",
 		"price": 20,
 		"category": "調理済",
 		"defname": "VAGPPopcorn"
-	},
-	{
-		"abr": "ポマナフルーツ",
-		"price": 4,
-		"category": "生野菜",
-		"defname": "TM_RawPomanasyrrium"
 	},
 	{
 		"abr": "ボマねこ",
@@ -10779,7 +10521,7 @@
 	{
 		"abr": "ボリオートマチックボルトアクションライフル",
 		"price": 650,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "BD_AutoBoltActionRifle"
 	},
 	{
@@ -10797,73 +10539,73 @@
 	{
 		"abr": "ボリクレイモア",
 		"price": 442,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "BD_Claymore"
 	},
 	{
 		"abr": "ボリサブマシンガン",
 		"price": 650,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "BD_SdangSMG"
 	},
 	{
 		"abr": "ボリスナイパーライフル",
 		"price": 892,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "BD_Sniper"
 	},
 	{
 		"abr": "ボリスピア",
 		"price": 408,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "BD_Spear"
 	},
 	{
 		"abr": "ボリチャージマシンガン",
 		"price": 2500,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "BD_ChargeSMG"
 	},
 	{
 		"abr": "ボリチャージライフル",
 		"price": 2500,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "BD_ChargeRifle"
 	},
 	{
 		"abr": "ボリチャージランス",
 		"price": 2258,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "BD_ChargeLance"
 	},
 	{
 		"abr": "ボリドッグタグ",
 		"price": 167,
-		"category": "首",
+		"category": "Special",
 		"defname": "Bori_DogTag"
 	},
 	{
 		"abr": "ボリハルバード",
 		"price": 442,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "BD_halberd"
 	},
 	{
 		"abr": "ボリヘビーサブマシンガン",
 		"price": 2500,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "BD_HeavySMG"
 	},
 	{
 		"abr": "ボリヘビーマシンガン(固定)",
 		"price": 708,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "BD_MtHeavyMachineGun"
 	},
 	{
 		"abr": "ボリボルトアクションライフル",
 		"price": 525,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "BD_BoltActionRifle"
 	},
 	{
@@ -10881,13 +10623,13 @@
 	{
 		"abr": "ボリ制式アサルトライフル",
 		"price": 958,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "BD_AssaultRifle"
 	},
 	{
 		"abr": "ボリ吸着式手榴弾",
 		"price": 367,
-		"category": "投擲武器",
+		"category": "グレネード",
 		"defname": "BD_GrenadeFrag"
 	},
 	{
@@ -10941,7 +10683,7 @@
 	{
 		"abr": "ボリ軽量ボルトアクションライフル",
 		"price": 350,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "BD_LightWeightedBoltActionRifle"
 	},
 	{
@@ -10969,18 +10711,6 @@
 		"defname": "VAGPPolenta"
 	},
 	{
-		"abr": "ホロウゴーレム",
-		"price": 9167,
-		"category": "Animal",
-		"defname": "TM_HollowGolem"
-	},
-	{
-		"abr": "ホロウゴーレムの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_HollowGolem"
-	},
-	{
 		"abr": "ホワイトドラゴン",
 		"price": 11000,
 		"category": "家畜",
@@ -10991,12 +10721,6 @@
 		"price": 4167,
 		"category": "ドラゴンの卵(受精)",
 		"defname": "EggWhiteDragonFertilized"
-	},
-	{
-		"abr": "マーブルゴーレム",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "TM_MarbleGolem"
 	},
 	{
 		"abr": "マイスターモジュール",
@@ -11057,24 +10781,6 @@
 		"price": 3,
 		"category": "生肉",
 		"defname": "Meat_Muffalo"
-	},
-	{
-		"abr": "マナウィーブ",
-		"price": 15,
-		"category": "織物",
-		"defname": "TM_Manaweave"
-	},
-	{
-		"abr": "マナポーション",
-		"price": 150,
-		"category": "ドラッグ",
-		"defname": "ManaPotion"
-	},
-	{
-		"abr": "マハラルゴーレム",
-		"price": 3000,
-		"category": "Animal",
-		"defname": "TM_MaharalGolem"
 	},
 	{
 		"abr": "マル",
@@ -11145,7 +10851,7 @@
 	{
 		"abr": "マル狩猟コート",
 		"price": 450,
-		"category": "上着",
+		"category": "Special",
 		"defname": "MR_HuntingCoat"
 	},
 	{
@@ -11235,7 +10941,7 @@
 	{
 		"abr": "マル防寒コート",
 		"price": 433,
-		"category": "上着",
+		"category": "Special",
 		"defname": "MR_wintercoat"
 	},
 	{
@@ -11249,12 +10955,6 @@
 		"price": 67,
 		"category": "調理済",
 		"defname": "VAGPMeatpie"
-	},
-	{
-		"abr": "ミートフック",
-		"price": 254,
-		"category": "家具",
-		"defname": "LWM_Meat_Hook"
 	},
 	{
 		"abr": "ミコの滴",
@@ -11273,12 +10973,6 @@
 		"price": 225,
 		"category": "生産物",
 		"defname": "GL_HandTailoringBench"
-	},
-	{
-		"abr": "ミニオンの謎の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_MinionR"
 	},
 	{
 		"abr": "ミニテーブル",
@@ -11301,13 +10995,13 @@
 	{
 		"abr": "ミホアサルトピストル",
 		"price": 313,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Miho_Weapon_Pistol"
 	},
 	{
 		"abr": "ミホアサルトライフル",
 		"price": 808,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Miho_Weapon_RifleDefence"
 	},
 	{
@@ -11325,7 +11019,7 @@
 	{
 		"abr": "ミホグレネードライフル",
 		"price": 1400,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Miho_Weapon_RifleGrenade"
 	},
 	{
@@ -11337,7 +11031,7 @@
 	{
 		"abr": "ミホショットガン",
 		"price": 1000,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Miho_Weapon_Shotgun"
 	},
 	{
@@ -11361,7 +11055,7 @@
 	{
 		"abr": "ミホタクティカルキャップ",
 		"price": 417,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "Miho_Apparel_Hat_ShooterCap"
 	},
 	{
@@ -11433,25 +11127,25 @@
 	{
 		"abr": "ミホパワークロー",
 		"price": 1258,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "Miho_Weapon_PowerClaw"
 	},
 	{
 		"abr": "ミホプラズマライフル",
 		"price": 2692,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Miho_Weapon_RiflePlasma"
 	},
 	{
 		"abr": "ミホプラズマ中型ライフル",
 		"price": 4533,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Miho_Weapon_SniperPlasma"
 	},
 	{
 		"abr": "ミホプラズマ大太刀",
 		"price": 2617,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "Miho_Weapon_PlasmaTachi"
 	},
 	{
@@ -11463,13 +11157,13 @@
 	{
 		"abr": "ミホマシンガン",
 		"price": 492,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Miho_Weapon_RifleCQB"
 	},
 	{
 		"abr": "ミホメカナイトチャージライフル",
 		"price": 5783,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Miho_Weapon_ShotgunPsychic"
 	},
 	{
@@ -11493,7 +11187,7 @@
 	{
 		"abr": "ミホライトマシンガン",
 		"price": 808,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Miho_Weapon_RifleMachinegun"
 	},
 	{
@@ -11505,13 +11199,13 @@
 	{
 		"abr": "ミホ仙法杖(a)",
 		"price": 725,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "Miho_Weapon_EltexA"
 	},
 	{
 		"abr": "ミホ仙法杖(b)",
 		"price": 725,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "Miho_Weapon_EltexB"
 	},
 	{
@@ -11541,13 +11235,13 @@
 	{
 		"abr": "ミホ大太刀",
 		"price": 667,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "Miho_Weapon_Tachi"
 	},
 	{
 		"abr": "ミホ大惨月鉞",
 		"price": 4833,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "Miho_Weapon_EltexAxe"
 	},
 	{
@@ -11577,13 +11271,13 @@
 	{
 		"abr": "ミホ工兵ハンマー",
 		"price": 592,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "Miho_Weapon_Sappertool"
 	},
 	{
 		"abr": "ミホ旧式ライフル",
 		"price": 1000,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Miho_Weapon_RifleOld"
 	},
 	{
@@ -11595,7 +11289,7 @@
 	{
 		"abr": "ミホ環刀",
 		"price": 483,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "Miho_Weapon_RingedBlade"
 	},
 	{
@@ -11625,7 +11319,7 @@
 	{
 		"abr": "ミホ誘導グレネードガン",
 		"price": 3408,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "Miho_Weapon_HeavyPistol"
 	},
 	{
@@ -11669,18 +11363,6 @@
 		"price": 3,
 		"category": "生肉",
 		"defname": "Meat_Alien_Miho"
-	},
-	{
-		"abr": "ミルクジャグ",
-		"price": 194,
-		"category": "家具",
-		"defname": "Milkjaguchi"
-	},
-	{
-		"abr": "ミルクロート",
-		"price": 194,
-		"category": "家具",
-		"defname": "Milkfunnel"
 	},
 	{
 		"abr": "みるく粥",
@@ -11763,7 +11445,7 @@
 	{
 		"abr": "ミンチョ魔女の帽子",
 		"price": 400,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "MinchoWitch_Hat"
 	},
 	{
@@ -11843,12 +11525,6 @@
 		"price": 8,
 		"category": "織物",
 		"defname": "Moonthread"
-	},
-	{
-		"abr": "メカゴーレム",
-		"price": 5000,
-		"category": "Animal",
-		"defname": "TM_MechaGolem"
 	},
 	{
 		"abr": "メガスパイダーの肉",
@@ -12009,7 +11685,7 @@
 	{
 		"abr": "ユラン大弓",
 		"price": 154,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "YR_WP_Bow"
 	},
 	{
@@ -12021,7 +11697,7 @@
 	{
 		"abr": "ユラン太刀",
 		"price": 392,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "YR_WP_katana"
 	},
 	{
@@ -12045,7 +11721,7 @@
 	{
 		"abr": "ユラン投槍",
 		"price": 383,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "YR_WP_Spear"
 	},
 	{
@@ -12135,7 +11811,7 @@
 	{
 		"abr": "ユラン火縄銃",
 		"price": 467,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "YR_WP_Gun"
 	},
 	{
@@ -12189,7 +11865,7 @@
 	{
 		"abr": "ユラン苦無",
 		"price": 244,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "YR_WP_kunai"
 	},
 	{
@@ -12201,7 +11877,7 @@
 	{
 		"abr": "ユラン薙刀",
 		"price": 442,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "YR_WP_Naginata"
 	},
 	{
@@ -12279,25 +11955,25 @@
 	{
 		"abr": "ユラン錫杖",
 		"price": 263,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "YR_WP_Staff"
 	},
 	{
 		"abr": "ユラン錫杖(攪乱)",
 		"price": 263,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "YR_WP_StaffC"
 	},
 	{
 		"abr": "ユラン錫杖(束縛)",
 		"price": 263,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "YR_WP_StaffB"
 	},
 	{
 		"abr": "ユラン錫杖(空)",
 		"price": 263,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "YR_WP_Staff_Cooldown"
 	},
 	{
@@ -12345,13 +12021,13 @@
 	{
 		"abr": "ユラン黒桜絶斬刀",
 		"price": 1942,
-		"category": "白兵戦武器",
+		"category": "近接",
 		"defname": "YR_WP_monokatana"
 	},
 	{
 		"abr": "ユラン黒桜絶貫銃",
 		"price": 1942,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "YR_WP_MonoGun"
 	},
 	{
@@ -12401,12 +12077,6 @@
 		"price": 25,
 		"category": "調理済",
 		"defname": "VAGPRicebread"
-	},
-	{
-		"abr": "ライムストーンゴーレム",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "TM_LimestoneGolem"
 	},
 	{
 		"abr": "ラットキン",
@@ -12589,24 +12259,6 @@
 		"defname": "VAGPLuRouFan"
 	},
 	{
-		"abr": "ルーンブレード",
-		"price": 13333,
-		"category": "近接",
-		"defname": "TM_Ruunbled"
-	},
-	{
-		"abr": "レア付与器",
-		"price": 1667,
-		"category": "付与器",
-		"defname": "Infusion_Infuser_Rare"
-	},
-	{
-		"abr": "レジェンダリー付与器",
-		"price": 3333,
-		"category": "付与器",
-		"defname": "Infusion_Infuser_Legendary"
-	},
-	{
 		"abr": "レッドドラゴン",
 		"price": 11000,
 		"category": "家畜",
@@ -12693,7 +12345,7 @@
 	{
 		"abr": "ロン銃刃",
 		"price": 1617,
-		"category": "ヘイラ武器",
+		"category": "遠隔",
 		"defname": "Heyra_Gunblade"
 	},
 	{
@@ -12705,7 +12357,7 @@
 	{
 		"abr": "ロン陌刀",
 		"price": 358,
-		"category": "ヘイラ武器",
+		"category": "近接",
 		"defname": "Heyra_Ronggreatblade"
 	},
 	{
@@ -12751,12 +12403,6 @@
 		"defname": "OneCards"
 	},
 	{
-		"abr": "一人用冷蔵庫",
-		"price": 121,
-		"category": "家具",
-		"defname": "RimFridge_SingleRefrigerator"
-	},
-	{
 		"abr": "三毛ねこ",
 		"price": 667,
 		"category": "家畜",
@@ -12767,12 +12413,6 @@
 		"price": 3,
 		"category": "髪の毛",
 		"defname": "ExC_Mike_Wool"
-	},
-	{
-		"abr": "上級ミニオンの謎の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_GreaterMinionR"
 	},
 	{
 		"abr": "不吉なオベリスク",
@@ -12799,12 +12439,6 @@
 		"defname": "VIE_RelicInertBowl"
 	},
 	{
-		"abr": "久遠のオーブ",
-		"price": 2500,
-		"category": "無し",
-		"defname": "TM_Artifact_OrbOfEternal"
-	},
-	{
 		"abr": "九尾の半妖",
 		"price": -10,
 		"category": "Animal",
@@ -12827,48 +12461,6 @@
 		"price": 3,
 		"category": "生肉",
 		"defname": "Meat_BOSS_RQ_Monster_race_Summon_c"
-	},
-	{
-		"abr": "人形術師の呪文：リビングウォール",
-		"price": 3667,
-		"category": "巻物",
-		"defname": "SpellOf_LivingWall"
-	},
-	{
-		"abr": "人形術師の呪文：保護の烙印",
-		"price": 1567,
-		"category": "巻物",
-		"defname": "SpellOf_BrandProtection"
-	},
-	{
-		"abr": "人形術師の呪文：吸魔の烙印",
-		"price": 1567,
-		"category": "巻物",
-		"defname": "SpellOf_BrandSiphon"
-	},
-	{
-		"abr": "人形術師の呪文：壮健の烙印",
-		"price": 1333,
-		"category": "巻物",
-		"defname": "SpellOf_BrandFitness"
-	},
-	{
-		"abr": "人形術師の呪文：情動の烙印",
-		"price": 1567,
-		"category": "巻物",
-		"defname": "SpellOf_BrandEmotion"
-	},
-	{
-		"abr": "人形術師の呪文：智覚の烙印",
-		"price": 1333,
-		"category": "巻物",
-		"defname": "SpellOf_BrandAwareness"
-	},
-	{
-		"abr": "人形術師の呪文：活力の烙印",
-		"price": 1333,
-		"category": "巻物",
-		"defname": "SpellOf_BrandVitality"
 	},
 	{
 		"abr": "人造上肢(動物)",
@@ -12999,20 +12591,8 @@
 	{
 		"abr": "仁術の心得",
 		"price": 288,
-		"category": "装飾品",
+		"category": "Special",
 		"defname": "Yokai_Omamori_Jin"
-	},
-	{
-		"abr": "付与術師の呪文：変身",
-		"price": 3333,
-		"category": "巻物",
-		"defname": "SpellOf_Shapeshift"
-	},
-	{
-		"abr": "付与術師の呪文：記憶消去",
-		"price": 1367,
-		"category": "巻物",
-		"defname": "SpellOf_BlankMind"
 	},
 	{
 		"abr": "付喪神",
@@ -13093,52 +12673,10 @@
 		"defname": "VIE_RelicInertCeremonialMask"
 	},
 	{
-		"abr": "保存の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_mpCost"
-	},
-	{
-		"abr": "保存の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_mpCost_major"
-	},
-	{
-		"abr": "保存の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_mpCost_minor"
-	},
-	{
-		"abr": "保持の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_maxMP"
-	},
-	{
-		"abr": "保持の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_maxMP_major"
-	},
-	{
-		"abr": "保持の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_maxMP_minor"
-	},
-	{
 		"abr": "保護外骨格",
 		"price": 4983,
 		"category": "ウルトラテック",
 		"defname": "EPIA_ProtectiveExoskeleton"
-	},
-	{
-		"abr": "信念のオーブ",
-		"price": 2500,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_OrbOfConviction"
 	},
 	{
 		"abr": "倉庫型冷却機",
@@ -13153,12 +12691,6 @@
 		"defname": "Miho_UnstablePowerCell"
 	},
 	{
-		"abr": "偏向の篭手",
-		"price": 1558,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_BracersOfDeflection"
-	},
-	{
 		"abr": "偶像",
 		"price": 833,
 		"category": "不活性な遺物",
@@ -13167,7 +12699,7 @@
 	{
 		"abr": "儀礼ピストル",
 		"price": 833,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "BD_Autopistol"
 	},
 	{
@@ -13179,13 +12711,13 @@
 	{
 		"abr": "先進インフェルノキャノン",
 		"price": 2333,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "VFE_Gun_AdvancedInfernoCannon"
 	},
 	{
 		"abr": "先進インフェルノスピューワー",
 		"price": 2333,
-		"category": "遠距離武器",
+		"category": "遠隔",
 		"defname": "VFE_Gun_AdvancedInfernoSpewer"
 	},
 	{
@@ -13279,22 +12811,10 @@
 		"defname": "Meat_BOSS_RQ_Monster_race_Summon_a"
 	},
 	{
-		"abr": "光魔術師の呪文：光の精霊",
-		"price": 3767,
-		"category": "巻物",
-		"defname": "SpellOf_SpiritOfLight"
-	},
-	{
 		"abr": "兎獣耳族ハナ",
 		"price": 3333,
 		"category": "家畜",
 		"defname": "hana"
-	},
-	{
-		"abr": "入植者の像",
-		"price": 358,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfColonistK"
 	},
 	{
 		"abr": "具沢山スープ",
@@ -13303,45 +12823,15 @@
 		"defname": "VAGPSoupingredients"
 	},
 	{
-		"abr": "再生の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_mpRegenRate"
-	},
-	{
-		"abr": "再生の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_mpRegenRate_major"
-	},
-	{
-		"abr": "再生の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_mpRegenRate_minor"
-	},
-	{
 		"abr": "冬の訪れ",
 		"price": 261,
 		"category": "ドラッグ",
 		"defname": "Yokai_IceDrink"
 	},
 	{
-		"abr": "冷蔵庫",
-		"price": 186,
-		"category": "家具",
-		"defname": "RimFridge_Refrigerator"
-	},
-	{
-		"abr": "冷蔵庫(4連)",
-		"price": 307,
-		"category": "家具",
-		"defname": "RimFridge_QuadRefrigerator"
-	},
-	{
 		"abr": "凪の勾玉",
 		"price": 10492,
-		"category": "装飾品",
+		"category": "Special",
 		"defname": "Yokai_Nagi_no_Magatama"
 	},
 	{
@@ -13357,70 +12847,10 @@
 		"defname": "MR_Record"
 	},
 	{
-		"abr": "剛勇の兜",
-		"price": 975,
-		"category": "帽子",
-		"defname": "RoyalHelm"
-	},
-	{
-		"abr": "剛勇の鎧",
-		"price": 2750,
-		"category": "装甲化",
-		"defname": "RoyalArmor"
-	},
-	{
-		"abr": "力の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_arcaneDmg"
-	},
-	{
-		"abr": "力の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_arcaneDmg_major"
-	},
-	{
-		"abr": "力の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_arcaneDmg_minor"
-	},
-	{
 		"abr": "加工肉",
 		"price": 3,
 		"category": "生肉",
 		"defname": "VFEM_ProcessedMeat"
-	},
-	{
-		"abr": "加速の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_coolDown"
-	},
-	{
-		"abr": "加速の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_coolDown_major"
-	},
-	{
-		"abr": "加速の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_coolDown_minor"
-	},
-	{
-		"abr": "動物の像",
-		"price": 358,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfAnimal1x"
-	},
-	{
-		"abr": "動物の像(2x2)",
-		"price": 1258,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfAnimal2x"
 	},
 	{
 		"abr": "動物用義肢　作業台",
@@ -13777,12 +13207,6 @@
 		"defname": "VME_AncientRazorWire"
 	},
 	{
-		"abr": "古代の鎖帷子",
-		"price": 2742,
-		"category": "着物",
-		"defname": "AncientMail"
-	},
-	{
 		"abr": "古代の長方形容器",
 		"price": -10,
 		"category": "その他",
@@ -13801,22 +13225,10 @@
 		"defname": "Heyra_Item_Seedingredient"
 	},
 	{
-		"abr": "召喚師の呪文：ポッピー召喚",
-		"price": 3767,
-		"category": "巻物",
-		"defname": "SpellOf_SummonPoppi"
-	},
-	{
 		"abr": "台所流し台",
 		"price": 167,
 		"category": "衛生",
 		"defname": "KitchenSink"
-	},
-	{
-		"abr": "司祭の呪文：リザレクション",
-		"price": 6250,
-		"category": "巻物",
-		"defname": "SpellOf_Resurrection"
 	},
 	{
 		"abr": "合成ナノプリンター",
@@ -13845,7 +13257,7 @@
 	{
 		"abr": "土神の祈り",
 		"price": 288,
-		"category": "装飾品",
+		"category": "Special",
 		"defname": "Yokai_Omamori_Tuchi"
 	},
 	{
@@ -13867,12 +13279,6 @@
 		"defname": "Yokai_Akaname"
 	},
 	{
-		"abr": "基本的な管理者の机",
-		"price": 262,
-		"category": "生産物",
-		"defname": "FM_BasicManagerStation"
-	},
-	{
 		"abr": "堆肥容器(バイオ肥料)",
 		"price": 146,
 		"category": "衛生",
@@ -13883,18 +13289,6 @@
 		"price": 183,
 		"category": "芸術品",
 		"defname": "PaintingOnWall"
-	},
-	{
-		"abr": "壁用冷蔵庫(2連)",
-		"price": 186,
-		"category": "家具",
-		"defname": "RimFridge_WallRefrigerator"
-	},
-	{
-		"abr": "壁用冷蔵庫(一人用)",
-		"price": 121,
-		"category": "家具",
-		"defname": "RimFridge_SingleWallRefrigerator"
 	},
 	{
 		"abr": "夏の息吹",
@@ -13967,24 +13361,6 @@
 		"price": 1350,
 		"category": "家具",
 		"defname": "Yokai_RugGrand"
-	},
-	{
-		"abr": "大ぶりの入植者の像",
-		"price": 633,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfColonistKLarge"
-	},
-	{
-		"abr": "大型コンテナ",
-		"price": 305,
-		"category": "家具",
-		"defname": "LWM_DeepStorage_Skip"
-	},
-	{
-		"abr": "大型ロッカー",
-		"price": 257,
-		"category": "家具",
-		"defname": "LWM_BigShelf"
 	},
 	{
 		"abr": "大型熱交換器",
@@ -14095,24 +13471,6 @@
 		"defname": "Heyra_Biohorn3D"
 	},
 	{
-		"abr": "奇跡の魔石",
-		"price": 4417,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_wonder"
-	},
-	{
-		"abr": "奇跡の魔石(大)",
-		"price": 10917,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_wonder_major"
-	},
-	{
-		"abr": "奇跡の魔石(小)",
-		"price": 1983,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_wonder_minor"
-	},
-	{
 		"abr": "契約証明(カメの式神)",
 		"price": 958,
 		"category": "その他",
@@ -14145,7 +13503,7 @@
 	{
 		"abr": "妖の弓",
 		"price": 1867,
-		"category": "弓",
+		"category": "遠隔",
 		"defname": "Yokai_B_Ayakasi"
 	},
 	{
@@ -14223,7 +13581,7 @@
 	{
 		"abr": "妖怪の戦斧",
 		"price": 558,
-		"category": "刀と斧",
+		"category": "近接",
 		"defname": "Yokai_Axe"
 	},
 	{
@@ -14247,7 +13605,7 @@
 	{
 		"abr": "妖怪の模造刀",
 		"price": 575,
-		"category": "刀と斧",
+		"category": "近接",
 		"defname": "Yokai_K_Bokutou"
 	},
 	{
@@ -14289,7 +13647,7 @@
 	{
 		"abr": "妖怪刀",
 		"price": 525,
-		"category": "刀と斧",
+		"category": "近接",
 		"defname": "Yokai_Katana"
 	},
 	{
@@ -14353,12 +13711,6 @@
 		"defname": "Apparel_cskKidFlakPants"
 	},
 	{
-		"abr": "守護者の杖",
-		"price": 5583,
-		"category": "魔法杖",
-		"defname": "TM_DefenderStaff"
-	},
-	{
 		"abr": "宝の地図",
 		"price": 333,
 		"category": "アーティファクト",
@@ -14391,13 +13743,13 @@
 	{
 		"abr": "宿り木の弓",
 		"price": 7333,
-		"category": "絆憑き",
+		"category": "遠隔",
 		"defname": "Yokai_B_Yadorigi"
 	},
 	{
 		"abr": "宿り木の枝",
 		"price": 5333,
-		"category": "絆憑き",
+		"category": "近接",
 		"defname": "Yokai_K_Yadoirigi"
 	},
 	{
@@ -14473,12 +13825,6 @@
 		"defname": "PN_CraftingModule"
 	},
 	{
-		"abr": "巨大な入植者の像",
-		"price": 1258,
-		"category": "芸術品",
-		"defname": "TMB_StatueOfColonistKGrand"
-	},
-	{
 		"abr": "巻物",
 		"price": 41,
 		"category": "物品",
@@ -14489,24 +13835,6 @@
 		"price": 833,
 		"category": "不活性な遺物",
 		"defname": "VIE_RelicInertScroll"
-	},
-	{
-		"abr": "巻物：祖霊の絆",
-		"price": 417,
-		"category": "無し",
-		"defname": "MagicArtifact_RerollSpiritBond"
-	},
-	{
-		"abr": "干し草入れ",
-		"price": 287,
-		"category": "家具",
-		"defname": "LWM_Hayloft"
-	},
-	{
-		"abr": "平和主義者の篭手",
-		"price": 6375,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_BracersOfThePacifist"
 	},
 	{
 		"abr": "幼生ドライアドの肉",
@@ -14683,34 +14011,10 @@
 		"defname": "Yokai_KageBoushi"
 	},
 	{
-		"abr": "怨念の指輪",
-		"price": 3167,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_RingOfMalice"
-	},
-	{
-		"abr": "悠久なる青の指輪",
-		"price": 3333,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_RingOfEternalBlue"
-	},
-	{
 		"abr": "悪魔の契約書",
 		"price": 1667,
 		"category": "アーティファクト",
 		"defname": "ExC_DevilPaper"
-	},
-	{
-		"abr": "悪魔の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_DemonR"
-	},
-	{
-		"abr": "悪魔の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_LesserDemonR"
 	},
 	{
 		"abr": "惑星入植ボードゲーム",
@@ -14725,94 +14029,10 @@
 		"defname": "EPOE_InstinctOptimizingNanobots"
 	},
 	{
-		"abr": "戦いの見識の宝石",
-		"price": 4000,
-		"category": "無し",
-		"defname": "GemstoneOfInsight_Might"
-	},
-	{
 		"abr": "戦人の覚悟",
 		"price": 288,
-		"category": "装飾品",
+		"category": "Special",
 		"defname": "Yokai_Omamori_Ikusa"
-	},
-	{
-		"abr": "戦士の技能：タウント",
-		"price": 1667,
-		"category": "巻物",
-		"defname": "SkillOf_Taunt"
-	},
-	{
-		"abr": "戦士の技能：テンペストストライク",
-		"price": 1000,
-		"category": "巻物",
-		"defname": "SkillOf_TempestStrike"
-	},
-	{
-		"abr": "戦士の技能：レギオン",
-		"price": 1333,
-		"category": "巻物",
-		"defname": "SkillOf_Legion"
-	},
-	{
-		"abr": "戦士の技能：内気功",
-		"price": 833,
-		"category": "巻物",
-		"defname": "SkillOf_InnerHealing"
-	},
-	{
-		"abr": "戦士の技能：厚い皮",
-		"price": 667,
-		"category": "巻物",
-		"defname": "SkillOf_ThickSkin"
-	},
-	{
-		"abr": "戦士の技能：憤怒の炎",
-		"price": 1583,
-		"category": "巻物",
-		"defname": "SkillOf_BurningFury"
-	},
-	{
-		"abr": "戦士の技能：投げナイフ",
-		"price": 1583,
-		"category": "巻物",
-		"defname": "SkillOf_ThrowingKnife"
-	},
-	{
-		"abr": "戦士の技能：柄頭攻撃",
-		"price": 1667,
-		"category": "巻物",
-		"defname": "SkillOf_PommelStrike"
-	},
-	{
-		"abr": "戦士の技能：疾走",
-		"price": 833,
-		"category": "巻物",
-		"defname": "SkillOf_Sprint"
-	},
-	{
-		"abr": "戦士の技能：装備修繕",
-		"price": 1167,
-		"category": "巻物",
-		"defname": "SkillOf_GearRepair"
-	},
-	{
-		"abr": "戦士の技能：逞しい背中",
-		"price": 1000,
-		"category": "巻物",
-		"defname": "SkillOf_StrongBack"
-	},
-	{
-		"abr": "戦士の技能：重い一撃",
-		"price": 1250,
-		"category": "巻物",
-		"defname": "SkillOf_HeavyBlow"
-	},
-	{
-		"abr": "戦士の技能：集中",
-		"price": 1333,
-		"category": "巻物",
-		"defname": "SkillOf_FightersFocus"
 	},
 	{
 		"abr": "戦術情報角膜表示装置",
@@ -14833,76 +14053,10 @@
 		"defname": "VAGPMealSoldierPack"
 	},
 	{
-		"abr": "戦闘教本：フェイスレス",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfFaceless"
-	},
-	{
-		"abr": "戦闘教本：モンク",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfMonk"
-	},
-	{
-		"abr": "戦闘教本：レンジャー",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfRanger"
-	},
-	{
-		"abr": "戦闘教本：剣舞の舞い手",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfBladedancer"
-	},
-	{
-		"abr": "戦闘教本：剣闘士",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfGladiator"
-	},
-	{
-		"abr": "戦闘教本：司令官",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfCommander"
-	},
-	{
-		"abr": "戦闘教本：念動力者",
-		"price": 4750,
-		"category": "書物",
-		"defname": "BookOfPsionic"
-	},
-	{
-		"abr": "戦闘教本：死の騎士",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfDeathKnight"
-	},
-	{
-		"abr": "戦闘教本：狙撃手",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfSniper"
-	},
-	{
-		"abr": "戦闘教本：薬剤師",
-		"price": 4292,
-		"category": "書物",
-		"defname": "BookOfApothecary"
-	},
-	{
 		"abr": "手長",
 		"price": 16667,
 		"category": "家畜",
 		"defname": "Yokai_Tenaga"
-	},
-	{
-		"abr": "技能のエッセンス",
-		"price": 833,
-		"category": "無し",
-		"defname": "TM_MagicArtifact_MightEssence"
 	},
 	{
 		"abr": "技術交流書",
@@ -14959,18 +14113,6 @@
 		"defname": "VFE_Mechanoids_TurretBase"
 	},
 	{
-		"abr": "搾乳機",
-		"price": 194,
-		"category": "家具",
-		"defname": "MilkBox"
-	},
-	{
-		"abr": "搾油機",
-		"price": 320,
-		"category": "家具",
-		"defname": "chemfuelBox"
-	},
-	{
 		"abr": "改良型バイオニック手",
 		"price": 5667,
 		"category": "強化",
@@ -15013,12 +14155,6 @@
 		"defname": "GTFoot"
 	},
 	{
-		"abr": "放浪者の外套",
-		"price": 1375,
-		"category": "ロイヤリティ",
-		"defname": "TM_MaestersCloak"
-	},
-	{
 		"abr": "料理モジュール",
 		"price": 2683,
 		"category": "オートマトンモジュールシステム",
@@ -15035,12 +14171,6 @@
 		"price": 38,
 		"category": "物品",
 		"defname": "Jecrell_BookJournal"
-	},
-	{
-		"abr": "時空魔術師の呪文：時間復元",
-		"price": 3333,
-		"category": "巻物",
-		"defname": "SpellOf_Recall"
 	},
 	{
 		"abr": "暖炉",
@@ -15075,7 +14205,7 @@
 	{
 		"abr": "月の刀",
 		"price": 58992,
-		"category": "絆憑き",
+		"category": "近接",
 		"defname": "Yokai_K_TukiNoKatana"
 	},
 	{
@@ -15093,7 +14223,7 @@
 	{
 		"abr": "月の雫",
 		"price": 34558,
-		"category": "絆憑き",
+		"category": "近接",
 		"defname": "Yokai_K_TukiNoShizuku"
 	},
 	{
@@ -15113,30 +14243,6 @@
 		"price": 206,
 		"category": "人造",
 		"defname": "SP_WoodHorn"
-	},
-	{
-		"abr": "未精製の魔石",
-		"price": 8,
-		"category": "加工した魔石",
-		"defname": "RawMagicyte"
-	},
-	{
-		"abr": "未記入の戦闘教本",
-		"price": 3425,
-		"category": "書物",
-		"defname": "UnfinishedMartial"
-	},
-	{
-		"abr": "未記入の破れた書物",
-		"price": 2333,
-		"category": "書物",
-		"defname": "UnfinishedArcane"
-	},
-	{
-		"abr": "未記入の魔導書",
-		"price": 4392,
-		"category": "書物",
-		"defname": "UnfinishedAdvArcane"
 	},
 	{
 		"abr": "本",
@@ -15169,12 +14275,6 @@
 		"defname": "MR_dyeingworkbench"
 	},
 	{
-		"abr": "栄光の戦鎚",
-		"price": 2825,
-		"category": "近接",
-		"defname": "TM_GloryMaul"
-	},
-	{
 		"abr": "核分裂バッテリー",
 		"price": 1458,
 		"category": "パワー",
@@ -15205,12 +14305,6 @@
 		"defname": "Packaged_NormalAutomaton"
 	},
 	{
-		"abr": "梱包パレット",
-		"price": 321,
-		"category": "家具",
-		"defname": "LWM_Pallet_Covered"
-	},
-	{
 		"abr": "植木鉢（造花)",
 		"price": 46,
 		"category": "家具",
@@ -15219,20 +14313,8 @@
 	{
 		"abr": "椿",
 		"price": 1733,
-		"category": "刀と斧",
+		"category": "近接",
 		"defname": "Yokai_K_Tubaki"
-	},
-	{
-		"abr": "極寒の杖",
-		"price": 7500,
-		"category": "魔法杖",
-		"defname": "TM_WinterStaff"
-	},
-	{
-		"abr": "模範の兜",
-		"price": 1725,
-		"category": "装甲化",
-		"defname": "ParagonHelm"
 	},
 	{
 		"abr": "樹状研究設備",
@@ -15247,58 +14329,10 @@
 		"defname": "EPIA_ScytherBlade"
 	},
 	{
-		"abr": "武器キャビネット",
-		"price": 254,
-		"category": "家具",
-		"defname": "LWM_WeaponsCabinet"
-	},
-	{
-		"abr": "武器ラック(2個用)",
-		"price": 204,
-		"category": "家具",
-		"defname": "WeaponRacks_2Rack"
-	},
-	{
-		"abr": "武器ラック(3個用)",
-		"price": 204,
-		"category": "家具",
-		"defname": "WeaponRacks_3Rack"
-	},
-	{
-		"abr": "武器ラック(4個用)",
-		"price": 204,
-		"category": "家具",
-		"defname": "WeaponRacks_4Rack"
-	},
-	{
-		"abr": "武器ロッカー",
-		"price": 237,
-		"category": "家具",
-		"defname": "LWM_WeaponsLocker"
-	},
-	{
 		"abr": "武器改造作業台",
 		"price": 1508,
 		"category": "生産物",
 		"defname": "MR_Rebuildtable"
-	},
-	{
-		"abr": "死霊術のオーブ",
-		"price": 3000,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_NecroticOrb"
-	},
-	{
-		"abr": "死霊術師の呪文：リッチ形態",
-		"price": 4292,
-		"category": "巻物",
-		"defname": "SpellOf_LichForm"
-	},
-	{
-		"abr": "死霊術師の呪文：屍大吸収",
-		"price": 833,
-		"category": "巻物",
-		"defname": "SpellOf_ConsumeCorpse_Mass"
 	},
 	{
 		"abr": "殭屍",
@@ -15329,30 +14363,6 @@
 		"price": 3,
 		"category": "植物原料",
 		"defname": "Yokai_WaterSpore"
-	},
-	{
-		"abr": "氷の呪文：アルターストーム",
-		"price": 1417,
-		"category": "巻物",
-		"defname": "SpellOf_AlterStorm"
-	},
-	{
-		"abr": "氷の呪文：ブリザード",
-		"price": 3583,
-		"category": "巻物",
-		"defname": "SpellOf_Blizzard"
-	},
-	{
-		"abr": "氷の呪文：大地湿潤",
-		"price": 900,
-		"category": "巻物",
-		"defname": "SpellOf_WetGround"
-	},
-	{
-		"abr": "氷の杖",
-		"price": 800,
-		"category": "魔法杖",
-		"defname": "TM_IceWand"
 	},
 	{
 		"abr": "氷室の壺",
@@ -15427,40 +14437,10 @@
 		"defname": "Thermostat"
 	},
 	{
-		"abr": "滅菌牛乳",
-		"price": 8,
-		"category": "畜産物",
-		"defname": "SterilizationMilk"
-	},
-	{
 		"abr": "灌漑用散水器",
 		"price": 102,
 		"category": "衛生",
 		"defname": "IrrigationSprinkler"
-	},
-	{
-		"abr": "火の呪文：ヒートシールド",
-		"price": 1000,
-		"category": "巻物",
-		"defname": "SpellOf_HeatShield"
-	},
-	{
-		"abr": "火の呪文：ファイアストーム",
-		"price": 3583,
-		"category": "巻物",
-		"defname": "SpellOf_Firestorm"
-	},
-	{
-		"abr": "火の呪文：大地乾燥",
-		"price": 900,
-		"category": "巻物",
-		"defname": "SpellOf_DryGround"
-	},
-	{
-		"abr": "火の呪文：焼灼止血",
-		"price": 533,
-		"category": "巻物",
-		"defname": "SpellOf_CauterizeWound"
 	},
 	{
 		"abr": "火の子",
@@ -15497,18 +14477,6 @@
 		"price": 3,
 		"category": "髪の毛",
 		"defname": "ExC_Ash_Wool"
-	},
-	{
-		"abr": "灼熱の杖",
-		"price": 6250,
-		"category": "魔法杖",
-		"defname": "TM_BlazingPowerStaff"
-	},
-	{
-		"abr": "炎の杖",
-		"price": 800,
-		"category": "魔法杖",
-		"defname": "TM_FireWand"
 	},
 	{
 		"abr": "炸裂種の肉",
@@ -15571,12 +14539,6 @@
 		"defname": "Yokai_TuskSprit"
 	},
 	{
-		"abr": "牛乳箱",
-		"price": 3,
-		"category": "家具",
-		"defname": "MilkCrate"
-	},
-	{
 		"abr": "牛頭獄卒",
 		"price": -10,
 		"category": "Animal",
@@ -15595,15 +14557,9 @@
 		"defname": "Yokai_Hiyaku"
 	},
 	{
-		"abr": "狂気の頭巾",
-		"price": 1008,
-		"category": "ロイヤリティ",
-		"defname": "HoodOfMadness"
-	},
-	{
 		"abr": "狐のお面",
 		"price": 129,
-		"category": "帽子",
+		"category": "Special",
 		"defname": "Yokai_Omen_Kitune"
 	},
 	{
@@ -15645,7 +14601,7 @@
 	{
 		"abr": "狩人の呪い",
 		"price": 288,
-		"category": "装飾品",
+		"category": "Special",
 		"defname": "Yokai_Omamori_Karibito"
 	},
 	{
@@ -15665,12 +14621,6 @@
 		"price": 3333,
 		"category": "家畜",
 		"defname": "siro"
-	},
-	{
-		"abr": "狼肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Dire_WolfR"
 	},
 	{
 		"abr": "猛火茸",
@@ -15731,12 +14681,6 @@
 		"price": 2433,
 		"category": "その他",
 		"defname": "MR_BiometricAnalyzer"
-	},
-	{
-		"abr": "生命の種",
-		"price": 2,
-		"category": "魔法アイテム",
-		"defname": "SeedofRegrowth"
 	},
 	{
 		"abr": "画架",
@@ -15805,24 +14749,6 @@
 		"defname": "Eye"
 	},
 	{
-		"abr": "石(センチネル)",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_SentinelR"
-	},
-	{
-		"abr": "石(上級センチネル)",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Greater_SentinelR"
-	},
-	{
-		"abr": "石(下級センチネル)",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Lesser_SentinelR"
-	},
-	{
 		"abr": "石板",
 		"price": 41,
 		"category": "物品",
@@ -15857,132 +14783,6 @@
 		"price": 7700,
 		"category": "生産物",
 		"defname": "VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry"
-	},
-	{
-		"abr": "破れた書物：ドルイド",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfNature"
-	},
-	{
-		"abr": "破れた書物：人形術師",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfGolemancy"
-	},
-	{
-		"abr": "破れた書物：付与術師",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfEnchanter"
-	},
-	{
-		"abr": "破れた書物：光魔術師",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfTheSun"
-	},
-	{
-		"abr": "破れた書物：召喚",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfSummoner"
-	},
-	{
-		"abr": "破れた書物：司祭",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfPriest"
-	},
-	{
-		"abr": "破れた書物：悪魔学",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfDemons"
-	},
-	{
-		"abr": "破れた書物：操血術",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfHemomancy"
-	},
-	{
-		"abr": "破れた書物：時空魔術師",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfChronomancer"
-	},
-	{
-		"abr": "破れた書物：死霊術",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfUndead"
-	},
-	{
-		"abr": "破れた書物：氷",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfHeartOfFrost"
-	},
-	{
-		"abr": "破れた書物：混沌魔術",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfChaos"
-	},
-	{
-		"abr": "破れた書物：炎",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfInnerFire"
-	},
-	{
-		"abr": "破れた書物：祈祷師",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfShamanism"
-	},
-	{
-		"abr": "破れた書物：秘術",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfArcanist"
-	},
-	{
-		"abr": "破れた書物：聖騎士",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfValiant"
-	},
-	{
-		"abr": "破れた書物：詩人",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfBard"
-	},
-	{
-		"abr": "破れた書物：雷",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfStormBorn"
-	},
-	{
-		"abr": "破れた書物：風水",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfEarth"
-	},
-	{
-		"abr": "破れた書物：魔工技師",
-		"price": 2917,
-		"category": "書物",
-		"defname": "Torn_BookOfMagitech"
-	},
-	{
-		"abr": "破壊のメイス",
-		"price": 6058,
-		"category": "近接",
-		"defname": "TM_Decimation"
 	},
 	{
 		"abr": "破損した仮面",
@@ -16027,12 +14827,6 @@
 		"defname": "VIE_RelicInertPolishedRock"
 	},
 	{
-		"abr": "祈祷の呪文：祖霊召喚",
-		"price": 3767,
-		"category": "巻物",
-		"defname": "SpellOf_GuardianSpirit"
-	},
-	{
 		"abr": "神経再生網",
 		"price": 1775,
 		"category": "Body restoration",
@@ -16043,12 +14837,6 @@
 		"price": 1133,
 		"category": "Body restoration",
 		"defname": "NeuromuscularFramework"
-	},
-	{
-		"abr": "神聖の呪文：シールドアザー",
-		"price": 1267,
-		"category": "巻物",
-		"defname": "SpellOf_ShieldOther"
 	},
 	{
 		"abr": "科学技術",
@@ -16075,18 +14863,6 @@
 		"defname": "Mincho_ArcanePotion"
 	},
 	{
-		"abr": "秘術の呪文：ゲートウェイ",
-		"price": 4767,
-		"category": "巻物",
-		"defname": "SpellOf_FoldReality"
-	},
-	{
-		"abr": "秘術の頭巾",
-		"price": 817,
-		"category": "ロイヤリティ",
-		"defname": "ArcaneHood"
-	},
-	{
 		"abr": "積分モジュール",
 		"price": 12008,
 		"category": "オートマトンモジュールシステム",
@@ -16097,12 +14873,6 @@
 		"price": 84,
 		"category": "PnL工業",
 		"defname": "PN_BrainEmpty"
-	},
-	{
-		"abr": "空の付与器",
-		"price": 833,
-		"category": "付与器",
-		"defname": "Infusion_InfuserEmpty"
 	},
 	{
 		"abr": "突撃種の肉",
@@ -16125,7 +14895,7 @@
 	{
 		"abr": "竜の怒り",
 		"price": 6600,
-		"category": "刀と斧",
+		"category": "近接",
 		"defname": "Yokai_A_Ryu"
 	},
 	{
@@ -16171,12 +14941,6 @@
 		"defname": "MuscleStimulator"
 	},
 	{
-		"abr": "管理者の机",
-		"price": 508,
-		"category": "生産物",
-		"defname": "FM_ManagerStation"
-	},
-	{
 		"abr": "簡易シャワー",
 		"price": 52,
 		"category": "衛生",
@@ -16187,12 +14951,6 @@
 		"price": 55,
 		"category": "衛生",
 		"defname": "PitLatrine"
-	},
-	{
-		"abr": "簡素な修繕作業台",
-		"price": 342,
-		"category": "生産物",
-		"defname": "RG_SimpleRepairTable"
 	},
 	{
 		"abr": "粒子泡抽出コア",
@@ -16211,78 +14969,6 @@
 		"price": 74,
 		"category": "錬成素材",
 		"defname": "Yokai_EnergyStone"
-	},
-	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_LesserEarth_ElementalR"
-	},
-	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Earth_ElementalR"
-	},
-	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_GreaterEarth_ElementalR"
-	},
-	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_LesserFire_ElementalR"
-	},
-	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Fire_ElementalR"
-	},
-	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_GreaterFire_ElementalR"
-	},
-	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_LesserWater_ElementalR"
-	},
-	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Water_ElementalR"
-	},
-	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_GreaterWater_ElementalR"
-	},
-	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_LesserWind_ElementalR"
-	},
-	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_Wind_ElementalR"
-	},
-	{
-		"abr": "精霊の粉末",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_TM_GreaterWind_ElementalR"
 	},
 	{
 		"abr": "紫狐",
@@ -16441,58 +15127,10 @@
 		"defname": "VAGPMealSurvivalPack"
 	},
 	{
-		"abr": "習得の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_xpGain"
-	},
-	{
-		"abr": "習得の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_xpGain_major"
-	},
-	{
-		"abr": "習得の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_xpGain_minor"
-	},
-	{
-		"abr": "耐性の魔石",
-		"price": 650,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_arcaneRes"
-	},
-	{
-		"abr": "耐性の魔石(大)",
-		"price": 1592,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_arcaneRes_major"
-	},
-	{
-		"abr": "耐性の魔石(小)",
-		"price": 283,
-		"category": "加工した魔石",
-		"defname": "TM_EStone_arcaneRes_minor"
-	},
-	{
 		"abr": "耳",
 		"price": 417,
 		"category": "生体",
 		"defname": "Ear"
-	},
-	{
-		"abr": "聖書：聖騎士",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfValiant"
-	},
-	{
-		"abr": "聖騎士の呪文：聖なる怒り",
-		"price": 3167,
-		"category": "巻物",
-		"defname": "SpellOf_HolyWrath"
 	},
 	{
 		"abr": "肉団子",
@@ -16633,12 +15271,6 @@
 		"defname": "VFEM_WearablesAndTextileFactory_AutoLoom"
 	},
 	{
-		"abr": "自動販売機",
-		"price": 575,
-		"category": "家具",
-		"defname": "vending"
-	},
-	{
 		"abr": "自動迫撃砲",
 		"price": 1317,
 		"category": "防衛",
@@ -16725,7 +15357,7 @@
 	{
 		"abr": "蓮華",
 		"price": 6342,
-		"category": "刀と斧",
+		"category": "近接",
 		"defname": "Yokai_K_Renge"
 	},
 	{
@@ -16733,24 +15365,6 @@
 		"price": 642,
 		"category": "衛生",
 		"defname": "LogBoiler"
-	},
-	{
-		"abr": "薬剤師のレシピ：クラリティー",
-		"price": 1733,
-		"category": "巻物",
-		"defname": "SkillOf_HerbalClarity"
-	},
-	{
-		"abr": "薬剤師のレシピ：ブリス",
-		"price": 950,
-		"category": "巻物",
-		"defname": "SkillOf_HerbalBliss"
-	},
-	{
-		"abr": "薬箱",
-		"price": 203,
-		"category": "家具",
-		"defname": "LWM_Medicine_Cabinet"
 	},
 	{
 		"abr": "虫の骨",
@@ -16765,1247 +15379,23 @@
 		"defname": "baier"
 	},
 	{
-		"abr": "虫娘",
-		"price": 2917,
-		"category": "家畜",
-		"defname": "buer"
-	},
-	{
-		"abr": "虫娘",
-		"price": 2917,
-		"category": "家畜",
-		"defname": "jiaer"
-	},
-	{
-		"abr": "虫娘",
-		"price": 2917,
-		"category": "家畜",
-		"defname": "juer"
-	},
-	{
-		"abr": "虫娘",
-		"price": 2917,
-		"category": "家畜",
-		"defname": "kuoer"
-	},
-	{
-		"abr": "虫娘",
-		"price": 2917,
-		"category": "家畜",
-		"defname": "zhuer"
-	},
-	{
-		"abr": "虫娘の家",
-		"price": 5042,
-		"category": "芸術品",
-		"defname": "IGHive_Art"
-	},
-	{
-		"abr": "虫娘の発光ポッド",
-		"price": 92,
+		"abr": "doublewiderefrigerator",
+		"price": 467,
 		"category": "家具",
-		"defname": "IGGlowPod"
+		"defname": "owl_doublerefrigerator"
 	},
 	{
-		"abr": "虫娘の秘薬",
-		"price": 2833,
-		"category": "物品",
-		"defname": "IGpupa_p"
-	},
-	{
-		"abr": "虫娘強化尻尾",
-		"price": 1833,
-		"category": "人造",
-		"defname": "IG_BionicTail"
-	},
-	{
-		"abr": "虫娘強化尻尾e",
-		"price": 3333,
-		"category": "人造",
-		"defname": "IG_BionicTail_E"
-	},
-	{
-		"abr": "虫娘強化尻尾f",
-		"price": 7500,
-		"category": "人造",
-		"defname": "IG_BionicTail_F"
-	},
-	{
-		"abr": "虫娘擬似尻尾",
-		"price": 20,
-		"category": "人造",
-		"defname": "IG_FakeTail"
-	},
-	{
-		"abr": "虫娘風ジュース",
-		"price": 37,
-		"category": "調理済",
-		"defname": "IG_Meal_b"
-	},
-	{
-		"abr": "虫娘風ハンバーグ",
-		"price": 28,
-		"category": "調理済",
-		"defname": "IG_Meal_f"
-	},
-	{
-		"abr": "虫娘風プリン",
-		"price": 67,
-		"category": "調理済",
-		"defname": "IG_Meal_p"
-	},
-	{
-		"abr": "虫娘風橘寿司",
-		"price": 83,
-		"category": "調理済",
-		"defname": "IG_Meal_n"
-	},
-	{
-		"abr": "虫娘風橘巻き",
-		"price": 33,
-		"category": "調理済",
-		"defname": "IG_Meal_m"
-	},
-	{
-		"abr": "虫娘風蒟蒻",
-		"price": 38,
-		"category": "調理済",
-		"defname": "IG_Meal_k"
-	},
-	{
-		"abr": "虫娘風雨後きのこハンバーグ(毒あり)",
-		"price": 87,
-		"category": "調理済",
-		"defname": "IG_Meal_r"
-	},
-	{
-		"abr": "虫娘風青汁",
-		"price": 37,
-		"category": "調理済",
-		"defname": "IG_Meal_g"
-	},
-	{
-		"abr": "虫玉",
-		"price": 1,
-		"category": "原材料",
-		"defname": "IJade"
-	},
-	{
-		"abr": "虫露",
-		"price": 7,
-		"category": "畜産物",
-		"defname": "ISaliva"
-	},
-	{
-		"abr": "蜘蛛糸の下穿き",
-		"price": 328,
-		"category": "下着",
-		"defname": "Yokai_Kimono_Shitabaki"
-	},
-	{
-		"abr": "蜘蛛糸の帷子",
-		"price": 328,
-		"category": "下着",
-		"defname": "Yokai_Kimono_Katabira"
-	},
-	{
-		"abr": "血まみれ椿",
-		"price": 3333,
-		"category": "家畜",
-		"defname": "Yokai_TubakiAnimal"
-	},
-	{
-		"abr": "血清",
-		"price": 417,
-		"category": "加工品",
-		"defname": "Serum"
-	},
-	{
-		"abr": "衛生エンハンサー",
-		"price": 1308,
-		"category": "強化",
-		"defname": "HygieneEnhancer"
-	},
-	{
-		"abr": "衣類タンス",
-		"price": 170,
+		"abr": "refrigerator",
+		"price": 242,
 		"category": "家具",
-		"defname": "LWM_Clothing_Rack"
+		"defname": "owl_refrigerator"
 	},
 	{
-		"abr": "裁断種の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_BOSS_RQ_Monster_race_Summon_f"
-	},
-	{
-		"abr": "裂肢者の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Heyra_Dismemberer"
-	},
-	{
-		"abr": "裏切りの大邸宅",
-		"price": 250,
-		"category": "家具",
-		"defname": "TreacheryGame"
-	},
-	{
-		"abr": "補助解析器",
-		"price": 458,
-		"category": "その他",
-		"defname": "MR_SubAnalyzer"
-	},
-	{
-		"abr": "製紙機",
-		"price": 358,
-		"category": "生産物",
-		"defname": "RimWriter_PapermakingBench"
-	},
-	{
-		"abr": "要の弓",
-		"price": 3858,
-		"category": "投射器",
-		"defname": "Yokai_TurretBow"
-	},
-	{
-		"abr": "覇権のローブ",
-		"price": 4233,
-		"category": "ロイヤリティ",
-		"defname": "DemonLordCloak"
-	},
-	{
-		"abr": "覚醒の種",
-		"price": 3333,
-		"category": "アーティファクト",
-		"defname": "Heyra_Item_Activator_Thunder"
-	},
-	{
-		"abr": "角",
-		"price": 833,
-		"category": "不活性な遺物",
-		"defname": "VIE_RelicInertHorn"
-	},
-	{
-		"abr": "角のある槍",
-		"price": 3833,
-		"category": "白兵戦武器",
-		"defname": "DD_MeleeWeapon_HornedLance"
-	},
-	{
-		"abr": "言の葉",
-		"price": 69075,
-		"category": "絆憑き",
-		"defname": "Yokai_B_KotoNoHa"
-	},
-	{
-		"abr": "言の葉（封）",
-		"price": 44850,
-		"category": "絆憑き",
-		"defname": "Yokai_B_KotoNoHa_Huu"
-	},
-	{
-		"abr": "誘惑の角笛",
-		"price": 3333,
-		"category": "アーティファクト",
-		"defname": "MatingHorn"
-	},
-	{
-		"abr": "説教壇",
-		"price": 202,
-		"category": "家具",
-		"defname": "RK_Pulpit"
-	},
-	{
-		"abr": "調和の願い",
-		"price": 288,
-		"category": "装飾品",
-		"defname": "Yokai_Omamori_Wa"
-	},
-	{
-		"abr": "豊穣の面",
-		"price": 80,
-		"category": "帽子",
-		"defname": "Yokai_Omen_Warai"
-	},
-	{
-		"abr": "貝の握り寿司",
-		"price": 33,
-		"category": "調理済",
-		"defname": "MealSushiShellfish"
-	},
-	{
-		"abr": "貝の身",
-		"price": 2,
-		"category": "魚介",
-		"defname": "RawShellfishMeat"
-	},
-	{
-		"abr": "赤ラミアの卵",
-		"price": 83,
-		"category": "卵(有精卵)",
-		"defname": "Yokai_LamiaEggR"
-	},
-	{
-		"abr": "赤木",
-		"price": 2,
-		"category": "原材料",
-		"defname": "YR_Red_wood"
-	},
-	{
-		"abr": "赤狐之力",
-		"price": 600,
-		"category": "獣耳少女の魂力",
-		"defname": "konSoulPower"
-	},
-	{
-		"abr": "赤獅子",
-		"price": 2000,
-		"category": "家畜",
-		"defname": "ExC_NEKO_RedLion"
-	},
-	{
-		"abr": "赤獅子の毛",
-		"price": 5,
-		"category": "髪の毛",
-		"defname": "ExC_RedLion_Wool"
-	},
-	{
-		"abr": "超巨大ロッカー",
-		"price": 550,
-		"category": "家具",
-		"defname": "LWM_VeryBigShelf"
-	},
-	{
-		"abr": "転換炉",
-		"price": 2500,
-		"category": "家具",
-		"defname": "Yokai_AnimaConverter"
-	},
-	{
-		"abr": "近衛隊領土旗",
-		"price": 2500,
-		"category": "防衛",
-		"defname": "BR_Spear_Flag"
-	},
-	{
-		"abr": "送り火",
-		"price": 817,
-		"category": "弓",
-		"defname": "Yokai_B_Okuribi"
-	},
-	{
-		"abr": "通販端末",
-		"price": 253,
-		"category": "家具",
-		"defname": "ExC_Building_MailOrderTerminal"
-	},
-	{
-		"abr": "速射モジュール",
-		"price": 2683,
-		"category": "オートマトンモジュールシステム",
-		"defname": "PN_RapidFireModule"
-	},
-	{
-		"abr": "道教の床板(中型)",
-		"price": 342,
-		"category": "家具",
-		"defname": "DaoistSlab_Medium"
-	},
-	{
-		"abr": "道教の床板(幅広)",
-		"price": 508,
-		"category": "家具",
-		"defname": "DaoistSlab_Broad"
-	},
-	{
-		"abr": "部品改造設備",
-		"price": 900,
-		"category": "生産物",
-		"defname": "MR_retrofittable"
-	},
-	{
-		"abr": "配列モジュール",
-		"price": 3483,
-		"category": "オートマトンモジュールシステム",
-		"defname": "PN_ArrayModule"
-	},
-	{
-		"abr": "配管用バルブ",
-		"price": 50,
-		"category": "衛生",
-		"defname": "plumbingValve"
-	},
-	{
-		"abr": "配膳棚",
-		"price": 255,
-		"category": "家具",
-		"defname": "LWM_MealRack"
-	},
-	{
-		"abr": "野菜炒めとチャーハンセット",
-		"price": 67,
-		"category": "調理済",
-		"defname": "VAGPVegetablesfriedrice"
-	},
-	{
-		"abr": "金庫",
-		"price": 1017,
-		"category": "家具",
-		"defname": "LWM_Safe"
-	},
-	{
-		"abr": "金色人造義眼",
-		"price": 26,
-		"category": "人造",
-		"defname": "GoldenEye"
-	},
-	{
-		"abr": "鉄びし",
-		"price": 19,
-		"category": "防衛",
-		"defname": "Trap_MRBA"
-	},
-	{
-		"abr": "鉄びし入れ",
-		"price": 132,
-		"category": "罠ホルダー",
-		"defname": "MR_Apparel_TrapA"
-	},
-	{
-		"abr": "鉄製義腕",
-		"price": 173,
-		"category": "人造",
-		"defname": "SteelArm"
-	},
-	{
-		"abr": "鉱滓",
-		"price": 833,
-		"category": "不活性な遺物",
-		"defname": "VIE_RelicInertPlate"
-	},
-	{
-		"abr": "鋭い知性の指輪",
-		"price": 3500,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_RingOfKeenIntellect"
-	},
-	{
-		"abr": "鎌鼬",
-		"price": 667,
-		"category": "家畜",
-		"defname": "Yokai_Kamaitachi"
-	},
-	{
-		"abr": "鎖",
-		"price": 833,
-		"category": "不活性な遺物",
-		"defname": "VIE_RelicInertChain"
-	},
-	{
-		"abr": "鎧の籠手",
-		"price": 833,
-		"category": "不活性な遺物",
-		"defname": "VIE_RelicInertGauntlet"
-	},
-	{
-		"abr": "閃きの訪れ",
-		"price": 288,
-		"category": "装飾品",
-		"defname": "Yokai_Omamori_Hirameki"
-	},
-	{
-		"abr": "防弾セラミック",
-		"price": 12,
-		"category": "原材料",
-		"defname": "Miho_MilitaryGradeBalisticCeramics"
-	},
-	{
-		"abr": "防火ロッカー",
-		"price": 284,
-		"category": "家具",
-		"defname": "GL_Locker"
-	},
-	{
-		"abr": "防護の篭手",
-		"price": 1483,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_BracersOfDefense"
-	},
-	{
-		"abr": "陰陽門",
-		"price": 19,
-		"category": "家具",
-		"defname": "YR_TreeBase"
-	},
-	{
-		"abr": "陰陽門",
-		"price": 4,
-		"category": "家具",
-		"defname": "YR_TreeBase_Plus"
-	},
-	{
-		"abr": "陽の勾玉",
-		"price": 10492,
-		"category": "装飾品",
-		"defname": "Yokai_Hi_No_Magatama"
-	},
-	{
-		"abr": "雀卓",
-		"price": 400,
-		"category": "家具",
-		"defname": "GHG_MahjongTable"
-	},
-	{
-		"abr": "集中治療モジュール",
-		"price": 6792,
-		"category": "オートマトンモジュールシステム",
-		"defname": "PN_IntensiveMedicalModule"
-	},
-	{
-		"abr": "雉虎ねこ",
-		"price": 667,
-		"category": "家畜",
-		"defname": "ExC_NEKO_Kijitora"
-	},
-	{
-		"abr": "雉虎ねこの毛",
-		"price": 3,
-		"category": "髪の毛",
-		"defname": "ExC_Kijitora_Wool"
-	},
-	{
-		"abr": "雪の実",
-		"price": -10,
-		"category": "生野菜",
-		"defname": "Yokai_IceFruit"
-	},
-	{
-		"abr": "雪の雫",
-		"price": 25,
-		"category": "料理素材",
-		"defname": "Yokai_SnowMilk"
-	},
-	{
-		"abr": "雪木末",
-		"price": 500,
-		"category": "加工品",
-		"defname": "MR_whitetwigs"
-	},
-	{
-		"abr": "雪雫",
-		"price": 2167,
-		"category": "家畜",
-		"defname": "Yokai_YukiShizuku"
-	},
-	{
-		"abr": "雷",
-		"price": 650,
-		"category": "弓",
-		"defname": "Yokai_B_Ikazuti"
-	},
-	{
-		"abr": "雷の呪文：アイオブザストーム",
-		"price": 3583,
-		"category": "巻物",
-		"defname": "SpellOf_EyeOfTheStorm"
-	},
-	{
-		"abr": "雷の呪文：バッテリー充電",
-		"price": 833,
-		"category": "巻物",
-		"defname": "SpellOf_ChargeBattery"
-	},
-	{
-		"abr": "雷の杖",
-		"price": 800,
-		"category": "魔法杖",
-		"defname": "TM_LightningWand"
-	},
-	{
-		"abr": "雷茸",
-		"price": 80,
-		"category": "危険な茸",
-		"defname": "Yokai_TrapKinoko_EMP"
-	},
-	{
-		"abr": "雷鳴の毛",
-		"price": 4,
-		"category": "髪の毛",
-		"defname": "ExC_Thunder_Wool"
-	},
-	{
-		"abr": "電力ポンプ",
-		"price": 316,
-		"category": "衛生",
-		"defname": "ElectricPump"
-	},
-	{
-		"abr": "電動ミシン台",
-		"price": 542,
-		"category": "生産物",
-		"defname": "GL_ElectricTailoringBench"
-	},
-	{
-		"abr": "電動修繕作業台",
-		"price": 692,
-		"category": "生産物",
-		"defname": "RG_ElectricRepairTable"
-	},
-	{
-		"abr": "電動工作台",
-		"price": 533,
-		"category": "生産物",
-		"defname": "GL_ElectricSmithy"
-	},
-	{
-		"abr": "電動製紙機",
-		"price": 408,
-		"category": "生産物",
-		"defname": "RimWriter_PapermakingBenchElectric"
-	},
-	{
-		"abr": "電気コンロ",
-		"price": 383,
-		"category": "生産物",
-		"defname": "GL_ElectricStove"
-	},
-	{
-		"abr": "電気ボイラー",
-		"price": 425,
-		"category": "衛生",
-		"defname": "ElectricBoiler"
-	},
-	{
-		"abr": "電気温水シャワー",
-		"price": 170,
-		"category": "衛生",
-		"defname": "ShowerAdvStuff"
-	},
-	{
-		"abr": "電気温水トイレ",
-		"price": 182,
-		"category": "衛生",
-		"defname": "ToiletAdvStuff"
-	},
-	{
-		"abr": "霊統の欠片",
-		"price": 1167,
-		"category": "無し",
-		"defname": "TM_Artifact_ClassExtraction"
-	},
-	{
-		"abr": "霰",
-		"price": 508,
-		"category": "弓",
-		"defname": "Yokai_B_Arare"
-	},
-	{
-		"abr": "青クマアイス",
-		"price": 5,
-		"category": "ミントチョコ類アイス",
-		"defname": "Mincho_BluePolarBear"
-	},
-	{
-		"abr": "青クマ化クッキー",
-		"price": 2,
-		"category": "ドラッグ",
-		"defname": "Mincho_BluePolarBear_Cookie"
-	},
-	{
-		"abr": "青ラミアの卵",
-		"price": 83,
-		"category": "卵(有精卵)",
-		"defname": "Yokai_LamiaEggB"
-	},
-	{
-		"abr": "青銅縦目仮面機関車の肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Heyra_MobileTotem"
-	},
-	{
-		"abr": "頭蓋骨",
-		"price": 833,
-		"category": "不活性な遺物",
-		"defname": "VIE_RelicInertSkull"
-	},
-	{
-		"abr": "顎",
-		"price": 417,
-		"category": "生体",
-		"defname": "Jaw"
-	},
-	{
-		"abr": "風",
-		"price": 383,
-		"category": "弓",
-		"defname": "Yokai_B_Kaze"
-	},
-	{
-		"abr": "風切丸",
-		"price": 3333,
-		"category": "家畜",
-		"defname": "konf"
-	},
-	{
-		"abr": "風力発電機(改良型)",
-		"price": 1258,
-		"category": "パワー",
-		"defname": "sd_adv_powergen_adv_wind_turbine"
-	},
-	{
-		"abr": "風水師の呪文：隕石",
-		"price": 2750,
-		"category": "巻物",
-		"defname": "SpellOf_Meteor"
-	},
-	{
-		"abr": "食器調理器具棚",
-		"price": 279,
-		"category": "その他",
-		"defname": "GL_TablewareShelf"
-	},
-	{
-		"abr": "食料用バスケット",
-		"price": 270,
-		"category": "家具",
-		"defname": "LWM_Food_Basket"
-	},
-	{
-		"abr": "食肉加工台",
-		"price": 279,
-		"category": "生産物",
-		"defname": "GL_TableButcher"
-	},
-	{
-		"abr": "食肉粉砕器",
-		"price": 3608,
-		"category": "生産物",
-		"defname": "VFEM_ProvisionsPackagingFactory_MeatGrinder"
-	},
-	{
-		"abr": "飼い葉おけ",
-		"price": 254,
-		"category": "家具",
-		"defname": "RGK_Manger"
-	},
-	{
-		"abr": "飼い葉桶(小)",
-		"price": 34,
-		"category": "家具",
-		"defname": "Manger_S"
-	},
-	{
-		"abr": "飼い葉桶1x1",
-		"price": 26,
-		"category": "家具",
-		"defname": "EtnMangerSingle"
-	},
-	{
-		"abr": "飼い葉桶1x2",
-		"price": 51,
-		"category": "家具",
-		"defname": "EtnManger"
-	},
-	{
-		"abr": "餌入れ",
-		"price": 104,
-		"category": "家具",
-		"defname": "RGK_DogBowl"
-	},
-	{
-		"abr": "馬肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_Horse"
-	},
-	{
-		"abr": "馬頭獄卒",
-		"price": -10,
-		"category": "Animal",
-		"defname": "GHG_Mezu"
-	},
-	{
-		"abr": "骨",
-		"price": 833,
-		"category": "不活性な遺物",
-		"defname": "VIE_RelicInertBone"
-	},
-	{
-		"abr": "高級なダブルベッド",
-		"price": 942,
-		"category": "家具",
-		"defname": "GL_ClassyDoubleBed"
-	},
-	{
-		"abr": "鬼人コヒメ",
-		"price": 16667,
-		"category": "家畜",
-		"defname": "kohime"
-	},
-	{
-		"abr": "鬼人之力",
-		"price": 600,
-		"category": "獣耳少女の魂力",
-		"defname": "kohimeSoulPower"
-	},
-	{
-		"abr": "魂のオーブ(満)",
-		"price": 2500,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_OrbOfSouls_Full"
-	},
-	{
-		"abr": "魂のオーブ(空)",
-		"price": 2500,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_OrbOfSouls"
-	},
-	{
-		"abr": "魅兎之力",
-		"price": 600,
-		"category": "獣耳少女の魂力",
-		"defname": "hanaSoulPower"
-	},
-	{
-		"abr": "魔人の呪文：サイキックショック",
-		"price": 3000,
-		"category": "巻物",
-		"defname": "SpellOf_PsychicShock"
-	},
-	{
-		"abr": "魔導書：???",
-		"price": 2500,
-		"category": "書物",
-		"defname": "BookOfQuestion"
-	},
-	{
-		"abr": "魔導書：ドルイド",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfDruid"
-	},
-	{
-		"abr": "魔導書：人形術師",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfGolemancy"
-	},
-	{
-		"abr": "魔導書：付与術師",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfEnchanter"
-	},
-	{
-		"abr": "魔導書：光魔術",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfTheSun"
-	},
-	{
-		"abr": "魔導書：召喚",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfSummoner"
-	},
-	{
-		"abr": "魔導書：司祭",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfPriest"
-	},
-	{
-		"abr": "魔導書：影",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfShadow"
-	},
-	{
-		"abr": "魔導書：悪魔学",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfDemons"
-	},
-	{
-		"abr": "魔導書：操血術",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfHemomancy"
-	},
-	{
-		"abr": "魔導書：時空魔術師",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfChronomancer"
-	},
-	{
-		"abr": "魔導書：死霊術",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfNecromancer"
-	},
-	{
-		"abr": "魔導書：氷",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfHeartOfFrost"
-	},
-	{
-		"abr": "魔導書：混沌魔術",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfChaos"
-	},
-	{
-		"abr": "魔導書：炎",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfInnerFire"
-	},
-	{
-		"abr": "魔導書：祈祷師",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfShamanism"
-	},
-	{
-		"abr": "魔導書：秘術",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfArcanist"
-	},
-	{
-		"abr": "魔導書：詩人",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfBard"
-	},
-	{
-		"abr": "魔導書：雷",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfStormBorn"
-	},
-	{
-		"abr": "魔導書：風水",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfEarth"
-	},
-	{
-		"abr": "魔導書：魔工技師",
-		"price": 5500,
-		"category": "書物",
-		"defname": "BookOfMagitech"
-	},
-	{
-		"abr": "魔工技師の呪文：オーバードライブ",
-		"price": 800,
-		"category": "巻物",
-		"defname": "SpellOf_Overdrive"
-	},
-	{
-		"abr": "魔工技師の呪文：キネティックシールド",
-		"price": 833,
-		"category": "巻物",
-		"defname": "SpellOf_TechnoShield"
-	},
-	{
-		"abr": "魔工技師の呪文：サボタージュ",
-		"price": 667,
-		"category": "巻物",
-		"defname": "SpellOf_Sabotage"
-	},
-	{
-		"abr": "魔工技師の呪文：ナノマシン調整",
-		"price": 1417,
-		"category": "巻物",
-		"defname": "SpellOf_MechaniteReprogramming"
-	},
-	{
-		"abr": "魔工技師の呪文：軌道攻撃",
-		"price": 2833,
-		"category": "巻物",
-		"defname": "SpellOf_OrbitalStrike"
-	},
-	{
-		"abr": "魔法の呪文：emp",
-		"price": 967,
-		"category": "巻物",
-		"defname": "SpellOf_EMP"
-	},
-	{
-		"abr": "魔法の呪文：イグナイト",
-		"price": 950,
-		"category": "巻物",
-		"defname": "SpellOf_Ignite"
-	},
-	{
-		"abr": "魔法の呪文：サンライト",
-		"price": 1117,
-		"category": "巻物",
-		"defname": "SpellOf_Sunlight"
-	},
-	{
-		"abr": "魔法の呪文：スナップフリーズ",
-		"price": 950,
-		"category": "巻物",
-		"defname": "SpellOf_SnapFreeze"
-	},
-	{
-		"abr": "魔法の呪文：スモーククラウド",
-		"price": 700,
-		"category": "巻物",
-		"defname": "SpellOf_SmokeCloud"
-	},
-	{
-		"abr": "魔法の呪文：テレポート",
-		"price": 2200,
-		"category": "巻物",
-		"defname": "SpellOf_Teleport"
-	},
-	{
-		"abr": "魔法の呪文：パワーノード",
-		"price": 1017,
-		"category": "巻物",
-		"defname": "SpellOf_PowerNode"
-	},
-	{
-		"abr": "魔法の呪文：ヒール",
-		"price": 767,
-		"category": "巻物",
-		"defname": "SpellOf_Heal"
-	},
-	{
-		"abr": "魔法の呪文：ブラー",
-		"price": 967,
-		"category": "巻物",
-		"defname": "SpellOf_Blur"
-	},
-	{
-		"abr": "魔法の呪文：ブリンク",
-		"price": 833,
-		"category": "巻物",
-		"defname": "SpellOf_Blink"
-	},
-	{
-		"abr": "魔法の呪文：マナシールド",
-		"price": 1600,
-		"category": "巻物",
-		"defname": "SpellOf_ManaShield"
-	},
-	{
-		"abr": "魔法の呪文：マナ吸収",
-		"price": 1267,
-		"category": "巻物",
-		"defname": "SpellOf_SiphonMana"
-	},
-	{
-		"abr": "魔法の呪文：マナ転送",
-		"price": 1267,
-		"category": "巻物",
-		"defname": "SpellOf_TransferMana"
-	},
-	{
-		"abr": "魔法の呪文：ミニオン召喚",
-		"price": 1750,
-		"category": "巻物",
-		"defname": "SpellOf_SummonMinion"
-	},
-	{
-		"abr": "魔法の呪文：メイジライト",
-		"price": 633,
-		"category": "巻物",
-		"defname": "SpellOf_MageLight"
-	},
-	{
-		"abr": "魔法の呪文：レイン",
-		"price": 433,
-		"category": "巻物",
-		"defname": "SpellOf_Rain"
-	},
-	{
-		"abr": "魔法の呪文：不可視",
-		"price": 2000,
-		"category": "巻物",
-		"defname": "SpellOf_Invisibility"
-	},
-	{
-		"abr": "魔法の呪文：修繕",
-		"price": 1792,
-		"category": "巻物",
-		"defname": "SpellOf_SpellMending"
-	},
-	{
-		"abr": "魔法の呪文：放熱",
-		"price": 633,
-		"category": "巻物",
-		"defname": "SpellOf_Cooler"
-	},
-	{
-		"abr": "魔法の呪文：次元収納",
-		"price": 2333,
-		"category": "巻物",
-		"defname": "SpellOf_MagicWardrobe"
-	},
-	{
-		"abr": "魔法の呪文：消火",
-		"price": 567,
-		"category": "巻物",
-		"defname": "SpellOf_Extinguish"
-	},
-	{
-		"abr": "魔法の呪文：熱源作成",
-		"price": 633,
-		"category": "巻物",
-		"defname": "SpellOf_Heater"
-	},
-	{
-		"abr": "魔法の呪文：雷トラップ",
-		"price": 2000,
-		"category": "巻物",
-		"defname": "SpellOf_LightningTrap"
-	},
-	{
-		"abr": "魔法の呪文：風の妖精",
-		"price": 967,
-		"category": "巻物",
-		"defname": "SpellOf_DirtDevil"
-	},
-	{
-		"abr": "魔法の呪文：魔力弾",
-		"price": 950,
-		"category": "巻物",
-		"defname": "SpellOf_ArcaneBolt"
-	},
-	{
-		"abr": "魔法の見識の宝石",
-		"price": 5000,
-		"category": "無し",
-		"defname": "GemstoneOfInsight_Magic"
-	},
-	{
-		"abr": "魔術のエッセンス",
-		"price": 833,
-		"category": "無し",
-		"defname": "TM_MagicArtifact_MagicEssence"
-	},
-	{
-		"abr": "魔術師のローブ",
-		"price": 3767,
-		"category": "ロイヤリティ",
-		"defname": "DarkRobe"
-	},
-	{
-		"abr": "魔除けの外套",
-		"price": 4242,
-		"category": "上着",
-		"defname": "TM_DreamcatcherBuckskin"
-	},
-	{
-		"abr": "魔除けの宝冠",
-		"price": 3008,
-		"category": "帽子",
-		"defname": "TM_DreamcatcherCoronet"
-	},
-	{
-		"abr": "魚(生)",
-		"price": 100,
-		"category": "生の魚",
-		"defname": "RF_Fish"
-	},
-	{
-		"abr": "魚のムニエル",
-		"price": 73,
-		"category": "調理済",
-		"defname": "MealFishMeuniere"
-	},
-	{
-		"abr": "魚の切り身",
-		"price": 2,
-		"category": "魚介",
-		"defname": "RawFishMeat"
-	},
-	{
-		"abr": "鮮血の指輪",
-		"price": 3167,
-		"category": "アーティファクト",
-		"defname": "TM_Artifact_RingOfBlood"
-	},
-	{
-		"abr": "鮮血魔術師の呪文：ブラッドムーン",
-		"price": 3750,
-		"category": "巻物",
-		"defname": "SpellOf_BloodMoon"
-	},
-	{
-		"abr": "鯖虎ねこ",
-		"price": 667,
-		"category": "家畜",
-		"defname": "ExC_NEKO_Sabatora"
-	},
-	{
-		"abr": "鯖虎ねこの毛",
-		"price": 3,
-		"category": "髪の毛",
-		"defname": "ExC_Sabatora_Wool"
-	},
-	{
-		"abr": "黒ねこ",
-		"price": 667,
-		"category": "家畜",
-		"defname": "ExC_NEKO_Kuro"
-	},
-	{
-		"abr": "黒ねこの毛",
-		"price": 3,
-		"category": "髪の毛",
-		"defname": "ExC_Kuro_Wool"
-	},
-	{
-		"abr": "黒犬之力",
-		"price": 600,
-		"category": "獣耳少女の魂力",
-		"defname": "kuroSoulPower"
-	},
-	{
-		"abr": "鼻",
-		"price": 167,
-		"category": "生体",
-		"defname": "Nose"
-	},
-	{
-		"abr": "土",
-		"price": -10,
-		"category": "土壌",
-		"defname": "SR_Soil"
-	},
-	{
-		"abr": "氷",
-		"price": -10,
-		"category": "土壌",
-		"defname": "SR_Ice"
-	},
-	{
-		"abr": "砂",
-		"price": -10,
-		"category": "土壌",
-		"defname": "SR_Sand"
-	},
-	{
-		"abr": "砂利",
-		"price": -10,
-		"category": "土壌",
-		"defname": "SR_Gravel"
-	},
-	{
-		"abr": "肥えた土",
-		"price": -10,
-		"category": "土壌",
-		"defname": "SR_RichSoil"
+		"abr": "パンティ",
+		"price": 42,
+		"category": "Underwear",
+		"defname": "UnderWhere_Panties"
 	}
 	],
-	"total": 3001
+	"total": 2699
 }

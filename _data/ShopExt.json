@@ -2032,7 +2032,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは傷つきやすい肌と骨の持ち主です.Timmyは,同じ打撃を受けても他人より大きなダメージを受けます.\n(Biotech)",
+      "description": "Timmyは傷つきやすい肌と骨の持ち主です.Timmyは,同じ打撃を受けても他人より大きなダメージを受けます.",
       "stats": [
         "x115% 受けるダメージ倍率"
       ],
@@ -2062,7 +2062,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyはコロニーの人数が少ないほど気分が良くなります.一人なら最高です.\n(Biotech)",
+      "description": "Timmyはコロニーの人数が少ないほど気分が良くなります.一人なら最高です.",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -2088,7 +2088,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは本当に異種族を嫌っていて,全く信用しません.動物より下等な存在と見なしています.\n(Humanoid Alien Races)",
+      "description": "Timmyは本当に異種族を嫌っていて,全く信用しません.動物より下等な存在と見なしています.",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -2114,7 +2114,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmyは異種族に性的な魅力を感じます.興味津々です.\n(Humanoid Alien Races)",
+      "description": "Timmyは異種族に性的な魅力を感じます.興味津々です.",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -2140,7 +2140,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは宿り木に宿る何者かと寄生の契約を結びました。\n彼の中で大きな変化が進行しています。\n(妖怪村)",
+      "description": "Timmyは宿り木に宿る何者かと寄生の契約を結びました。\n彼の中で大きな変化が進行しています。",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -2166,7 +2166,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "彼はかつては\"PAWN_titleのTimmy\"として知られていましたが、今そこにあるのは彼の形をした何者かの宿り木です。すでに人としての感情は失われていますが、幸いなことにかつての仲間を守るべき者として識別する程度の知性は残っています。\n今となっては、彼が彼であったことを証明できるものは、今尚薄れ行くその記憶だけです。\n(妖怪村)",
+      "description": "彼はかつては\"PAWN_titleのTimmy\"として知られていましたが、今そこにあるのは彼の形をした何者かの宿り木です。すでに人としての感情は失われていますが、幸いなことにかつての仲間を守るべき者として識別する程度の知性は残っています。\n今となっては、彼が彼であったことを証明できるものは、今尚薄れ行くその記憶だけです。",
       "stats": [
         "陰鬱瞑想フォーカスタイプが許可されています。",
         "+100% 免疫を得る速度",
@@ -2218,7 +2218,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "妖怪と共に育ったTimmyは足が速く動物とすぐに仲良くなれます。\n(妖怪村)",
+      "description": "妖怪と共に育ったTimmyは足が速く動物とすぐに仲良くなれます。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+0.20 移動速度",
@@ -2264,7 +2264,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyの一族は過去のどこかでオニと交わりました。その血は薄まっていますが優れた身体能力を有しています。\n(妖怪村)",
+      "description": "Timmyの一族は過去のどこかでオニと交わりました。その血は薄まっていますが優れた身体能力を有しています。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+0.2 命中率(白兵戦)",
@@ -2314,7 +2314,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "生粋の妖怪オニである証。高い戦闘能力を有します。\n(妖怪村)",
+      "description": "生粋の妖怪オニである証。高い戦闘能力を有します。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+0.6 命中率(白兵戦)",
@@ -2366,7 +2366,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "先祖がえりを果たした九尾の狐の半妖の証。強い妖力を宿しています。\n(妖怪村)",
+      "description": "先祖がえりを果たした九尾の狐の半妖の証。強い妖力を宿しています。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+3.0 美しさ",
@@ -2400,7 +2400,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -3,
-      "description": "Timmyは妖怪武術の最初の試練を突破し一尾の称号を持っています\n(妖怪村)",
+      "description": "Timmyは妖怪武術の最初の試練を突破し一尾の称号を持っています",
       "stats": [
         "熱狂的な射撃意欲インスピレーションが無効になっています。",
         "自然瞑想フォーカスタイプが許可されています。",
@@ -2466,7 +2466,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2,
-      "description": "妖怪武術を長く学び続けているTimmyは二尾の称号を得ています。\n(妖怪村)",
+      "description": "妖怪武術を長く学び続けているTimmyは二尾の称号を得ています。",
       "stats": [
         "熱狂的な射撃意欲インスピレーションが無効になっています。",
         "自然瞑想フォーカスタイプが許可されています。",
@@ -2532,7 +2532,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmyは妖怪武術の研鑽を積み三尾と呼ばれる域に達しています。\n(妖怪村)",
+      "description": "Timmyは妖怪武術の研鑽を積み三尾と呼ばれる域に達しています。",
       "stats": [
         "熱狂的な射撃意欲インスピレーションが無効になっています。",
         "自然瞑想フォーカスタイプが許可されています。",
@@ -2598,7 +2598,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyの妖怪武術の技は四尾の域に到達しました。師範代に相当します。\n(妖怪村)",
+      "description": "Timmyの妖怪武術の技は四尾の域に到達しました。師範代に相当します。",
       "stats": [
         "熱狂的な射撃意欲インスピレーションが無効になっています。",
         "自然瞑想フォーカスタイプが許可されています。",
@@ -2664,7 +2664,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "五尾の号を冠するTimmyの一撃は分厚い鎧にも有効打を与えます。これは五尾以上の達人達に共通する奥義です。\n(妖怪村)",
+      "description": "五尾の号を冠するTimmyの一撃は分厚い鎧にも有効打を与えます。これは五尾以上の達人達に共通する奥義です。",
       "stats": [
         "熱狂的な射撃意欲インスピレーションが無効になっています。",
         "自然瞑想フォーカスタイプが許可されています。",
@@ -2732,7 +2732,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "六尾の剣術はもはや常人の理解できる範囲を越えつつあります。妖怪武術師範でもあり非常に名誉な事です。\n(妖怪村)",
+      "description": "六尾の剣術はもはや常人の理解できる範囲を越えつつあります。妖怪武術師範でもあり非常に名誉な事です。",
       "stats": [
         "熱狂的な射撃意欲インスピレーションが無効になっています。",
         "自然瞑想フォーカスタイプが許可されています。",
@@ -2802,7 +2802,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 3,
-      "description": "Timmyが到達した七尾の号は半妖、人、オニを問わず到達できる者は極一握りであり、非常に高い戦闘能力を有しています。\n(妖怪村)",
+      "description": "Timmyが到達した七尾の号は半妖、人、オニを問わず到達できる者は極一握りであり、非常に高い戦闘能力を有しています。",
       "stats": [
         "熱狂的な射撃意欲インスピレーションが無効になっています。",
         "自然瞑想フォーカスタイプが許可されています。",
@@ -2872,7 +2872,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 4,
-      "description": "人智を超越した技術を身に着けた極一人握りの妖怪武闘家が九尾に近きものとして八尾を名乗ることを許されます。気を操り治癒力を向上させる力さえ備えています。\n(妖怪村)",
+      "description": "人智を超越した技術を身に着けた極一人握りの妖怪武闘家が九尾に近きものとして八尾を名乗ることを許されます。気を操り治癒力を向上させる力さえ備えています。",
       "stats": [
         "熱狂的な射撃意欲インスピレーションが無効になっています。",
         "自然瞑想フォーカスタイプが許可されています。",
@@ -2944,7 +2944,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 5,
-      "description": "Timmyが許された「つづらお」の号は天才が血の滲むような努力を続けてなお到達出来ない高みであり最高位と考えられいます。\n\t\t\t\nこの域に到達できる者は一時代に一人いるかいないかであり空位の事も珍しくありません。\n(妖怪村)",
+      "description": "Timmyが許された「つづらお」の号は天才が血の滲むような努力を続けてなお到達出来ない高みであり最高位と考えられいます。\n\t\t\t\nこの域に到達できる者は一時代に一人いるかいないかであり空位の事も珍しくありません。",
       "stats": [
         "熱狂的な射撃意欲インスピレーションが無効になっています。",
         "自然瞑想フォーカスタイプが許可されています。",
@@ -3018,7 +3018,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 6,
-      "description": "生まれ持った天賦の才を極限まで磨き上げた者にのみ「はくび」を名乗ることが許されます。\n\t\t\n妖怪武術の極みであり神仙に至る道の一つでもあります。この域にまで到達する者は数百年に一人現れるかどうかです。\n(妖怪村)",
+      "description": "生まれ持った天賦の才を極限まで磨き上げた者にのみ「はくび」を名乗ることが許されます。\n\t\t\n妖怪武術の極みであり神仙に至る道の一つでもあります。この域にまで到達する者は数百年に一人現れるかどうかです。",
       "stats": [
         "熱狂的な射撃意欲インスピレーションが無効になっています。",
         "自然瞑想フォーカスタイプが許可されています。",
@@ -3108,7 +3108,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -5,
-      "description": "河童の血が流れているTimmyは温度への幅広い適性を持っています。\n(妖怪村)",
+      "description": "河童の血が流れているTimmyは温度への幅広い適性を持っています。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+20.0C 断熱材 - 保温",
@@ -3142,7 +3142,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -4,
-      "description": "Timmyの体に生える毛には猫娘の癒しの力が宿っています。\n(妖怪村)",
+      "description": "Timmyの体に生える毛には猫娘の癒しの力が宿っています。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+10% 看護・品質",
@@ -3176,7 +3176,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -3,
-      "description": "Timmyの体にある小さな鱗たちは動物の警戒心を和らげる力があります。\n(妖怪村)",
+      "description": "Timmyの体にある小さな鱗たちは動物の警戒心を和らげる力があります。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+12.00% 手懐け成功率",
@@ -3214,7 +3214,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2,
-      "description": "Timmyに宿るはぐれ手長の残滓は農作業への適性を高めます。\n(妖怪村)",
+      "description": "Timmyに宿るはぐれ手長の残滓は農作業への適性を高めます。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+23% 栽培・速度",
@@ -3252,7 +3252,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmyの体に残された雪雫の悲哀は頑強さと寒さへの耐性を与えますが、熱に弱くなってしまいます。\n(妖怪村)",
+      "description": "Timmyの体に残された雪雫の悲哀は頑強さと寒さへの耐性を与えますが、熱に弱くなってしまいます。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+100.0C 断熱材 - 保温",
@@ -3290,7 +3290,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "器用さと力強さを併せ持つTimmyの才能は女郎蜘蛛由来のものです。\n(妖怪村)",
+      "description": "器用さと力強さを併せ持つTimmyの才能は女郎蜘蛛由来のものです。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+6.0 命中率(白兵戦)",
@@ -3330,7 +3330,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyの優れた戦闘技能は天狗の血を引いているからだと噂されています。\n(妖怪村)",
+      "description": "Timmyの優れた戦闘技能は天狗の血を引いているからだと噂されています。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+4.0 命中率(白兵戦)",
@@ -3372,7 +3372,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "竜呪の力を持ったTimmyは様々な身体能力が強化されていますが、同時に心に病を抱えています。\n(妖怪村)",
+      "description": "竜呪の力を持ったTimmyは様々な身体能力が強化されていますが、同時に心に病を抱えています。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+8.0 命中率(白兵戦)",
@@ -3418,7 +3418,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 3,
-      "description": "薄まったとはいえ伝説の妖狐の力の一片を受け継いだTimmyには様々な特別な力があります。\n(妖怪村)",
+      "description": "薄まったとはいえ伝説の妖狐の力の一片を受け継いだTimmyには様々な特別な力があります。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+16.0 命中率(白兵戦)",
@@ -3474,7 +3474,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 4,
-      "description": "Timmyの尋常ならざる数々の能力はサミアの妖力が引き継がれている証と言えるでしょう。\n(妖怪村)",
+      "description": "Timmyの尋常ならざる数々の能力はサミアの妖力が引き継がれている証と言えるでしょう。",
       "stats": [
         "自然瞑想フォーカスタイプが許可されています。",
         "+24.0 命中率(白兵戦)",
@@ -3532,7 +3532,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは美しいものを愛し、本当に彼の環境がどのようにものか心配しています。\n((LC) Consolidated Traits)",
+      "description": "Timmyは美しいものを愛し、本当に彼の環境がどのようにものか心配しています。",
       "stats": [],
       "conflicts": [
         "禁欲",
@@ -3560,7 +3560,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは動物を愛している。 しかし、彼は人間には同じ感情を抱けません。\n((LC) Consolidated Traits)",
+      "description": "Timmyは動物を愛している。 しかし、彼は人間には同じ感情を抱けません。",
       "stats": [
         "+4 動物",
         "-2 社交",
@@ -3606,7 +3606,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは「動物の人」でありません。彼は動物とは相性が悪いです。記録によると、彼らは彼もそれほど好きではありません。\n((LC) Consolidated Traits)",
+      "description": "Timmyは「動物の人」でありません。彼は動物とは相性が悪いです。記録によると、彼らは彼もそれほど好きではありません。",
       "stats": [
         "-4 動物",
         "-10% 家畜・収穫速度",
@@ -3646,7 +3646,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは子供のように建設玩具で遊ぶことを愛し、 \"物事をまとめる\"というスリルを今でも楽しみます。しかし、彼は明確な指示がなければ失敗しがちです。\n((LC) Consolidated Traits)",
+      "description": "Timmyは子供のように建設玩具で遊ぶことを愛し、 \"物事をまとめる\"というスリルを今でも楽しみます。しかし、彼は明確な指示がなければ失敗しがちです。",
       "stats": [
         "-2 芸術",
         "+2 建築",
@@ -3688,7 +3688,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは料理のために肉を用意しています。 彼の屠殺速度は大幅に向上しますが、彼が動物の死体を扱っている場合に限ります。 彼はメカノイドの解体は苦手です。\n((LC) Consolidated Traits)",
+      "description": "Timmyは料理のために肉を用意しています。 彼の屠殺速度は大幅に向上しますが、彼が動物の死体を扱っている場合に限ります。 彼はメカノイドの解体は苦手です。",
       "stats": [
         "+2 料理",
         "+20% 食肉加工・収率",
@@ -3732,7 +3732,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは閉所恐怖症です。 彼は狭いスペースを恐れ、採掘には全く向いていません。\n((LC) Consolidated Traits)",
+      "description": "Timmyは閉所恐怖症です。 彼は狭いスペースを恐れ、採掘には全く向いていません。",
       "stats": [
         "-2 採掘",
         "-20% 掘削・速度",
@@ -3772,7 +3772,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは冷たい気温が大好きです。 彼は冷たいときは他人よりも不満を言いませんが、暑いときは他人よりも不満を言います。\n((LC) Consolidated Traits)",
+      "description": "Timmyは冷たい気温が大好きです。 彼は冷たいときは他人よりも不満を言いませんが、暑いときは他人よりも不満を言います。",
       "stats": [
         "-3.0C 快適と感じる最高気温",
         "-5.0C 快適と感じる最低気温"
@@ -3806,7 +3806,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyの眠りは何人たりとも妨げることが出来ません。彼は軌道爆撃のさなかでも眠ることができます。\n((LC) Consolidated Traits)",
+      "description": "Timmyの眠りは何人たりとも妨げることが出来ません。彼は軌道爆撃のさなかでも眠ることができます。",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -3832,7 +3832,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "頭空っぽのTimmyは深く考えることはしません。彼の頭の中では成すことについて整理が出来ていないのかも知れません。\n((LC) Consolidated Traits)",
+      "description": "頭空っぽのTimmyは深く考えることはしません。彼の頭の中では成すことについて整理が出来ていないのかも知れません。",
       "stats": [
         "-4 知力",
         "-25% 身につけやすさ",
@@ -3874,7 +3874,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは鉄人を自負しているだけあって食品に対する熱い情熱を持っています。 彼の作る料理はかなり美味ですが、より高みを目指しています。\n((LC) Consolidated Traits)",
+      "description": "Timmyは鉄人を自負しているだけあって食品に対する熱い情熱を持っています。 彼の作る料理はかなり美味ですが、より高みを目指しています。",
       "stats": [
         "+4 料理",
         "-0.2 調理・速度",
@@ -3912,7 +3912,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは暖かい気温が大好きです。 彼は暖かいときは他人よりも不満を言いませんが、寒いときは他人よりも不満を言います。\n((LC) Consolidated Traits)",
+      "description": "Timmyは暖かい気温が大好きです。 彼は暖かいときは他人よりも不満を言いませんが、寒いときは他人よりも不満を言います。",
       "stats": [
         "+5.0C 快適と感じる最高気温",
         "+3.0C 快適と感じる最低気温"
@@ -3946,7 +3946,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "彼は様々な物に興味を持ちます、しかし、Timmyは要領が悪く、いかなる技術を要する労働もあまり上手でありません。\n((LC) Consolidated Traits)",
+      "description": "彼は様々な物に興味を持ちます、しかし、Timmyは要領が悪く、いかなる技術を要する労働もあまり上手でありません。",
       "stats": [
         "-2 芸術",
         "-2 建築",
@@ -4042,7 +4042,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは異常に調整されています、大抵の労働を人並み以上にこなします。\n((LC) Consolidated Traits)",
+      "description": "Timmyは異常に調整されています、大抵の労働を人並み以上にこなします。",
       "stats": [
         "+2 芸術",
         "+2 建築",
@@ -4138,7 +4138,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmyは痛みに対する耐性が高い。\n((LC) Consolidated Traits)",
+      "description": "Timmyは痛みに対する耐性が高い。",
       "stats": [
         "+25% 痛みへの限界値",
         "-25% 受けるダメージ倍率"
@@ -4174,7 +4174,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは痛みに対する耐性が非常に高いです。彼は痛みで動けなくなる事はまずありません。\n((LC) Consolidated Traits)",
+      "description": "Timmyは痛みに対する耐性が非常に高いです。彼は痛みで動けなくなる事はまずありません。",
       "stats": [
         "+15% 痛みへの限界値",
         "-15% 受けるダメージ倍率"
@@ -4210,7 +4210,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmyはとても痛みに弱いです。\n((LC) Consolidated Traits)",
+      "description": "Timmyはとても痛みに弱いです。",
       "stats": [
         "-15% 痛みへの限界値",
         "+15% 受けるダメージ倍率"
@@ -4246,7 +4246,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "奇妙な新しいアイデアがTimmyの心に現れます。 新技術の研究は彼には簡単に行えますが、彼はすぐに気が散ります。\n((LC) Consolidated Traits)",
+      "description": "奇妙な新しいアイデアがTimmyの心に現れます。 新技術の研究は彼には簡単に行えますが、彼はすぐに気が散ります。",
       "stats": [
         "+2 知力",
         "+40% 研究・速度",
@@ -4292,7 +4292,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmyは比較的近くに行かなければ、物事をはっきり見るのが難しいです。\n((LC) Consolidated Traits)",
+      "description": "Timmyは比較的近くに行かなければ、物事をはっきり見るのが難しいです。",
       "stats": [
         "-4.0 命中率(射撃)",
         "-4.0 命中率(白兵戦)",
@@ -4332,7 +4332,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは鋭い目を持っており、ターゲットをすばやく見つけることができます。\n((LC) Consolidated Traits)",
+      "description": "Timmyは鋭い目を持っており、ターゲットをすばやく見つけることができます。",
       "stats": [
         "+2 射撃",
         "+1.0 命中率(白兵戦)",
@@ -4372,7 +4372,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは間違いが非常に気になる。\n((LC) Consolidated Traits)",
+      "description": "Timmyは間違いが非常に気になる。",
       "stats": [
         "+2 料理",
         "-20% 基本的な作業速度",
@@ -4416,7 +4416,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmyは小動物が食事を少しずつかじる様に食べます、そして彼は食事を済ますのに余計な時間がかかります。\n((LC) Consolidated Traits)",
+      "description": "Timmyは小動物が食事を少しずつかじる様に食べます、そして彼は食事を済ますのに余計な時間がかかります。",
       "stats": [
         "-25% 食事の早さ"
       ],
@@ -4446,7 +4446,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは食事をスコップでも使っているかの様に他の人よりずっと早く食べます。\n((LC) Consolidated Traits)",
+      "description": "Timmyは食事をスコップでも使っているかの様に他の人よりずっと早く食べます。",
       "stats": [
         "+25% 食事の早さ"
       ],
@@ -4476,7 +4476,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmyは暗がりをこの世の終わりの様に恐れています。少しでも暗い所に長くいるとどんどん不機嫌になります。\n((LC) Consolidated Traits)",
+      "description": "Timmyは暗がりをこの世の終わりの様に恐れています。少しでも暗い所に長くいるとどんどん不機嫌になります。",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -4502,7 +4502,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyはまったく暗闇を恐れません。\n((LC) Consolidated Traits)",
+      "description": "Timmyはまったく暗闇を恐れません。",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -4528,7 +4528,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、どれだけ時間がかかっても、最も効果的な方法を使用します。 彼は何かをするときに失敗する可能性は低いですが、彼は時間をかけて働きます。\n((LC) Consolidated Traits)",
+      "description": "Timmyは、どれだけ時間がかかっても、最も効果的な方法を使用します。 彼は何かをするときに失敗する可能性は低いですが、彼は時間をかけて働きます。",
       "stats": [
         "-20% 基本的な作業速度",
         "-10% 家畜・収穫速度",
@@ -4612,7 +4612,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "志こそ高いものの、残念ながら腕が伴わない医師が中には居ます。 Timmyはその内の一人です。\n((LC) Consolidated Traits)",
+      "description": "志こそ高いものの、残念ながら腕が伴わない医師が中には居ます。 Timmyはその内の一人です。",
       "stats": [
         "-2 医術",
         "-20% 外科手術の成功率",
@@ -4646,7 +4646,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは、医療の才能を持っているようです。彼の患者の治療は上手くいくでしょう。\n((LC) Consolidated Traits)",
+      "description": "Timmyは、医療の才能を持っているようです。彼の患者の治療は上手くいくでしょう。",
       "stats": [
         "+2 医術",
         "+20% 外科手術の成功率",
@@ -4680,7 +4680,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmyは、医療の才能を持っています。 彼の安定した熟練の手腕と感動的なベッドサイドでのやり方のおかげで、彼の患者は恐怖をほとんど感じません。\n((LC) Consolidated Traits)",
+      "description": "Timmyは、医療の才能を持っています。 彼の安定した熟練の手腕と感動的なベッドサイドでのやり方のおかげで、彼の患者は恐怖をほとんど感じません。",
       "stats": [
         "+4 医術",
         "+20% 医療・処置速度",
@@ -4718,7 +4718,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは岩石の扱いに長けています。 彼の採掘速度は増加しますが、彼は他の分野への関心がありません、他の仕事をしている時には彼は遅くなります。 そして、彼は植物に対して働くことを嫌います。\n((LC) Consolidated Traits)",
+      "description": "Timmyは岩石の扱いに長けています。 彼の採掘速度は増加しますが、彼は他の分野への関心がありません、他の仕事をしている時には彼は遅くなります。 そして、彼は植物に対して働くことを嫌います。",
       "stats": [
         "+2 工芸",
         "+4 採掘",
@@ -4768,7 +4768,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは現代のダ・ヴィンチで、創造的な心で新しいアイデアを簡単に把握できます。 しかし、実際の肉体的な仕事をしているとき、彼の作業はとてつもなく遅いです。\n((LC) Consolidated Traits)",
+      "description": "Timmyは現代のダ・ヴィンチで、創造的な心で新しいアイデアを簡単に把握できます。 しかし、実際の肉体的な仕事をしているとき、彼の作業はとてつもなく遅いです。",
       "stats": [
         "+4 芸術",
         "+4 工芸",
@@ -4816,7 +4816,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy はいつもかなり早くスキルを習得してきました。\n((LC) Consolidated Traits)",
+      "description": "Timmy はいつもかなり早くスキルを習得してきました。",
       "stats": [
         "+25% 身につけやすさ"
       ],
@@ -4848,7 +4848,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmyは取引で利益を得る事ができません。彼は必要以上に多く支払います、しかし彼は良い取引をしたと思い込みます。\n((LC) Consolidated Traits)",
+      "description": "Timmyは取引で利益を得る事ができません。彼は必要以上に多く支払います、しかし彼は良い取引をしたと思い込みます。",
       "stats": [
         "-2 社交",
         "-20.00% 商人の勘"
@@ -4886,7 +4886,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは値切るのが好きで、腕も悪くないです。彼はほとんどの人よりも良い価格になる傾向があります。\n((LC) Consolidated Traits)",
+      "description": "Timmyは値切るのが好きで、腕も悪くないです。彼はほとんどの人よりも良い価格になる傾向があります。",
       "stats": [
         "+2 社交",
         "+20.00% 商人の勘"
@@ -4924,7 +4924,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmyは、常に最高の取引ができます。\n((LC) Consolidated Traits)",
+      "description": "Timmyは、常に最高の取引ができます。",
       "stats": [
         "+4 社交",
         "+40.00% 商人の勘"
@@ -4962,7 +4962,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは,銃で狙いをつけるときに,より時間をかけます.彼は,他の者より発砲頻度は低いですが,狙いはより正確です.\n((LC) Consolidated Traits)",
+      "description": "Timmyは,銃で狙いをつけるときに,より時間をかけます.彼は,他の者より発砲頻度は低いですが,狙いはより正確です.",
       "stats": [
         "+25% 照準時間",
         "+3.0 命中率(射撃)"
@@ -5000,7 +5000,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "バン!バン! Timmyは,トリガーを引くのが本当に好きです.彼は,他の者よりも発砲頻度は高いですが,狙いは甘いです.\n((LC) Consolidated Traits)",
+      "description": "バン!バン! Timmyは,トリガーを引くのが本当に好きです.彼は,他の者よりも発砲頻度は高いですが,狙いは甘いです.",
       "stats": [
         "-50% 照準時間",
         "-3.0 命中率(射撃)"
@@ -5038,7 +5038,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmyは銃器の取り扱い方を知っており、迅速かつ正確に射撃することができます。\n((LC) Consolidated Traits)",
+      "description": "Timmyは銃器の取り扱い方を知っており、迅速かつ正確に射撃することができます。",
       "stats": [
         "+2 射撃",
         "-50% 照準時間",
@@ -5078,7 +5078,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "繊細？外交？だから何？Timmyは単語の意味をほとんど理解していません。\n((LC) Consolidated Traits)",
+      "description": "繊細？外交？だから何？Timmyは単語の意味をほとんど理解していません。",
       "stats": [
         "-2 社交",
         "-15.00% 外交力",
@@ -5118,7 +5118,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは外交の輪を磨く方法を知っています。\n((LC) Consolidated Traits)",
+      "description": "Timmyは外交の輪を磨く方法を知っています。",
       "stats": [
         "+2 社交",
         "+15.00% 外交力",
@@ -5158,7 +5158,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmyは常に緊張した状況を解決することができる方法を知っています。彼は何日間も話すことができます、そして、人々はまだ聞き続けます。\n((LC) Consolidated Traits)",
+      "description": "Timmyは常に緊張した状況を解決することができる方法を知っています。彼は何日間も話すことができます、そして、人々はまだ聞き続けます。",
       "stats": [
         "+4 社交",
         "+30.00% 外交力",
@@ -5198,7 +5198,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmyは病気、病原体および有毒降下物に対して脆弱です。\n((LC) Consolidated Traits)",
+      "description": "Timmyは病気、病原体および有毒降下物に対して脆弱です。",
       "stats": [
         "-25% 免疫を得る速度",
         "-50% 毒耐性"
@@ -5230,7 +5230,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは病気、病原体および有毒降下物に対して通常より強いです。\n((LC) Consolidated Traits)",
+      "description": "Timmyは病気、病原体および有毒降下物に対して通常より強いです。",
       "stats": [
         "+25% 免疫を得る速度",
         "+50% 毒耐性"
@@ -5262,7 +5262,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyはひどい庭師です。 彼が成長させる事ができる唯一のものは雑草です。\n((LC) Consolidated Traits)",
+      "description": "Timmyはひどい庭師です。 彼が成長させる事ができる唯一のものは雑草です。",
       "stats": [
         "-2 栽培",
         "-15% 栽培・収率",
@@ -5302,7 +5302,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは庭師として類まれな情熱を持っています。彼は植物と触れ合うたびに気持ちが豊かになります。\n((LC) Consolidated Traits)",
+      "description": "Timmyは庭師として類まれな情熱を持っています。彼は植物と触れ合うたびに気持ちが豊かになります。",
       "stats": [
         "+2 栽培",
         "+15% 栽培・収率",
@@ -5344,7 +5344,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は、異性に恋愛感情や性的魅力を感じている\n(Way Better Romance)",
+      "description": "Timmy は、異性に恋愛感情や性的魅力を感じている",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -5370,7 +5370,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は、性的な関わりには興味がないが、異性に恋愛感情を持ちます\n(Way Better Romance)",
+      "description": "Timmy は、性的な関わりには興味がないが、異性に恋愛感情を持ちます",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -5396,7 +5396,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は性的な交際には興味がないが、 自分と同じ性別（彼の） の人に恋愛感情を持ちます。\n(Way Better Romance)",
+      "description": "Timmy は性的な交際には興味がないが、 自分と同じ性別（彼の） の人に恋愛感情を持ちます。",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -5422,7 +5422,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は性的な交際には興味がないが、 性別に関係なく恋愛感情を持ちます\n(Way Better Romance)",
+      "description": "Timmy は性的な交際には興味がないが、 性別に関係なく恋愛感情を持ちます",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -5448,7 +5448,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は、どんなに関係が悪くなっても絶対に浮気はしない\n(Way Better Romance)",
+      "description": "Timmy は、どんなに関係が悪くなっても絶対に浮気はしない",
       "stats": [],
       "conflicts": [
         "浮気性",
@@ -5476,7 +5476,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は、色んな人に目移りしてしまいパートナーを一人に決められません\n(Way Better Romance)",
+      "description": "Timmy は、色んな人に目移りしてしまいパートナーを一人に決められません",
       "stats": [],
       "conflicts": [
         "一途",
@@ -5504,7 +5504,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyの心が超能力の奔流に呑まれて覚醒した。\n((LYN) Cookie Traits)",
+      "description": "Timmyの精神がサイキック・マイルストロームに目覚める。",
       "stats": [
         "+0.2 ニューラルヒートリミット",
         "+0.20 ニューラルヒート回復レート"
@@ -5560,7 +5560,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Psionic",
@@ -5572,7 +5572,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは多くの死と苦痛を見てきました。しかし彼は真のサイコパスではなく、社交を楽しむことができます。 だけれどもpawn_pronounも他人の苦しみに影響される事はありません。\n((LYN) Cookie Traits)",
+      "description": "Timmyは多くの死と苦痛を見てきました。彼は真のサイコパスではなく社会性を楽しむことができますが、彼は他人の苦しみに影響されることもありません。",
       "stats": [
         "陰鬱瞑想フォーカスタイプが許可されています。"
       ],
@@ -5592,7 +5592,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Jaded",
@@ -5604,7 +5604,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは射撃の名手です。 そしてそれはどんな射撃武器でも。\n((LYN) Cookie Traits)",
+      "description": "Timmyは射撃の名手です。 そしてそれはどんな射撃武器でも。",
       "stats": [
         "+2 射撃",
         "-20% 照準時間",
@@ -5660,7 +5660,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Gunslinger",
@@ -5672,7 +5672,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは近接戦闘に長けています。\n((LYN) Cookie Traits)",
+      "description": "Timmyは近接戦闘に長けています。",
       "stats": [
         "+2 格闘",
         "+0.2 命中率(白兵戦)",
@@ -5728,7 +5728,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Fighter",
@@ -5740,7 +5740,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmyは非常に勇敢で、殺すのはかなり難しいです。\n((LYN) Cookie Traits)",
+      "description": "Timmyは非常に勇敢で、殺すのはかなり難しいです。",
       "stats": [
         "+2 格闘",
         "+20% 痛みへの限界値",
@@ -5796,7 +5796,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Fighter",
@@ -5808,7 +5808,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 3,
-      "description": "Timmyは敵に対して痛烈な攻撃を与えます。\n((LYN) Cookie Traits)",
+      "description": "Timmyは敵に対して痛烈な攻撃を与えます。",
       "stats": [
         "+2 格闘",
         "+0.20 DPS(白兵戦)",
@@ -5864,7 +5864,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Fighter",
@@ -5876,7 +5876,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは建物や家具、機械を作るのが得意です。\n((LYN) Cookie Traits)",
+      "description": "Timmyは建物や家具、機械を作るのが得意です。",
       "stats": [
         "+2 建築",
         "+20% 建造・速度",
@@ -5932,7 +5932,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Mason",
@@ -5944,7 +5944,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは動物を扱うのが本当に得意です。\n((LYN) Cookie Traits)",
+      "description": "Timmyは動物を扱うのが本当に得意です。",
       "stats": [
         "+2 動物",
         "+20% 家畜・収穫収率",
@@ -6000,7 +6000,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Tamer",
@@ -6012,7 +6012,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmyは大物狩りを得意としており、様々な仕事のために動物を訓練することもできます。\n((LYN) Cookie Traits)",
+      "description": "Timmyは大物狩りを得意としており、様々な仕事のために動物を訓練することもできます。",
       "stats": [
         "+2 動物",
         "+20% 狩り",
@@ -6066,7 +6066,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Tamer",
@@ -6078,7 +6078,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは熟練した職人で、素早さと熟練度の両方で仕事をすることができます。\n((LYN) Cookie Traits)",
+      "description": "Timmyは熟練した職人で、素早さと熟練度の両方で仕事をすることができます。",
       "stats": [
         "+2 工芸",
         "+20% 作業・速度",
@@ -6132,7 +6132,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Artisan",
@@ -6144,7 +6144,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmyは芸術と美への深い理解を持っています。\n((LYN) Cookie Traits)",
+      "description": "Timmyは芸術と美への深い理解を持っています。",
       "stats": [
         "+3 芸術",
         "+20% 作業・速度"
@@ -6196,7 +6196,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Artisan",
@@ -6208,7 +6208,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは傷や病気のケアが得意です。\n((LYN) Cookie Traits)",
+      "description": "Timmyは傷や病気のケアが得意です。",
       "stats": [
         "+2 医術",
         "+20% 看護・品質",
@@ -6262,7 +6262,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Doctor",
@@ -6274,7 +6274,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmyは身体のことを深く理解しており、より高い精度とスピードで手術を行うことができます。\n((LYN) Cookie Traits)",
+      "description": "Timmyは身体のことを深く理解しており、より高い精度とスピードで手術を行うことができます。",
       "stats": [
         "+2 医術",
         "+20% 医療・処置速度",
@@ -6328,7 +6328,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Doctor",
@@ -6340,7 +6340,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは料理が上手で、本当に美味しい料理を作ることができます。\n((LYN) Cookie Traits)",
+      "description": "Timmyは料理が上手で、本当に美味しい料理を作ることができます。",
       "stats": [
         "+2 料理",
         "+0.2 調理・速度",
@@ -6398,7 +6398,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Chef",
@@ -6410,7 +6410,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは熟練した鉱夫で、鉱物を扱う方法を知っています。\n((LYN) Cookie Traits)",
+      "description": "Timmyは熟練した鉱夫で、鉱物を扱う方法を知っています。",
       "stats": [
         "+2 採掘",
         "+20% 掘削・速度",
@@ -6468,7 +6468,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Miner",
@@ -6480,7 +6480,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは非常にカリスマ性があり、他人を彼らの意志に沿わせることができます。\n((LYN) Cookie Traits)",
+      "description": "Timmyは非常にカリスマ性があり、他人を彼らの意志に沿わせることができます。",
       "stats": [
         "+2 社交",
         "+20.00% 政治力",
@@ -6538,7 +6538,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Diplomat",
@@ -6550,7 +6550,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyはかなり頭が良く、医学化学の仕事をするだけでなく、より速く研究することができます。\n((LYN) Cookie Traits)",
+      "description": "Timmyはかなり頭が良く、医学化学の仕事をするだけでなく、より速く研究することができます。",
       "stats": [
         "+2 知力",
         "+20% 研究・速度",
@@ -6604,7 +6604,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Scientist",
@@ -6616,7 +6616,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmyは非常に知的で、本当に速く研究することができます。\n((LYN) Cookie Traits)",
+      "description": "Timmyは非常に知的で、本当に速く研究することができます。",
       "stats": [
         "+2 知力",
         "x150% 研究・速度"
@@ -6668,7 +6668,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Scientist",
@@ -6680,7 +6680,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、植物を使った作業や木を伐採したり、作物を収穫したりするのが得意です。\n((LYN) Cookie Traits)",
+      "description": "Timmyは、植物を使った作業や木を伐採したり、作物を収穫したりするのが得意です。",
       "stats": [
         "+2 栽培",
         "+20% 栽培・速度",
@@ -6736,7 +6736,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Herbalist",
@@ -6748,7 +6748,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは背筋が強く、重い物を背負っていても素早く動ける。\n((LYN) Cookie Traits)",
+      "description": "Timmyは背筋が強く、重い物を背負っていても素早く動ける。",
       "stats": [
         "+0.20 移動速度",
         "+50 輸送能力"
@@ -6802,7 +6802,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
+        "mod": "[LYN] Cookie Traits (No Cheats)",
         "karmaTypeForAdding": null
       },
       "defName": "LC_Hauler",
@@ -6814,7 +6814,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmyは、病気になることを過度に恐れる強迫観念に取りつかれて、不必要なレベルで頻繁に体などを洗います。\n(Dubs Bad Hygiene)",
+      "description": "Timmyは、病気になることを過度に恐れる強迫観念に取りつかれて、不必要なレベルで頻繁に体などを洗います。",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -6840,7 +6840,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは、非常にきれい好きで、清潔にする頻度が普通よりも高くなります。\n(Dubs Bad Hygiene)",
+      "description": "Timmyは、非常にきれい好きで、清潔にする頻度が普通よりも高くなります。",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -6866,7 +6866,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmyは、不衛生でも気にしないので、清潔にする頻度が普通よりも低くなります。\n(Dubs Bad Hygiene)",
+      "description": "Timmyは、不衛生でも気にしないので、清潔にする頻度が普通よりも低くなります。",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -6892,7 +6892,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2,
-      "description": "Timmyは、清潔さに対する要求基準が非常に低く、絶対に必要な場合だけ体などを洗います。\n(Dubs Bad Hygiene)",
+      "description": "Timmyは、清潔さに対する要求基準が非常に低く、絶対に必要な場合だけ体などを洗います。",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -6918,7 +6918,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は身体と精神ともに,洞察力に優れ,経験豊富な人生の大先輩です.彼らを古臭いと感じる人もいれば,彼らの導きを尊重する人もいるでしょう.\n(Vanilla Ideology Expanded - Memes and Structures)",
+      "description": "Timmy は身体と精神ともに,洞察力に優れ,経験豊富な人生の大先輩です.彼らを古臭いと感じる人もいれば,彼らの導きを尊重する人もいるでしょう.",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -6944,7 +6944,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、堅固な信念を持っています。例えどのような状況でも彼を支える信念は変わりません。\n(NewRatkinPlus)",
+      "description": "Timmyは、堅固な信念を持っています。例えどのような状況でも彼を支える信念は変わりません。",
       "stats": [
         "+10% 痛みへの限界値",
         "-15% 精神的弱さ"
@@ -6984,37 +6984,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "放火魔ほどではありませんが,火が大好きです.\n(Miho, the celestial fox)",
-      "stats": [
-        "炎瞑想フォーカスタイプが許可されています。"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "炎瞑想フォーカスタイプが許可されています。"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Miho, the celestial fox",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Miho_EnergyMeditation_Trait",
-      "name": "火魅狐"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは、遠くの目標に集中することが困難であることを発見し、近いことを好む。\n(RimTraits - General Traits)",
+      "description": "Timmyは、遠くの目標に集中することが困難であることを発見し、近いことを好む。",
       "stats": [
         "-2 射撃",
         "+2 格闘",
@@ -7056,7 +7026,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、100メートル近くからターゲットを見つけることができましたが、それでもどういうわけか壁に足を踏み入れました。\n(RimTraits - General Traits)",
+      "description": "Timmyは、100メートル近くからターゲットを見つけることができましたが、それでもどういうわけか壁に足を踏み入れました。",
       "stats": [
         "+2 射撃",
         "-2 格闘",
@@ -7098,7 +7068,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyの動きはスムーズで優雅です。\n(RimTraits - General Traits)",
+      "description": "Timmyの動きはスムーズで優雅です。",
       "stats": [
         "+2.0 回避率(白兵戦)",
         "+0.10 移動速度"
@@ -7132,7 +7102,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyはあまりにも硬いので、彼はほとんど魂がないようなものです。\n(RimTraits - General Traits)",
+      "description": "Timmyはあまりにも硬いので、彼はほとんど魂がないようなものです。",
       "stats": [
         "-2.0 回避率(白兵戦)",
         "-0.10 移動速度"
@@ -7166,7 +7136,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは彼の個人の衛生管理をしています。\n(RimTraits - General Traits)",
+      "description": "Timmyは彼の個人の衛生管理をしています。",
       "stats": [
         "-10.00% 食中毒・発生率"
       ],
@@ -7198,7 +7168,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは彼の衛生状態を気にせず、悪い食べ物で病気になることがあります。\n(RimTraits - General Traits)",
+      "description": "Timmyは彼の衛生状態を気にせず、悪い食べ物で病気になることがあります。",
       "stats": [
         "+10.00% 食中毒・発生率"
       ],
@@ -7230,7 +7200,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、物事で彼の方法をとることがよくあります。\n(RimTraits - General Traits)",
+      "description": "Timmyは、物事で彼の方法をとることがよくあります。",
       "stats": [
         "+25.00% 外交力",
         "+25.00% 逮捕成功率"
@@ -7264,7 +7234,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは彼の人生で一度もディベートに勝ったことがない。\n(RimTraits - General Traits)",
+      "description": "Timmyは彼の人生で一度もディベートに勝ったことがない。",
       "stats": [
         "-25.00% 外交力",
         "-25.00% 逮捕成功率"
@@ -7298,7 +7268,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは彼が子供の頃から多くの戦いを繰り広げており、その結果、怪我や痛みに対する耐性を身につけていました。\n(RimTraits - General Traits)",
+      "description": "Timmyは彼が子供の頃から多くの戦いを繰り広げており、その結果、怪我や痛みに対する耐性を身につけていました。",
       "stats": [
         "-10% 受けるダメージ倍率",
         "+5% 痛みへの限界値"
@@ -7334,7 +7304,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは今まで甘やかされた生活を送っており、リムで提示される残酷な挑戦に慣れていません。\n(RimTraits - General Traits)",
+      "description": "Timmyは今まで甘やかされた生活を送っており、リムで提示される残酷な挑戦に慣れていません。",
       "stats": [
         "+10% 受けるダメージ倍率",
         "-5% 痛みへの限界値"
@@ -7372,7 +7342,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは常に熱心に彼の仕事に取り組んでいます。\n(RimTraits - General Traits)",
+      "description": "Timmyは常に熱心に彼の仕事に取り組んでいます。",
       "stats": [
         "+20% 基本的な作業速度",
         "+0.15 移動速度"
@@ -7406,7 +7376,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは遅いです。 すっごく...すごい...\n(RimTraits - General Traits)",
+      "description": "Timmyは遅いです。 すっごく...すごい...",
       "stats": [
         "-20% 基本的な作業速度",
         "-0.15 移動速度"
@@ -7440,7 +7410,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、いつも赤ちゃんのように寝ています。\n(RimTraits - General Traits)",
+      "description": "Timmyは、いつも赤ちゃんのように寝ています。",
       "stats": [
         "+25% 休息しやすさ"
       ],
@@ -7472,7 +7442,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、眠りにつくのに苦労することがよくあります。\n(RimTraits - General Traits)",
+      "description": "Timmyは、眠りにつくのに苦労することがよくあります。",
       "stats": [
         "-25% 休息しやすさ"
       ],
@@ -7504,7 +7474,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは仕事になるとかなり生産性が高いです。\n(RimTraits - General Traits)",
+      "description": "Timmyは仕事になるとかなり生産性が高いです。",
       "stats": [
         "+20% 基本的な作業速度",
         "+20% 身につけやすさ"
@@ -7538,7 +7508,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、コロニーのボトルネックのようなものです。\n(RimTraits - General Traits)",
+      "description": "Timmyは、コロニーのボトルネックのようなものです。",
       "stats": [
         "-20% 基本的な作業速度",
         "-20% 身につけやすさ"
@@ -7572,7 +7542,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは勇敢で、彼は他の人がスクランブルしてる走るところが彼の立つ場所だろう。\n(RimTraits - General Traits)",
+      "description": "Timmyは勇敢で、彼は他の人がスクランブルしてる走るところが彼の立つ場所だろう。",
       "stats": [
         "-5% 精神的弱さ",
         "+5% 痛みへの限界値"
@@ -7606,7 +7576,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "喧嘩になったらTimmyが先に逃げます。\n(RimTraits - General Traits)",
+      "description": "喧嘩になったらTimmyが先に逃げます。",
       "stats": [
         "+5% 精神的弱さ",
         "-5% 痛みへの限界値"
@@ -7640,7 +7610,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは良い戦いが好きで、彼はそうすることができるからといって、時々喧嘩を売ります。\n(RimTraits - General Traits)",
+      "description": "Timmyは良い戦いが好きで、彼はそうすることができるからといって、時々喧嘩を売ります。",
       "stats": [
         "+5% 精神的弱さ"
       ],
@@ -7672,7 +7642,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは普段は落ち着いていてまとまっています。\n(RimTraits - General Traits)",
+      "description": "Timmyは普段は落ち着いていてまとまっています。",
       "stats": [
         "-5% 精神的弱さ"
       ],
@@ -7704,7 +7674,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは仲間よりも暑い環境にいる方が快適です。\n(RimTraits - General Traits)",
+      "description": "Timmyは仲間よりも暑い環境にいる方が快適です。",
       "stats": [
         "+3.0C 快適と感じる最高気温"
       ],
@@ -7736,7 +7706,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは暑いのが好きではありません。\n(RimTraits - General Traits)",
+      "description": "Timmyは暑いのが好きではありません。",
       "stats": [
         "-3.0C 快適と感じる最高気温"
       ],
@@ -7768,7 +7738,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは仲間よりも寒い環境にいる方が快適です。\n(RimTraits - General Traits)",
+      "description": "Timmyは仲間よりも寒い環境にいる方が快適です。",
       "stats": [
         "-3.0C 快適と感じる最低気温"
       ],
@@ -7800,7 +7770,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは寒いのが好きではありません。\n(RimTraits - General Traits)",
+      "description": "Timmyは寒いのが好きではありません。",
       "stats": [
         "+3.0C 快適と感じる最低気温"
       ],
@@ -7832,7 +7802,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは体格が良いので、彼の周りの人はそれをむしろ魅力的に感じます。\n(RimTraits - General Traits)",
+      "description": "Timmyは体格が良いので、彼の周りの人はそれをむしろ魅力的に感じます。",
       "stats": [
         "+5 輸送能力",
         "+1.0 美しさ"
@@ -7866,7 +7836,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは少し脆そうで、魅力的ではない。\n(RimTraits - General Traits)",
+      "description": "Timmyは少し脆そうで、魅力的ではない。",
       "stats": [
         "-5 輸送能力",
         "-1.0 美しさ"
@@ -7900,7 +7870,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyはあまり食べたり飲んだりしません。\n(RimTraits - General Traits)",
+      "description": "Timmyはあまり食べたり飲んだりしません。",
       "stats": [],
       "conflicts": [
         "ravenous",
@@ -7928,7 +7898,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyには、お腹に底なしの穴があります。\n(RimTraits - General Traits)",
+      "description": "Timmyには、お腹に底なしの穴があります。",
       "stats": [],
       "conflicts": [
         "abstinent",
@@ -7956,7 +7926,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは生まれながらにして才能があり、彼は誰よりも早く頭角を現します。\n(RimTraits - General Traits)",
+      "description": "Timmyは生まれながらにして才能があり、彼は誰よりも早く頭角を現します。",
       "stats": [
         "+4 射撃",
         "+4 格闘",
@@ -8010,7 +7980,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、誰もが憎めない人です。\n(RimTraits - General Traits)",
+      "description": "Timmyは、誰もが憎めない人です。",
       "stats": [
         "-4 射撃",
         "-4 格闘",
@@ -8064,7 +8034,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は食事の準備に細心の注意を払い、【彼】は早く食事を作るのにも手を抜かない。\n(RimTraits - General Traits)",
+      "description": "Timmy】は食事の準備に細心の注意を払い、【彼】は早く食事を作るのにも手を抜かない。",
       "stats": [
         "-0.8 調理・速度",
         "-10.00% 食中毒・発生率"
@@ -8098,7 +8068,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は【彼】が記録的な速さで食事を提供して【彼の】に食べさせれるのなら、レシピなんてどうでもいいと思ってます。\n(RimTraits - General Traits)",
+      "description": "Timmy】は【彼】が記録的な速さで食事を提供して【彼の】に食べさせれるのなら、レシピなんてどうでもいいと思ってます。",
       "stats": [
         "+0.8 調理・速度",
         "+10.00% 食中毒・発生率"
@@ -8132,7 +8102,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは健康的な生活をしていて、元気に明るく目覚めています。\n(RimTraits - General Traits)",
+      "description": "Timmyは健康的な生活をしていて、元気に明るく目覚めています。",
       "stats": [
         "+10% 休息しやすさ",
         "+10% 免疫を得る速度",
@@ -8174,7 +8144,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】はよく病気になりベッドから起き上がるのも普通の人より努力が必要なようです。\n(RimTraits - General Traits)",
+      "description": "Timmy】はよく病気になりベッドから起き上がるのも普通の人より努力が必要なようです。",
       "stats": [
         "-10% 休息しやすさ",
         "-10% 免疫を得る速度",
@@ -8216,7 +8186,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】はどんな季節でも快適に過ごします。\n(RimTraits - General Traits)",
+      "description": "Timmy】はどんな季節でも快適に過ごします。",
       "stats": [
         "+3.0C 快適と感じる最高気温",
         "-3.0C 快適と感じる最低気温"
@@ -8250,7 +8220,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は夏は暑すぎるし、冬は寒すぎると思っています。\n(RimTraits - General Traits)",
+      "description": "Timmy】は夏は暑すぎるし、冬は寒すぎると思っています。",
       "stats": [
         "-3.0C 快適と感じる最高気温",
         "+3.0C 快適と感じる最低気温"
@@ -8284,7 +8254,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは反応時間が良く、彼の仲間よりも身体活動のストレスが少ないことがわかります。\n(RimTraits - General Traits)",
+      "description": "Timmyは反応時間が良く、彼の仲間よりも身体活動のストレスが少ないことがわかります。",
       "stats": [
         "+2.0 命中率(射撃)",
         "+2.0 命中率(白兵戦)",
@@ -8320,7 +8290,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは気が散りやすく、それが戦闘になるとしばしば台無しにしてしまいます。\n(RimTraits - General Traits)",
+      "description": "Timmyは気が散りやすく、それが戦闘になるとしばしば台無しにしてしまいます。",
       "stats": [
         "-2.0 命中率(射撃)",
         "-2.0 命中率(白兵戦)",
@@ -8356,7 +8326,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、人々が'ストロンクボイ'と呼ぶものです。\n(RimTraits - General Traits)",
+      "description": "Timmyは、人々が'ストロンクボイ'と呼ぶものです。",
       "stats": [
         "-10% 受けるダメージ倍率",
         "+10% 免疫を得る速度",
@@ -8400,7 +8370,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは非常に打たれ弱いため、彼を動けなくするのにそれほど時間はかかりません。\n(RimTraits - General Traits)",
+      "description": "Timmyは非常に打たれ弱いため、彼を動けなくするのにそれほど時間はかかりません。",
       "stats": [
         "+10% 受けるダメージ倍率",
         "-10% 免疫を得る速度",
@@ -8446,7 +8416,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "楽観的であろうと個性的であろうとTimmyは常に人の明るい面を見ることができます。\n(RimTraits - General Traits)",
+      "description": "楽観的であろうと個性的であろうとTimmyは常に人の明るい面を見ることができます。",
       "stats": [
         "+3 芸術"
       ],
@@ -8478,7 +8448,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyにとっての人生は彼が終わらしたくも終われず逃げることも出来ない多忙な状態になるでしょう\n(RimTraits - General Traits)",
+      "description": "Timmyにとっての人生は彼が終わらしたくも終われず逃げることも出来ない多忙な状態になるでしょう",
       "stats": [
         "-3 芸術"
       ],
@@ -8510,7 +8480,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は世界の仕組みを理解することに興味があり、【彼の】の知識を日常生活で活用することができる。\n(RimTraits - General Traits)",
+      "description": "Timmy】は世界の仕組みを理解することに興味があり、【彼の】の知識を日常生活で活用することができる。",
       "stats": [
         "+4 知力",
         "-5% 精神的弱さ"
@@ -8544,7 +8514,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyの教育のギャップと一般的な好奇心の欠如は彼をの生活をしばしばストレスを感じるでしょう。\n(RimTraits - General Traits)",
+      "description": "Timmyの教育のギャップと一般的な好奇心の欠如は彼をの生活をしばしばストレスを感じるでしょう。",
       "stats": [
         "-4 知力",
         "+5% 精神的弱さ"
@@ -8578,7 +8548,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は【彼の】の周囲をきれいに保つのが好きで、整理整頓された環境に慣れている。\n(RimTraits - General Traits)",
+      "description": "Timmy】は【彼の】の周囲をきれいに保つのが好きで、整理整頓された環境に慣れている。",
       "stats": [
         "+5% 休息しやすさ",
         "+5% 基本的な作業速度",
@@ -8614,7 +8584,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは周囲を顧みないことが多く、彼をが仕事をするのが難しくなっています。\n(RimTraits - General Traits)",
+      "description": "Timmyは周囲を顧みないことが多く、彼をが仕事をするのが難しくなっています。",
       "stats": [
         "-5% 休息しやすさ",
         "-5% 基本的な作業速度",
@@ -8643,168 +8613,6 @@
       },
       "defName": "RT_Messy",
       "name": "messy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは創造力に長けています。彼はユニークな作品を作るのが得意で、問題解決のための新しい方法を発見するのも得意です。\n((LYN) Cookie Traits)",
-      "stats": [
-        "+4 芸術",
-        "+40% 研究速度係数"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "+4 芸術",
-          "+40% 研究速度係数"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LC_Creative",
-      "name": "クリエイティブ(旧式)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyはダメージを受けず、死ぬことがありません。\n((LYN) Cookie Traits)",
-      "stats": [
-        "x0% 受けるダメージ倍率"
-      ],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [
-          "x0% 受けるダメージ倍率"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LC_Immortal",
-      "name": "不滅"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは孤独でいることを好みます。\n((LYN) Cookie Traits)",
-      "stats": [
-        "+2.0 命中率(白兵戦)",
-        "+0.2 回避率(白兵戦)",
-        "-20% 照準時間",
-        "+0.3 命中率(射撃)",
-        "-50% 痛みへの限界値",
-        "-50% 精神的弱さ",
-        "+50% 看護・品質",
-        "+50% 身につけやすさ",
-        "x120% 移動速度",
-        "x200% 基本的な作業速度",
-        "x200% 研究・速度",
-        "x80% 受けるダメージ倍率",
-        "x0% 外交力",
-        "x80% 政治力",
-        "x80% 輸送能力"
-      ],
-      "conflicts": [
-        "fastlearner",
-        "slowlearner",
-        "tough",
-        "brawler",
-        "industrious",
-        "hardworker",
-        "lazy",
-        "slothful",
-        "慎重な射手",
-        "トリガーハッピー",
-        "射撃の名手",
-        "ガンスリンガー",
-        "デュエリスト",
-        "盾持ち",
-        "ファイター",
-        "ナース",
-        "外科医",
-        "外交官",
-        "科学者",
-        "研究者",
-        "運び屋",
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "fastlearner",
-          "slowlearner",
-          "tough",
-          "brawler",
-          "industrious",
-          "hardworker",
-          "lazy",
-          "slothful",
-          "慎重な射手",
-          "トリガーハッピー",
-          "射撃の名手",
-          "ガンスリンガー",
-          "デュエリスト",
-          "盾持ち",
-          "ファイター",
-          "ナース",
-          "外科医",
-          "外交官",
-          "科学者",
-          "研究者",
-          "運び屋",
-          "宿り木"
-        ],
-        "stats": [
-          "+2.0 命中率(白兵戦)",
-          "+0.2 回避率(白兵戦)",
-          "-20% 照準時間",
-          "+0.3 命中率(射撃)",
-          "-50% 痛みへの限界値",
-          "-50% 精神的弱さ",
-          "+50% 看護・品質",
-          "+50% 身につけやすさ",
-          "x120% 移動速度",
-          "x200% 基本的な作業速度",
-          "x200% 研究・速度",
-          "x80% 受けるダメージ倍率",
-          "x0% 外交力",
-          "x80% 政治力",
-          "x80% 輸送能力"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[LYN] Cookie Traits",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LC_LoneWolf",
-      "name": "一匹狼"
     }
   ],
   "races": [
@@ -8887,7 +8695,7 @@
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "人間とドラゴンの特徴を併せ持つ美しい生物です.主に野生で目撃されます.彼女たちの銀色の毛は強度が高く柔らかく,闇市場で高く取引され,しばしばハンターに狙われることがあります.\n(Gloomy Dragonian race)",
+      "description": "人間とドラゴンの特徴を併せ持つ美しい生物です.主に野生で目撃されます.彼女たちの銀色の毛は強度が高く柔らかく,闇市場で高く取引され,しばしばハンターに狙われることがあります.",
       "defName": "Dragonian_Race",
       "enabled": true,
       "name": "ドラコニアン",
@@ -8922,7 +8730,7 @@
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "人にそっくりな姿をした妖怪たちの親分格です。彼らは性別を持ち繁殖を行う特別な妖怪です。\n      \n普段あちこちをフラフラしている気まぐれな九尾の狐の代わりに妖怪村の雑事を取り仕切っています。\n      \n大概的な代表はオニが務めています。全ての妖怪の根源である「鬼」族の末裔と言われていますが定かではありません。\n      \n見た目は人間を少し大きくしただけの存在に見えますが、腕力や脚力、耐久力にいたるまで人よりずっと優れています。\n(妖怪村)",
+      "description": "人にそっくりな姿をした妖怪たちの親分格です。彼らは性別を持ち繁殖を行う特別な妖怪です。\n      \n普段あちこちをフラフラしている気まぐれな九尾の狐の代わりに妖怪村の雑事を取り仕切っています。\n      \n大概的な代表はオニが務めています。全ての妖怪の根源である「鬼」族の末裔と言われていますが定かではありません。\n      \n見た目は人間を少し大きくしただけの存在に見えますが、腕力や脚力、耐久力にいたるまで人よりずっと優れています。",
       "defName": "UniHAR_Yokai_Oni",
       "enabled": true,
       "name": "オニ",
@@ -8957,10 +8765,10 @@
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "妖怪と人の血が混じった混血の者たちの総称を半妖と呼びます。ルーツは様々ですが祖先の誰かが妖怪との間に子を成したため、彼らの血には妖怪の力が混じっています。\n\t\t\t\n近接戦闘を尊ぶ妖怪村の伝統を色濃く受け継いでいるため近距離戦に強い半面、遠距離武器を扱うのを苦手としています。また精神的な攻撃や毒などに強く反応する点、人間用の移植装置などが使えない事にも気を配る必要があります。\n\t\t\t\n人の血が濃くなりつつある影響で近年の半妖の寿命は100年ほどと言われています。半妖は16歳で人間でいうところの「若者」となり生物的に成熟するのは24歳となっています。\n(妖怪村)",
+      "description": "妖怪と人の血が混じった混血の者たちの総称を半妖と呼びます。ルーツは様々ですが祖先の誰かが妖怪との間に子を成したため、彼らの血には妖怪の力が混じっています。\n\t\t\t\n近接戦闘を尊ぶ妖怪村の伝統を色濃く受け継いでいるため近距離戦に強い半面、遠距離武器を扱うのを苦手としています。また精神的な攻撃や毒などに強く反応する点、人間用の移植装置などが使えない事にも気を配る必要があります。\n\t\t\t\n人の血が濃くなりつつある影響で近年の半妖の寿命は100年ほどと言われています。半妖は16歳で人間でいうところの「若者」となり生物的に成熟するのは24歳となっています。",
       "defName": "UniHAR_Yokai_HanYou",
       "enabled": false,
-      "name": "半妖",
+      "name": "(旧)半妖",
       "price": 2500
     },
     {
@@ -8991,7 +8799,7 @@
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "極めてまれに発生する九尾の狐に先祖返りしている半妖です。\n\t\t\t\n非常に高い身体能力を誇り半妖というよりはほぼ妖怪と呼べる存在ですが、純粋な妖怪であるオニには劣ります。\n\t\t\t\n総じて気紛れで誇り高く、運搬や清掃を含めた殆どの仕事を行いません。\n\t\t\t\nその分素手での戦闘ではオニすら圧倒する攻撃能力、ほとんどの攻撃に対する高い防御能力を有しているため戦闘では頼りになります。\n(妖怪村)",
+      "description": "極めてまれに発生する九尾の狐に先祖返りしている半妖です。\n\t\t\t\n非常に高い身体能力を誇り半妖というよりはほぼ妖怪と呼べる存在ですが、純粋な妖怪であるオニには劣ります。\n\t\t\t\n総じて気紛れで誇り高く、運搬や清掃を含めた殆どの仕事を行いません。\n\t\t\t\nその分素手での戦闘ではオニすら圧倒する攻撃能力、ほとんどの攻撃に対する高い防御能力を有しているため戦闘では頼りになります。",
       "defName": "UniHAR_Yokai_Tuzurao",
       "enabled": true,
       "name": "九尾の半妖",
@@ -9023,7 +8831,7 @@
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "妖怪と人の血が混じった混血の者たちの総称を半妖と呼びます。ルーツは様々ですが祖先の誰かが妖怪との間に子を成したため、彼らの血には妖怪の力が混じっています。\n      \n近接戦闘を尊ぶ妖怪村の伝統を色濃く受け継いでいるため近距離戦に強い半面、遠距離武器を扱うのを苦手としています。また精神的な攻撃や毒などに強く反応する点、食事を味わって食べるといった短所もあり、人間用の移植装置などが使えない事にも気を配る必要があります。\n    \n人間のおよそ２~3倍の寿命をもちますが、その分大人になるのにも時間がかかります。妖怪村での人間は１５歳で一人前とみなされますが、半妖は18歳であり生物的に成熟するのは３０歳を過ぎてからです。\n(妖怪村)",
+      "description": "妖怪と人の血が混じった混血の者たちの総称を半妖と呼びます。ルーツは様々ですが祖先の誰かが妖怪との間に子を成したため、彼らの血には妖怪の力が混じっています。\n      \n近接戦闘を尊ぶ妖怪村の伝統を色濃く受け継いでいるため近距離戦に強い半面、遠距離武器を扱うのを苦手としています。また精神的な攻撃や毒などに強く反応する点、食事を味わって食べるといった短所もあり、人間用の移植装置などが使えない事にも気を配る必要があります。\n    \n人間のおよそ２~3倍の寿命をもちますが、その分大人になるのにも時間がかかります。妖怪村での人間は１５歳で一人前とみなされますが、半妖は18歳であり生物的に成熟するのは３０歳を過ぎてからです。",
       "defName": "Yokai_HanYou",
       "enabled": true,
       "name": "半妖",
@@ -9060,7 +8868,7 @@
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "げっ歯類の遺伝子を持つ人間と似た種族です。\nその起源は不明ですが、農耕社会を主な基盤とした王政を築いて生活しています。男性よりも女性の個体が多いので、外見を見ても個体の性別を見分けるのは困難です。\n(NewRatkinPlus)",
+      "description": "げっ歯類の遺伝子を持つ人間と似た種族です。\nその起源は不明ですが、農耕社会を主な基盤とした王政を築いて生活しています。男性よりも女性の個体が多いので、外見を見ても個体の性別を見分けるのは困難です。",
       "defName": "Ratkin",
       "enabled": true,
       "name": "ラットキン",
@@ -9098,172 +8906,11 @@
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "げっ歯類の遺伝子を持つ人間とよく似た個体です。\nその起源は不明ですが、農耕社会を主な基盤とした王政を築いて生活しています。男性よりも女性の個体が多いので、外見を見ても個体の性別を見分けるのは困難です。\n(NewRatkinPlus)",
+      "description": "げっ歯類の遺伝子を持つ人間とよく似た個体です。\nその起源は不明ですが、農耕社会を主な基盤とした王政を築いて生活しています。男性よりも女性の個体が多いので、外見を見ても個体の性別を見分けるのは困難です。",
       "defName": "Ratkin_Su",
       "enabled": false,
       "name": "ラットキン実験体",
       "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 重量",
-          "+150% 燃えやすさ",
-          "+$1200 金額",
-          "+4.70 移動速度",
-          "+25.0C 快適と感じる最高気温",
-          "-5.0C 快適と感じる最低気温",
-          "+100% 休息しやすさ",
-          "+100% 食事の早さ",
-          "+75 輸送能力",
-          "+35 生肉の量",
-          "+45 生皮の量",
-          "+75% 痛みへの限界値",
-          "+100% 精神感応性",
-          "+40% 精神的弱さ",
-          "+50% 毒耐性",
-          "+50% 毒環境耐性",
-          "+1.2 回避率(白兵戦)",
-          "+1.0 命中率(白兵戦)",
-          "+100% 照準時間",
-          "+1.0 命中率(射撃)",
-          "+115.00% 外交力",
-          "+100% 売値掛け率",
-          "+125.00% 政治力",
-          "+115.00% 商人の勘",
-          "+100% メカノイド・寸断収率",
-          "+100% メカノイド・寸断速度",
-          "+100% 溶解・速度",
-          "+100% 作業・速度",
-          "+100% 建造・速度",
-          "+100% 食肉加工・収率",
-          "+100% 食肉加工・速度",
-          "+110.00% 食中毒・発生率",
-          "+1.3 調理・速度",
-          "+125% 栽培・速度",
-          "+100% 身につけやすさ",
-          "+100% 研究・速度",
-          "+100% 看護・品質",
-          "+150% 合成・速度",
-          "+100% 外科手術の成功率",
-          "+105% 免疫を得る速度",
-          "+90% 掘削・速度",
-          "+110% 掘削・収率",
-          "+0.0% アーマー - 打撲系",
-          "+0.0% アーマー - 突刺系"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "ユランはウサギの外的特徴を持つ亜人種族で,その起源については正確に知られていません.\n人口の少ない少数民族で,遺伝子の問題があり,男性が存在しないため,他種族との結婚を通じてなんとか種族を存続させています.\n血筋によって受け継がれる特殊な能力を持つ\"巫女\"を中心に小さな村落規模の村で生活し,故郷の村にある大きな桜の木を信仰しています.\n(Yuran race)",
-      "defName": "Yuran_Race",
-      "enabled": true,
-      "name": "ユラン",
-      "price": 2000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+52.00 重量",
-          "+150% 燃えやすさ",
-          "+$2800 金額",
-          "+4.75 移動速度",
-          "+25.0C 快適と感じる最高気温",
-          "+10.0C 快適と感じる最低気温",
-          "+100% 休息しやすさ",
-          "+100% 食事の早さ",
-          "+75 輸送能力",
-          "+5 生肉の量",
-          "+5 生皮の量",
-          "+80% 痛みへの限界値",
-          "+135% 精神感応性",
-          "+25% 精神的弱さ",
-          "+100% 毒耐性",
-          "+100% 毒環境耐性",
-          "+1.2 回避率(白兵戦)",
-          "+1.0 命中率(白兵戦)",
-          "+100% 照準時間",
-          "+1.0 命中率(射撃)",
-          "+125.00% 外交力",
-          "+100% 売値掛け率",
-          "+150.00% 政治力",
-          "+115.00% 商人の勘",
-          "+100% メカノイド・寸断収率",
-          "+100% メカノイド・寸断速度",
-          "+100% 溶解・速度",
-          "+100% 作業・速度",
-          "+100% 建造・速度",
-          "+100% 食肉加工・収率",
-          "+100% 食肉加工・速度",
-          "+110.00% 食中毒・発生率",
-          "+1.0 調理・速度",
-          "+125% 栽培・速度",
-          "+100% 身につけやすさ",
-          "+100% 研究・速度",
-          "+120% 看護・品質",
-          "+150% 合成・速度",
-          "+100% 外科手術の成功率",
-          "+105% 免疫を得る速度",
-          "+50% 掘削・速度",
-          "+100% 掘削・収率",
-          "+0.0% アーマー - 打撲系",
-          "+0.0% アーマー - 突刺系",
-          "+220.00% 改宗させる力"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "巫女は特別な血筋を受け継いだ家系に属するユランの一種の義務で,村のために奉仕し,また管理する役割を果たしています.\n(Yuran race)",
-      "defName": "Yuran_Race_Miko",
-      "enabled": true,
-      "name": "ユラン巫女",
-      "price": 4667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 重量",
-          "+0% 燃えやすさ",
-          "+$4000 金額",
-          "+4 名誉値",
-          "+42 輸送能力",
-          "+25% 身につけやすさ",
-          "+100% 精神感応性",
-          "+98% 休息しやすさ",
-          "+98% 免疫を得る速度",
-          "+120% 基本的な作業速度",
-          "+0 食料調達量",
-          "+125.00% 外交力",
-          "+125.00% 政治力",
-          "+125.00% 商人の勘",
-          "+25 生皮の量",
-          "+75% 痛みへの限界値",
-          "+20.0C 快適と感じる最低気温",
-          "+31.0C 快適と感じる最高気温",
-          "-100% 毒耐性",
-          "-100% 毒環境耐性",
-          "+4.10 移動速度",
-          "+90% 照準時間",
-          "+0.9 命中率(射撃)",
-          "+2.0 回避率(白兵戦)",
-          "+3.0 命中率(白兵戦)",
-          "+50.0% アーマー - 熱系",
-          "+150% 学習率係数",
-          "-1.00 ニューラルヒート回復レート",
-          "-2.50% 手懐け成功率",
-          "-2.50% 調教成功率"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "オーディナリーをはじめとする多くのミホ種の共通祖先は,人間ではなくアカギツネと推定されています.当然,自然進化ではなくアルコテックな何かによって知性化(意識高く)されたものと思われます.人間のように見えますが人間ではありません.彼女らの体には体内のメカナイトと連動する日照量によって仙術の強度が決まるカスミ器官があります.この器官のおかげで,キツネたちは太陽とエネルギーを崇めています.\n(Miho, the celestial fox)",
-      "defName": "Alien_Miho",
-      "enabled": true,
-      "name": "ミホ",
-      "price": 6667
     },
     {
       "data": {
@@ -9311,7 +8958,7 @@
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "ウサギの遺伝子を持つエイリアン種族で戦争や研究、医学に優れた月面都市の住民たちです。\n\n星間移動可能な技術を持つ文明を持ち、さまざまな宙域に進出して、衛星を持つ惑星を見つけてその月に都市を建設しています。\n\n遠く離れた長い距離が原因で、他の星系に居るラビたちとは断絶されています。\n(Rabbie The Moonrabbit race)",
+      "description": "ウサギの遺伝子を持つエイリアン種族で戦争や研究、医学に優れた月面都市の住民たちです。\n\n星間移動可能な技術を持つ文明を持ち、さまざまな宙域に進出して、衛星を持つ惑星を見つけてその月に都市を建設しています。\n\n遠く離れた長い距離が原因で、他の星系に居るラビたちとは断絶されています。",
       "defName": "Rabbie",
       "enabled": true,
       "name": "ラビ",
@@ -9351,7 +8998,7 @@
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "キツネの遺伝子を持つ女性だけの種族です.元々は惑星アオラーラを故郷とするGlitterworldで作られた種族でしたが,内戦のせいで故郷を追われることになりました.現在では,彼女たちはRimworldに広く根付いているようです.\n(Kurin HAR Edition)",
+      "description": "キツネの遺伝子を持つ女性だけの種族です.元々は惑星アオラーラを故郷とするGlitterworldで作られた種族でしたが,内戦のせいで故郷を追われることになりました.現在では,彼女たちはRimworldに広く根付いているようです.",
       "defName": "Kurin_Race",
       "enabled": true,
       "name": "クーリン",

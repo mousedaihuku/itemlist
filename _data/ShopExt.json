@@ -2088,7 +2088,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmyは本当に異種族を嫌っていて,全く信用しません.動物より下等な存在と見なしています.",
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -2114,7 +2114,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmyは異種族に性的な魅力を感じます.興味津々です.",
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -6911,32 +6911,6 @@
       },
       "defName": "Hygienic",
       "name": "不潔症"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy は身体と精神ともに,洞察力に優れ,経験豊富な人生の大先輩です.彼らを古臭いと感じる人もいれば,彼らの導きを尊重する人もいるでしょう.",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Ideology Expanded - Memes and Structures",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VME_Elder",
-      "name": "年長者"
     },
     {
       "canAdd": true,

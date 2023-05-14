@@ -18,16 +18,16 @@
     "version": "1.0.0"
   },
   {
-    "author": "Smash Philと Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "2878587061",
-    "version": "1.4.7"
-  },
-  {
     "author": "UnlimitedHugsと Owlchemist",
     "name": "HugsLib",
     "steamId": "",
     "version": "1.4"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
   },
   {
     "author": "Nals",
@@ -64,6 +64,12 @@
     "name": "XML Extensions",
     "steamId": "2574315206",
     "version": "1.7.0"
+  },
+  {
+    "author": "YAYO",
+    "name": "VOTE and LEADER (Continued)",
+    "steamId": "2896484287",
+    "version": "1.4.1"
   },
   {
     "author": "Mlie",
@@ -192,6 +198,12 @@
     "version": null
   },
   {
+    "author": "Akarthus",
+    "name": "The Cosmic Odyssey - Victoria Valiant",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mehni",
     "name": "All your base",
     "steamId": null,
@@ -222,24 +234,6 @@
     "version": null
   },
   {
-    "author": "bradsonとharkon",
-    "name": "Bradson's Main Button Icons for VE Textures",
-    "steamId": "2361775777",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREXと erdelf",
-    "name": "Vanilla Textures Expanded",
-    "steamId": "2016436324",
-    "version": "1.0.0"
-  },
-  {
-    "author": "iFlash",
-    "name": "Clean Textures",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
@@ -264,22 +258,16 @@
     "version": null
   },
   {
-    "author": "Cosmo Corban",
-    "name": "AI Upscaled Textures - Mods",
+    "author": "balistafreak",
+    "name": "Standalone Hot Spring",
     "steamId": null,
     "version": null
   },
   {
-    "author": "El Luchador",
-    "name": "DBH Retexture (1.4)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jester Romut",
-    "name": "Anime Mech Retexture (WIP)",
-    "steamId": null,
-    "version": null
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.33.649"
   },
   {
     "author": "aco",
@@ -298,42 +286,6 @@
     "name": "Hospitality: Spa",
     "steamId": "",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "balistafreak",
-    "name": "Standalone Hot Spring",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hei",
-    "name": "Hei's Standalone Hot Spring ReTexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "marceline",
-    "name": "Milk Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "okradonkey",
-    "name": "Single Plant Texture Patch (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "hourai_haikus",
-    "name": "Vanilla Hairs Retextured",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Wolf478と IcyCheeseCake",
-    "name": "Wolfs Dryad Retexture",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Mehni, XeoNovaDan, simplyWiri, Miyuri (ZXfkSIE)と Kaedys",
@@ -360,18 +312,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Colony Manager",
-    "steamId": "715565262",
-    "version": "4.33.649"
-  },
-  {
-    "author": "jeonggihun",
-    "name": "Colony Manager retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Netrve",
     "name": "Hunters Use Melee! (Continued)",
     "steamId": "2900108163",
@@ -388,12 +328,6 @@
     "name": "Begone, Message!",
     "steamId": "1951637504",
     "version": "1.7"
-  },
-  {
-    "author": "Dyrewulfe",
-    "name": "Better Message Placement (Continued)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "VouLT",
@@ -430,6 +364,12 @@
     "name": "Camera+",
     "steamId": "",
     "version": "1.4"
+  },
+  {
+    "author": "HealerUser",
+    "name": "Go Deathrest on Exhaustion",
+    "steamId": "2890918211",
+    "version": "1.0.0.0"
   },
   {
     "author": "JovianPug",
@@ -487,12 +427,6 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Apparel Tweaks",
-    "steamId": "2296697286",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
     "version": "1.0.0"
@@ -522,12 +456,6 @@
     "version": "1.4.6.0"
   },
   {
-    "author": "LordKuper",
-    "name": "Equipment Manager",
-    "steamId": "2790435986",
-    "version": "1.4.0.0"
-  },
-  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": "",
@@ -543,12 +471,6 @@
     "author": "Uuugggg",
     "name": "TD Find Lib",
     "steamId": "2895299310",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Everybody Gets One",
-    "steamId": "1687566130",
     "version": "1.0.0.0"
   },
   {
@@ -636,10 +558,10 @@
     "version": "1.1.3.0"
   },
   {
-    "author": "DarkFlame7",
-    "name": "Job In Bar",
-    "steamId": "2086300611",
-    "version": "1.0.0.0"
+    "author": "notfood",
+    "name": "Outfitted",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Darkside",
@@ -690,6 +612,12 @@
     "version": null
   },
   {
+    "author": "avilmask",
+    "name": "Research Whatever",
+    "steamId": "2552092060",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Sergkart",
     "name": "Mechanoid Idle Optimization",
     "steamId": null,
@@ -720,6 +648,12 @@
     "version": null
   },
   {
+    "author": "pointfeev",
+    "name": "Automatic Bed Reassignment",
+    "steamId": "2404555784",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "[KOR]Bichang",
     "name": "More Sculpture",
     "steamId": null,
@@ -744,16 +678,16 @@
     "version": null
   },
   {
-    "author": "telardo",
-    "name": "No Laggy Bed",
-    "steamId": "2790250834",
-    "version": "1.2.0.0"
-  },
-  {
     "author": "Edern",
     "name": "No Random Apparel on Ideology Edit",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Rooloと Owlchemist",
+    "name": "Tacticowl (temporary beta)",
+    "steamId": "2936140288",
+    "version": "1.4"
   },
   {
     "author": "Ogre",
@@ -774,8 +708,8 @@
     "version": null
   },
   {
-    "author": "Peppsen",
-    "name": "P-Music",
+    "author": "Billnotic",
+    "name": "Actually Vanilla Music Expansion",
     "steamId": null,
     "version": null
   },
@@ -888,6 +822,12 @@
     "version": null
   },
   {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nonnonstop",
     "name": "Resize Filter Tab",
     "steamId": "",
@@ -966,6 +906,12 @@
     "version": "1.4"
   },
   {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.0"
+  },
+  {
     "author": "Orion",
     "name": "Therapy",
     "steamId": null,
@@ -988,12 +934,6 @@
     "name": "Social Interface",
     "steamId": "2854221326",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Tank",
-    "name": "Stylish Rim",
-    "steamId": "2747392932",
-    "version": "0.0.0.0"
   },
   {
     "author": "Udon",
@@ -1020,8 +960,8 @@
     "version": null
   },
   {
-    "author": "Akarthus",
-    "name": "The Cosmic Odyssey - Victoria Valiant",
+    "author": "Owlchemist",
+    "name": "Underground Power Conduits",
     "steamId": null,
     "version": null
   },
@@ -1048,12 +988,6 @@
     "name": "Use Bedrolls",
     "steamId": "1353625821",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "YAYO",
-    "name": "VOTE and LEADER (Continued)",
-    "steamId": "2896484287",
-    "version": "1.4.1"
   },
   {
     "author": "XeoNovaDan",
@@ -1114,6 +1048,18 @@
     "name": "Owl's Colonist Bar (dev)",
     "steamId": "2623453038",
     "version": "1.4"
+  },
+  {
+    "author": "Dyrewulfe",
+    "name": "Better Message Placement (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrus",
+    "name": "Colonist Bar Adjuster",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Nals",
@@ -1230,24 +1176,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potockiと Sarg Bjornson",
-    "name": "Vanilla Ideology Expanded - Icons and Symbols",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornsonと Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornsonと legodude17",
-    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Despenso",
     "name": "Small Hi-tech Research Bench",
     "steamId": null,
@@ -1308,6 +1236,12 @@
     "version": null
   },
   {
+    "author": "Seiochと MaroonToon",
+    "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roo",
     "name": "Gloomy Dragonian race",
     "steamId": null,
@@ -1328,8 +1262,8 @@
   {
     "author": "MooとVelc",
     "name": "kemomimihouse HardworkingKz",
-    "steamId": "2574995438",
-    "version": "1.0.8343.10138"
+    "steamId": "2975129498",
+    "version": "1.0.0.0"
   },
   {
     "author": "Moo",
@@ -1368,12 +1302,6 @@
     "version": null
   },
   {
-    "author": "Seiochと MaroonToon",
-    "name": "Kurin HAR Edition",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "darkmiz",
     "name": "Kurin HAR Facial Animation",
     "steamId": null,
@@ -1382,6 +1310,66 @@
   {
     "author": "hourai_haikus",
     "name": "Rabbie Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Cosmo Corban",
+    "name": "AI Upscaled Textures - Mods",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "El Luchador",
+    "name": "DBH Retexture (1.4)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jester Romut",
+    "name": "Anime Mech Retexture (WIP)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hei",
+    "name": "Hei's Standalone Hot Spring ReTexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "marceline",
+    "name": "Milk Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hourai_haikus",
+    "name": "Vanilla Hairs Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "okradonkey",
+    "name": "Single Plant Texture Patch (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wolf478と IcyCheeseCake",
+    "name": "Wolfs Dryad Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jeonggihun",
+    "name": "Colony Manager retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "iFlash",
+    "name": "Clean Textures",
     "steamId": null,
     "version": null
   },
@@ -1396,6 +1384,12 @@
     "name": "Range Finder",
     "steamId": "1332119637",
     "version": "2.4.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
   },
   {
     "author": "hodlhodl",
@@ -1602,12 +1596,6 @@
     "version": null
   },
   {
-    "author": "Proxyer",
-    "name": "Vanilla Expanded Framework 日本語翻訳追加",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Lucifel",
     "name": "XML Extensions 日本語翻訳",
     "steamId": null,
@@ -1634,6 +1622,12 @@
   {
     "author": "Proxyer",
     "name": "Colony Manager 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Vanilla Expanded Framework 日本語翻訳追加",
     "steamId": null,
     "version": null
   }

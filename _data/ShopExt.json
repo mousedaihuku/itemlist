@@ -7594,7 +7594,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "ヒト",
-      "price": 2917
+      "price": 2500
     },
     {
       "data": {
@@ -7657,7 +7657,7 @@
       "defName": "Dragonian_Race",
       "enabled": true,
       "name": "ドラコニアン",
-      "price": 9667
+      "price": 5000
     },
     {
       "data": {
@@ -7694,7 +7694,7 @@
       "defName": "Ratkin",
       "enabled": true,
       "name": "ラットキン",
-      "price": 3333
+      "price": 3000
     },
     {
       "data": {
@@ -7784,7 +7784,7 @@
       "defName": "Rabbie",
       "enabled": true,
       "name": "ラビ",
-      "price": 3333
+      "price": 3500
     },
     {
       "data": {
@@ -7834,7 +7834,7 @@
       "defName": "AS_WAE_Race",
       "enabled": true,
       "name": "古代エルフ",
-      "price": 2000
+      "price": 5000
     },
     {
       "data": {
@@ -7866,7 +7866,7 @@
       "defName": "Kurin",
       "enabled": true,
       "name": "クーリン",
-      "price": 4375
+      "price": 3500
     },
     {
       "data": {
@@ -7903,7 +7903,7 @@
       "defName": "Kimiri",
       "enabled": true,
       "name": "キミリ",
-      "price": 4375
+      "price": 3500
     },
     {
       "data": {
@@ -7935,7 +7935,7 @@
       },
       "description": "オーバーロードはクーリン共和国タイタン級クーリンメカノイドで,重戦闘支援や強固な施設への強襲を目的として作られました.",
       "defName": "Overlord",
-      "enabled": true,
+      "enabled": false,
       "name": "オーバーロード",
       "price": 6317
     },
@@ -7968,7 +7968,7 @@
       },
       "description": "ピースキーパーはクーリン共和国バウンサー級クーリンメカノイドで,戦闘用に作られました.",
       "defName": "Peacekeeper",
-      "enabled": true,
+      "enabled": false,
       "name": "ピースキーパー",
       "price": 2917
     },
@@ -8001,7 +8001,7 @@
       },
       "description": "スマーティはクーリン共和国スマートサーバント級クーリンメカノイドで,搭載しているモジュールによって,さまざまなタスクに対応できるよう作られました.",
       "defName": "Smarty",
-      "enabled": true,
+      "enabled": false,
       "name": "スマーティ",
       "price": 1583
     }

@@ -4561,24 +4561,6 @@
 		"defname": "AffixSix"
 	},
 	{
-		"abr": "アマゾン",
-		"price": 1500,
-		"category": "家畜",
-		"defname": "AA_Amazon"
-	},
-	{
-		"abr": "アマゾンのツノ",
-		"price": 11,
-		"category": "近接",
-		"defname": "AS_MeleeWeapon_AmazonHorn"
-	},
-	{
-		"abr": "アマゾンの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_AA_Amazon"
-	},
-	{
 		"abr": "アライグマの肉",
 		"price": 3,
 		"category": "生肉",
@@ -7831,23 +7813,119 @@
 		"defname": "Apparel_PantsES"
 	},
 	{
-		"abr": "ia",
-		"price": 2500,
-		"category": "家畜",
-		"defname": "VAA_IA"
+		"abr": "dr エンシェントオーブ(体質)",
+		"price": 8167,
+		"category": "物品",
+		"defname": "MDI_Orb_Constitution"
 	},
 	{
-		"abr": "iaぬいぐるみ",
-		"price": 167,
-		"category": "ぬいぐるみ(ボイスロイド)",
-		"defname": "VAA_StuffedIA"
+		"abr": "dr エンシェントオーブ(免疫)",
+		"price": 8167,
+		"category": "物品",
+		"defname": "MDI_Orb_Immunity"
 	},
 	{
-		"abr": "iaの肉",
-		"price": 17,
-		"category": "生肉",
-		"defname": "Meat_VAA_IA"
+		"abr": "dr エンシェントオーブ(安定)",
+		"price": 8167,
+		"category": "物品",
+		"defname": "MDI_Orb_Stability"
 	},
+	{
+		"abr": "dr エンシェントオーブ(平衡)",
+		"price": 8167,
+		"category": "物品",
+		"defname": "MDI_Orb_Equilibrium"
+	},
+	{
+		"abr": "dr エンシェントオーブ(平静)",
+		"price": 8167,
+		"category": "物品",
+		"defname": "MDI_Orb_Tranquility"
+	},
+	{
+		"abr": "dr エンシェントオーブ(強靭)",
+		"price": 8167,
+		"category": "物品",
+		"defname": "MDI_Orb_Resilience"
+	},
+	{
+		"abr": "dr エンシェントオーブ(機動)",
+		"price": 8167,
+		"category": "物品",
+		"defname": "MDI_Orb_Mobility"
+	},
+	{
+		"abr": "dr エンシェントオーブ(浄化)",
+		"price": 16666665,
+		"category": "物品",
+		"defname": "MDI_Orb_PurificationActive"
+	},
+	{
+		"abr": "dr エンシェントオーブ(耐性)",
+		"price": 8167,
+		"category": "物品",
+		"defname": "MDI_Orb_Resistance"
+	},
+	{
+		"abr": "dr コズミックオーブ",
+		"price": 13333,
+		"category": "物品",
+		"defname": "MDI_Orb_Cosmic"
+	},
+	{
+		"abr": "dr サイカイトミルクティー",
+		"price": 37,
+		"category": "ドラッグ",
+		"defname": "MDI_PsychiteMilkTea"
+	},
+	{
+		"abr": "dr サイキックリイナベイション",
+		"price": 3333,
+		"category": "物品",
+		"defname": "MDI_DragonianPsychicReinnervator"
+	},
+	{
+		"abr": "dr サイリンクニューロフォーマー",
+		"price": 3333,
+		"category": "物品",
+		"defname": "MDI_DragonianPsylinkNeuroformer"
+	},
+	{
+		"abr": "dr ソファ",
+		"price": 625,
+		"category": "家具",
+		"defname": "MDI_sofa"
+	},
+	{
+		"abr": "dr ディスインテグレーター",
+		"price": 10108,
+		"category": "遠隔",
+		"defname": "MDI_DragonianDisintegratorWeapon"
+	},
+	{
+		"abr": "dr ディスインテグレーター",
+		"price": 2,
+		"category": "物品",
+		"defname": "MDI_DragonianDisintegratorItem"
+	},
+	{
+		"abr": "dr ヒーラーシーラム",
+		"price": 2167,
+		"category": "物品",
+		"defname": "MDI_DragonianHealerMechSerum"
+	},
+	{
+		"abr": "dr マインドフレア",
+		"price": 4442,
+		"category": "遠隔",
+		"defname": "MDI_DragonianMindFryerWeapon"
+	},
+	{
+		"abr": "dr マインドフレア",
+		"price": 2,
+		"category": "物品",
+		"defname": "MDI_DragonianMindFryerItem"
+	}
 	],
-	"total": 1579
+	"total": 1558
 }

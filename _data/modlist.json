@@ -1158,12 +1158,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "hatena",
-    "name": "VoiceroidAsAnimal",
-    "steamId": "2073559411",
-    "version": "1.9.2"
-  },
-  {
     "author": "psychelo",
     "name": "kemomimihouse",
     "steamId": null,
@@ -1182,16 +1176,16 @@
     "version": null
   },
   {
+    "author": "hatena",
+    "name": "VoiceroidAsAnimal",
+    "steamId": "2073559411",
+    "version": "1.9.2"
+  },
+  {
     "author": "大鳥",
     "name": "虫娘 Insect Girls",
     "steamId": "2451340446",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Udon",
-    "name": "野生のアマゾン",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Ancot",

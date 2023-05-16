@@ -426,6 +426,12 @@
     "version": null
   },
   {
+    "author": "Dyrewulfe",
+    "name": "Better Message Placement (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nals",
     "name": "[NL] Custom Portraits",
     "steamId": "1569605867",
@@ -924,22 +930,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Syrus",
+    "name": "Biosculpter Pod and Neural Supercharger Resize",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Liebasam",
     "name": "We Had a Trader? (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "apricot77",
-    "name": "Xenotype Alteration",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Candied_Skull",
-    "name": "[Biotech] Kids - More Vanilla Clothing WIP",
-    "steamId": null,
-    "version": null
+    "author": "Uuugggg",
+    "name": "Everybody Gets One",
+    "steamId": "1687566130",
+    "version": "1.0.0.0"
   },
   {
     "author": "Doug",
@@ -948,10 +954,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Uuugggg",
-    "name": "Everybody Gets One",
-    "steamId": "1687566130",
-    "version": "1.0.0.0"
+    "author": "apricot77",
+    "name": "Xenotype Alteration",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "FrozenSnowFox",
@@ -966,12 +972,6 @@
     "version": null
   },
   {
-    "author": "paundo2",
-    "name": "[PAU] Touhou yukkuri",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "sulusdacor",
     "name": "[sd] Advanced Powergeneration (Continued)",
     "steamId": null,
@@ -980,6 +980,12 @@
   {
     "author": "Porohkun",
     "name": "Concrete Walls",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Candied_Skull",
+    "name": "[Biotech] Kids - More Vanilla Clothing WIP",
     "steamId": null,
     "version": null
   },
@@ -1004,12 +1010,6 @@
   {
     "author": "3HST Limited",
     "name": "Bill Doors' Instant Noodles",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Syrus",
-    "name": "Biosculpter Pod and Neural Supercharger Resize",
     "steamId": null,
     "version": null
   },
@@ -1080,16 +1080,22 @@
     "version": null
   },
   {
-    "author": "redbrick",
-    "name": "Oppai_addRace_patch",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "[sd] Goodnight (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Yamazaki",
+    "name": "Preschooler Clothes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GloomyLynx NukaFrog",
+    "name": "GloomyFurniture",
+    "steamId": "1558635181",
+    "version": "1.0.4"
   },
   {
     "author": "Gloomylynx Nukafrog",
@@ -1158,6 +1164,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "redbrick",
+    "name": "Oppai_addRace_patch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "psychelo",
     "name": "kemomimihouse",
     "steamId": null,
@@ -1186,6 +1198,12 @@
     "name": "虫娘 Insect Girls",
     "steamId": "2451340446",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "paundo2",
+    "name": "[PAU] Touhou yukkuri",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Ancot",
@@ -1228,6 +1246,12 @@
     "name": "Automatic Bed Reassignment",
     "steamId": "2404555784",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Owlchemist | Zymex | Dr_Zhivago",
+    "name": "Gloomy Vanilla Overhaul",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Cosmo Corban",

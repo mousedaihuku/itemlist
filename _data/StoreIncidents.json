@@ -226,7 +226,17 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -416,5 +426,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 83
+	"total": 85
 }

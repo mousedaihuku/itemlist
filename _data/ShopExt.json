@@ -7,7 +7,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmyは裸になると,自由な解放された感覚を味わえます.彼は服を着ても構いませんが,着ない方が,より幸せになれます.",
-      "stats": [],
+      "stats": [
+        "-80% discomfort tolerance"
+      ],
       "conflicts": [
         "宿り木"
       ],
@@ -16,7 +18,9 @@
         "conflicts": [
           "宿り木"
         ],
-        "stats": [],
+        "stats": [
+          "-80% discomfort tolerance"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3952,7 +3956,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は、異性に恋愛感情や性的魅力を感じている",
+      "description": "Timmyは 異性の人に性的に惹かれます。",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -3978,7 +3982,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は、性的な関わりには興味がないが、異性に恋愛感情を持ちます",
+      "description": "Timmy は性的な関係には興味がありませんが、異性の人々にロマンチックに惹かれます。",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -4004,7 +4008,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は性的な交際には興味がないが、 自分と同じ性別（彼の） の人に恋愛感情を持ちます。",
+      "description": "Timmy は性的な関係には興味がありませんが、彼の と同じ性別の人々にロマンチックに惹かれます。",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -4030,7 +4034,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は性的な交際には興味がないが、 性別に関係なく恋愛感情を持ちます",
+      "description": "Timmy は性的な関係には興味がありませんが、性別に関係なく、ロマンチックに人々に惹かれます。",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -4056,7 +4060,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は、どんなに関係が悪くなっても絶対に浮気はしない",
+      "description": "パートナーとの関係がどれほど悪くなっても、Timmyは決して浮気をしません。",
       "stats": [],
       "conflicts": [
         "浮気性",
@@ -4084,7 +4088,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy は、色んな人に目移りしてしまいパートナーを一人に決められません",
+      "description": "Timmyが パートナーに誠実で在り続けることは信じられないです。",
       "stats": [],
       "conflicts": [
         "一途",
@@ -6288,7 +6292,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは暑いのが好きではありません。",
+      "description": "Timmyは暑いのが好きではありません。\n(RimTraits - General Traits)",
       "stats": [
         "-3.0C 快適と感じる最高気温"
       ],
@@ -6320,7 +6324,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは仲間よりも寒い環境にいる方が快適です。",
+      "description": "Timmyは仲間よりも寒い環境にいる方が快適です。\n(RimTraits - General Traits)",
       "stats": [
         "-3.0C 快適と感じる最低気温"
       ],
@@ -6352,7 +6356,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは寒いのが好きではありません。",
+      "description": "Timmyは寒いのが好きではありません。\n(RimTraits - General Traits)",
       "stats": [
         "+3.0C 快適と感じる最低気温"
       ],
@@ -6384,7 +6388,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは体格が良いので、彼の周りの人はそれをむしろ魅力的に感じます。",
+      "description": "Timmyは体格が良いので、彼の周りの人はそれをむしろ魅力的に感じます。\n(RimTraits - General Traits)",
       "stats": [
         "+5 輸送能力",
         "+1.0 美しさ"
@@ -6418,7 +6422,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは少し脆そうで、魅力的ではない。",
+      "description": "Timmyは少し脆そうで、魅力的ではない。\n(RimTraits - General Traits)",
       "stats": [
         "-5 輸送能力",
         "-1.0 美しさ"
@@ -6452,7 +6456,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyはあまり食べたり飲んだりしません。",
+      "description": "Timmyはあまり食べたり飲んだりしません。\n(RimTraits - General Traits)",
       "stats": [],
       "conflicts": [
         "ravenous",
@@ -6480,7 +6484,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyには、お腹に底なしの穴があります。",
+      "description": "Timmyには、お腹に底なしの穴があります。\n(RimTraits - General Traits)",
       "stats": [],
       "conflicts": [
         "abstinent",
@@ -6508,7 +6512,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは生まれながらにして才能があり、彼は誰よりも早く頭角を現します。",
+      "description": "Timmyは生まれながらにして才能があり、彼は誰よりも早く頭角を現します。\n(RimTraits - General Traits)",
       "stats": [
         "+4 射撃",
         "+4 格闘",
@@ -6562,7 +6566,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、誰もが憎めない人です。",
+      "description": "Timmyは、誰もが憎めない人です。\n(RimTraits - General Traits)",
       "stats": [
         "-4 射撃",
         "-4 格闘",
@@ -6616,7 +6620,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は食事の準備に細心の注意を払い、【彼】は早く食事を作るのにも手を抜かない。",
+      "description": "Timmy】は食事の準備に細心の注意を払い、【彼】は早く食事を作るのにも手を抜かない。\n(RimTraits - General Traits)",
       "stats": [
         "-0.8 調理・速度",
         "-10.00% 食中毒・発生率"
@@ -6650,7 +6654,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は【彼】が記録的な速さで食事を提供して【彼の】に食べさせれるのなら、レシピなんてどうでもいいと思ってます。",
+      "description": "Timmy】は【彼】が記録的な速さで食事を提供して【彼の】に食べさせれるのなら、レシピなんてどうでもいいと思ってます。\n(RimTraits - General Traits)",
       "stats": [
         "+0.8 調理・速度",
         "+10.00% 食中毒・発生率"
@@ -6684,7 +6688,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは健康的な生活をしていて、元気に明るく目覚めています。",
+      "description": "Timmyは健康的な生活をしていて、元気に明るく目覚めています。\n(RimTraits - General Traits)",
       "stats": [
         "+10% 休息しやすさ",
         "+10% 免疫を得る速度",
@@ -6726,7 +6730,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】はよく病気になりベッドから起き上がるのも普通の人より努力が必要なようです。",
+      "description": "Timmy】はよく病気になりベッドから起き上がるのも普通の人より努力が必要なようです。\n(RimTraits - General Traits)",
       "stats": [
         "-10% 休息しやすさ",
         "-10% 免疫を得る速度",
@@ -6768,7 +6772,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】はどんな季節でも快適に過ごします。",
+      "description": "Timmy】はどんな季節でも快適に過ごします。\n(RimTraits - General Traits)",
       "stats": [
         "+3.0C 快適と感じる最高気温",
         "-3.0C 快適と感じる最低気温"
@@ -6802,7 +6806,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は夏は暑すぎるし、冬は寒すぎると思っています。",
+      "description": "Timmy】は夏は暑すぎるし、冬は寒すぎると思っています。\n(RimTraits - General Traits)",
       "stats": [
         "-3.0C 快適と感じる最高気温",
         "+3.0C 快適と感じる最低気温"
@@ -6836,7 +6840,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは反応時間が良く、彼の仲間よりも身体活動のストレスが少ないことがわかります。",
+      "description": "Timmyは反応時間が良く、彼の仲間よりも身体活動のストレスが少ないことがわかります。\n(RimTraits - General Traits)",
       "stats": [
         "+2.0 命中率(射撃)",
         "+2.0 命中率(白兵戦)",
@@ -6872,7 +6876,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは気が散りやすく、それが戦闘になるとしばしば台無しにしてしまいます。",
+      "description": "Timmyは気が散りやすく、それが戦闘になるとしばしば台無しにしてしまいます。\n(RimTraits - General Traits)",
       "stats": [
         "-2.0 命中率(射撃)",
         "-2.0 命中率(白兵戦)",
@@ -6908,7 +6912,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、人々が'ストロンクボイ'と呼ぶものです。",
+      "description": "Timmyは、人々が'ストロンクボイ'と呼ぶものです。\n(RimTraits - General Traits)",
       "stats": [
         "-10% 受けるダメージ倍率",
         "+10% 免疫を得る速度",
@@ -6952,7 +6956,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは非常に打たれ弱いため、彼を動けなくするのにそれほど時間はかかりません。",
+      "description": "Timmyは非常に打たれ弱いため、彼を動けなくするのにそれほど時間はかかりません。\n(RimTraits - General Traits)",
       "stats": [
         "+10% 受けるダメージ倍率",
         "-10% 免疫を得る速度",
@@ -6998,7 +7002,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "楽観的であろうと個性的であろうとTimmyは常に人の明るい面を見ることができます。",
+      "description": "楽観的であろうと個性的であろうとTimmyは常に人の明るい面を見ることができます。\n(RimTraits - General Traits)",
       "stats": [
         "+3 芸術"
       ],
@@ -7030,7 +7034,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyにとっての人生は彼が終わらしたくも終われず逃げることも出来ない多忙な状態になるでしょう",
+      "description": "Timmyにとっての人生は彼が終わらしたくも終われず逃げることも出来ない多忙な状態になるでしょう\n(RimTraits - General Traits)",
       "stats": [
         "-3 芸術"
       ],
@@ -7062,7 +7066,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は世界の仕組みを理解することに興味があり、【彼の】の知識を日常生活で活用することができる。",
+      "description": "Timmy】は世界の仕組みを理解することに興味があり、【彼の】の知識を日常生活で活用することができる。\n(RimTraits - General Traits)",
       "stats": [
         "+4 知力",
         "-5% 精神的弱さ"
@@ -7096,7 +7100,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyの教育のギャップと一般的な好奇心の欠如は彼をの生活をしばしばストレスを感じるでしょう。",
+      "description": "Timmyの教育のギャップと一般的な好奇心の欠如は彼をの生活をしばしばストレスを感じるでしょう。\n(RimTraits - General Traits)",
       "stats": [
         "-4 知力",
         "+5% 精神的弱さ"
@@ -7130,7 +7134,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は【彼の】の周囲をきれいに保つのが好きで、整理整頓された環境に慣れている。",
+      "description": "Timmy】は【彼の】の周囲をきれいに保つのが好きで、整理整頓された環境に慣れている。\n(RimTraits - General Traits)",
       "stats": [
         "+5% 休息しやすさ",
         "+5% 基本的な作業速度",
@@ -7166,7 +7170,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは周囲を顧みないことが多く、彼をが仕事をするのが難しくなっています。",
+      "description": "Timmyは周囲を顧みないことが多く、彼をが仕事をするのが難しくなっています。\n(RimTraits - General Traits)",
       "stats": [
         "-5% 休息しやすさ",
         "-5% 基本的な作業速度",
@@ -7571,6 +7575,648 @@
       },
       "defName": "KurinMechanoid_Trait",
       "name": "クーリンメカノイド"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは明らかに人付き合いを気にし過ぎています。彼は他の人を困らせる傾向があり、彼の元恋人たちは先に進むことができません。\n(Moloy Traits (Continued))",
+      "stats": [
+        "-2 社交"
+      ],
+      "conflicts": [
+        "サイコパス",
+        "無性愛者"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "サイコパス",
+          "無性愛者"
+        ],
+        "stats": [
+          "-2 社交"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Moloy Traits (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MT_Petty",
+      "name": "しみったれ"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは人望が厚いです。彼の言葉は通常よりも人に伝わることがあります。\n(Moloy Traits (Continued))",
+      "stats": [
+        "+4 社交",
+        "+50.00% 政治力",
+        "+20.00% 商人の勘"
+      ],
+      "conflicts": [
+        "サイコパス",
+        "しみったれ"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "サイコパス",
+          "しみったれ"
+        ],
+        "stats": [
+          "+4 社交",
+          "+50.00% 政治力",
+          "+20.00% 商人の勘"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Moloy Traits (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MT_Charismatic",
+      "name": "カリスマ"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyはおそらく高い知能が原因で、奇妙な行動をとります。そんな彼の言動は、よくも悪くも社会的に大きな影響を与えます。社会の輪から外れているので、Timmyは、侮辱されても気が付きません。\n(Moloy Traits (Continued))",
+      "stats": [
+        "+4 知力",
+        "+50.00% 政治力"
+      ],
+      "conflicts": [
+        "カリスマ"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "カリスマ"
+        ],
+        "stats": [
+          "+4 知力",
+          "+50.00% 政治力"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Moloy Traits (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MT_Eccentric",
+      "name": "変わり者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは他人によく指示します。彼の周辺の入植者はより素早く動くことが出来ます。\n(Moloy Traits (Continued))",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Moloy Traits (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MT_Conductor",
+      "name": "指導者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは射撃戦において実戦的なリーダーです。彼の周辺の入植者はより良い射撃精度を得られます。\n(Moloy Traits (Continued))",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Moloy Traits (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MT_Commander",
+      "name": "指揮官"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは孤独であることを好み、とにかく植物を扱うのが得意です。\n(Moloy Traits (Continued))",
+      "stats": [
+        "-4 社交",
+        "+4 栽培",
+        "+15% 栽培・収率",
+        "-50.00% 政治力"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-4 社交",
+          "+4 栽培",
+          "+15% 栽培・収率",
+          "-50.00% 政治力"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Moloy Traits (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MT_Hermit",
+      "name": "隠者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは元気いっぱいです。彼はたとえ幸せでなくても、ランダムに熱狂的意欲を獲得します。\n(Moloy Traits (Continued))",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Moloy Traits (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MT_Peppy",
+      "name": "元気いっぱい"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは天才的な職人であり、しばしば創造意欲を得ます。しかし、彼の心は移ろいやすく、精神的休憩をとる可能性がはるかに高くなっています。\n(Moloy Traits (Continued))",
+      "stats": [
+        "+3 芸術",
+        "+3 工芸",
+        "+20% 精神的弱さ"
+      ],
+      "conflicts": [
+        "元気いっぱい",
+        "苦悩する芸術家"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "元気いっぱい",
+          "苦悩する芸術家"
+        ],
+        "stats": [
+          "+3 芸術",
+          "+3 工芸",
+          "+20% 精神的弱さ"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Moloy Traits (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MT_Volatile_Crafter",
+      "name": "気まぐれな職人"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "何らかの理由で、誰もがTimmyがどのように感じているかをかなり気にしているようです。\n(Moloy Traits (Continued))",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Moloy Traits (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MT_Luminary",
+      "name": "ルミナリー"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは、他者の行動を厳しく批判し、指示します。 Timmyの周りの入植者はより速く動き、働きますが、追加されたストレスから気分が悪くなります。\n(Moloy Traits (Continued))",
+      "stats": [],
+      "conflicts": [
+        "イイ人",
+        "指導者"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "イイ人",
+          "指導者"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Moloy Traits (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MT_Tyrant",
+      "name": "暴君"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは危険を冒して冒険をするのが大好きです。彼は、クエストに成功するとムードにバフを、失敗するとデバフを受けます。\n(Moloy Traits (Continued))",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Moloy Traits (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MT_Venturous",
+      "name": "冒険好き"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is rough and ready, and can march around all day in heavy armor in hot, sweaty weather.",
+      "stats": [
+        "+66% discomfort tolerance"
+      ],
+      "conflicts": [
+        "ヌーディスト"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ヌーディスト"
+        ],
+        "stats": [
+          "+66% discomfort tolerance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Armor Is Uncomfortable 2",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ComfortTolerance",
+      "name": "higharmortolerance"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy rarely complains about personal comfort, and can tolerate heavy armor longer than others.\n(Armor Is Uncomfortable 2)",
+      "stats": [
+        "+33% discomfort tolerance"
+      ],
+      "conflicts": [
+        "ヌーディスト"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ヌーディスト"
+        ],
+        "stats": [
+          "+33% discomfort tolerance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Armor Is Uncomfortable 2",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ComfortTolerance",
+      "name": "armortolerance"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy doesn't like to wear heavy armor, and will need to change out more frequently.\n(Armor Is Uncomfortable 2)",
+      "stats": [
+        "-20% discomfort tolerance"
+      ],
+      "conflicts": [
+        "ヌーディスト"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ヌーディスト"
+        ],
+        "stats": [
+          "-20% discomfort tolerance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Armor Is Uncomfortable 2",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ComfortTolerance",
+      "name": "dislikesarmor"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Everything chafes to Timmy, and 彼 refuses to wear armor any longer than absolutely necessary..\n(Armor Is Uncomfortable 2)",
+      "stats": [
+        "-50% discomfort tolerance"
+      ],
+      "conflicts": [
+        "ヌーディスト"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ヌーディスト"
+        ],
+        "stats": [
+          "-50% discomfort tolerance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Armor Is Uncomfortable 2",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ComfortTolerance",
+      "name": "hatesarmor"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは,よく寝るのが好きで,いつも寝不足気味なんです.",
+      "stats": [
+        "-20% 休息しやすさ"
+      ],
+      "conflicts": [
+        "熟睡の達人",
+        "かわいい食いしん猫"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "熟睡の達人",
+          "かわいい食いしん猫"
+        ],
+        "stats": [
+          "-20% 休息しやすさ"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LazyCat",
+      "name": "かわいい怠け猫"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは,小さなお菓子をたくさん持ち歩いていて,彼の口は片時もあいていないのです.",
+      "stats": [
+        "許可されるのはメンタルブレイク\"Binging_Food\"のみです。",
+        "+2 料理"
+      ],
+      "conflicts": [
+        "食道楽",
+        "かわいい怠け猫"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "食道楽",
+          "かわいい怠け猫"
+        ],
+        "stats": [
+          "許可されるのはメンタルブレイク\"Binging_Food\"のみです。",
+          "+2 料理"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "GreedyCat",
+      "name": "かわいい食いしん猫"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "いくつかの経験から,Timmyは火をとても怖がっています.",
+      "stats": [
+        "-5 料理"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-5 料理"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FireFear",
+      "name": "火が怖い"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは,生まれつきの毒に強い耐性を持っています.",
+      "stats": [
+        "+25% 毒環境耐性"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+25% 毒環境耐性"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ToxicResistance",
+      "name": "毒耐性"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは,眼がとてもいいです.",
+      "stats": [
+        "+2 射撃",
+        "+5.0 命中率(射撃)"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 射撃",
+          "+5.0 命中率(射撃)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SharpEye",
+      "name": "鋭い瞳"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyの身体はかつてひどい傷を負い,完治できないほどのダメージを負っています.",
+      "stats": [
+        "-0.15 移動速度",
+        "-8% 痛みへの限界値",
+        "x105% 受けるダメージ倍率"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-0.15 移動速度",
+          "-8% 痛みへの限界値",
+          "x105% 受けるダメージ倍率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "OldWound",
+      "name": "古傷"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは,民衆に愛される勇者です.",
+      "stats": [
+        "+5 格闘",
+        "+25.00% 政治力",
+        "+0.15 移動速度",
+        "+30% 痛みへの限界値",
+        "-40% 精神的弱さ",
+        "+5.0 回避率(白兵戦)",
+        "+5.0 命中率(白兵戦)",
+        "x50% 受けるダメージ倍率"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 格闘",
+          "+25.00% 政治力",
+          "+0.15 移動速度",
+          "+30% 痛みへの限界値",
+          "-40% 精神的弱さ",
+          "+5.0 回避率(白兵戦)",
+          "+5.0 命中率(白兵戦)",
+          "x50% 受けるダメージ倍率"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "KittyValor",
+      "name": "にゃんこ勇者！"
     }
   ],
   "races": [
@@ -8004,6 +8650,384 @@
       "enabled": false,
       "name": "スマーティ",
       "price": 1583
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+$1500 金額",
+          "+4.00 移動速度",
+          "+60.00 重量",
+          "+100% 燃えやすさ",
+          "+4.0C 快適と感じる最低気温",
+          "+38.0C 快適と感じる最高気温",
+          "+25 生皮の量",
+          "+100% 研究・速度",
+          "+115% 掘削・速度",
+          "+100.00% 政治力",
+          "+100% 精神感応性",
+          "+100% 免疫を得る速度",
+          "+70% 痛みへの限界値",
+          "+115% 基本的な作業速度"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "シルキーラはある宙族の一派が人工種族ニアメーアを元に生物兵器としてではなく労働力として調整・量産された人工種族です。反乱抑制の一環として個々の身体能力は人間に劣り働くことを良しとする性質を持たせています、また新たに小動物の遺伝子を組み込まれたことにより人懐っこい性格の個体が多いようです。\n\n創造主の下を離れるまでは製造関連の仕事に従事しその後はそのキャリアを生かして武器や道具の生産プラントを運営しているようです。\n\n\n元がニアメーアであるためか彼女たちの衣装を着ることが出来ます。",
+      "defName": "HAR_Silkiera",
+      "enabled": true,
+      "name": "シルキーラ",
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+$1500 金額",
+          "+8.00 移動速度",
+          "+60.00 重量",
+          "+100% 燃えやすさ",
+          "-10.0C 快適と感じる最低気温",
+          "+48.0C 快適と感じる最高気温",
+          "+25 生皮の量",
+          "+130% 研究・速度",
+          "+130% 掘削・速度",
+          "+100.00% 政治力",
+          "+100% 精神感応性",
+          "+100% 免疫を得る速度",
+          "+70% 痛みへの限界値",
+          "+130% 基本的な作業速度",
+          "+130% 栽培・速度",
+          "+130% 建造・速度",
+          "+130% 作業・速度",
+          "+1.3 調理・速度",
+          "+130% 溶解・速度",
+          "+130% 合成・速度",
+          "+130% 看護・速度",
+          "+130% 医療・処置速度"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "シルキーラ・クオリティは亜人工業がシルキーラ自身の品種改良を続た末に誕生した上位個体です。\n「才能」という点に着目して設計されたため特殊な力は保有していません、しかしあらゆる分野において高い適性を持ち、どのような状況でもそれらに対応が可能となっています。\n\n亜人工業内では統括や管理など上位の立場についていることが多く、損失を可能な限り控えていることから通常人目に姿を見せることはありません。\nもし彼女が仲間に加わった場合、コロニー活動においてはその才能と手腕を武器に縦横無尽に活躍してくれるでしょう。",
+      "defName": "HAR_Silkiera_b",
+      "enabled": true,
+      "name": "シルキーラ・クオリティ",
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+$10000 金額",
+          "+9.00 移動速度",
+          "+60.00 重量",
+          "+0% 燃えやすさ",
+          "-300.0C 快適と感じる最低気温",
+          "+300.0C 快適と感じる最高気温",
+          "+25 生皮の量",
+          "+100% 研究・速度",
+          "+115% 掘削・速度",
+          "+100.00% 政治力",
+          "+100% 精神感応性",
+          "+100% 免疫を得る速度",
+          "+90% 痛みへの限界値",
+          "+115% 基本的な作業速度",
+          "+60.0% アーマー - 打撲系",
+          "+60.0% アーマー - 突刺系",
+          "+200.0% アーマー - 熱系",
+          "+70% 受けるダメージ倍率"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "『邪謀種シルキーラ・ヴィクセンマリス』は種として脆いシルキーラを纏める為に用意された上位個体です。\n亜人工業では幹部クラスに相当し表向き顔役のリーダーを影から補佐しています。\n\n狡猾で残忍、それでいて反撃を許さない立ち回りを器用にこなす恐ろしさを持っており、その手腕が現在の亜人工業を支える支柱にもなっています。\n創造主が健在な頃は主の忠実な僕でしたが、手綱を握る者がいない今はヴィクセンマリス同士で連携しながら亜人工業を盛り立て、機会があれば狂宴を開いていると言われています。\n\n上位種として高い膂力を持っていますが妖術の使い手でもあり、『幻惑によって射撃を無効化』、『血を伴う呪詛、及び敵意に対する呪詛返し』といったジワジワと相手を痛めつける術を好んで使っているようです。\n\n余程の変わり者でない限り残忍な性格をしているのでコロニーでの活動では他の入植者との折り合いを付ける為の工夫が必要とされるでしょう。",
+      "defName": "HAR_Silkiera_c",
+      "enabled": true,
+      "name": "シルキーラ・ヴィクセンマリス",
+      "price": 16667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+$2750 金額",
+          "+4.60 移動速度",
+          "+16.0C 快適と感じる最低気温",
+          "+26.0C 快適と感じる最高気温",
+          "+75 生皮の量",
+          "+3 名誉値"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "ヒトの死後、成仏できずにこの世に残ってしまった者たちです。\n元々は一般的なヒトだったため諸々の特性はヒトに準じていますが、霊体となってしまったため障害物や壁の影響を受けずに行動できるようになりました。\n壁抜けができるとはいえ人間の頃の癖が抜けきっておらず、律儀に障害物を避けたりドアから入ったりする様子もしばしばみられます。",
+      "defName": "GRC_GhostHuman",
+      "enabled": true,
+      "name": "テレッサ",
+      "price": 4583
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+$5000 金額",
+          "+8.00 移動速度",
+          "+65.00 重量",
+          "+0% 燃えやすさ",
+          "-100.0C 快適と感じる最低気温",
+          "+35.0C 快適と感じる最高気温",
+          "+25 生皮の量",
+          "+100% 研究・速度",
+          "+100.00% 政治力",
+          "+0% 精神感応性",
+          "+130% 免疫を得る速度",
+          "+2.0 回避率(白兵戦)",
+          "+0.0% アーマー - 打撲系",
+          "+0.0% アーマー - 突刺系",
+          "+200.0% アーマー - 熱系",
+          "+80% 痛みへの限界値",
+          "+100% 毒耐性",
+          "+80% 毒環境耐性"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "ケイオーラは宙族のある一派が作り上げた人工種族です、国や大きな派閥を作らせないために女性しか産まれないよう遺伝子操作をされています。\n\nリトルーナを通じて得た宇宙に潜む超存在のデータを下に既存の人工種族を改良することで産まれました。\n超存在譲りの概念に干渉する補助器官を持ち、生半可な攻撃では倒れない肉体が特徴です。\n虚数や混沌といった人間の理解の外にある概念に強く、その中でも影という存在が不明瞭になる理に高い親和性を有しています。\n暗闇いると身体能力が向上するほか、虚数空間を用いた転移能力に識別阻害など特異な機能を発揮し夜戦では無双の強さを見せるでしょう。\n他の生物がケイオーラに干渉すると『深淵爛れ』という現象が発生し、徐々に身体機能に悪影響を及ぼす症状が発生します。\n\n\nこれら多くの特異性の代償としてか他の人種より劣っていることも多く、\n影に馴染みやすくするための一環として本体・装備に対物装甲を有することができず、武器も専用の物しか手にすることができません。\nそして強い日差しを浴びると補助器官が麻痺してしまい身体能力が低下するという欠点もあるため、\n大半の個体は夜間での活動を好む傾向があります。",
+      "defName": "HAR_CO_Race_Chaoura_a",
+      "enabled": true,
+      "name": "ケイオーラ",
+      "price": 8333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 重量",
+          "+150% 燃えやすさ",
+          "+$1200 金額",
+          "+4.70 移動速度",
+          "+25.0C 快適と感じる最高気温",
+          "-5.0C 快適と感じる最低気温",
+          "+100% 休息しやすさ",
+          "+100% 食事の早さ",
+          "+75 輸送能力",
+          "+35 生肉の量",
+          "+45 生皮の量",
+          "+75% 痛みへの限界値",
+          "+100% 精神感応性",
+          "+40% 精神的弱さ",
+          "+50% 毒耐性",
+          "+50% 毒環境耐性",
+          "+1.2 回避率(白兵戦)",
+          "+1.0 命中率(白兵戦)",
+          "+100% 照準時間",
+          "+1.0 命中率(射撃)",
+          "+115.00% 外交力",
+          "+100% 売値掛け率",
+          "+125.00% 政治力",
+          "+115.00% 商人の勘",
+          "+100% メカノイド・寸断収率",
+          "+100% メカノイド・寸断速度",
+          "+100% 溶解・速度",
+          "+100% 作業・速度",
+          "+100% 建造・速度",
+          "+100% 食肉加工・収率",
+          "+100% 食肉加工・速度",
+          "+110.00% 食中毒・発生率",
+          "+1.3 調理・速度",
+          "+125% 栽培・速度",
+          "+100% 身につけやすさ",
+          "+100% 研究・速度",
+          "+100% 看護・品質",
+          "+150% 合成・速度",
+          "+100% 外科手術の成功率",
+          "+105% 免疫を得る速度",
+          "+90% 掘削・速度",
+          "+110% 掘削・収率",
+          "+0.0% アーマー - 打撲系",
+          "+0.0% アーマー - 突刺系"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "ユランはウサギの外的特徴を持つ亜人種族で,その起源については正確に知られていません.\n人口の少ない少数民族で,遺伝子の問題があり,男性が存在しないため,他種族との結婚を通じてなんとか種族を存続させています.\n血筋によって受け継がれる特殊な能力を持つ\"巫女\"を中心に小さな村落規模の村で生活し,故郷の村にある大きな桜の木を信仰しています.",
+      "defName": "Yuran_Race",
+      "enabled": true,
+      "name": "ユラン",
+      "price": 2000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+52.00 重量",
+          "+150% 燃えやすさ",
+          "+$2800 金額",
+          "+4.75 移動速度",
+          "+25.0C 快適と感じる最高気温",
+          "+10.0C 快適と感じる最低気温",
+          "+100% 休息しやすさ",
+          "+100% 食事の早さ",
+          "+75 輸送能力",
+          "+5 生肉の量",
+          "+5 生皮の量",
+          "+80% 痛みへの限界値",
+          "+135% 精神感応性",
+          "+25% 精神的弱さ",
+          "+100% 毒耐性",
+          "+100% 毒環境耐性",
+          "+1.2 回避率(白兵戦)",
+          "+1.0 命中率(白兵戦)",
+          "+100% 照準時間",
+          "+1.0 命中率(射撃)",
+          "+125.00% 外交力",
+          "+100% 売値掛け率",
+          "+150.00% 政治力",
+          "+115.00% 商人の勘",
+          "+100% メカノイド・寸断収率",
+          "+100% メカノイド・寸断速度",
+          "+100% 溶解・速度",
+          "+100% 作業・速度",
+          "+100% 建造・速度",
+          "+100% 食肉加工・収率",
+          "+100% 食肉加工・速度",
+          "+110.00% 食中毒・発生率",
+          "+1.0 調理・速度",
+          "+125% 栽培・速度",
+          "+100% 身につけやすさ",
+          "+100% 研究・速度",
+          "+120% 看護・品質",
+          "+150% 合成・速度",
+          "+100% 外科手術の成功率",
+          "+105% 免疫を得る速度",
+          "+50% 掘削・速度",
+          "+100% 掘削・収率",
+          "+0.0% アーマー - 打撲系",
+          "+0.0% アーマー - 突刺系",
+          "+220.00% 改宗させる力"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "巫女は特別な血筋を受け継いだ家系に属するユランの一種の義務で,村のために奉仕し,また管理する役割を果たしています.",
+      "defName": "Yuran_Race_Miko",
+      "enabled": true,
+      "name": "ユラン巫女",
+      "price": 4667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+48.00 重量",
+          "+0% 燃えやすさ",
+          "+$2800 金額",
+          "+4.75 移動速度",
+          "+25.0C 快適と感じる最高気温",
+          "+10.0C 快適と感じる最低気温",
+          "+100% 休息しやすさ",
+          "+100% 食事の早さ",
+          "+75 輸送能力",
+          "+5 生肉の量",
+          "+5 生皮の量",
+          "+90% 痛みへの限界値",
+          "+185% 精神感応性",
+          "+25% 精神的弱さ",
+          "+100% 毒耐性",
+          "+100% 毒環境耐性",
+          "+1.2 回避率(白兵戦)",
+          "+1.0 命中率(白兵戦)",
+          "+100% 照準時間",
+          "+1.0 命中率(射撃)",
+          "+175.00% 外交力",
+          "+100% 売値掛け率",
+          "+250.00% 政治力",
+          "+135.00% 商人の勘",
+          "+100% メカノイド・寸断収率",
+          "+100% メカノイド・寸断速度",
+          "+100% 溶解・速度",
+          "+100% 作業・速度",
+          "+100% 建造・速度",
+          "+100% 食肉加工・収率",
+          "+100% 食肉加工・速度",
+          "+110.00% 食中毒・発生率",
+          "+1.0 調理・速度",
+          "+125% 栽培・速度",
+          "+120% 身につけやすさ",
+          "+100% 研究・速度",
+          "+120% 看護・品質",
+          "+150% 合成・速度",
+          "+100% 外科手術の成功率",
+          "+105% 免疫を得る速度",
+          "+50% 掘削・速度",
+          "+100% 掘削・収率",
+          "+20.0% アーマー - 打撲系",
+          "+20.0% アーマー - 突刺系",
+          "+400.00% 改宗させる力",
+          "+4.0 美しさ"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "彼女は呪術がお手の物の巫女です.記録によれば,彼女は死さえも克服したという.",
+      "defName": "Yuran_Race_Miko_BlackSnake",
+      "enabled": true,
+      "name": "ユラン黒蛇",
+      "price": 4667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+45.00 重量",
+          "+30% 燃えやすさ",
+          "+$2750 金額",
+          "+4.80 移動速度",
+          "+35% 精神的弱さ",
+          "+37.0C 快適と感じる最高気温",
+          "+5.0C 快適と感じる最低気温",
+          "+98% 免疫を得る速度",
+          "+75 輸送能力",
+          "+4 名誉値",
+          "+45 生肉の量",
+          "+50 生皮の量",
+          "+100% 身につけやすさ",
+          "+115% 精神感応性",
+          "+80% 痛みへの限界値",
+          "+100% 作業・速度",
+          "+100% 合成・速度",
+          "+100% 看護・速度",
+          "+100% 看護・品質",
+          "+100% 外科手術の成功率",
+          "+80.00% 外交力",
+          "+100% 売値掛け率",
+          "+100.00% 商人の勘",
+          "+100.00% 政治力",
+          "+120% 基本的な作業速度",
+          "+90% 食事の早さ",
+          "+80% 建造・速度",
+          "+100% メカノイド・寸断収率",
+          "+100% メカノイド・寸断速度",
+          "+80% 溶解・速度",
+          "+100% 研究・速度",
+          "+100% 掘削・速度",
+          "+100% 掘削・収率",
+          "+100% 食肉加工・収率",
+          "+100% 食肉加工・速度",
+          "+1.0 調理・速度",
+          "+100% 休息しやすさ",
+          "+100% 栽培・速度",
+          "+100% 栽培・収率"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "ネコのような耳と尻尾と四肢を持つ人型種族のキイロです.\n\t何千年も前からRimworldに住んでいるキイロ族の技術は,中世の水準に達して以来,ゆっくりと発展してきました：昼寝をしたり,おしゃべりをしたり,日光浴をしたり,余暇を楽しんだりと,彼女たちは科学技術の研究以外にもいつもやりたいことがたくさんあるのです.自由な時間を仕事に回しても,芸術に関することをするのが何よりの喜びなのです.穏やかで非戦闘的な性格のため,彼女たちの社会は長い歴史の中で高いレベルの調和と安定を保ち,紛争や争いはほとんどなく,その結果,俊敏で器用なのですが,戦闘はあまり得意ではないということが分かりました.\n\tしかし,乱暴者のアウトランダーがRimworldにやって来て定住するようになってからは,すべてが変わってしまいました：戦闘経験も訓練もしたこともなく,技術的にも大きな発展を遂げていないキイロ族は,アウトランダーの襲撃になす術もなく,多くの村や町が襲撃されて壊滅しました.このため,キイロ族は平和な日常を捨て,生き残るための困難な旅に出ることを強いられました.\n\tしかし,アウトランダーの侵略は,戦争や混乱の種を撒くだけでなく,技術開発の機会をもこの時代にもたらしました.アウトランダーがもたらした技術に触れ,導入と模倣によってキイロの技術水準は短期間で爆発的に向上し,産業時代の種がこの古代後進民族の中で静かに芽吹き始めるのでした......",
+      "defName": "Kiiro_Race",
+      "enabled": true,
+      "name": "キイロ",
+      "price": 4583
     }
   ]
 }

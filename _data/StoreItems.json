@@ -975,31 +975,31 @@
 	{
 		"abr": "羊毛",
 		"price": 4,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "WoolSheep"
 	},
 	{
 		"abr": "アルパカ毛",
 		"price": 6,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "WoolAlpaca"
 	},
 	{
 		"abr": "メガスロス毛",
 		"price": 4,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "WoolMegasloth"
 	},
 	{
 		"abr": "マッファロ毛",
 		"price": 4,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "WoolMuffalo"
 	},
 	{
 		"abr": "バイソン毛",
 		"price": 4,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "WoolBison"
 	},
 	{
@@ -4305,13 +4305,13 @@
 	{
 		"abr": "アオメの羊毛",
 		"price": 17,
-		"category": "毛",
+		"category": "獣耳少女の毛",
 		"defname": "aomeWool"
 	},
 	{
 		"abr": "アカメの羊毛",
 		"price": 17,
-		"category": "毛",
+		"category": "獣耳少女の毛",
 		"defname": "akameWool"
 	},
 	{
@@ -4611,7 +4611,7 @@
 	{
 		"abr": "キングハムスター毛",
 		"price": 4,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "RK_Wool_KingHamster"
 	},
 	{
@@ -4887,7 +4887,7 @@
 	{
 		"abr": "クロの毛",
 		"price": 17,
-		"category": "毛",
+		"category": "獣耳少女の毛",
 		"defname": "kuroWool"
 	},
 	{
@@ -4923,7 +4923,7 @@
 	{
 		"abr": "コヒメの毛",
 		"price": 50,
-		"category": "毛",
+		"category": "獣耳少女の毛",
 		"defname": "kohimeWool"
 	},
 	{
@@ -4947,7 +4947,7 @@
 	{
 		"abr": "コンの髪の毛",
 		"price": 10,
-		"category": "毛",
+		"category": "獣耳少女の毛",
 		"defname": "konWool"
 	},
 	{
@@ -5235,7 +5235,7 @@
 	{
 		"abr": "シロの髪の毛",
 		"price": 10,
-		"category": "毛",
+		"category": "獣耳少女の毛",
 		"defname": "siroWool"
 	},
 	{
@@ -5583,7 +5583,7 @@
 	{
 		"abr": "ドラコニアン毛",
 		"price": 18,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "WoolDragonian"
 	},
 	{
@@ -5649,7 +5649,7 @@
 	{
 		"abr": "ハナの髪の毛",
 		"price": 13,
-		"category": "毛",
+		"category": "獣耳少女の毛",
 		"defname": "hanaWool"
 	},
 	{
@@ -5847,7 +5847,7 @@
 	{
 		"abr": "ミコの金色毛",
 		"price": 20,
-		"category": "毛",
+		"category": "獣耳少女の毛",
 		"defname": "mikoWool"
 	},
 	{
@@ -5913,7 +5913,7 @@
 	{
 		"abr": "ユキの鱗",
 		"price": 83,
-		"category": "毛",
+		"category": "獣耳少女の毛",
 		"defname": "yukiwool"
 	},
 	{
@@ -8439,7 +8439,7 @@
 	{
 		"abr": "リリンの毛",
 		"price": 4,
-		"category": "毛",
+		"category": "髪の毛",
 		"defname": "Lilin_Wool"
 	},
 	{
@@ -11046,6 +11046,270 @@
 		"category": "ユーティリティ",
 		"defname": "Kiiro_Apparel_ThrowingCrossKnives"
 	},
+	{
+		"abr": "アオメのジュース",
+		"price": 5,
+		"category": "獣耳製品",
+		"defname": "AomeDrink"
+	},
+	{
+		"abr": "アカメのミルク",
+		"price": 5,
+		"category": "獣耳製品",
+		"defname": "AkameMilk"
+	},
+	{
+		"abr": "アマ標準的な軍服",
+		"price": 600,
+		"category": "装甲化",
+		"defname": "AMAKRUniform"
+	},
+	{
+		"abr": "キイロ暗器(柳葉飛刀)",
+		"price": 115,
+		"category": "ユーティリティ",
+		"defname": "Kiiro_Apparel_ThrowingKnives"
+	},
+	{
+		"abr": "キイロ木槌",
+		"price": 270,
+		"category": "近接",
+		"defname": "Kiiro_Hammer"
+	},
+	{
+		"abr": "キイロ木炭式鍛冶台",
+		"price": 492,
+		"category": "生産物",
+		"defname": "Kiiro_FueledSmithy"
+	},
+	{
+		"abr": "キイロ朴刀",
+		"price": 254,
+		"category": "近接",
+		"defname": "Kiiro_LongHandledBlade"
+	},
+	{
+		"abr": "キイロ柄付グレネード",
+		"price": 333,
+		"category": "グレネード",
+		"defname": "Kiiro_GrenadeFrag"
+	},
+	{
+		"abr": "キイロ柄付グレネードベルト",
+		"price": 408,
+		"category": "ユーティリティ",
+		"defname": "Kiiro_Apparel_GrenadeFrag"
+	},
+	{
+		"abr": "キイロ柳葉飛刀",
+		"price": 112,
+		"category": "遠隔",
+		"defname": "Kiiro_ThrowingKnife"
+	},
+	{
+		"abr": "キイロ浪人笠",
+		"price": 533,
+		"category": "ロイヤリティ",
+		"defname": "Kiiro_RainHat"
+	},
+	{
+		"abr": "キイロ消火剤ポップパック",
+		"price": 241,
+		"category": "ユーティリティ",
+		"defname": "Kiiro_FirefoamPopPack"
+	},
+	{
+		"abr": "キイロ無線イヤホン",
+		"price": 383,
+		"category": "Mechanitor",
+		"defname": "Kiiro_AirwireHeadset"
+	},
+	{
+		"abr": "キイロ白衣",
+		"price": 400,
+		"category": "ロイヤリティ",
+		"defname": "Kiiro_WhiteGown"
+	},
+	{
+		"abr": "キイロ穿雲弩バックパック",
+		"price": 350,
+		"category": "ユーティリティ",
+		"defname": "Kiiro_AutoCrossBowPack"
+	},
+	{
+		"abr": "キイロ粗雑なコート",
+		"price": 225,
+		"category": "ロイヤリティ",
+		"defname": "Kiiro_SimpleCoat"
+	},
+	{
+		"abr": "キイロ粗雑な下着",
+		"price": 77,
+		"category": "ロイヤリティ",
+		"defname": "Kiiro_SimpleUnderwear"
+	},
+	{
+		"abr": "キイロ紙漉き台",
+		"price": 767,
+		"category": "生産物",
+		"defname": "Kiiro_PaperMakingBench"
+	},
+	{
+		"abr": "キイロ紙細工のペンダント(ハート)",
+		"price": 92,
+		"category": "ロイヤリティ",
+		"defname": "Kiiro_PaperFoldingPendantHeart"
+	},
+	{
+		"abr": "キイロ紙細工のペンダント(十字架)",
+		"price": 92,
+		"category": "ロイヤリティ",
+		"defname": "Kiiro_PaperFoldingPendantCross"
+	},
+	{
+		"abr": "キイロ紙細工のペンダント(星)",
+		"price": 92,
+		"category": "ロイヤリティ",
+		"defname": "Kiiro_PaperFoldingPendantStar"
+	},
+	{
+		"abr": "キイロ紙細工台",
+		"price": 313,
+		"category": "生産物",
+		"defname": "Kiiro_PaperArtBench"
+	},
+	{
+		"abr": "キイロ絆創膏",
+		"price": 55,
+		"category": "ロイヤリティ",
+		"defname": "Kiiro_Woundplast"
+	},
+	{
+		"abr": "キイロ背弩",
+		"price": 342,
+		"category": "着物",
+		"defname": "Kiiro_Apparel_DorsalCrossbow"
+	},
+	{
+		"abr": "キイロ致命毒瓶",
+		"price": 187,
+		"category": "ユーティリティ",
+		"defname": "Kiiro_Apparel_PoisonBottleDeadly"
+	},
+	{
+		"abr": "キイロ菜刀",
+		"price": 120,
+		"category": "近接",
+		"defname": "Kiiro_KitchenKnife"
+	},
+	{
+		"abr": "キイロ袖箭",
+		"price": 213,
+		"category": "ユーティリティ",
+		"defname": "Kiiro_Apparel_ChainAttacker"
+	},
+	{
+		"abr": "キイロ補給隊のドレス",
+		"price": 1358,
+		"category": "ロイヤリティ",
+		"defname": "Kiiro_NoelleDress"
+	},
+	{
+		"abr": "キイロ補給隊の帽子",
+		"price": 170,
+		"category": "ロイヤリティ",
+		"defname": "Kiiro_NoelleHat"
+	},
+	{
+		"abr": "キイロ試作サブマシンガン",
+		"price": 400,
+		"category": "遠隔",
+		"defname": "Kiiro_TRWeapon_SMG"
+	},
+	{
+		"abr": "キイロ試作ショットガン",
+		"price": 467,
+		"category": "遠隔",
+		"defname": "Kiiro_TRWeapon_ShotGun"
+	},
+	{
+		"abr": "キイロ試作ライトマシンガン",
+		"price": 758,
+		"category": "遠隔",
+		"defname": "Kiiro_TRWeapon_LMG"
+	},
+	{
+		"abr": "キイロ試作ライフル",
+		"price": 492,
+		"category": "遠隔",
+		"defname": "Kiiro_TRWeapon_Rifle"
+	},
+	{
+		"abr": "キイロ試作ライフル(銃剣)",
+		"price": 533,
+		"category": "遠隔",
+		"defname": "Kiiro_TRWeapon_RifleII"
+	},
+	{
+		"abr": "アマゾン",
+		"price": 1500,
+		"category": "家畜",
+		"defname": "AA_Amazon"
+	},
+	{
+		"abr": "アマゾンのツノ",
+		"price": 11,
+		"category": "近接",
+		"defname": "AS_MeleeWeapon_AmazonHorn"
+	},
+	{
+		"abr": "アマゾンの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_AA_Amazon"
+	},
+	{
+		"abr": "キイロ試作型hng用マガジン",
+		"price": 83,
+		"category": "加工品",
+		"defname": "Kiiro_PT_HMGAmmo"
+	},
+	{
+		"abr": "キイロ試作型サブマシンガン",
+		"price": 1883,
+		"category": "遠隔",
+		"defname": "Kiiro_PTWeapon_SMG"
+	},
+	{
+		"abr": "キイロ試作型スナイパーライフル",
+		"price": 3700,
+		"category": "遠隔",
+		"defname": "Kiiro_PTWeapon_SniperRifle"
+	},
+	{
+		"abr": "キイロ試作型マシンガン",
+		"price": 3558,
+		"category": "遠隔",
+		"defname": "Kiiro_PTWeapon_LMG"
+	},
+	{
+		"abr": "キイロ試作型ライフル",
+		"price": 2600,
+		"category": "遠隔",
+		"defname": "Kiiro_PTWeapon_PrecisionRifle"
+	},
+	{
+		"abr": "キイロ試作型携行式ロケットランチャー",
+		"price": 2883,
+		"category": "ユーティリティ",
+		"defname": "Kiiro_Apparel_PT_RPG"
+	},
+	{
+		"abr": "キイロ軍用ヘルメット(a)",
+		"price": 255,
+		"category": "ロイヤリティ",
+		"defname": "Kiiro_MilitaryHelmet"
+	},
 	],
-	"total": 2069
+	"total": 2113
 }

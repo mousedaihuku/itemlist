@@ -168,8 +168,20 @@
     "version": null
   },
   {
+    "author": "Redundantusage",
+    "name": "Biotech Gene Variety",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Victorique, Auraniと Tarojun",
     "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Victorique, Auraniと Tarojun",
+    "name": "EPOE-Forked: Royalty DLC expansion",
     "steamId": null,
     "version": null
   },
@@ -930,6 +942,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Ouroboros226と Taranchuk",
     "name": "Voice-Acted Radio Chatter",
     "steamId": "2819334265",
@@ -956,12 +974,6 @@
   {
     "author": "Nationality",
     "name": "Armor Is Uncomfortable 2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Maarx",
-    "name": "AssignedWorkbenches",
     "steamId": null,
     "version": null
   },
@@ -1060,6 +1072,18 @@
     "name": "Medical Tab",
     "steamId": "715565817",
     "version": "3.4.91"
+  },
+  {
+    "author": "Mlie",
+    "name": "No Missing Gene Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RandomCoughdrop",
+    "name": "Random's Gene Assistant",
+    "steamId": "2882497271",
+    "version": "1.0.0"
   },
   {
     "author": "Porohkun",
@@ -1374,6 +1398,12 @@
     "version": null
   },
   {
+    "author": "Moo",
+    "name": "kemomimihouse Kz",
+    "steamId": "2211305406",
+    "version": "1.0.8576.17702"
+  },
+  {
     "author": "MooとVelc",
     "name": "kemomimihouse HardworkingKz",
     "steamId": "2975129498",
@@ -1392,8 +1422,14 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "Capataina",
-    "name": "Cap's Maid Bot",
+    "author": "Udon",
+    "name": "野生のアマゾン",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "uniinu",
+    "name": "九尾の狐",
     "steamId": null,
     "version": null
   },
@@ -1582,6 +1618,12 @@
     "name": "TwitchToolkit - Lootboxes (Unofficial)",
     "steamId": "1720021578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.5.0"
   },
   {
     "author": "TimmyLiang",
@@ -1826,6 +1868,12 @@
   {
     "author": "Proxyer",
     "name": "Misc Training 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Biotech Gene Variety 日本語翻訳追加",
     "steamId": null,
     "version": null
   }

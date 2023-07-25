@@ -6292,7 +6292,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは暑いのが好きではありません。\n(RimTraits - General Traits)",
+      "description": "Timmyは暑いのが好きではありません。",
       "stats": [
         "-3.0C 快適と感じる最高気温"
       ],
@@ -6324,7 +6324,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは仲間よりも寒い環境にいる方が快適です。\n(RimTraits - General Traits)",
+      "description": "Timmyは仲間よりも寒い環境にいる方が快適です。",
       "stats": [
         "-3.0C 快適と感じる最低気温"
       ],
@@ -6356,7 +6356,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは寒いのが好きではありません。\n(RimTraits - General Traits)",
+      "description": "Timmyは寒いのが好きではありません。",
       "stats": [
         "+3.0C 快適と感じる最低気温"
       ],
@@ -6388,7 +6388,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは体格が良いので、彼の周りの人はそれをむしろ魅力的に感じます。\n(RimTraits - General Traits)",
+      "description": "Timmyは体格が良いので、彼の周りの人はそれをむしろ魅力的に感じます。",
       "stats": [
         "+5 輸送能力",
         "+1.0 美しさ"
@@ -6422,7 +6422,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは少し脆そうで、魅力的ではない。\n(RimTraits - General Traits)",
+      "description": "Timmyは少し脆そうで、魅力的ではない。",
       "stats": [
         "-5 輸送能力",
         "-1.0 美しさ"
@@ -6456,7 +6456,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyはあまり食べたり飲んだりしません。\n(RimTraits - General Traits)",
+      "description": "Timmyはあまり食べたり飲んだりしません。",
       "stats": [],
       "conflicts": [
         "ravenous",
@@ -6484,7 +6484,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyには、お腹に底なしの穴があります。\n(RimTraits - General Traits)",
+      "description": "Timmyには、お腹に底なしの穴があります。",
       "stats": [],
       "conflicts": [
         "abstinent",
@@ -6512,7 +6512,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは生まれながらにして才能があり、彼は誰よりも早く頭角を現します。\n(RimTraits - General Traits)",
+      "description": "Timmyは生まれながらにして才能があり、彼は誰よりも早く頭角を現します。",
       "stats": [
         "+4 射撃",
         "+4 格闘",
@@ -6566,7 +6566,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、誰もが憎めない人です。\n(RimTraits - General Traits)",
+      "description": "Timmyは、誰もが憎めない人です。",
       "stats": [
         "-4 射撃",
         "-4 格闘",
@@ -6620,7 +6620,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は食事の準備に細心の注意を払い、【彼】は早く食事を作るのにも手を抜かない。\n(RimTraits - General Traits)",
+      "description": "Timmy】は食事の準備に細心の注意を払い、【彼】は早く食事を作るのにも手を抜かない。",
       "stats": [
         "-0.8 調理・速度",
         "-10.00% 食中毒・発生率"
@@ -6654,7 +6654,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は【彼】が記録的な速さで食事を提供して【彼の】に食べさせれるのなら、レシピなんてどうでもいいと思ってます。\n(RimTraits - General Traits)",
+      "description": "Timmy】は【彼】が記録的な速さで食事を提供して【彼の】に食べさせれるのなら、レシピなんてどうでもいいと思ってます。",
       "stats": [
         "+0.8 調理・速度",
         "+10.00% 食中毒・発生率"
@@ -6688,7 +6688,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは健康的な生活をしていて、元気に明るく目覚めています。\n(RimTraits - General Traits)",
+      "description": "Timmyは健康的な生活をしていて、元気に明るく目覚めています。",
       "stats": [
         "+10% 休息しやすさ",
         "+10% 免疫を得る速度",
@@ -6730,7 +6730,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】はよく病気になりベッドから起き上がるのも普通の人より努力が必要なようです。\n(RimTraits - General Traits)",
+      "description": "Timmy】はよく病気になりベッドから起き上がるのも普通の人より努力が必要なようです。",
       "stats": [
         "-10% 休息しやすさ",
         "-10% 免疫を得る速度",
@@ -6772,7 +6772,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】はどんな季節でも快適に過ごします。\n(RimTraits - General Traits)",
+      "description": "Timmy】はどんな季節でも快適に過ごします。",
       "stats": [
         "+3.0C 快適と感じる最高気温",
         "-3.0C 快適と感じる最低気温"
@@ -6806,7 +6806,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は夏は暑すぎるし、冬は寒すぎると思っています。\n(RimTraits - General Traits)",
+      "description": "Timmy】は夏は暑すぎるし、冬は寒すぎると思っています。",
       "stats": [
         "-3.0C 快適と感じる最高気温",
         "+3.0C 快適と感じる最低気温"
@@ -6840,7 +6840,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは反応時間が良く、彼の仲間よりも身体活動のストレスが少ないことがわかります。\n(RimTraits - General Traits)",
+      "description": "Timmyは反応時間が良く、彼の仲間よりも身体活動のストレスが少ないことがわかります。",
       "stats": [
         "+2.0 命中率(射撃)",
         "+2.0 命中率(白兵戦)",
@@ -6876,7 +6876,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは気が散りやすく、それが戦闘になるとしばしば台無しにしてしまいます。\n(RimTraits - General Traits)",
+      "description": "Timmyは気が散りやすく、それが戦闘になるとしばしば台無しにしてしまいます。",
       "stats": [
         "-2.0 命中率(射撃)",
         "-2.0 命中率(白兵戦)",
@@ -6912,7 +6912,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、人々が'ストロンクボイ'と呼ぶものです。\n(RimTraits - General Traits)",
+      "description": "Timmyは、人々が'ストロンクボイ'と呼ぶものです。",
       "stats": [
         "-10% 受けるダメージ倍率",
         "+10% 免疫を得る速度",
@@ -6956,7 +6956,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは非常に打たれ弱いため、彼を動けなくするのにそれほど時間はかかりません。\n(RimTraits - General Traits)",
+      "description": "Timmyは非常に打たれ弱いため、彼を動けなくするのにそれほど時間はかかりません。",
       "stats": [
         "+10% 受けるダメージ倍率",
         "-10% 免疫を得る速度",
@@ -7002,7 +7002,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "楽観的であろうと個性的であろうとTimmyは常に人の明るい面を見ることができます。\n(RimTraits - General Traits)",
+      "description": "楽観的であろうと個性的であろうとTimmyは常に人の明るい面を見ることができます。",
       "stats": [
         "+3 芸術"
       ],
@@ -7034,7 +7034,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyにとっての人生は彼が終わらしたくも終われず逃げることも出来ない多忙な状態になるでしょう\n(RimTraits - General Traits)",
+      "description": "Timmyにとっての人生は彼が終わらしたくも終われず逃げることも出来ない多忙な状態になるでしょう",
       "stats": [
         "-3 芸術"
       ],
@@ -7066,7 +7066,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は世界の仕組みを理解することに興味があり、【彼の】の知識を日常生活で活用することができる。\n(RimTraits - General Traits)",
+      "description": "Timmy】は世界の仕組みを理解することに興味があり、【彼の】の知識を日常生活で活用することができる。",
       "stats": [
         "+4 知力",
         "-5% 精神的弱さ"
@@ -7100,7 +7100,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyの教育のギャップと一般的な好奇心の欠如は彼をの生活をしばしばストレスを感じるでしょう。\n(RimTraits - General Traits)",
+      "description": "Timmyの教育のギャップと一般的な好奇心の欠如は彼をの生活をしばしばストレスを感じるでしょう。",
       "stats": [
         "-4 知力",
         "+5% 精神的弱さ"
@@ -7134,7 +7134,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は【彼の】の周囲をきれいに保つのが好きで、整理整頓された環境に慣れている。\n(RimTraits - General Traits)",
+      "description": "Timmy】は【彼の】の周囲をきれいに保つのが好きで、整理整頓された環境に慣れている。",
       "stats": [
         "+5% 休息しやすさ",
         "+5% 基本的な作業速度",
@@ -7170,7 +7170,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは周囲を顧みないことが多く、彼をが仕事をするのが難しくなっています。\n(RimTraits - General Traits)",
+      "description": "Timmyは周囲を顧みないことが多く、彼をが仕事をするのが難しくなっています。",
       "stats": [
         "-5% 休息しやすさ",
         "-5% 基本的な作業速度",
@@ -7582,7 +7582,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは明らかに人付き合いを気にし過ぎています。彼は他の人を困らせる傾向があり、彼の元恋人たちは先に進むことができません。\n(Moloy Traits (Continued))",
+      "description": "Timmyは明らかに人付き合いを気にし過ぎています。彼は他の人を困らせる傾向があり、彼の元恋人たちは先に進むことができません。",
       "stats": [
         "-2 社交"
       ],
@@ -7614,7 +7614,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは人望が厚いです。彼の言葉は通常よりも人に伝わることがあります。\n(Moloy Traits (Continued))",
+      "description": "Timmyは人望が厚いです。彼の言葉は通常よりも人に伝わることがあります。",
       "stats": [
         "+4 社交",
         "+50.00% 政治力",
@@ -7650,7 +7650,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyはおそらく高い知能が原因で、奇妙な行動をとります。そんな彼の言動は、よくも悪くも社会的に大きな影響を与えます。社会の輪から外れているので、Timmyは、侮辱されても気が付きません。\n(Moloy Traits (Continued))",
+      "description": "Timmyはおそらく高い知能が原因で、奇妙な行動をとります。そんな彼の言動は、よくも悪くも社会的に大きな影響を与えます。社会の輪から外れているので、Timmyは、侮辱されても気が付きません。",
       "stats": [
         "+4 知力",
         "+50.00% 政治力"
@@ -7682,7 +7682,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは他人によく指示します。彼の周辺の入植者はより素早く動くことが出来ます。\n(Moloy Traits (Continued))",
+      "description": "Timmyは他人によく指示します。彼の周辺の入植者はより素早く動くことが出来ます。",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -7704,7 +7704,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは射撃戦において実戦的なリーダーです。彼の周辺の入植者はより良い射撃精度を得られます。\n(Moloy Traits (Continued))",
+      "description": "Timmyは射撃戦において実戦的なリーダーです。彼の周辺の入植者はより良い射撃精度を得られます。",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -7726,7 +7726,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは孤独であることを好み、とにかく植物を扱うのが得意です。\n(Moloy Traits (Continued))",
+      "description": "Timmyは孤独であることを好み、とにかく植物を扱うのが得意です。",
       "stats": [
         "-4 社交",
         "+4 栽培",
@@ -7758,7 +7758,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは元気いっぱいです。彼はたとえ幸せでなくても、ランダムに熱狂的意欲を獲得します。\n(Moloy Traits (Continued))",
+      "description": "Timmyは元気いっぱいです。彼はたとえ幸せでなくても、ランダムに熱狂的意欲を獲得します。",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -7780,7 +7780,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは天才的な職人であり、しばしば創造意欲を得ます。しかし、彼の心は移ろいやすく、精神的休憩をとる可能性がはるかに高くなっています。\n(Moloy Traits (Continued))",
+      "description": "Timmyは天才的な職人であり、しばしば創造意欲を得ます。しかし、彼の心は移ろいやすく、精神的休憩をとる可能性がはるかに高くなっています。",
       "stats": [
         "+3 芸術",
         "+3 工芸",
@@ -7816,7 +7816,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "何らかの理由で、誰もがTimmyがどのように感じているかをかなり気にしているようです。\n(Moloy Traits (Continued))",
+      "description": "何らかの理由で、誰もがTimmyがどのように感じているかをかなり気にしているようです。",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -7838,7 +7838,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、他者の行動を厳しく批判し、指示します。 Timmyの周りの入植者はより速く動き、働きますが、追加されたストレスから気分が悪くなります。\n(Moloy Traits (Continued))",
+      "description": "Timmyは、他者の行動を厳しく批判し、指示します。 Timmyの周りの入植者はより速く動き、働きますが、追加されたストレスから気分が悪くなります。",
       "stats": [],
       "conflicts": [
         "イイ人",
@@ -7866,7 +7866,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは危険を冒して冒険をするのが大好きです。彼は、クエストに成功するとムードにバフを、失敗するとデバフを受けます。\n(Moloy Traits (Continued))",
+      "description": "Timmyは危険を冒して冒険をするのが大好きです。彼は、クエストに成功するとムードにバフを、失敗するとデバフを受けます。",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -7918,7 +7918,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy rarely complains about personal comfort, and can tolerate heavy armor longer than others.\n(Armor Is Uncomfortable 2)",
+      "description": "Timmy rarely complains about personal comfort, and can tolerate heavy armor longer than others.",
       "stats": [
         "+33% discomfort tolerance"
       ],
@@ -7948,7 +7948,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy doesn't like to wear heavy armor, and will need to change out more frequently.\n(Armor Is Uncomfortable 2)",
+      "description": "Timmy doesn't like to wear heavy armor, and will need to change out more frequently.",
       "stats": [
         "-20% discomfort tolerance"
       ],
@@ -7978,7 +7978,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2,
-      "description": "Everything chafes to Timmy, and 彼 refuses to wear armor any longer than absolutely necessary..\n(Armor Is Uncomfortable 2)",
+      "description": "Everything chafes to Timmy, and 彼 refuses to wear armor any longer than absolutely necessary..",
       "stats": [
         "-50% discomfort tolerance"
       ],

@@ -2092,7 +2092,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "description": "Timmyは本当に異種族を嫌っていて,全く信用しません.動物より下等な存在と見なしています.",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -2118,7 +2118,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "description": "Timmyは異種族に性的な魅力を感じます.興味津々です.",
       "stats": [],
       "conflicts": [
         "宿り木"
@@ -7887,126 +7887,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy is rough and ready, and can march around all day in heavy armor in hot, sweaty weather.",
-      "stats": [
-        "+66% discomfort tolerance"
-      ],
-      "conflicts": [
-        "ヌーディスト"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ヌーディスト"
-        ],
-        "stats": [
-          "+66% discomfort tolerance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Armor Is Uncomfortable 2",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ComfortTolerance",
-      "name": "higharmortolerance"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy rarely complains about personal comfort, and can tolerate heavy armor longer than others.",
-      "stats": [
-        "+33% discomfort tolerance"
-      ],
-      "conflicts": [
-        "ヌーディスト"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ヌーディスト"
-        ],
-        "stats": [
-          "+33% discomfort tolerance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Armor Is Uncomfortable 2",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ComfortTolerance",
-      "name": "armortolerance"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy doesn't like to wear heavy armor, and will need to change out more frequently.",
-      "stats": [
-        "-20% discomfort tolerance"
-      ],
-      "conflicts": [
-        "ヌーディスト"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ヌーディスト"
-        ],
-        "stats": [
-          "-20% discomfort tolerance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Armor Is Uncomfortable 2",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ComfortTolerance",
-      "name": "dislikesarmor"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Everything chafes to Timmy, and 彼 refuses to wear armor any longer than absolutely necessary..",
-      "stats": [
-        "-50% discomfort tolerance"
-      ],
-      "conflicts": [
-        "ヌーディスト"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ヌーディスト"
-        ],
-        "stats": [
-          "-50% discomfort tolerance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Armor Is Uncomfortable 2",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ComfortTolerance",
-      "name": "hatesarmor"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 0,
       "description": "Timmyは,よく寝るのが好きで,いつも寝不足気味なんです.",
       "stats": [
@@ -8217,6 +8097,32 @@
       },
       "defName": "KittyValor",
       "name": "にゃんこ勇者！"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "放火魔ほどではありませんが,火が大好きです.",
+      "stats": [
+        "炎瞑想フォーカスタイプが許可されています。"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "炎瞑想フォーカスタイプが許可されています。"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Miho, the celestial fox",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Miho_EnergyMeditation_Trait",
+      "name": "火魅狐"
     }
   ],
   "races": [
@@ -9028,6 +8934,50 @@
       "enabled": true,
       "name": "キイロ",
       "price": 4583
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 重量",
+          "+0% 燃えやすさ",
+          "+$4000 金額",
+          "+4 名誉値",
+          "+42 輸送能力",
+          "+25% 身につけやすさ",
+          "+100% 精神感応性",
+          "+98% 休息しやすさ",
+          "+98% 免疫を得る速度",
+          "+120% 基本的な作業速度",
+          "+0 食料調達量",
+          "+125.00% 外交力",
+          "+125.00% 政治力",
+          "+125.00% 商人の勘",
+          "+25 生皮の量",
+          "+75% 痛みへの限界値",
+          "+20.0C 快適と感じる最低気温",
+          "+31.0C 快適と感じる最高気温",
+          "-100% 毒耐性",
+          "-100% 毒環境耐性",
+          "+4.10 移動速度",
+          "+90% 照準時間",
+          "+0.9 命中率(射撃)",
+          "+2.0 回避率(白兵戦)",
+          "+3.0 命中率(白兵戦)",
+          "+50.0% アーマー - 熱系",
+          "+150% 学習率係数",
+          "-1.00 ニューラルヒート回復レート",
+          "-2.50% 手懐け成功率",
+          "-2.50% 調教成功率"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "オーディナリーをはじめとする多くのミホ種の共通祖先は,人間ではなくアカギツネと推定されています.当然,自然進化ではなくアルコテックな何かによって知性化(意識高く)されたものと思われます.人間のように見えますが人間ではありません.彼女らの体には体内のメカナイトと連動する日照量によって仙術の強度が決まるカスミ器官があります.この器官のおかげで,キツネたちは太陽とエネルギーを崇めています.",
+      "defName": "Alien_Miho",
+      "enabled": true,
+      "name": "ミホ",
+      "price": 6667
     }
   ]
 }

@@ -426,12 +426,6 @@
     "version": "1.4.6.0"
   },
   {
-    "author": "notfood",
-    "name": "Outfitted",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": "",
@@ -948,18 +942,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Ouroboros226と Taranchuk",
-    "name": "Voice-Acted Radio Chatter",
-    "steamId": "2819334265",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "u-a-u_zz",
-    "name": "VoiceActedRadioChatter JP Plus",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Andrew Raphael Lukasik",
     "name": "Allow Dead Animals",
     "steamId": "2403873031",
@@ -970,12 +952,6 @@
     "name": "Architect Icons",
     "steamId": "1195427067",
     "version": "1.2.0.0"
-  },
-  {
-    "author": "Nationality",
-    "name": "Armor Is Uncomfortable 2",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "1trickPonyta",
@@ -1050,12 +1026,6 @@
     "version": null
   },
   {
-    "author": "cyanobot",
-    "name": "Toddlers",
-    "steamId": "2903359152",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "CodeOptimist",
     "name": "While You're Up / PUAH+",
     "steamId": "2034960453",
@@ -1084,6 +1054,42 @@
     "name": "Random's Gene Assistant",
     "steamId": "2882497271",
     "version": "1.0.0"
+  },
+  {
+    "author": "Dingo",
+    "name": "No Forced Slowdown",
+    "steamId": "1419593453",
+    "version": "1.4.8329.1"
+  },
+  {
+    "author": "Si-Cafe",
+    "name": "[RF] Fishing-ReWork (Continued)",
+    "steamId": "2920098766",
+    "version": "1.4.1"
+  },
+  {
+    "author": "Si-Cafe",
+    "name": "[RF] Fishing-ReWork Seafood and Sushi Addon (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "notfood",
+    "name": "Outfitted",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ouroboros226と Taranchuk",
+    "name": "Voice-Acted Radio Chatter",
+    "steamId": "2819334265",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "u-a-u_zz",
+    "name": "VoiceActedRadioChatter JP Plus",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Porohkun",
@@ -1212,6 +1218,12 @@
     "version": null
   },
   {
+    "author": "AKreedz",
+    "name": "Anti-Air Artillery [Unofficial Update]",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SuviIlyaDragunova",
     "name": "Wisteria Corporation",
     "steamId": null,
@@ -1258,6 +1270,12 @@
     "name": "GloomyFurniture",
     "steamId": "1558635181",
     "version": "1.0.4"
+  },
+  {
+    "author": "Mantrap",
+    "name": "Gloomy Furniture Fix",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "jptrrs",
@@ -1332,6 +1350,12 @@
     "version": null
   },
   {
+    "author": "Outremerと Fortified_Home",
+    "name": "Miho, the celestial fox",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Rin",
     "name": "Ratkin Apparel+",
     "steamId": null,
@@ -1388,6 +1412,12 @@
   {
     "author": "redbrick",
     "name": "Oppai_addRace_patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sparrows",
+    "name": "Miho spawn without psylink",
     "steamId": null,
     "version": null
   },
@@ -1466,6 +1496,12 @@
   {
     "author": "Ancot",
     "name": "Kiiro Race Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "塔洛斯",
+    "name": "Miho Facial Animation",
     "steamId": null,
     "version": null
   },
@@ -1874,6 +1910,12 @@
   {
     "author": "Proxyer",
     "name": "Biotech Gene Variety 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Miho,the celestial fox 日本語翻訳",
     "steamId": null,
     "version": null
   }

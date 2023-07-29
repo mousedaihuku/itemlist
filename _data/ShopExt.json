@@ -5425,110 +5425,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmyは、病気になることを過度に恐れる強迫観念に取りつかれて、不必要なレベルで頻繁に体などを洗います。",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "潔癖症"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmyは、非常にきれい好きで、清潔にする頻度が普通よりも高くなります。",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "きれい好き"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmyは、不衛生でも気にしないので、清潔にする頻度が普通よりも低くなります。",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "無頓着"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmyは、清潔さに対する要求基準が非常に低く、絶対に必要な場合だけ体などを洗います。",
-      "stats": [],
-      "conflicts": [
-        "宿り木"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "宿り木"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "不潔症"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 0,
       "description": "Timmyは、堅固な信念を持っています。例えどのような状況でも彼を支える信念は変わりません。",
       "stats": [
@@ -7582,325 +7478,19 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは明らかに人付き合いを気にし過ぎています。彼は他の人を困らせる傾向があり、彼の元恋人たちは先に進むことができません。",
-      "stats": [
-        "-2 社交"
-      ],
-      "conflicts": [
-        "サイコパス",
-        "無性愛者"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "サイコパス",
-          "無性愛者"
-        ],
-        "stats": [
-          "-2 社交"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Moloy Traits (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MT_Petty",
-      "name": "しみったれ"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは人望が厚いです。彼の言葉は通常よりも人に伝わることがあります。",
-      "stats": [
-        "+4 社交",
-        "+50.00% 政治力",
-        "+20.00% 商人の勘"
-      ],
-      "conflicts": [
-        "サイコパス",
-        "しみったれ"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "サイコパス",
-          "しみったれ"
-        ],
-        "stats": [
-          "+4 社交",
-          "+50.00% 政治力",
-          "+20.00% 商人の勘"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Moloy Traits (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MT_Charismatic",
-      "name": "カリスマ"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyはおそらく高い知能が原因で、奇妙な行動をとります。そんな彼の言動は、よくも悪くも社会的に大きな影響を与えます。社会の輪から外れているので、Timmyは、侮辱されても気が付きません。",
-      "stats": [
-        "+4 知力",
-        "+50.00% 政治力"
-      ],
-      "conflicts": [
-        "カリスマ"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "カリスマ"
-        ],
-        "stats": [
-          "+4 知力",
-          "+50.00% 政治力"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Moloy Traits (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MT_Eccentric",
-      "name": "変わり者"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは他人によく指示します。彼の周辺の入植者はより素早く動くことが出来ます。",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Moloy Traits (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MT_Conductor",
-      "name": "指導者"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは射撃戦において実戦的なリーダーです。彼の周辺の入植者はより良い射撃精度を得られます。",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Moloy Traits (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MT_Commander",
-      "name": "指揮官"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは孤独であることを好み、とにかく植物を扱うのが得意です。",
-      "stats": [
-        "-4 社交",
-        "+4 栽培",
-        "+15% 栽培・収率",
-        "-50.00% 政治力"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-4 社交",
-          "+4 栽培",
-          "+15% 栽培・収率",
-          "-50.00% 政治力"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Moloy Traits (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MT_Hermit",
-      "name": "隠者"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは元気いっぱいです。彼はたとえ幸せでなくても、ランダムに熱狂的意欲を獲得します。",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Moloy Traits (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MT_Peppy",
-      "name": "元気いっぱい"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは天才的な職人であり、しばしば創造意欲を得ます。しかし、彼の心は移ろいやすく、精神的休憩をとる可能性がはるかに高くなっています。",
-      "stats": [
-        "+3 芸術",
-        "+3 工芸",
-        "+20% 精神的弱さ"
-      ],
-      "conflicts": [
-        "元気いっぱい",
-        "苦悩する芸術家"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "元気いっぱい",
-          "苦悩する芸術家"
-        ],
-        "stats": [
-          "+3 芸術",
-          "+3 工芸",
-          "+20% 精神的弱さ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Moloy Traits (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MT_Volatile_Crafter",
-      "name": "気まぐれな職人"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "何らかの理由で、誰もがTimmyがどのように感じているかをかなり気にしているようです。",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Moloy Traits (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MT_Luminary",
-      "name": "ルミナリー"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは、他者の行動を厳しく批判し、指示します。 Timmyの周りの入植者はより速く動き、働きますが、追加されたストレスから気分が悪くなります。",
-      "stats": [],
-      "conflicts": [
-        "イイ人",
-        "指導者"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "イイ人",
-          "指導者"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Moloy Traits (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MT_Tyrant",
-      "name": "暴君"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyは危険を冒して冒険をするのが大好きです。彼は、クエストに成功するとムードにバフを、失敗するとデバフを受けます。",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Moloy Traits (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MT_Venturous",
-      "name": "冒険好き"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmyは,よく寝るのが好きで,いつも寝不足気味なんです.",
       "stats": [
         "-20% 休息しやすさ"
       ],
       "conflicts": [
         "熟睡の達人",
-        "かわいい食いしん猫"
+        "greedycat"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "熟睡の達人",
-          "かわいい食いしん猫"
+          "greedycat"
         ],
         "stats": [
           "-20% 休息しやすさ"
@@ -7912,7 +7502,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "LazyCat",
-      "name": "かわいい怠け猫"
+      "name": "lazycat"
     },
     {
       "canAdd": true,
@@ -7927,13 +7517,13 @@
       ],
       "conflicts": [
         "食道楽",
-        "かわいい怠け猫"
+        "lazycat"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "食道楽",
-          "かわいい怠け猫"
+          "lazycat"
         ],
         "stats": [
           "許可されるのはメンタルブレイク\"Binging_Food\"のみです。",
@@ -7946,7 +7536,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "GreedyCat",
-      "name": "かわいい食いしん猫"
+      "name": "greedycat"
     },
     {
       "canAdd": true,
@@ -7972,7 +7562,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "FireFear",
-      "name": "火が怖い"
+      "name": "firefear"
     },
     {
       "canAdd": true,
@@ -7998,7 +7588,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "ToxicResistance",
-      "name": "毒耐性"
+      "name": "toxicresistance"
     },
     {
       "canAdd": true,
@@ -8026,7 +7616,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "SharpEye",
-      "name": "鋭い瞳"
+      "name": "sharpeye"
     },
     {
       "canAdd": true,
@@ -8056,7 +7646,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "OldWound",
-      "name": "古傷"
+      "name": "oldwound"
     },
     {
       "canAdd": true,
@@ -8096,7 +7686,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "KittyValor",
-      "name": "にゃんこ勇者！"
+      "name": "kittyvalor!"
     },
     {
       "canAdd": true,
@@ -8122,7 +7712,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Miho_EnergyMeditation_Trait",
-      "name": "火魅狐"
+      "name": "불이좋아"
     }
   ],
   "races": [
@@ -8760,7 +8350,7 @@
       "description": "ユランはウサギの外的特徴を持つ亜人種族で,その起源については正確に知られていません.\n人口の少ない少数民族で,遺伝子の問題があり,男性が存在しないため,他種族との結婚を通じてなんとか種族を存続させています.\n血筋によって受け継がれる特殊な能力を持つ\"巫女\"を中心に小さな村落規模の村で生活し,故郷の村にある大きな桜の木を信仰しています.",
       "defName": "Yuran_Race",
       "enabled": true,
-      "name": "ユラン",
+      "name": "yuran",
       "price": 2000
     },
     {
@@ -8819,7 +8409,7 @@
       "description": "巫女は特別な血筋を受け継いだ家系に属するユランの一種の義務で,村のために奉仕し,また管理する役割を果たしています.",
       "defName": "Yuran_Race_Miko",
       "enabled": true,
-      "name": "ユラン巫女",
+      "name": "yuran miko",
       "price": 4667
     },
     {
@@ -8879,7 +8469,7 @@
       "description": "彼女は呪術がお手の物の巫女です.記録によれば,彼女は死さえも克服したという.",
       "defName": "Yuran_Race_Miko_BlackSnake",
       "enabled": true,
-      "name": "ユラン黒蛇",
+      "name": "yuran BlackSnake",
       "price": 4667
     },
     {
@@ -8932,7 +8522,7 @@
       "description": "ネコのような耳と尻尾と四肢を持つ人型種族のキイロです.\n\t何千年も前からRimworldに住んでいるキイロ族の技術は,中世の水準に達して以来,ゆっくりと発展してきました：昼寝をしたり,おしゃべりをしたり,日光浴をしたり,余暇を楽しんだりと,彼女たちは科学技術の研究以外にもいつもやりたいことがたくさんあるのです.自由な時間を仕事に回しても,芸術に関することをするのが何よりの喜びなのです.穏やかで非戦闘的な性格のため,彼女たちの社会は長い歴史の中で高いレベルの調和と安定を保ち,紛争や争いはほとんどなく,その結果,俊敏で器用なのですが,戦闘はあまり得意ではないということが分かりました.\n\tしかし,乱暴者のアウトランダーがRimworldにやって来て定住するようになってからは,すべてが変わってしまいました：戦闘経験も訓練もしたこともなく,技術的にも大きな発展を遂げていないキイロ族は,アウトランダーの襲撃になす術もなく,多くの村や町が襲撃されて壊滅しました.このため,キイロ族は平和な日常を捨て,生き残るための困難な旅に出ることを強いられました.\n\tしかし,アウトランダーの侵略は,戦争や混乱の種を撒くだけでなく,技術開発の機会をもこの時代にもたらしました.アウトランダーがもたらした技術に触れ,導入と模倣によってキイロの技術水準は短期間で爆発的に向上し,産業時代の種がこの古代後進民族の中で静かに芽吹き始めるのでした......",
       "defName": "Kiiro_Race",
       "enabled": true,
-      "name": "キイロ",
+      "name": "kiiro race",
       "price": 4583
     },
     {
@@ -8976,7 +8566,7 @@
       "description": "オーディナリーをはじめとする多くのミホ種の共通祖先は,人間ではなくアカギツネと推定されています.当然,自然進化ではなくアルコテックな何かによって知性化(意識高く)されたものと思われます.人間のように見えますが人間ではありません.彼女らの体には体内のメカナイトと連動する日照量によって仙術の強度が決まるカスミ器官があります.この器官のおかげで,キツネたちは太陽とエネルギーを崇めています.",
       "defName": "Alien_Miho",
       "enabled": true,
-      "name": "ミホ",
+      "name": "미호",
       "price": 6667
     }
   ]

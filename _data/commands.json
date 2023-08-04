@@ -209,7 +209,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "キューに参加する",
+    "name": "入植者として参加する",
     "usage": "!joinqueue",
     "userLevel": "Anyone",
     "shortcut": false,
@@ -227,7 +227,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "MODの情報",
+    "name": "MOD情報",
     "usage": "!modinfo",
     "userLevel": "Anyone",
     "shortcut": false,

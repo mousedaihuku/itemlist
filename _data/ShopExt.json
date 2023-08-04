@@ -6462,7 +6462,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、誰もが憎めない人です。",
+      "description": "Timmyは、誰もが憎む人です。",
       "stats": [
         "-4 射撃",
         "-4 格闘",
@@ -6516,7 +6516,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は食事の準備に細心の注意を払い、【彼】は早く食事を作るのにも手を抜かない。",
+      "description": "Timmy は食事の準備に細心の注意を払い、彼 は早めの食事をするためだけに手順を省略することはありません。",
       "stats": [
         "-0.8 調理・速度",
         "-10.00% 食中毒・発生率"
@@ -6550,7 +6550,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は【彼】が記録的な速さで食事を提供して【彼の】に食べさせれるのなら、レシピなんてどうでもいいと思ってます。",
+      "description": "Timmyは、PAWN_代名詞 が記録的な速さで自分の口に食べ物を運ぶことができるのなら、レシピに関心なんてないでしょう。",
       "stats": [
         "+0.8 調理・速度",
         "+10.00% 食中毒・発生率"
@@ -6584,7 +6584,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは健康的な生活をしていて、元気に明るく目覚めています。",
+      "description": "健康な体があるのはいいことです。",
       "stats": [
         "+10% 休息しやすさ",
         "+10% 免疫を得る速度",
@@ -6626,7 +6626,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】はよく病気になりベッドから起き上がるのも普通の人より努力が必要なようです。",
+      "description": "少し気分が悪いのですが、また病気ですか？",
       "stats": [
         "-10% 休息しやすさ",
         "-10% 免疫を得る速度",
@@ -6668,7 +6668,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】はどんな季節でも快適に過ごします。",
+      "description": "Timmyはオールシーズン快適です。",
       "stats": [
         "+3.0C 快適と感じる最高気温",
         "-3.0C 快適と感じる最低気温"
@@ -6702,7 +6702,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は夏は暑すぎるし、冬は寒すぎると思っています。",
+      "description": "Timmyは、夏は暑すぎて冬は寒すぎると思っています。",
       "stats": [
         "-3.0C 快適と感じる最高気温",
         "+3.0C 快適と感じる最低気温"
@@ -6772,7 +6772,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは気が散りやすく、それが戦闘になるとしばしば台無しにしてしまいます。",
+      "description": "Timmy は気が散りやすく、身体活動に関しては失敗することがよくあります。",
       "stats": [
         "-2.0 命中率(射撃)",
         "-2.0 命中率(白兵戦)",
@@ -6808,7 +6808,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは、人々が'ストロンクボイ'と呼ぶものです。",
+      "description": "Timmy は、人々が「ストロンクボーイ」と呼ぶものです。",
       "stats": [
         "-10% 受けるダメージ倍率",
         "+10% 免疫を得る速度",
@@ -6898,7 +6898,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "楽観的であろうと個性的であろうとTimmyは常に人の明るい面を見ることができます。",
+      "description": "楽観主義によるのか、それとも個性の力によるのか、Timmy は常に人生の明るい面を見ることができます。",
       "stats": [
         "+3 芸術"
       ],
@@ -6930,7 +6930,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyにとっての人生は彼が終わらしたくも終われず逃げることも出来ない多忙な状態になるでしょう",
+      "description": "Timmy の人生は終わりのない退屈なジョークであり、彼 はそこから逃れることができません。",
       "stats": [
         "-3 芸術"
       ],
@@ -6962,7 +6962,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は世界の仕組みを理解することに興味があり、【彼の】の知識を日常生活で活用することができる。",
+      "description": "Timmy は世界の仕組みを理解することに興味があり、彼の の知識を日常生活に適用することができます。",
       "stats": [
         "+4 知力",
         "-5% 精神的弱さ"
@@ -6996,7 +6996,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyの教育のギャップと一般的な好奇心の欠如は彼をの生活をしばしばストレスを感じるでしょう。",
+      "description": "Timmy の教育のギャップと一般的な好奇心の欠如により、彼を の生活はしばしばストレスにさらされます。",
       "stats": [
         "-4 知力",
         "+5% 精神的弱さ"
@@ -7030,7 +7030,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy】は【彼の】の周囲をきれいに保つのが好きで、整理整頓された環境に慣れている。",
+      "description": "Timmy は 彼の の周囲を清潔に保つことが好きで、整理整頓された環境にいることにも慣れています。",
       "stats": [
         "+5% 休息しやすさ",
         "+5% 基本的な作業速度",
@@ -7066,7 +7066,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmyは周囲を顧みないことが多く、彼をが仕事をするのが難しくなっています。",
+      "description": "Timmy は周囲に視線を向けないことが多く、彼を が仕事を遂行することが困難になります。",
       "stats": [
         "-5% 休息しやすさ",
         "-5% 基本的な作業速度",
@@ -7713,6 +7713,28 @@
       },
       "defName": "Miho_EnergyMeditation_Trait",
       "name": "불이좋아"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyが調理するものはすべて黒ずんだ料理に変わります.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kijin Race 3.0",
+        "karmaTypeForAdding": null
+      },
+      "defName": "IncompetentCook",
+      "name": "メシマズ"
     }
   ],
   "races": [

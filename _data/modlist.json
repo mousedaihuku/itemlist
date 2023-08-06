@@ -19,6 +19,12 @@
   },
   {
     "author": "bradson",
+    "name": "Better Log - Fix your errors with style",
+    "steamId": "2772559481",
+    "version": "1.0.0"
+  },
+  {
+    "author": "bradson",
     "name": "Performance Fish",
     "steamId": "",
     "version": "0.3.800.85"
@@ -106,12 +112,6 @@
     "name": "[SYR] Processor Framework",
     "steamId": "2633514537",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.6.5.0"
   },
   {
     "author": "Ayameduki",
@@ -226,12 +226,6 @@
     "name": "All your base",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Paul Freeman",
-    "name": "Free Will",
-    "steamId": "2580837227",
-    "version": "0.0.0.0"
   },
   {
     "author": "avilmask",
@@ -512,8 +506,8 @@
   {
     "author": "m00nl1ght",
     "name": "Log Publisher from HugsLib",
-    "steamId": null,
-    "version": null
+    "steamId": "2873415404",
+    "version": "1.1.1.0"
   },
   {
     "author": "Herigony",
@@ -1014,12 +1008,6 @@
     "version": null
   },
   {
-    "author": "LordKuper",
-    "name": "Equipment Manager",
-    "steamId": "2790435986",
-    "version": "1.4.0.2"
-  },
-  {
     "author": "Jdalt",
     "name": "Bodies Matter More Now",
     "steamId": null,
@@ -1030,6 +1018,36 @@
     "name": "Numbers",
     "steamId": "1414302321",
     "version": "1.0.0"
+  },
+  {
+    "author": "miyamiyaと twsta",
+    "name": "Compressed Raid",
+    "steamId": "2927368319",
+    "version": "1.4"
+  },
+  {
+    "author": "doll",
+    "name": "Defang Bodytype Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Foxy",
+    "name": "Colonist Bar Below Dev Buttons",
+    "steamId": "2957222535",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "No Ingredient List Limit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "gguake",
+    "name": "Area Inclusion & Exclusion",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Porohkun",
@@ -1254,12 +1272,6 @@
     "version": null
   },
   {
-    "author": "Ayameduki",
-    "name": "[1.4]Chaoura Race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Roo",
     "name": "Yuran race",
     "steamId": null,
@@ -1326,12 +1338,6 @@
     "version": null
   },
   {
-    "author": "redbrick",
-    "name": "Oppai_addRace_patch",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ancot",
     "name": "Kiiro Race Gene Patch",
     "steamId": null,
@@ -1340,6 +1346,12 @@
   {
     "author": "Sparrows",
     "name": "Miho spawn without psylink",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "redbrick",
+    "name": "Oppai_addRace_patch",
     "steamId": null,
     "version": null
   },
@@ -1380,12 +1392,6 @@
     "version": null
   },
   {
-    "author": "uniinu",
-    "name": "九尾の狐",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ancot",
     "name": "Ancots Dragonian Facial Animation",
     "steamId": null,
@@ -1410,14 +1416,14 @@
     "version": null
   },
   {
-    "author": "Ancot",
-    "name": "Kiiro Race Facial Animation",
+    "author": "塔洛斯",
+    "name": "Miho Facial Animation",
     "steamId": null,
     "version": null
   },
   {
-    "author": "塔洛斯",
-    "name": "Miho Facial Animation",
+    "author": "Ancot",
+    "name": "Kiiro Race Facial Animation",
     "steamId": null,
     "version": null
   },
@@ -1524,16 +1530,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Paul Freeman",
+    "name": "Free Will",
+    "steamId": "2580837227",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.0.5.0"
   },
   {
     "author": "hodlhodl",
@@ -1542,16 +1548,22 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.2.0"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.3.0.0.biotech.b12"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
   },
   {
     "author": "hodlhodl",
@@ -1758,6 +1770,18 @@
     "version": null
   },
   {
+    "author": "Proxyer",
+    "name": "Misc Training 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Biotech Gene Variety 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Lucifel",
     "name": "Kiiro Race 日本語翻訳",
     "steamId": null,
@@ -1772,18 +1796,6 @@
   {
     "author": "Lucifel",
     "name": "Miho,the celestial fox 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Proxyer",
-    "name": "Misc Training 日本語翻訳追加",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Proxyer",
-    "name": "Biotech Gene Variety 日本語翻訳追加",
     "steamId": null,
     "version": null
   },

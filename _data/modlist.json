@@ -63,13 +63,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1240.0"
-  },
-  {
-    "author": "Hatena",
-    "name": "Range Animal Framework",
-    "steamId": null,
-    "version": null
+    "version": "1.4.1242.0"
   },
   {
     "author": "latta",
@@ -106,6 +100,12 @@
     "name": "Cherry Picker",
     "steamId": "2633276599",
     "version": "1.4"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornsonと Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
   },
   {
     "author": "Syrchalis",
@@ -228,10 +228,16 @@
     "version": null
   },
   {
+    "author": "Owlchemist",
+    "name": "Owl's Colonist Bar (dev)",
+    "steamId": "2623453038",
+    "version": "1.4"
+  },
+  {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8572.18461"
+    "version": "1.0.8624.24517"
   },
   {
     "author": "Yoann",
@@ -298,12 +304,6 @@
     "name": "Hunters Use Melee! (Continued)",
     "steamId": "2900108163",
     "version": "1.4.3"
-  },
-  {
-    "author": "lbmaian",
-    "name": "Begone, Message!",
-    "steamId": "1951637504",
-    "version": "1.7"
   },
   {
     "author": "VouLT",
@@ -402,21 +402,9 @@
     "version": "1.4"
   },
   {
-    "author": "Owlchemist",
-    "name": "Owl's Colonist Bar (dev)",
-    "steamId": "2623453038",
-    "version": "1.4"
-  },
-  {
     "author": "Nals",
     "name": "[NL] Custom Portraits",
     "steamId": "1569605867",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "DarkFlame7",
-    "name": "Job In Bar",
-    "steamId": "2086300611",
     "version": "1.0.0.0"
   },
   {
@@ -705,7 +693,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.12.1.0"
+    "version": "1.13.0.0"
   },
   {
     "author": "aRandomKiwi",
@@ -816,12 +804,6 @@
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Toggleable Shields",
-    "steamId": "2690413766",
-    "version": "1.4"
-  },
-  {
     "author": "Grimm",
     "name": "Un-Limited",
     "steamId": null,
@@ -864,12 +846,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "apricot77",
-    "name": "Xenotype Alteration",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
@@ -898,6 +874,12 @@
     "name": "No Job Authors",
     "steamId": "2009825774",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "lbmaian",
+    "name": "Begone, Message!",
+    "steamId": "1951637504",
+    "version": "1.7"
   },
   {
     "author": "Andrew Raphael Lukasik",
@@ -1014,12 +996,6 @@
     "version": null
   },
   {
-    "author": "Mehni",
-    "name": "Numbers",
-    "steamId": "1414302321",
-    "version": "1.0.0"
-  },
-  {
     "author": "miyamiyaと twsta",
     "name": "Compressed Raid",
     "steamId": "2927368319",
@@ -1032,22 +1008,40 @@
     "version": null
   },
   {
-    "author": "Foxy",
-    "name": "Colonist Bar Below Dev Buttons",
-    "steamId": "2957222535",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Mlie",
     "name": "No Ingredient List Limit",
     "steamId": null,
     "version": null
   },
   {
-    "author": "gguake",
-    "name": "Area Inclusion & Exclusion",
+    "author": "sirreality",
+    "name": "Pawn Centric Work Priorities",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Turn It On and Off - RePowered",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "RePower Patch Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sincere",
+    "name": "MessageMover",
+    "steamId": "3001292656",
+    "version": "1.4"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Clean Pathfinding 2",
+    "steamId": "2603765747",
+    "version": "1.4"
   },
   {
     "author": "Porohkun",
@@ -1146,6 +1140,12 @@
     "version": null
   },
   {
+    "author": "Mawy",
+    "name": "Craftable",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Newton Zephyr",
     "name": "Akeron Extras - Caretaker Hairs",
     "steamId": null,
@@ -1200,20 +1200,8 @@
     "version": null
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Training",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Yamazaki",
     "name": "Preschooler Clothes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "mlmlmlm",
-    "name": "[Cosplay equipment] Blue archive",
     "steamId": null,
     "version": null
   },
@@ -1254,20 +1242,8 @@
     "version": null
   },
   {
-    "author": "いのしし_3",
-    "name": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-    "steamId": "2670355481",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Udon",
     "name": "Teressa",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ayameduki",
-    "name": "[1.4]Silkiera Race",
     "steamId": null,
     "version": null
   },
@@ -1284,16 +1260,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Outremerと Fortified_Home",
-    "name": "Miho, the celestial fox",
+    "author": "Resurrectionem",
+    "name": "Ama the Raiju Race and Faction",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "ssulunge",
-    "name": "Kijin Race 3.0",
-    "steamId": "2884551646",
-    "version": "1.0.0.0"
   },
   {
     "author": "Rin",
@@ -1332,14 +1302,26 @@
     "version": null
   },
   {
-    "author": "WRelicK",
-    "name": "WRelicK's Ayameduki Tweaks - HAR Addons",
+    "author": "Ancot",
+    "name": "Kiiro Race Gene Patch",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Ancot",
-    "name": "Kiiro Race Gene Patch",
+    "author": "Outremerと Fortified_Home",
+    "name": "Miho, the celestial fox",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seiochと MaroonToon",
+    "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "伪善猫尾",
+    "name": "古代人种族 - Ancients Race",
     "steamId": null,
     "version": null
   },
@@ -1368,12 +1350,6 @@
     "version": "1.0.8576.17702"
   },
   {
-    "author": "MooとVelc",
-    "name": "kemomimihouse HardworkingKz",
-    "steamId": "2975129498",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Roo",
     "name": "Race freezing stopper",
     "steamId": null,
@@ -1388,6 +1364,12 @@
   {
     "author": "Udon",
     "name": "野生のアマゾン",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tak0u",
+    "name": "FAE-Facial Animations Expanded",
     "steamId": null,
     "version": null
   },
@@ -1410,12 +1392,6 @@
     "version": null
   },
   {
-    "author": "塔洛斯, Ancotと WRelicK",
-    "name": "Ayameduki Race Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "塔洛斯",
     "name": "Miho Facial Animation",
     "steamId": null,
@@ -1424,6 +1400,24 @@
   {
     "author": "Ancot",
     "name": "Kiiro Race Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "darkmiz",
+    "name": "Kurin HAR Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ancot",
+    "name": "Yuran Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "huhu",
+    "name": "Ratkin hairs for kurin HAR",
     "steamId": null,
     "version": null
   },
@@ -1440,8 +1434,14 @@
     "version": "1.0.7.2"
   },
   {
-    "author": "Dyrewulfe",
-    "name": "Better Message Placement (Continued)",
+    "author": "ninedaylongbow",
+    "name": "Kurin Expand",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sparrows",
+    "name": "Kurin HAR Updated",
     "steamId": null,
     "version": null
   },
@@ -1466,12 +1466,6 @@
   {
     "author": "3HST Limited",
     "name": "Bill Doors' Glitterworld Hotspring Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "jeonggihun",
-    "name": "Misc. Training retexture",
     "steamId": null,
     "version": null
   },
@@ -1512,6 +1506,18 @@
     "version": null
   },
   {
+    "author": "NomadRw",
+    "name": "Projectile Bullet Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Issac Zhuang",
+    "name": "Muzzle Flash",
+    "steamId": "2917732219",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Owlchemist",
     "name": "Mid-saver Saver",
     "steamId": "2921585989",
@@ -1528,12 +1534,6 @@
     "name": "Dubs Apparel Tweaks",
     "steamId": "2296697286",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Paul Freeman",
-    "name": "Free Will",
-    "steamId": "2580837227",
-    "version": "0.0.0.0"
   },
   {
     "author": "hodlhodl",
@@ -1570,6 +1570,12 @@
     "name": "TwitchToolkit - Lootboxes (Unofficial)",
     "steamId": "1720021578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Paul Freeman",
+    "name": "Free Will",
+    "steamId": "2580837227",
+    "version": "0.0.0.0"
   },
   {
     "author": "TimmyLiang",
@@ -1734,12 +1740,6 @@
     "version": null
   },
   {
-    "author": "Lucifel",
-    "name": "kemomimihouse Kz,HardworkingKz 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Proxyer",
     "name": "RocketMan 日本語翻訳追加",
     "steamId": null,
@@ -1759,19 +1759,7 @@
   },
   {
     "author": "Lucifel",
-    "name": "Kurin, The Three Tailed Fox [Deluxe Edition] 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
     "name": "More Dragonian Items 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Proxyer",
-    "name": "Misc Training 日本語翻訳追加",
     "steamId": null,
     "version": null
   },
@@ -1801,7 +1789,31 @@
   },
   {
     "author": "Lucifel",
-    "name": "Kijin Race 日本語翻訳",
+    "name": "古代人种族 - Ancients Race 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Kurin HAR Edition 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Ama the Raiju Race 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Vanilla Expanded Framework 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ミラードア",
+    "name": "Clean Pathfinding 2 日本語翻訳追加",
     "steamId": null,
     "version": null
   }

@@ -4305,13 +4305,13 @@
 	{
 		"abr": "アオメの羊毛",
 		"price": 17,
-		"category": "獣耳少女の毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "aomeWool"
 	},
 	{
 		"abr": "アカメの羊毛",
 		"price": 17,
-		"category": "獣耳少女の毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "akameWool"
 	},
 	{
@@ -4591,76 +4591,10 @@
 		"defname": "Meat_Cougar"
 	},
 	{
-		"abr": "クーリンtシャツ",
-		"price": 191,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_T_Shirt"
-	},
-	{
-		"abr": "クーリンアーマードゴシックドレス",
-		"price": 608,
-		"category": "ロイヤリティ",
-		"defname": "Kurin_OnSkin_Armored_Gothic_Dress"
-	},
-	{
 		"abr": "クーリンウィンガー",
 		"price": 908,
 		"category": "遠隔",
 		"defname": "Kurin_Gun_Sniper_Rifle"
-	},
-	{
-		"abr": "クーリンウインターハット",
-		"price": 107,
-		"category": "帽子",
-		"defname": "Kurin_Overhead_Winter_Hat"
-	},
-	{
-		"abr": "クーリンオープンショルダーニット",
-		"price": 236,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Open_Shoulder_Knit"
-	},
-	{
-		"abr": "クーリンオープンニット(後)",
-		"price": 203,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Open_Back_Knit"
-	},
-	{
-		"abr": "クーリンカーディガン",
-		"price": 298,
-		"category": "上着",
-		"defname": "Kurin_Shell_Cardigan"
-	},
-	{
-		"abr": "クーリンカジュアルシャツ",
-		"price": 315,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Casual_Wear"
-	},
-	{
-		"abr": "クーリンキツネヘアピン",
-		"price": 173,
-		"category": "ロイヤリティ",
-		"defname": "Kurin_Overhead_Cute_Hair_Pin"
-	},
-	{
-		"abr": "クーリンキュートドレス",
-		"price": 833,
-		"category": "サイフォーカス",
-		"defname": "Kurin_OnSkin_Cute_Dress"
-	},
-	{
-		"abr": "クーリンゴーグル",
-		"price": 417,
-		"category": "装甲化",
-		"defname": "Kurin_Overhead_Goggles"
-	},
-	{
-		"abr": "クーリンゴシックドレス",
-		"price": 400,
-		"category": "ロイヤリティ",
-		"defname": "Kurin_OnSkin_Gothic_Dress"
 	},
 	{
 		"abr": "クーリンサイドキック",
@@ -4669,178 +4603,10 @@
 		"defname": "Kurin_Gun_Assault_Rifle"
 	},
 	{
-		"abr": "クーリンサマーハット",
-		"price": 107,
-		"category": "帽子",
-		"defname": "Kurin_Overhead_Summer_Hat"
-	},
-	{
-		"abr": "クーリンジャンプスーツ",
-		"price": 525,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Work_Jumpsuit"
-	},
-	{
-		"abr": "クーリンシンプルドレス",
-		"price": 400,
-		"category": "ロイヤリティ",
-		"defname": "Kurin_OnSkin_Traditional_Simple_Dress"
-	},
-	{
-		"abr": "クーリンダウンジャケット",
-		"price": 350,
-		"category": "上着",
-		"defname": "Kurin_Shell_Winter_Padding"
-	},
-	{
 		"abr": "クーリンディスラプター",
 		"price": 2458,
 		"category": "遠隔",
 		"defname": "Kurin_Gun_Charge_Rifle"
-	},
-	{
-		"abr": "クーリンパーカー",
-		"price": 269,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Hoodie"
-	},
-	{
-		"abr": "クーリンビキニアーマー",
-		"price": 1425,
-		"category": "装甲化",
-		"defname": "Kurin_OnSkin_Bikini_Armor"
-	},
-	{
-		"abr": "クーリンビキニアーマーヘッドギア",
-		"price": 558,
-		"category": "装甲化",
-		"defname": "Kurin_Overhead_Bikini_Armor_Headgear"
-	},
-	{
-		"abr": "クーリンファンシードレス",
-		"price": 400,
-		"category": "ロイヤリティ",
-		"defname": "Kurin_OnSkin_Traditional_Fancy_Dress"
-	},
-	{
-		"abr": "クーリンブラウス",
-		"price": 191,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Shirt"
-	},
-	{
-		"abr": "クーリンブラックドレス",
-		"price": 525,
-		"category": "ロイヤリティ",
-		"defname": "Kurin_OnSkin_Seductive_Black_Dress"
-	},
-	{
-		"abr": "クーリンヘアピン",
-		"price": 350,
-		"category": "帽子",
-		"defname": "Kurin_Overhead_Casual_Hair_Pin"
-	},
-	{
-		"abr": "クーリンヘッドドレス",
-		"price": 350,
-		"category": "ロイヤリティ",
-		"defname": "Kurin_Overhead_Gothic_Hair_Pin"
-	},
-	{
-		"abr": "クーリンホットパンツ",
-		"price": 169,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Hot_Pants"
-	},
-	{
-		"abr": "クーリンボディアーマー",
-		"price": 358,
-		"category": "装甲化",
-		"defname": "Kurin_Middle_Body_Armor"
-	},
-	{
-		"abr": "クーリンホワイトドレス",
-		"price": 525,
-		"category": "ロイヤリティ",
-		"defname": "Kurin_OnSkin_Seductive_White_Dress"
-	},
-	{
-		"abr": "クーリンラグジュアリードレス",
-		"price": 400,
-		"category": "ロイヤリティ",
-		"defname": "Kurin_OnSkin_Traditional_Luxury_Dress"
-	},
-	{
-		"abr": "クーリンロングコート",
-		"price": 315,
-		"category": "上着",
-		"defname": "Kurin_Shell_Duster"
-	},
-	{
-		"abr": "クーリンワンピース",
-		"price": 236,
-		"category": "ロイヤリティ",
-		"defname": "Kurin_OnSkin_One_Piece_Dress"
-	},
-	{
-		"abr": "クーリン下着(縞)",
-		"price": 101,
-		"category": "肌着",
-		"defname": "Kurin_Underwear_Striped"
-	},
-	{
-		"abr": "クーリン下着(赤)",
-		"price": 101,
-		"category": "肌着",
-		"defname": "Kurin_Underwear_Red"
-	},
-	{
-		"abr": "クーリン下着(魅)",
-		"price": 101,
-		"category": "肌着",
-		"defname": "Kurin_Underwear_Slim"
-	},
-	{
-		"abr": "クーリン下着(黒)",
-		"price": 101,
-		"category": "肌着",
-		"defname": "Kurin_Underwear_Black"
-	},
-	{
-		"abr": "クーリン伝統的な髪飾り",
-		"price": 173,
-		"category": "ロイヤリティ",
-		"defname": "Kurin_Overhead_Traditional_Hair_Pin"
-	},
-	{
-		"abr": "クーリン修道服",
-		"price": 400,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Nun_Dress"
-	},
-	{
-		"abr": "クーリン儀式剣",
-		"price": 767,
-		"category": "近接",
-		"defname": "Kurin_MeleeWeapon_Ceremonial_Sword"
-	},
-	{
-		"abr": "クーリン苦無",
-		"price": 143,
-		"category": "遠隔",
-		"defname": "Kurin_Gun_Surigum"
-	},
-	{
-		"abr": "クーリン軍服",
-		"price": 1275,
-		"category": "装甲化",
-		"defname": "Kurin_OnSkin_Military_Uniform"
-	},
-	{
-		"abr": "クーリン電動ミシン",
-		"price": 533,
-		"category": "生産物",
-		"defname": "Kurin_Electric_Tailoring_Bench"
 	},
 	{
 		"abr": "グラタン",
@@ -4857,7 +4623,7 @@
 	{
 		"abr": "クロの毛",
 		"price": 17,
-		"category": "獣耳少女の毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "kuroWool"
 	},
 	{
@@ -4887,7 +4653,7 @@
 	{
 		"abr": "コヒメの毛",
 		"price": 50,
-		"category": "獣耳少女の毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "kohimeWool"
 	},
 	{
@@ -4905,7 +4671,7 @@
 	{
 		"abr": "コンの髪の毛",
 		"price": 10,
-		"category": "獣耳少女の毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "konWool"
 	},
 	{
@@ -5151,7 +4917,7 @@
 	{
 		"abr": "シロの髪の毛",
 		"price": 10,
-		"category": "獣耳少女の毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "siroWool"
 	},
 	{
@@ -5535,7 +5301,7 @@
 	{
 		"abr": "ハナの髪の毛",
 		"price": 13,
-		"category": "獣耳少女の毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "hanaWool"
 	},
 	{
@@ -5721,7 +5487,7 @@
 	{
 		"abr": "ミコの金色毛",
 		"price": 20,
-		"category": "獣耳少女の毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "mikoWool"
 	},
 	{
@@ -5781,7 +5547,7 @@
 	{
 		"abr": "ユキの鱗",
 		"price": 83,
-		"category": "獣耳少女の毛",
+		"category": "獣耳娘の髪の毛",
 		"defname": "yukiwool"
 	},
 	{
@@ -7285,12 +7051,6 @@
 		"defname": "MDI_DragonianHerbalPowder"
 	},
 	{
-		"abr": "k.a.s.i.e(クーリン)",
-		"price": 10292,
-		"category": "強化",
-		"defname": "Kurin_KASIE"
-	},
-	{
 		"abr": "エーテルクロー",
 		"price": 18,
 		"category": "遠隔",
@@ -7315,742 +7075,10 @@
 		"defname": "AS_WAE_HKArcherArmor"
 	},
 	{
-		"abr": "キミリ",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Kimiri"
-	},
-	{
-		"abr": "キミリカタナ",
-		"price": 633,
-		"category": "近接",
-		"defname": "Kimiri_MeleeWeapon_Katana"
-	},
-	{
-		"abr": "クーリン",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Kurin"
-	},
-	{
-		"abr": "クーリンアンメイカー",
-		"price": 6400,
-		"category": "遠隔",
-		"defname": "Kurin_Gun_Unmaker"
-	},
-	{
-		"abr": "クーリンオープンニット(前)",
-		"price": 203,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Open_Front_Knit"
-	},
-	{
-		"abr": "クーリンカタナ",
-		"price": 633,
-		"category": "近接",
-		"defname": "Kurin_MeleeWeapon_Katana"
-	},
-	{
-		"abr": "クーリンカルネージ",
-		"price": 1858,
-		"category": "遠隔",
-		"defname": "Kurin_Special_Heavy_Rocket_Launcher"
-	},
-	{
-		"abr": "クーリンサーマルウェア",
-		"price": 600,
-		"category": "肌着",
-		"defname": "Kurin_Power_Armor_Thermal_Underwear"
-	},
-	{
-		"abr": "クーリンサイフォーカスヘッドギア",
-		"price": 833,
-		"category": "サイフォーカス",
-		"defname": "Kurin_Overhead_Psyfocus_Headgear"
-	},
-	{
-		"abr": "クーリンサイフォーカスローブ",
-		"price": 1000,
-		"category": "サイフォーカス",
-		"defname": "Kurin_Shell_Psyfocus_Robe"
-	},
-	{
 		"abr": "クーリンサプレッサー",
 		"price": 2708,
 		"category": "遠隔",
 		"defname": "Kurin_Gun_Charge_LMG"
-	},
-	{
-		"abr": "クーリンショートパンツ",
-		"price": 151,
-		"category": "下衣",
-		"defname": "Kurin_Legs_Shorts"
-	},
-	{
-		"abr": "クーリンシングルテイク",
-		"price": 2892,
-		"category": "遠隔",
-		"defname": "Kurin_Gun_Sniper_Charge_Rifle"
-	},
-	{
-		"abr": "クーリンスカート",
-		"price": 151,
-		"category": "下衣",
-		"defname": "Kurin_Legs_Skirt"
-	},
-	{
-		"abr": "クーリンスカーフ",
-		"price": 107,
-		"category": "着物",
-		"defname": "Kurin_Middle_Scarf"
-	},
-	{
-		"abr": "クーリンスカルハッカー(he)",
-		"price": 1417,
-		"category": "遠隔",
-		"defname": "Kurin_Gun_Heavy_Sniper_Rifle_HE"
-	},
-	{
-		"abr": "クーリンスカルハッカー(pa)",
-		"price": 1283,
-		"category": "遠隔",
-		"defname": "Kurin_Gun_Heavy_Sniper_Rifle"
-	},
-	{
-		"abr": "クーリンストッキング(ガーター)",
-		"price": 101,
-		"category": "ストッキング",
-		"defname": "Kurin_Stockings_Garterbelt"
-	},
-	{
-		"abr": "クーリンストッキング(白)",
-		"price": 101,
-		"category": "ストッキング",
-		"defname": "Kurin_Stockings_White"
-	},
-	{
-		"abr": "クーリンストッキング(縞)",
-		"price": 101,
-		"category": "ストッキング",
-		"defname": "Kurin_Stockings_Striped"
-	},
-	{
-		"abr": "クーリンストッキング(茶)",
-		"price": 101,
-		"category": "ストッキング",
-		"defname": "Kurin_Stockings_Brown"
-	},
-	{
-		"abr": "クーリンスプリッター",
-		"price": 3725,
-		"category": "遠隔",
-		"defname": "Overlord_Gun_Rocket_Launcher"
-	},
-	{
-		"abr": "クーリンスペースクルースーツ",
-		"price": 1250,
-		"category": "サイフォーカス",
-		"defname": "Kurin_OnSkin_Spaceship_Crew_Suit"
-	},
-	{
-		"abr": "クーリンセンチネル",
-		"price": 975,
-		"category": "遠隔",
-		"defname": "Kurin_Gun_Heavy_Assault_Rifle"
-	},
-	{
-		"abr": "クーリンタイフーン",
-		"price": 1867,
-		"category": "遠隔",
-		"defname": "Kurin_Special_Rocket_Launcher_Typhoon"
-	},
-	{
-		"abr": "クーリンダムネーション",
-		"price": 1267,
-		"category": "遠隔",
-		"defname": "Kurin_Special_Rocket_Launcher"
-	},
-	{
-		"abr": "クーリントゥイーカー",
-		"price": 309,
-		"category": "遠隔",
-		"defname": "Kurin_Gun_Pistol"
-	},
-	{
-		"abr": "クーリントリックスター",
-		"price": 667,
-		"category": "遠隔",
-		"defname": "Kurin_Gun_Heavy_SMG"
-	},
-	{
-		"abr": "クーリンネガティヴライフル",
-		"price": 5975,
-		"category": "遠隔",
-		"defname": "Overlord_Gun_Heavy_Sniper_Charge_Rifle"
-	},
-	{
-		"abr": "クーリンパジャマa",
-		"price": 236,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Pajama_A"
-	},
-	{
-		"abr": "クーリンパジャマb",
-		"price": 236,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Pajama_B"
-	},
-	{
-		"abr": "クーリンパジャマc",
-		"price": 236,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Pajama_C"
-	},
-	{
-		"abr": "クーリンバックパック",
-		"price": 203,
-		"category": "ユーティリティ",
-		"defname": "Kurin_Backpack_Civil"
-	},
-	{
-		"abr": "クーリンパワーアーマー",
-		"price": 5317,
-		"category": "装甲化",
-		"defname": "Kurin_Power_Armor"
-	},
-	{
-		"abr": "クーリンパワーヘルメット",
-		"price": 1642,
-		"category": "装甲化",
-		"defname": "Kurin_Power_Armor_Helmet"
-	},
-	{
-		"abr": "クーリンパンスト",
-		"price": 101,
-		"category": "ストッキング",
-		"defname": "Kurin_Stockings_Pantyhose"
-	},
-	{
-		"abr": "クーリンパンツ",
-		"price": 191,
-		"category": "下衣",
-		"defname": "Kurin_Legs_Pants"
-	},
-	{
-		"abr": "クーリンプランカー",
-		"price": 467,
-		"category": "遠隔",
-		"defname": "Kurin_Gun_Stun_Pistol"
-	},
-	{
-		"abr": "クーリンプレデター",
-		"price": 2033,
-		"category": "遠隔",
-		"defname": "Kurin_Gun_Gauss_Rifle"
-	},
-	{
-		"abr": "クーリンフレンドシップ",
-		"price": 742,
-		"category": "遠隔",
-		"defname": "Kurin_Gun_Auto_Shotgun"
-	},
-	{
-		"abr": "クーリンヘビーパワーアーマー",
-		"price": 6683,
-		"category": "装甲化",
-		"defname": "Kurin_Heavy_Power_Armor"
-	},
-	{
-		"abr": "クーリンヘビーパワーヘルメット",
-		"price": 2225,
-		"category": "装甲化",
-		"defname": "Kurin_Heavy_Power_Armor_Helmet"
-	},
-	{
-		"abr": "クーリンマッチ",
-		"price": 1117,
-		"category": "遠隔",
-		"defname": "Kurin_Gun_Flamethrower"
-	},
-	{
-		"abr": "クーリンメカマスターアーマー",
-		"price": 12108,
-		"category": "装甲化",
-		"defname": "Kurin_Mechmaster_Armor"
-	},
-	{
-		"abr": "クーリンメカマスターヘルメット",
-		"price": 7100,
-		"category": "装甲化",
-		"defname": "Kurin_Mechmaster_Armor_Helmet"
-	},
-	{
-		"abr": "クーリンラヴァジャー",
-		"price": 1083,
-		"category": "グレネード",
-		"defname": "Kurin_Gun_Grenade_Launcher"
-	},
-	{
-		"abr": "クーリンラヴァジャー(emp弾)",
-		"price": 1083,
-		"category": "グレネード",
-		"defname": "Kurin_Gun_Grenade_Launcher_EMPM"
-	},
-	{
-		"abr": "クーリンラヴァジャー(消火弾)",
-		"price": 1083,
-		"category": "グレネード",
-		"defname": "Kurin_Gun_Grenade_Launcher_FEM"
-	},
-	{
-		"abr": "クーリンラヴァジャー(焼夷弾)",
-		"price": 1083,
-		"category": "グレネード",
-		"defname": "Kurin_Gun_Grenade_Launcher_IM"
-	},
-	{
-		"abr": "クーリンラヴァジャー(煙幕弾)",
-		"price": 1083,
-		"category": "グレネード",
-		"defname": "Kurin_Gun_Grenade_Launcher_SM"
-	},
-	{
-		"abr": "クーリンリーコンアーマー",
-		"price": 3308,
-		"category": "装甲化",
-		"defname": "Kurin_Recon_Armor"
-	},
-	{
-		"abr": "クーリンリーコンヘルメット",
-		"price": 1167,
-		"category": "装甲化",
-		"defname": "Kurin_Recon_Armor_Helmet"
-	},
-	{
-		"abr": "クーリンロングスカート",
-		"price": 191,
-		"category": "下衣",
-		"defname": "Kurin_Legs_Long_Skirt"
-	},
-	{
-		"abr": "クーリン下着(白)",
-		"price": 101,
-		"category": "肌着",
-		"defname": "Kurin_Underwear_White"
-	},
-	{
-		"abr": "クーリン伝統的なコート",
-		"price": 550,
-		"category": "ロイヤリティ",
-		"defname": "Kurin_Shell_Traditional_Coat"
-	},
-	{
-		"abr": "クーリン作業用バックパック",
-		"price": 392,
-		"category": "ユーティリティ",
-		"defname": "Kurin_Backpack_Worker"
-	},
-	{
-		"abr": "クーリン修道帽",
-		"price": 350,
-		"category": "帽子",
-		"defname": "Kurin_Overhead_Nun_Headpiece"
-	},
-	{
-		"abr": "クーリン子供用tシャツ",
-		"price": 110,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_T_Shirt_Child"
-	},
-	{
-		"abr": "クーリン子供用ウインターハット",
-		"price": 65,
-		"category": "帽子",
-		"defname": "Kurin_Overhead_Winter_Hat_Child"
-	},
-	{
-		"abr": "クーリン子供用オープンショルダーニット",
-		"price": 148,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Open_Shoulder_Knit_Child"
-	},
-	{
-		"abr": "クーリン子供用カーディガン",
-		"price": 181,
-		"category": "上着",
-		"defname": "Kurin_Shell_Cardigan_Child"
-	},
-	{
-		"abr": "クーリン子供用キツネヘアピン",
-		"price": 218,
-		"category": "サイフォーカス",
-		"defname": "Kurin_Overhead_Cute_Hair_Pin_Child"
-	},
-	{
-		"abr": "クーリン子供用サマーハット",
-		"price": 65,
-		"category": "帽子",
-		"defname": "Kurin_Overhead_Summer_Hat_Child"
-	},
-	{
-		"abr": "クーリン子供用ジャンプスーツ",
-		"price": 323,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Work_Jumpsuit_Child"
-	},
-	{
-		"abr": "クーリン子供用ショートパンツ",
-		"price": 95,
-		"category": "下衣",
-		"defname": "Kurin_Legs_Shorts_Child"
-	},
-	{
-		"abr": "クーリン子供用シンプルドレス",
-		"price": 273,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Traditional_Simple_Dress_Child"
-	},
-	{
-		"abr": "クーリン子供用スカート",
-		"price": 95,
-		"category": "下衣",
-		"defname": "Kurin_Legs_Skirt_Child"
-	},
-	{
-		"abr": "クーリン子供用スカーフ",
-		"price": 65,
-		"category": "着物",
-		"defname": "Kurin_Middle_Scarf_Child"
-	},
-	{
-		"abr": "クーリン子供用ストッキング(白)",
-		"price": 61,
-		"category": "ストッキング",
-		"defname": "Kurin_Stockings_White_Child"
-	},
-	{
-		"abr": "クーリン子供用ストッキング(縞)",
-		"price": 61,
-		"category": "ストッキング",
-		"defname": "Kurin_Stockings_Striped_Child"
-	},
-	{
-		"abr": "クーリン子供用ストッキング(茶)",
-		"price": 61,
-		"category": "ストッキング",
-		"defname": "Kurin_Stockings_Brown_Child"
-	},
-	{
-		"abr": "クーリン子供用ダウンジャケット",
-		"price": 231,
-		"category": "上着",
-		"defname": "Kurin_Shell_Winter_Padding_Child"
-	},
-	{
-		"abr": "クーリン子供用パーカー",
-		"price": 181,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Hoodie_Child"
-	},
-	{
-		"abr": "クーリン子供用パンスト",
-		"price": 61,
-		"category": "ストッキング",
-		"defname": "Kurin_Stockings_Pantyhose_Child"
-	},
-	{
-		"abr": "クーリン子供用パンツ",
-		"price": 115,
-		"category": "下衣",
-		"defname": "Kurin_Legs_Pants_Child"
-	},
-	{
-		"abr": "クーリン子供用ブラウス",
-		"price": 110,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Shirt_Child"
-	},
-	{
-		"abr": "クーリン子供用ヘアピン",
-		"price": 210,
-		"category": "帽子",
-		"defname": "Kurin_Overhead_Casual_Hair_Pin_Child"
-	},
-	{
-		"abr": "クーリン子供用ヘッドドレス",
-		"price": 210,
-		"category": "ロイヤリティ",
-		"defname": "Kurin_Overhead_Gothic_Hair_Pin_Child"
-	},
-	{
-		"abr": "クーリン子供用ボディアーマー",
-		"price": 245,
-		"category": "装甲化",
-		"defname": "Kurin_Middle_Body_Armor_Child"
-	},
-	{
-		"abr": "クーリン子供用ロングコート",
-		"price": 197,
-		"category": "上着",
-		"defname": "Kurin_Shell_Duster_Child"
-	},
-	{
-		"abr": "クーリン子供用ロングスカート",
-		"price": 115,
-		"category": "下衣",
-		"defname": "Kurin_Legs_Long_Skirt_Child"
-	},
-	{
-		"abr": "クーリン子供用ワンピース",
-		"price": 148,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_One_Piece_Dress_Child"
-	},
-	{
-		"abr": "クーリン子供用下着(白)",
-		"price": 61,
-		"category": "肌着",
-		"defname": "Kurin_Underwear_White_Child"
-	},
-	{
-		"abr": "クーリン子供用下着(縞)",
-		"price": 61,
-		"category": "肌着",
-		"defname": "Kurin_Underwear_Striped_Child"
-	},
-	{
-		"abr": "クーリン子供用下着(赤)",
-		"price": 61,
-		"category": "肌着",
-		"defname": "Kurin_Underwear_Red_Child"
-	},
-	{
-		"abr": "クーリン子供用下着(黒)",
-		"price": 61,
-		"category": "肌着",
-		"defname": "Kurin_Underwear_Black_Child"
-	},
-	{
-		"abr": "クーリン子供用伝統的な髪飾り",
-		"price": 218,
-		"category": "帽子",
-		"defname": "Kurin_Overhead_Traditional_Hair_Pin_Child"
-	},
-	{
-		"abr": "クーリン子供用軍用ヘルメット",
-		"price": 417,
-		"category": "装甲化",
-		"defname": "Kurin_Overhead_Military_Helmet_A_Child"
-	},
-	{
-		"abr": "クーリン子供用野球帽",
-		"price": 65,
-		"category": "帽子",
-		"defname": "Kurin_Overhead_Cap_Child"
-	},
-	{
-		"abr": "クーリン携帯用通信機(雨)",
-		"price": 417,
-		"category": "クーリン携帯用通信機",
-		"defname": "Kurin_WalkieTalkie_Rain"
-	},
-	{
-		"abr": "クーリン携帯用通信機(雪)",
-		"price": 417,
-		"category": "クーリン携帯用通信機",
-		"defname": "Kurin_WalkieTalkie_Snow"
-	},
-	{
-		"abr": "クーリン狩猟用ショットガン",
-		"price": 508,
-		"category": "遠隔",
-		"defname": "Kurin_Gun_Hunting_Shotgun"
-	},
-	{
-		"abr": "クーリン軍用バックパック",
-		"price": 383,
-		"category": "ユーティリティ",
-		"defname": "Kurin_Backpack_Military"
-	},
-	{
-		"abr": "クーリン軍用ヘルメットa",
-		"price": 608,
-		"category": "装甲化",
-		"defname": "Kurin_Overhead_Military_Helmet_A"
-	},
-	{
-		"abr": "クーリン軍用ヘルメットb",
-		"price": 833,
-		"category": "装甲化",
-		"defname": "Kurin_Overhead_Military_Helmet_B"
-	},
-	{
-		"abr": "クーリン重装ボディアーマー",
-		"price": 600,
-		"category": "装甲化",
-		"defname": "Kurin_Middle_Heavy_Body_Armor"
-	},
-	{
-		"abr": "クーリン野球帽",
-		"price": 107,
-		"category": "帽子",
-		"defname": "Kurin_Overhead_Cap"
-	},
-	{
-		"abr": "クーリンのケーキ",
-		"price": 50,
-		"category": "調理済",
-		"defname": "Kurin_Cake"
-	},
-	{
-		"abr": "クーリンパワーセル",
-		"price": 1008,
-		"category": "特殊品",
-		"defname": "Kurin_Power_Cell"
-	},
-	{
-		"abr": "クーリンポスター(キミコ)",
-		"price": 165,
-		"category": "クーリンポスター",
-		"defname": "Kurin_Poster_B"
-	},
-	{
-		"abr": "クーリンポスター(チヨコ)",
-		"price": 165,
-		"category": "クーリンポスター",
-		"defname": "Kurin_Poster_A"
-	},
-	{
-		"abr": "クーリンポスター(ミカミ)",
-		"price": 165,
-		"category": "クーリンポスター",
-		"defname": "Kurin_Poster_C"
-	},
-	{
-		"abr": "クーリンホッパー",
-		"price": 49,
-		"category": "生産物",
-		"defname": "Kurin_Fabricator_Hopper"
-	},
-	{
-		"abr": "クーリンメカノイドボックス(スマーティ)",
-		"price": 1583,
-		"category": "クーリンメカノイドボックス",
-		"defname": "Kurin_Smarty_Box"
-	},
-	{
-		"abr": "クーリンメカノイドボックス(ピースキーパー)",
-		"price": 2917,
-		"category": "クーリンメカノイドボックス",
-		"defname": "Kurin_Peacekeeper_Box"
-	},
-	{
-		"abr": "クーリンリブートデバイス",
-		"price": 1308,
-		"category": "特殊品",
-		"defname": "Kurin_Rebooting_Device"
-	},
-	{
-		"abr": "クーリンリペアキット",
-		"price": 33,
-		"category": "特殊品",
-		"defname": "Kurin_Repair_Kit"
-	},
-	{
-		"abr": "クーリンリペアボックス",
-		"price": 417,
-		"category": "特殊品",
-		"defname": "Kurin_Repair_Toolbox"
-	},
-	{
-		"abr": "クーリン充電装置",
-		"price": 1500,
-		"category": "生産物",
-		"defname": "Kurin_Power_Cell_Charger"
-	},
-	{
-		"abr": "クーリン先進造成機",
-		"price": 4442,
-		"category": "生産物",
-		"defname": "Kurin_Fabricator_Advanced"
-	},
-	{
-		"abr": "クーリン取引用無線機(エキゾチック)",
-		"price": 583,
-		"category": "クーリン取引用無線機",
-		"defname": "Kurin_WalkieTalkie_Trading_Exotic"
-	},
-	{
-		"abr": "クーリン取引用無線機(医薬品)",
-		"price": 583,
-		"category": "クーリン取引用無線機",
-		"defname": "Kurin_WalkieTalkie_Trading_Medical"
-	},
-	{
-		"abr": "クーリン取引用無線機(買取)",
-		"price": 583,
-		"category": "クーリン取引用無線機",
-		"defname": "Kurin_WalkieTalkie_Trading_Reseller"
-	},
-	{
-		"abr": "クーリン取引用無線機(雑貨)",
-		"price": 583,
-		"category": "クーリン取引用無線機",
-		"defname": "Kurin_WalkieTalkie_Trading_Standard"
-	},
-	{
-		"abr": "クーリン取引用無線機(食品)",
-		"price": 583,
-		"category": "クーリン取引用無線機",
-		"defname": "Kurin_WalkieTalkie_Trading_Food"
-	},
-	{
-		"abr": "クーリン無線機(オーバーロードタイタン)",
-		"price": 9167,
-		"category": "クーリン仮採用無線機",
-		"defname": "Kurin_WalkieTalkie_Probationer_Overlord"
-	},
-	{
-		"abr": "クーリン無線機(キミリ候補者)",
-		"price": 2917,
-		"category": "クーリン仮採用無線機",
-		"defname": "Kurin_WalkieTalkie_Probationer_Kimiri"
-	},
-	{
-		"abr": "クーリン無線機(クーリン候補者)",
-		"price": 2917,
-		"category": "クーリン仮採用無線機",
-		"defname": "Kurin_WalkieTalkie_Probationer_Kurin"
-	},
-	{
-		"abr": "クーリン無線機(クーリン軍兵士)",
-		"price": 9167,
-		"category": "クーリン仮採用無線機",
-		"defname": "Kurin_WalkieTalkie_Probationer_Kurin_Soldier"
-	},
-	{
-		"abr": "クーリン特製縄トラップ",
-		"price": 51,
-		"category": "防衛",
-		"defname": "Kurin_Noose_Trap"
-	},
-	{
-		"abr": "クーリン簡易造成機",
-		"price": 1600,
-		"category": "生産物",
-		"defname": "Kurin_Fabricator_Simple"
-	},
-	{
-		"abr": "クーリン素材造成機",
-		"price": 4642,
-		"category": "生産物",
-		"defname": "Kurin_Fabricator_Material"
-	},
-	{
-		"abr": "クーリン食肉変換器",
-		"price": 1450,
-		"category": "生産物",
-		"defname": "Kurin_Fabricator_MeatConverter"
 	},
 	{
 		"abr": "グラヴェーア",
@@ -8065,46 +7093,16 @@
 		"defname": "AS_WAE_RengerArmor"
 	},
 	{
-		"abr": "スマーティドリルテイル",
-		"price": 1692,
-		"category": "強化",
-		"defname": "Smarty_Drill_Tail"
-	},
-	{
 		"abr": "ドラゴンパンジー",
 		"price": 2,
 		"category": "生野菜",
 		"defname": "MDI_PansyPetal"
 	},
 	{
-		"abr": "リリン",
-		"price": 833,
-		"category": "家畜",
-		"defname": "Lilin"
-	},
-	{
-		"abr": "リリンの毛",
-		"price": 4,
-		"category": "髪の毛",
-		"defname": "Lilin_Wool"
-	},
-	{
 		"abr": "一枚布(ハーフエルフ)",
 		"price": 161,
 		"category": "下着",
 		"defname": "AS_Common_Tribal"
-	},
-	{
-		"abr": "先進強化尻尾(キミリ)",
-		"price": 2950,
-		"category": "強化",
-		"defname": "Kimiri_Advanced_Bionic_Tail"
-	},
-	{
-		"abr": "先進強化尻尾(クーリン)",
-		"price": 2600,
-		"category": "強化",
-		"defname": "Kurin_Advanced_Bionic_Tail"
 	},
 	{
 		"abr": "古代エルフ",
@@ -8123,36 +7121,6 @@
 		"price": 13,
 		"category": "原材料",
 		"defname": "ConcreteSlab"
-	},
-	{
-		"abr": "強化尻尾(キミリ)",
-		"price": 2108,
-		"category": "強化",
-		"defname": "Kimiri_Bionic_Tail"
-	},
-	{
-		"abr": "強化尻尾(クーリン)",
-		"price": 1925,
-		"category": "強化",
-		"defname": "Kurin_Bionic_Tail"
-	},
-	{
-		"abr": "強化耳(キミリ)",
-		"price": 958,
-		"category": "強化",
-		"defname": "Kimiri_Bionic_Ear"
-	},
-	{
-		"abr": "強化耳(クーリン)",
-		"price": 1742,
-		"category": "強化",
-		"defname": "Kurin_Bionic_Ear"
-	},
-	{
-		"abr": "最先端コンポーネント",
-		"price": 2000,
-		"category": "特殊品",
-		"defname": "Kurin_Ultra_Component"
 	},
 	{
 		"abr": "説教壇",
@@ -8683,210 +7651,6 @@
 		"defname": "GL_ClassyDoubleBed"
 	},
 	{
-		"abr": "カシミアストール(シルキーラ)",
-		"price": 367,
-		"category": "帽子",
-		"defname": "HAR_SK_AH_e"
-	},
-	{
-		"abr": "カチューシャ(シルキーラ)",
-		"price": 367,
-		"category": "帽子",
-		"defname": "HAR_SK_AH_b"
-	},
-	{
-		"abr": "ガラステーブル(2x2)",
-		"price": 242,
-		"category": "家具",
-		"defname": "HAR_SK_Table2x2c"
-	},
-	{
-		"abr": "ガラステーブル(3x3)",
-		"price": 417,
-		"category": "家具",
-		"defname": "HAR_SK_Table3x3c"
-	},
-	{
-		"abr": "ケモミミート",
-		"price": 3,
-		"category": "生肉",
-		"defname": "HAR_SK_Meal_d"
-	},
-	{
-		"abr": "シルキーキャット",
-		"price": 17,
-		"category": "家畜",
-		"defname": "HAR_SK_race_Cat"
-	},
-	{
-		"abr": "シルキーキャットの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_SK_race_Cat"
-	},
-	{
-		"abr": "シルキーラ",
-		"price": -10,
-		"category": "Animal",
-		"defname": "HAR_Silkiera"
-	},
-	{
-		"abr": "シルキーラ・ヴィクセンマリス",
-		"price": -10,
-		"category": "Animal",
-		"defname": "HAR_Silkiera_c"
-	},
-	{
-		"abr": "シルキーラ・ヴィクセンマリスの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_Silkiera_c"
-	},
-	{
-		"abr": "シルキーラ・クオリティ",
-		"price": -10,
-		"category": "Animal",
-		"defname": "HAR_Silkiera_b"
-	},
-	{
-		"abr": "シルキーラ・クオリティの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_Silkiera_b"
-	},
-	{
-		"abr": "シルキーラーメン",
-		"price": 67,
-		"category": "調理済",
-		"defname": "HAR_SK_Meal_e"
-	},
-	{
-		"abr": "シルキーラの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_Silkiera"
-	},
-	{
-		"abr": "シルキーランチ",
-		"price": 67,
-		"category": "調理済",
-		"defname": "HAR_SK_Meal_b"
-	},
-	{
-		"abr": "シル缶",
-		"price": 17,
-		"category": "調理済",
-		"defname": "HAR_SK_Meal_f"
-	},
-	{
-		"abr": "ダウンコート(シルキーラ)",
-		"price": 1050,
-		"category": "上着",
-		"defname": "HAR_SK_AS_c"
-	},
-	{
-		"abr": "ネコベント",
-		"price": 33,
-		"category": "調理済",
-		"defname": "HAR_SK_Meal_a"
-	},
-	{
-		"abr": "パネルランプ",
-		"price": 162,
-		"category": "家具",
-		"defname": "HAR_SK_Lamp"
-	},
-	{
-		"abr": "ビーストエナジー",
-		"price": 20,
-		"category": "ドラッグ",
-		"defname": "HAR_SK_Meal_c"
-	},
-	{
-		"abr": "ブレイズガン",
-		"price": 3575,
-		"category": "遠隔",
-		"defname": "Gun_AssaultRifle_SK"
-	},
-	{
-		"abr": "ペットチケット",
-		"price": 83333,
-		"category": "物品",
-		"defname": "HAR_SK_Archotech_c"
-	},
-	{
-		"abr": "マフラー(シルキーラ)",
-		"price": 367,
-		"category": "帽子",
-		"defname": "HAR_SK_AH_c"
-	},
-	{
-		"abr": "ミリタリーストール(シルキーラ)",
-		"price": 367,
-		"category": "帽子",
-		"defname": "HAR_SK_AH_d"
-	},
-	{
-		"abr": "メタリックアーマー",
-		"price": 7825,
-		"category": "装甲化",
-		"defname": "HAR_SK_A_a"
-	},
-	{
-		"abr": "メタリックヘルメット",
-		"price": 3217,
-		"category": "装甲化",
-		"defname": "HAR_SK_AH_f"
-	},
-	{
-		"abr": "メディカルキャット",
-		"price": 42,
-		"category": "薬",
-		"defname": "HAR_SK_Medicine_a"
-	},
-	{
-		"abr": "モッズコート(シルキーラ)",
-		"price": 1050,
-		"category": "上着",
-		"defname": "HAR_SK_AS_a"
-	},
-	{
-		"abr": "ラーヴァランチャー",
-		"price": 4508,
-		"category": "遠隔",
-		"defname": "Gun_IncendiaryLauncher_SK"
-	},
-	{
-		"abr": "下着a(シルキーラ)",
-		"price": 342,
-		"category": "下着",
-		"defname": "HAR_SK_AO_a"
-	},
-	{
-		"abr": "亜人工業ネコスタンプ",
-		"price": 2,
-		"category": "物品",
-		"defname": "HAR_SK_Item_Extra_a"
-	},
-	{
-		"abr": "亜人工業プラチナチケット",
-		"price": 20000,
-		"category": "物品",
-		"defname": "HAR_SK_Archotech_a"
-	},
-	{
-		"abr": "亜人工業ブラックチケット",
-		"price": 83333,
-		"category": "物品",
-		"defname": "HAR_SK_Archotech_b"
-	},
-	{
-		"abr": "亜人工業回収店",
-		"price": 617,
-		"category": "生産物",
-		"defname": "BMOT_Building_Recycle_a"
-	},
-	{
 		"abr": "checkerdoormat",
 		"price": 8,
 		"category": "家具",
@@ -8897,18 +7661,6 @@
 		"price": 13,
 		"category": "家具",
 		"defname": "LT_DoorMatBigCheckerLeather"
-	},
-	{
-		"abr": "クーリンショートジャンプスーツ",
-		"price": 281,
-		"category": "下着",
-		"defname": "Kurin_OnSkin_Short_Jumpsuit"
-	},
-	{
-		"abr": "クーリンポスター(ビビコ)",
-		"price": 165,
-		"category": "クーリンポスター",
-		"defname": "Kurin_Poster_D"
 	},
 	{
 		"abr": "iscream",
@@ -9025,90 +7777,6 @@
 		"defname": "Meat_GRC_GhostAnimal_Rousai"
 	},
 	{
-		"abr": "亜人工業奴隷店",
-		"price": 15833,
-		"category": "家具",
-		"defname": "BMOT_Building_MailOrderTerminal_Slave"
-	},
-	{
-		"abr": "亜人工業家具店",
-		"price": 15833,
-		"category": "家具",
-		"defname": "BMOT_Building_MailOrderTerminal_Furniture"
-	},
-	{
-		"abr": "亜人工業家畜店",
-		"price": 15833,
-		"category": "家具",
-		"defname": "BMOT_Building_MailOrderTerminal_Animal"
-	},
-	{
-		"abr": "亜人工業街灯",
-		"price": 833,
-		"category": "家具",
-		"defname": "HAR_SK_City_Light"
-	},
-	{
-		"abr": "亜人工業資材店",
-		"price": 15833,
-		"category": "家具",
-		"defname": "BMOT_Building_MailOrderTerminal_Material"
-	},
-	{
-		"abr": "亜人工業食品店",
-		"price": 15833,
-		"category": "家具",
-		"defname": "BMOT_Building_MailOrderTerminal_Food"
-	},
-	{
-		"abr": "亜工製機械生命体シャドーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_SK_Mechanoid_race_c"
-	},
-	{
-		"abr": "亜工製機械生命体ソルジャーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_SK_Mechanoid_race_e"
-	},
-	{
-		"abr": "亜工製機械生命体プレデターの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_SK_Mechanoid_race_b"
-	},
-	{
-		"abr": "亜工製機械生命体リーパーの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HAR_SK_Mechanoid_race_a"
-	},
-	{
-		"abr": "付け角(シルキーラ)",
-		"price": 367,
-		"category": "帽子",
-		"defname": "HAR_SK_AH_a"
-	},
-	{
-		"abr": "作業服(シルキーラ)",
-		"price": 342,
-		"category": "着物",
-		"defname": "HAR_SK_AT_b"
-	},
-	{
-		"abr": "作業用コート(シルキーラ)",
-		"price": 1050,
-		"category": "上着",
-		"defname": "HAR_SK_AS_b"
-	},
-	{
-		"abr": "勤勉の箒",
-		"price": 633,
-		"category": "近接",
-		"defname": "HAR_SK_Weapon_b"
-	},
-	{
 		"abr": "包丁",
 		"price": 239,
 		"category": "近接",
@@ -9119,18 +7787,6 @@
 		"price": 500,
 		"category": "帽子",
 		"defname": "GRC_Apparel_CelestialCrown"
-	},
-	{
-		"abr": "妖狐の着物",
-		"price": 8942,
-		"category": "装甲化",
-		"defname": "HAR_SK_A_b"
-	},
-	{
-		"abr": "妖狐の簪",
-		"price": 9933,
-		"category": "装甲化",
-		"defname": "HAR_SK_AH_g"
 	},
 	{
 		"abr": "wcradマスク",
@@ -9453,18 +8109,18 @@
 	{
 		"abr": "アオメのジュース",
 		"price": 5,
-		"category": "獣耳製品",
+		"category": "ケモミミフード",
 		"defname": "AomeDrink"
 	},
 	{
 		"abr": "アカメのミルク",
 		"price": 5,
-		"category": "獣耳製品",
+		"category": "ケモミミフード",
 		"defname": "AkameMilk"
 	},
 	{
 		"abr": "アマゾン",
-		"price": 1500,
+		"price": -10,
 		"category": "家畜",
 		"defname": "AA_Amazon"
 	},
@@ -9476,7 +8132,7 @@
 	},
 	{
 		"abr": "アマゾンの肉",
-		"price": 3,
+		"price": -10,
 		"category": "生肉",
 		"defname": "Meat_AA_Amazon"
 	},
@@ -9621,13 +8277,13 @@
 	{
 		"abr": "クロのお茶",
 		"price": 20,
-		"category": "獣耳製品",
+		"category": "ケモミミフード",
 		"defname": "KuroTea"
 	},
 	{
 		"abr": "コヒメの涙",
 		"price": 333,
-		"category": "獣耳製品",
+		"category": "ケモミミフード",
 		"defname": "KohimeTears"
 	},
 	{
@@ -9669,7 +8325,7 @@
 	{
 		"abr": "シロのお酒",
 		"price": 25,
-		"category": "獣耳製品",
+		"category": "ケモミミフード",
 		"defname": "SiroWine"
 	},
 	{
@@ -9783,7 +8439,7 @@
 	{
 		"abr": "ハナの香油",
 		"price": 27,
-		"category": "獣耳製品",
+		"category": "ケモミミフード",
 		"defname": "HanaPerfume"
 	},
 	{
@@ -9885,7 +8541,7 @@
 	{
 		"abr": "ミコの滴",
 		"price": 37,
-		"category": "獣耳製品",
+		"category": "ケモミミフード",
 		"defname": "MikoWater"
 	},
 	{
@@ -9925,316 +8581,10 @@
 		"defname": "DR_Battlesword"
 	},
 	{
-		"abr": "etomniavanitas",
-		"price": 800,
-		"category": "遠隔",
-		"defname": "Et_omnia_vanitas"
-	},
-	{
-		"abr": "eyeofhorus",
-		"price": 425,
-		"category": "遠隔",
-		"defname": "Eye_of_horus"
-	},
-	{
-		"abr": "mariheadgear",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Mari_headgear"
-	},
-	{
-		"abr": "mariuniform",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Mari_uniform"
-	},
-	{
-		"abr": "piety",
-		"price": 232,
-		"category": "遠隔",
-		"defname": "Piety"
-	},
-	{
-		"abr": "quisutdeus",
-		"price": 550,
-		"category": "遠隔",
-		"defname": "Quis_ut_Deus"
-	},
-	{
-		"abr": "rabbit-26式機関銃",
-		"price": 708,
-		"category": "遠隔",
-		"defname": "Rabbit-26_type_machine_gun"
-	},
-	{
-		"abr": "rabbit-31式短機関銃",
-		"price": 550,
-		"category": "遠隔",
-		"defname": "Rabbit-31_short_type_submachine_gun"
-	},
-	{
-		"abr": "rabbit-39式小銃",
-		"price": 425,
-		"category": "遠隔",
-		"defname": "Rabbit-39_type_rifle"
-	},
-	{
-		"abr": "whitefang465",
-		"price": 800,
-		"category": "遠隔",
-		"defname": "White_fang"
-	},
-	{
-		"abr": "アイディール",
-		"price": 883,
-		"category": "遠隔",
-		"defname": "Ideal"
-	},
-	{
-		"abr": "アイデンティティ",
-		"price": 950,
-		"category": "遠隔",
-		"defname": "Identity"
-	},
-	{
-		"abr": "アコ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Ako_uniform"
-	},
-	{
-		"abr": "アコ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Ako_headgear"
-	},
-	{
-		"abr": "アズサ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Azusa_uniform"
-	},
-	{
-		"abr": "アズサ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Azusa_headgear"
-	},
-	{
-		"abr": "アツコ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Atsuko_uniform"
-	},
-	{
-		"abr": "アツコ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Atsuko_headgear"
-	},
-	{
-		"abr": "アリウス製アサルトライフル",
-		"price": 800,
-		"category": "遠隔",
-		"defname": "Arius_assault_rifle"
-	},
-	{
-		"abr": "アリス制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Aris_uniform"
-	},
-	{
-		"abr": "アリス頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Aris_headgear"
-	},
-	{
-		"abr": "アル制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Aru_uniform"
-	},
-	{
-		"abr": "アル頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Aru_headgear"
-	},
-	{
-		"abr": "イオリ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Iori_uniform"
-	},
-	{
-		"abr": "イオリ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Iori_headgear"
-	},
-	{
-		"abr": "イズナ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Izuna_uniform"
-	},
-	{
-		"abr": "イズナ流スーパー忍具",
-		"price": 592,
-		"category": "遠隔",
-		"defname": "Superningu"
-	},
-	{
-		"abr": "イズナ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Izuna_headgear"
-	},
-	{
-		"abr": "インペイルメント",
-		"price": 558,
-		"category": "遠隔",
-		"defname": "Impalement"
-	},
-	{
-		"abr": "ウイ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Ui_uniform"
-	},
-	{
-		"abr": "ウイ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Ui_headgear"
-	},
-	{
 		"abr": "ギガサウンドスクリーンテレビ",
 		"price": 2342,
 		"category": "娯楽",
 		"defname": "RLE_GigaSoundTelevision"
-	},
-	{
-		"abr": "クラックショット",
-		"price": 425,
-		"category": "遠隔",
-		"defname": "Crack_shot"
-	},
-	{
-		"abr": "ココナ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Kokona_uniform"
-	},
-	{
-		"abr": "ココナ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Kokona_headgear"
-	},
-	{
-		"abr": "コハル制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Koharu_uniform"
-	},
-	{
-		"abr": "コハル頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Koharu_headgear"
-	},
-	{
-		"abr": "コユキ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Koyuki_uniform"
-	},
-	{
-		"abr": "コユキ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Koyuki_headgear"
-	},
-	{
-		"abr": "サオリ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Saori_uniform"
-	},
-	{
-		"abr": "サオリ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Saori_headgear"
-	},
-	{
-		"abr": "サキ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Saki_uniform"
-	},
-	{
-		"abr": "サキ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Saki_headgear"
-	},
-	{
-		"abr": "サクラコ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Sakurako_uniform"
-	},
-	{
-		"abr": "サクラコ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Sakurako_headgear"
-	},
-	{
-		"abr": "シークレットタイム",
-		"price": 1250,
-		"category": "遠隔",
-		"defname": "Secret_time"
-	},
-	{
-		"abr": "ジャスティス・ブラック",
-		"price": 425,
-		"category": "遠隔",
-		"defname": "Justice_black"
-	},
-	{
-		"abr": "シュン制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Shun_uniform"
-	},
-	{
-		"abr": "シュン頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Shun_headgear"
-	},
-	{
-		"abr": "シロコ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Sirocco_uniform"
-	},
-	{
-		"abr": "シロコ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Sirocco_headgear"
-	},
-	{
-		"abr": "シンシアリティ",
-		"price": 800,
-		"category": "遠隔",
-		"defname": "Sincerity"
 	},
 	{
 		"abr": "シンプルクッション",
@@ -10255,184 +8605,16 @@
 		"defname": "RLE_SimpleTable"
 	},
 	{
-		"abr": "スコルピウス",
-		"price": 592,
-		"category": "遠隔",
-		"defname": "Scorpius"
-	},
-	{
 		"abr": "ストレージテーブル",
 		"price": 52,
 		"category": "家具",
 		"defname": "RLE_SimpleStocker"
 	},
 	{
-		"abr": "セイントプレデター",
-		"price": 1150,
-		"category": "遠隔",
-		"defname": "Saintpredator"
-	},
-	{
-		"abr": "セナ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Sena_uniform"
-	},
-	{
-		"abr": "セナ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Sena_headgear"
-	},
-	{
-		"abr": "セリカ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Serika_uniform"
-	},
-	{
-		"abr": "セリカ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Serika_headgear"
-	},
-	{
 		"abr": "デザインテーブル",
 		"price": 68,
 		"category": "家具",
 		"defname": "RLE_DesignTable"
-	},
-	{
-		"abr": "トキ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Toki_uniform"
-	},
-	{
-		"abr": "トキ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Toki_headgear"
-	},
-	{
-		"abr": "トリックオアトリック",
-		"price": 708,
-		"category": "遠隔",
-		"defname": "Trick_or_treat"
-	},
-	{
-		"abr": "にゃん'sダッシュ",
-		"price": 1025,
-		"category": "遠隔",
-		"defname": "Nyans_dash"
-	},
-	{
-		"abr": "ノア制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Noa_uniform"
-	},
-	{
-		"abr": "ノア頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Noa_headgear"
-	},
-	{
-		"abr": "ノノミ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Nonomi_uniform"
-	},
-	{
-		"abr": "ノノミ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Nonomi_headgear"
-	},
-	{
-		"abr": "ハスミ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Hasumi_uniform"
-	},
-	{
-		"abr": "ハスミ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Hasumi_headgear"
-	},
-	{
-		"abr": "ハルカ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Haruka_uniform"
-	},
-	{
-		"abr": "ハルカ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Haruka_headgear"
-	},
-	{
-		"abr": "ハルナ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Haruna_uniform"
-	},
-	{
-		"abr": "ハルナ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Haruna_headgear"
-	},
-	{
-		"abr": "ヒナ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Hina_uniform"
-	},
-	{
-		"abr": "ヒナ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Hina_headgear"
-	},
-	{
-		"abr": "ヒフミ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Hifumi_uniform"
-	},
-	{
-		"abr": "ヒフミ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Hifumi_headgear"
-	},
-	{
-		"abr": "ヒヨリ制服(bluearchive)",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Hiyori_uniform_bluearchive"
-	},
-	{
-		"abr": "ヒヨリ頭装備(bluearchive)",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Hiyori_headgear_bluearchive"
-	},
-	{
-		"abr": "フウカ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Fuuka_uniform"
-	},
-	{
-		"abr": "フウカ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Fuuka_headgear"
 	},
 	{
 		"abr": "ふかふかの布団と敷布団(シングル)",
@@ -10453,100 +8635,16 @@
 		"defname": "RLBlackJack_PlayingTable"
 	},
 	{
-		"abr": "フレッシュ・インスピレーション",
-		"price": 800,
-		"category": "遠隔",
-		"defname": "Flash_inspiration"
-	},
-	{
-		"abr": "ブローアウェイ",
-		"price": 425,
-		"category": "遠隔",
-		"defname": "Blow_away"
-	},
-	{
 		"abr": "ペット用快適クッションベッド",
 		"price": 276,
 		"category": "家具",
 		"defname": "RLE_AnimalBed"
 	},
 	{
-		"abr": "ホシノ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Hoshino_uniform"
-	},
-	{
-		"abr": "ホシノ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Hoshino_headgear"
-	},
-	{
 		"abr": "ボックスストレージ",
 		"price": 86,
 		"category": "家具",
 		"defname": "RLE_BoxStocker"
-	},
-	{
-		"abr": "ホットショット",
-		"price": 425,
-		"category": "遠隔",
-		"defname": "Hatshot"
-	},
-	{
-		"abr": "ボリュームサプレッサー",
-		"price": 425,
-		"category": "遠隔",
-		"defname": "Volume_suppressor"
-	},
-	{
-		"abr": "マイ・ネセシティ",
-		"price": 800,
-		"category": "遠隔",
-		"defname": "Mynecessity"
-	},
-	{
-		"abr": "マリ・ガン",
-		"price": 708,
-		"category": "遠隔",
-		"defname": "Mulli_gun"
-	},
-	{
-		"abr": "ミカ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Mika_uniform"
-	},
-	{
-		"abr": "ミカ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Mika_headgear"
-	},
-	{
-		"abr": "ミサキ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Misaki_uniform"
-	},
-	{
-		"abr": "ミサキ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Misaki_headgear"
-	},
-	{
-		"abr": "ミドリ制服",
-		"price": 1083,
-		"category": "装甲化",
-		"defname": "Midori_uniform"
-	},
-	{
-		"abr": "ミドリ頭装備",
-		"price": 742,
-		"category": "装甲化",
-		"defname": "Midori_headgear"
 	},
 	{
 		"abr": "▼▼",
@@ -10559,18 +8657,6 @@
 		"price": 333,
 		"category": "家畜",
 		"defname": "YR_Sikigami_Snake"
-	},
-	{
-		"abr": "100tハンマー",
-		"price": 1408,
-		"category": "近接",
-		"defname": "Kijin_100tHammer"
-	},
-	{
-		"abr": "エキゾチック物質",
-		"price": 260,
-		"category": "加工品",
-		"defname": "Miho_ExoticMatter"
 	},
 	{
 		"abr": "カメの式神",
@@ -10586,7 +8672,7 @@
 	},
 	{
 		"abr": "キイロ",
-		"price": 4583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kiiro_Race"
 	},
@@ -11569,18 +9655,6 @@
 		"defname": "YR_yedoensisBerries"
 	},
 	{
-		"abr": "セラミック",
-		"price": 3,
-		"category": "原材料",
-		"defname": "Miho_Ceramics"
-	},
-	{
-		"abr": "セラミック生地",
-		"price": 1,
-		"category": "原材料",
-		"defname": "Miho_CeramicsPaste"
-	},
-	{
 		"abr": "タヌキの式神",
 		"price": 333,
 		"category": "家畜",
@@ -11629,6 +9703,1236 @@
 		"defname": "Kiiro_CannedCatFood"
 	},
 	{
+		"abr": "yuranbaegmyeong",
+		"price": 105,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_baegmyeong"
+	},
+	{
+		"abr": "yuranjeogmyeong",
+		"price": 105,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_jeogmyeong"
+	},
+	{
+		"abr": "アマオールドスタイルsaw",
+		"price": 667,
+		"category": "遠隔",
+		"defname": "AMAGun_oldstyleSAW"
+	},
+	{
+		"abr": "アマピストルカービン",
+		"price": 658,
+		"category": "遠隔",
+		"defname": "AMAGun_SMG"
+	},
+	{
+		"abr": "アマ半島人型防弾ヘルメット",
+		"price": 153,
+		"category": "装甲化",
+		"defname": "AMAHelmetKR"
+	},
+	{
+		"abr": "アマ唐装",
+		"price": 186,
+		"category": "下着",
+		"defname": "AMATangzhuang"
+	},
+	{
+		"abr": "アマ大刀",
+		"price": 450,
+		"category": "近接",
+		"defname": "AMAMelee_Dadao"
+	},
+	{
+		"abr": "アマ将校用バイザー",
+		"price": 111,
+		"category": "帽子",
+		"defname": "AMACNOfficerVisor"
+	},
+	{
+		"abr": "アマ島人型防弾ヘルメット",
+		"price": 153,
+		"category": "装甲化",
+		"defname": "AMAHelmetJP"
+	},
+	{
+		"abr": "アマ強化防弾ヘルメット",
+		"price": 326,
+		"category": "装甲化",
+		"defname": "AMANewHelmet"
+	},
+	{
+		"abr": "アマ旗袍",
+		"price": 186,
+		"category": "下着",
+		"defname": "AMAQipao"
+	},
+	{
+		"abr": "アマ標準型ロードキャリーシステム",
+		"price": 342,
+		"category": "装甲化",
+		"defname": "AMAVest"
+	},
+	{
+		"abr": "アマ標準的な軍服",
+		"price": 253,
+		"category": "下着",
+		"defname": "AMAUniform"
+	},
+	{
+		"abr": "アマ標準的な軍服",
+		"price": 600,
+		"category": "装甲化",
+		"defname": "AMAKRUniform"
+	},
+	{
+		"abr": "アマ着流し",
+		"price": 257,
+		"category": "下着",
+		"defname": "AMAKanagashi"
+	},
+	{
+		"abr": "アマ給仕服",
+		"price": 257,
+		"category": "下着",
+		"defname": "AMAKimono"
+	},
+	{
+		"abr": "アマ羽織",
+		"price": 293,
+		"category": "上着",
+		"defname": "AMAHaori"
+	},
+	{
+		"abr": "アマ裳赤古里",
+		"price": 257,
+		"category": "下着",
+		"defname": "AMAHanbok"
+	},
+	{
+		"abr": "アマ赤古里",
+		"price": 257,
+		"category": "下着",
+		"defname": "AMAHanbokB"
+	},
+	{
+		"abr": "アマ軍刀",
+		"price": 450,
+		"category": "近接",
+		"defname": "AMAMelee_Katana"
+	},
+	{
+		"abr": "アマ防弾アーマーセット",
+		"price": 775,
+		"category": "装甲化",
+		"defname": "AMASamurai"
+	},
+	{
+		"abr": "アマ防弾ヘルメット",
+		"price": 153,
+		"category": "装甲化",
+		"defname": "AMAOldHelmet"
+	},
+	{
+		"abr": "アマ電荷gpmg",
+		"price": 2508,
+		"category": "遠隔",
+		"defname": "AMAGun_ECGPMG"
+	},
+	{
+		"abr": "アマ電荷アサルトライフル",
+		"price": 2125,
+		"category": "遠隔",
+		"defname": "AMAGun_ECAR"
+	},
+	{
+		"abr": "アマ電荷バトルライフル",
+		"price": 2267,
+		"category": "遠隔",
+		"defname": "AMAGun_ECBR"
+	},
+	{
+		"abr": "アマ高性能電荷gpmg",
+		"price": 3100,
+		"category": "遠隔",
+		"defname": "AMAGun_SmartECGPMG"
+	},
+	{
+		"abr": "クーリンアサルトカービン",
+		"price": 1158,
+		"category": "遠隔",
+		"defname": "Kurin_Gun_Carbine"
+	},
+	{
+		"abr": "クーリンウェディングドレス",
+		"price": 533,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_OnSkin_Wedding_Dress"
+	},
+	{
+		"abr": "クーリンスーパーチャージ重狙撃銃",
+		"price": 9975,
+		"category": "遠隔",
+		"defname": "Kurin_Gun_SuperchargedHeavySniperrifle"
+	},
+	{
+		"abr": "クーリンチャージsmg",
+		"price": 4525,
+		"category": "遠隔",
+		"defname": "Kurin_Gun_Charge_SMG"
+	},
+	{
+		"abr": "クーリンチャージスナイパーライフル",
+		"price": 5308,
+		"category": "遠隔",
+		"defname": "Kurin_Gun_Charge_sniper_rifle"
+	},
+	{
+		"abr": "クーリンミニガン",
+		"price": 1225,
+		"category": "遠隔",
+		"defname": "Kurin_Gun_MiniGun"
+	},
+	{
+		"abr": "クーリン反物質銃",
+		"price": 8933,
+		"category": "遠隔",
+		"defname": "Kurin_Gun_Antimatter"
+	},
+	{
+		"abr": "クーリン子供用セーター",
+		"price": 253,
+		"category": "上着",
+		"defname": "Kurin_Child_Sweater"
+	},
+	{
+		"abr": "クーリン子供用ワンピース",
+		"price": 129,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_OnSkin_Kid_Shirt"
+	},
+	{
+		"abr": "クーリン子供用帽子",
+		"price": 73,
+		"category": "帽子",
+		"defname": "Kurin_Child_Hat"
+	},
+	{
+		"abr": "クーリン電動ミシン(1x3)",
+		"price": 433,
+		"category": "生産物",
+		"defname": "Kurin_Tailoring_Bench"
+	},
+	{
+		"abr": "ミント入りネコ缶(キイロ)",
+		"price": 25,
+		"category": "調理済",
+		"defname": "Kiiro_CannedMintedCatFood"
+	},
+	{
+		"abr": "ムール貝(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Mussel"
+	},
+	{
+		"abr": "ユキの雫",
+		"price": 100,
+		"category": "ケモミミフード",
+		"defname": "YukiBreath"
+	},
+	{
+		"abr": "ユラン",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Yuran_Race"
+	},
+	{
+		"abr": "ユラン偉梳",
+		"price": 170,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Maidhat"
+	},
+	{
+		"abr": "ユラン大きなリボン",
+		"price": 170,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Ribbon_BIg"
+	},
+	{
+		"abr": "ユラン大地の護符",
+		"price": 270,
+		"category": "装甲化",
+		"defname": "YR_AP_Sharp"
+	},
+	{
+		"abr": "ユラン大弓",
+		"price": 154,
+		"category": "遠隔",
+		"defname": "YR_WP_Bow"
+	},
+	{
+		"abr": "ユラン大海の護符",
+		"price": 270,
+		"category": "装甲化",
+		"defname": "YR_AP_Heat"
+	},
+	{
+		"abr": "ユラン太刀",
+		"price": 392,
+		"category": "近接",
+		"defname": "YR_WP_katana"
+	},
+	{
+		"abr": "ユラン奇跡の丸丹",
+		"price": 4333,
+		"category": "加工品",
+		"defname": "YR_PsychicAmplifier_Evol"
+	},
+	{
+		"abr": "ユラン小さなリボン",
+		"price": 170,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Ribbon_Small"
+	},
+	{
+		"abr": "ユラン弥針台",
+		"price": 312,
+		"category": "生産物",
+		"defname": "YR_P_sewingmachine"
+	},
+	{
+		"abr": "ユラン投槍",
+		"price": 383,
+		"category": "遠隔",
+		"defname": "YR_WP_Spear"
+	},
+	{
+		"abr": "ユラン招きうさぎ(健康)",
+		"price": 2,
+		"category": "加工品",
+		"defname": "YR_ManekiUsagi_Immunity"
+	},
+	{
+		"abr": "ユラン招きうさぎ(匠)",
+		"price": 2,
+		"category": "加工品",
+		"defname": "YR_ManekiUsagi_Craft"
+	},
+	{
+		"abr": "ユラン招きうさぎ(回復)",
+		"price": 2,
+		"category": "加工品",
+		"defname": "YR_ManekiUsagi_Heal"
+	},
+	{
+		"abr": "ユラン招きうさぎ(安定)",
+		"price": 2,
+		"category": "加工品",
+		"defname": "YR_ManekiUsagi_Stability"
+	},
+	{
+		"abr": "ユラン招きうさぎ(豊穣)",
+		"price": 2,
+		"category": "加工品",
+		"defname": "YR_ManekiUsagi_Plant"
+	},
+	{
+		"abr": "ユラン明月",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_WhiteSee"
+	},
+	{
+		"abr": "ユラン暗影",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_CombatCloth_Black"
+	},
+	{
+		"abr": "ユラン暗影鉢金",
+		"price": 170,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_CombatCloth_Black_Ribbon"
+	},
+	{
+		"abr": "ユラン桜団子",
+		"price": 25,
+		"category": "調理済",
+		"defname": "YR_yedoensisBerries_Dango"
+	},
+	{
+		"abr": "ユラン桜桃箱",
+		"price": 2000,
+		"category": "加工品",
+		"defname": "YR_TreeBox"
+	},
+	{
+		"abr": "ユラン桜花",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Red"
+	},
+	{
+		"abr": "ユラン森林の護符",
+		"price": 270,
+		"category": "装甲化",
+		"defname": "YR_AP_Blunt"
+	},
+	{
+		"abr": "ユラン淵偉",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_MaidA"
+	},
+	{
+		"abr": "ユラン清風",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_WhitePuple"
+	},
+	{
+		"abr": "ユラン演舞",
+		"price": 136,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Child"
+	},
+	{
+		"abr": "ユラン火縄銃",
+		"price": 467,
+		"category": "遠隔",
+		"defname": "YR_WP_Gun"
+	},
+	{
+		"abr": "ユラン白月",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_WhiteMoon"
+	},
+	{
+		"abr": "ユラン白色衣装箱",
+		"price": 3667,
+		"category": "加工品",
+		"defname": "YR_ClothBox_AddonWhite"
+	},
+	{
+		"abr": "ユラン白雲",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_WhiteOutCloth"
+	},
+	{
+		"abr": "ユラン白鷺",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_White"
+	},
+	{
+		"abr": "ユラン白鷺帽",
+		"price": 170,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_WhiteHood"
+	},
+	{
+		"abr": "ユラン神壇",
+		"price": 304,
+		"category": "その他",
+		"defname": "YR_Shine"
+	},
+	{
+		"abr": "ユラン紅蓮",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_CombatCloth_White"
+	},
+	{
+		"abr": "ユラン花飾り",
+		"price": 170,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Flower"
+	},
+	{
+		"abr": "ユラン苦無",
+		"price": 244,
+		"category": "遠隔",
+		"defname": "YR_WP_kunai"
+	},
+	{
+		"abr": "ユラン蓮行燈",
+		"price": 75,
+		"category": "加工品",
+		"defname": "YR_Random_lantern"
+	},
+	{
+		"abr": "ユラン薙刀",
+		"price": 442,
+		"category": "近接",
+		"defname": "YR_WP_Naginata"
+	},
+	{
+		"abr": "ユラン観賞用ゴシックケープ",
+		"price": 1833,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Addon_BlackCape"
+	},
+	{
+		"abr": "ユラン観賞用ゴシックスカート",
+		"price": 1833,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Addon_BlackSkirt"
+	},
+	{
+		"abr": "ユラン観賞用サイドオープンドレス",
+		"price": 1833,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Addon_SideopenDress"
+	},
+	{
+		"abr": "ユラン観賞用パーカー",
+		"price": 1833,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Addon_hoodshirt"
+	},
+	{
+		"abr": "ユラン観賞用白色ドレス",
+		"price": 1833,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Addon_WhiteDress"
+	},
+	{
+		"abr": "ユラン観賞用肩出しニット",
+		"price": 1833,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Addon_knitwear"
+	},
+	{
+		"abr": "ユラン観賞用花冠",
+		"price": 1333,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Flower_AddonA"
+	},
+	{
+		"abr": "ユラン観賞用荊冠",
+		"price": 1333,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Flower_AddonB"
+	},
+	{
+		"abr": "ユラン観賞用黒リボン",
+		"price": 1333,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Flower_AddonC"
+	},
+	{
+		"abr": "ユラン観賞用黒色ドレス",
+		"price": 1833,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_Addon_BlackDress"
+	},
+	{
+		"abr": "ユラン赤月",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_MiKo_B"
+	},
+	{
+		"abr": "ユラン赤霧",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_MiKo"
+	},
+	{
+		"abr": "ユラン醸造台",
+		"price": 312,
+		"category": "生産物",
+		"defname": "YR_P_Brewery"
+	},
+	{
+		"abr": "ユラン錫杖",
+		"price": 265,
+		"category": "遠隔",
+		"defname": "YR_WP_Staff"
+	},
+	{
+		"abr": "ユラン錫杖(攪乱)",
+		"price": 265,
+		"category": "遠隔",
+		"defname": "YR_WP_StaffC"
+	},
+	{
+		"abr": "ユラン錫杖(束縛)",
+		"price": 265,
+		"category": "遠隔",
+		"defname": "YR_WP_StaffB"
+	},
+	{
+		"abr": "ユラン錫杖(空)",
+		"price": 265,
+		"category": "遠隔",
+		"defname": "YR_WP_Staff_Cooldown"
+	},
+	{
+		"abr": "ユラン鍛冶台",
+		"price": 312,
+		"category": "生産物",
+		"defname": "YR_P_Smithy"
+	},
+	{
+		"abr": "ユラン雀躍",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_RedWhite"
+	},
+	{
+		"abr": "ユラン雲霧",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_WhiteSeeCape"
+	},
+	{
+		"abr": "ユラン鳥居",
+		"price": 271,
+		"category": "その他",
+		"defname": "YR_Torie"
+	},
+	{
+		"abr": "ユラン黒ゴス衣装箱",
+		"price": 3667,
+		"category": "加工品",
+		"defname": "YR_ClothBox_AddonBlackSkirt"
+	},
+	{
+		"abr": "ユラン黒日",
+		"price": 2167,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_BlackSun"
+	},
+	{
+		"abr": "ユラン黒日帽",
+		"price": 2167,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_BlackSunHood"
+	},
+	{
+		"abr": "ユラン黒日衣装箱",
+		"price": 6667,
+		"category": "加工品",
+		"defname": "YR_ClothBox"
+	},
+	{
+		"abr": "ユラン黒桜絶斬刀",
+		"price": 1942,
+		"category": "近接",
+		"defname": "YR_WP_monokatana"
+	},
+	{
+		"abr": "ユラン黒桜絶貫銃",
+		"price": 1942,
+		"category": "遠隔",
+		"defname": "YR_WP_MonoGun"
+	},
+	{
+		"abr": "ユラン黒緯",
+		"price": 203,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_MaidB"
+	},
+	{
+		"abr": "ユラン黒色衣装箱",
+		"price": 3667,
+		"category": "加工品",
+		"defname": "YR_ClothBox_AddonBlack"
+	},
+	{
+		"abr": "ユラン黒蛇杖",
+		"price": 265,
+		"category": "遠隔",
+		"defname": "YR_WP_Staff_BlackSnake"
+	},
+	{
+		"abr": "ユラン黒蛇杖(攪乱)",
+		"price": 265,
+		"category": "遠隔",
+		"defname": "YR_WP_StaffC_BlackSnake"
+	},
+	{
+		"abr": "ユラン黒蛇杖(束縛)",
+		"price": 265,
+		"category": "遠隔",
+		"defname": "YR_WP_StaffB_BlackSnake"
+	},
+	{
+		"abr": "ユラン黒蛇杖(空)",
+		"price": 265,
+		"category": "遠隔",
+		"defname": "YR_WP_Staff_Cooldown_BlackSnake"
+	},
+	{
+		"abr": "ユラン黒雲",
+		"price": 2167,
+		"category": "ロイヤリティ",
+		"defname": "YR_AP_BlackSunOutCloth"
+	},
+	{
+		"abr": "ユランの肉",
+		"price": 1,
+		"category": "生肉",
+		"defname": "Meat_Yuran_Race"
+	},
+	{
+		"abr": "ユラン巫女",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Yuran_Race_Miko"
+	},
+	{
+		"abr": "ユラン黒蛇",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Yuran_Race_Miko_BlackSnake"
+	},
+	{
+		"abr": "リンクテーブル",
+		"price": 85,
+		"category": "家具",
+		"defname": "RLE_LinklikeTable"
+	},
+	{
+		"abr": "ロブスター(生)",
+		"price": 100,
+		"category": "生の魚",
+		"defname": "RF_Lobster"
+	},
+	{
+		"abr": "ロングストレージテーブル",
+		"price": 207,
+		"category": "家具",
+		"defname": "RLE_LongStocker"
+	},
+	{
+		"abr": "ワーキングチェア",
+		"price": 617,
+		"category": "家具",
+		"defname": "RLE_WorkingChair"
+	},
+	{
+		"abr": "ワサビ(生)",
+		"price": 3,
+		"category": "植物原料",
+		"defname": "RF_RawWasabi"
+	},
+	{
+		"abr": "上靴",
+		"price": 84,
+		"category": "着物",
+		"defname": "Mallow_school_shoes"
+	},
+	{
+		"abr": "乗馬靴",
+		"price": 203,
+		"category": "着物",
+		"defname": "Mallow_riding_boots"
+	},
+	{
+		"abr": "作業靴",
+		"price": 292,
+		"category": "Special",
+		"defname": "Mallow_work_boots"
+	},
+	{
+		"abr": "先進シールドベルト",
+		"price": 2450,
+		"category": "ユーティリティ",
+		"defname": "Og_AdvancedShieldBelt"
+	},
+	{
+		"abr": "先進低角シールド",
+		"price": 4933,
+		"category": "ユーティリティ",
+		"defname": "Og_AdvancedPackBroadshield"
+	},
+	{
+		"abr": "先進強化エルボーブレード",
+		"price": 3633,
+		"category": "ウルトラテック",
+		"defname": "EPOE_AdvancedElbowBlade"
+	},
+	{
+		"abr": "先進強化ドリルアーム",
+		"price": 3250,
+		"category": "ウルトラテック",
+		"defname": "EPOE_AdvancedDrillArm"
+	},
+	{
+		"abr": "先進強化ニースパイク",
+		"price": 3633,
+		"category": "ウルトラテック",
+		"defname": "EPOE_AdvancedKneeSpike"
+	},
+	{
+		"abr": "先進強化フィールドハンド",
+		"price": 2508,
+		"category": "ウルトラテック",
+		"defname": "EPOE_AdvancedFieldHand"
+	},
+	{
+		"abr": "先進強化隠し鉤爪",
+		"price": 2892,
+		"category": "ウルトラテック",
+		"defname": "EPOE_AdvancedHandTalon"
+	},
+	{
+		"abr": "エキゾチック物質",
+		"price": 260,
+		"category": "加工品",
+		"defname": "Miho_ExoticMatter"
+	},
+	{
+		"abr": "クーリン",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Kurin_Race"
+	},
+	{
+		"abr": "クーリンtシャツ",
+		"price": 191,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_OnSkin_T_Shirt"
+	},
+	{
+		"abr": "クーリンアーマードゴシックドレス",
+		"price": 808,
+		"category": "装甲化",
+		"defname": "Kurin_OnSkin_Armored_Gothic_Dress"
+	},
+	{
+		"abr": "クーリンオープンショルダーニット",
+		"price": 265,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Open_Shoulder_Knit"
+	},
+	{
+		"abr": "クーリンオープンニット",
+		"price": 265,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Open_Back_Knit"
+	},
+	{
+		"abr": "クーリンカーディガン",
+		"price": 298,
+		"category": "上着",
+		"defname": "Kurin_Shell_Cardigan"
+	},
+	{
+		"abr": "クーリンカジュアルシャツ",
+		"price": 265,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_OnSkin_Casual_Wear"
+	},
+	{
+		"abr": "クーリンキツネヘアピン",
+		"price": 358,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_Overhead_Cute_Hair_Pin"
+	},
+	{
+		"abr": "クーリンキューティドレス",
+		"price": 467,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_OnSkin_Cute_Dress"
+	},
+	{
+		"abr": "クーリンゴーグル",
+		"price": 178,
+		"category": "Special",
+		"defname": "Kurin_Overhead_Goggles"
+	},
+	{
+		"abr": "クーリンゴシックドレス",
+		"price": 467,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_OnSkin_Gothic_Dress"
+	},
+	{
+		"abr": "クーリンサマーハット",
+		"price": 95,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Summer_Hat"
+	},
+	{
+		"abr": "クーリンジャンプスーツ",
+		"price": 467,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Work_Jumpsuit"
+	},
+	{
+		"abr": "クーリンショートパンツ",
+		"price": 169,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Hot_Pants"
+	},
+	{
+		"abr": "クーリンシンプルドレス",
+		"price": 467,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_OnSkin_Traditional_Simple_Dress"
+	},
+	{
+		"abr": "クーリンダウンジャケット",
+		"price": 298,
+		"category": "上着",
+		"defname": "Kurin_Shell_Winter_Padding"
+	},
+	{
+		"abr": "クーリンパーカー",
+		"price": 265,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Hoodie"
+	},
+	{
+		"abr": "クーリンパジャマa",
+		"price": 265,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_PajamasA"
+	},
+	{
+		"abr": "クーリンパジャマb",
+		"price": 265,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_PajamasB"
+	},
+	{
+		"abr": "クーリンパジャマc",
+		"price": 265,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_PajamasC"
+	},
+	{
+		"abr": "クーリンビキニアーマー",
+		"price": 658,
+		"category": "装甲化",
+		"defname": "Kurin_OnSkin_Bikini_Armor"
+	},
+	{
+		"abr": "クーリンビキニアーマーヘッドギア",
+		"price": 408,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_Overhead_Bikini_Armor_Headgear"
+	},
+	{
+		"abr": "クーリンファンシードレス",
+		"price": 467,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_OnSkin_Traditional_Fancy_Dress"
+	},
+	{
+		"abr": "クーリンブラウス",
+		"price": 191,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_OnSkin_Shirt"
+	},
+	{
+		"abr": "クーリンブラックドレス",
+		"price": 467,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_OnSkin_Seductive_Black_Dress"
+	},
+	{
+		"abr": "クーリンヘアピン",
+		"price": 164,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Casual_Hair_Pin"
+	},
+	{
+		"abr": "クーリンヘッドドレス",
+		"price": 358,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_Overhead_Gothic_Hair_Pin"
+	},
+	{
+		"abr": "クーリンボディアーマー",
+		"price": 358,
+		"category": "装甲化",
+		"defname": "Kurin_Middle_Body_Armor"
+	},
+	{
+		"abr": "クーリンホワイトドレス",
+		"price": 467,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_OnSkin_Seductive_White_Dress"
+	},
+	{
+		"abr": "クーリンホワイトハット",
+		"price": 95,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Winter_Hat"
+	},
+	{
+		"abr": "クーリンラグジュアリードレス",
+		"price": 467,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_OnSkin_Traditional_Luxury_Dress"
+	},
+	{
+		"abr": "クーリンロングコート",
+		"price": 298,
+		"category": "上着",
+		"defname": "Kurin_Shell_Duster"
+	},
+	{
+		"abr": "クーリンワンピース",
+		"price": 265,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_One_Piece_Dress"
+	},
+	{
+		"abr": "クーリン下着(無)",
+		"price": 112,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_Underwear_Stuffed"
+	},
+	{
+		"abr": "クーリン下着(白)",
+		"price": 112,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_Underwear"
+	},
+	{
+		"abr": "クーリン下着(白縞)",
+		"price": 112,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_Underwear_Striped"
+	},
+	{
+		"abr": "クーリン下着(縞)",
+		"price": 112,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_Underwear_Striped_Stuffed"
+	},
+	{
+		"abr": "クーリン下着(裸)",
+		"price": 112,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_Underwear_Prude"
+	},
+	{
+		"abr": "クーリン下着(赤)",
+		"price": 112,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_Underwear_Red"
+	},
+	{
+		"abr": "クーリン下着(魅)",
+		"price": 112,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_Underwear_Slim"
+	},
+	{
+		"abr": "クーリン下着(黒)",
+		"price": 112,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_Underwear_Black"
+	},
+	{
+		"abr": "クーリン伝統的なコート",
+		"price": 298,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_OnSkin_Traditional_Coat"
+	},
+	{
+		"abr": "クーリン伝統的な髪飾り",
+		"price": 358,
+		"category": "ロイヤリティ",
+		"defname": "Kurin_Overhead_Traditional_Hair_Pin"
+	},
+	{
+		"abr": "クーリン修道服",
+		"price": 467,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Nun_Dress"
+	},
+	{
+		"abr": "クーリン儀式剣",
+		"price": 558,
+		"category": "近接",
+		"defname": "Kurin_MeleeWeapon_Ceremonial_Sword"
+	},
+	{
+		"abr": "クーリン儀式用双刃刀",
+		"price": 892,
+		"category": "近接",
+		"defname": "Kurin_MeleeWeapon_Ceremonial_Polearm"
+	},
+	{
+		"abr": "クーリン苦無",
+		"price": 182,
+		"category": "遠隔",
+		"defname": "Kurin_Gun_Surigum"
+	},
+	{
+		"abr": "クーリン赤狐アーマー",
+		"price": 4117,
+		"category": "装甲化",
+		"defname": "Kurin_Redfox_Armor"
+	},
+	{
+		"abr": "クーリン赤狐ヘルメット",
+		"price": 1758,
+		"category": "装甲化",
+		"defname": "Kurin_Redfox_Helmet"
+	},
+	{
+		"abr": "クーリン軍服",
+		"price": 658,
+		"category": "装甲化",
+		"defname": "Kurin_OnSkin_Military_Uniform"
+	},
+	{
+		"abr": "クーリン軍用ヘルメット",
+		"price": 433,
+		"category": "装甲化",
+		"defname": "Kurin_Overhead_Military_Helmet"
+	},
+	{
+		"abr": "クーリン青狐スーツ",
+		"price": 2025,
+		"category": "装甲化",
+		"defname": "Kurin_Waterfox_Armor"
+	},
+	{
+		"abr": "クーリンの肉",
+		"price": 1,
+		"category": "生肉",
+		"defname": "Meat_Kurin_Race"
+	},
+	{
+		"abr": "クーリンモノエッジ",
+		"price": 7500,
+		"category": "近接",
+		"defname": "Kurin_nanoedge"
+	},
+	{
+		"abr": "クーリン特製縄トラップ",
+		"price": 84,
+		"category": "防衛",
+		"defname": "DRNTF_NooseTrap"
+	},
+	{
+		"abr": "クーリン電動ミシン",
+		"price": 433,
+		"category": "生産物",
+		"defname": "Kurin_Electric_Tailoring_Bench"
+	},
+	{
+		"abr": "セラミック",
+		"price": 3,
+		"category": "原材料",
+		"defname": "Miho_Ceramics"
+	},
+	{
+		"abr": "セラミック生地",
+		"price": 1,
+		"category": "原材料",
+		"defname": "Miho_CeramicsPaste"
+	},
+	{
+		"abr": "テイルブレード(クーリン)",
+		"price": 2092,
+		"category": "強化",
+		"defname": "KurinTailBlade"
+	},
+	{
+		"abr": "テックプリント(エルテックス衣服)",
+		"price": 5000,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_PsyFocus"
+	},
+	{
+		"abr": "テックプリント(シールドコア)",
+		"price": 8333,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_BroadshieldCore"
+	},
+	{
+		"abr": "テックプリント(シンスレッド)",
+		"price": 6667,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_Synthread"
+	},
+	{
+		"abr": "テックプリント(ニュートロアミン)",
+		"price": 3333,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_Neutroamine"
+	},
+	{
+		"abr": "テックプリント(ハイパーウィーブ)",
+		"price": 6667,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_Hyperweave"
+	},
+	{
+		"abr": "テックプリント(ヒーラーシーラム)",
+		"price": 11667,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_MechSerumHealer"
+	},
+	{
+		"abr": "テックプリント(プラスチール)",
+		"price": 5000,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_Plasteel"
+	},
+	{
+		"abr": "テックプリント(ペルソナ武器)",
+		"price": 8333,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_RoyaltyPersonaweapons"
+	},
+	{
+		"abr": "テックプリント(リザレクトシーラム)",
+		"price": 16667,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_MechSerumResurrector"
+	},
+	{
+		"abr": "テックプリント(ルシフェリウム)",
+		"price": 8333,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_Luciferium"
+	},
+	{
+		"abr": "テックプリント(ロイヤリティ武器)",
+		"price": 6667,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_Royaltyweapons"
+	},
+	{
+		"abr": "テックプリント(反物質弾)",
+		"price": 10000,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_Antigrain"
+	},
+	{
+		"abr": "テックプリント(最先端医療薬品)",
+		"price": 7500,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_GlitterworldMedicine"
+	},
+	{
+		"abr": "テックプリント(精神波遮断ヘルメット)",
+		"price": 2500,
+		"category": "テックプリント",
+		"defname": "Techprint_Mawy_PsychicFoilHelmet"
+	},
+	{
+		"abr": "ニセ尻尾(クーリン)",
+		"price": 282,
+		"category": "人造",
+		"defname": "Kurin_FakeTail"
+	},
+	{
 		"abr": "ひまわりの花びら",
 		"price": 2,
 		"category": "植物原料",
@@ -11657,12 +10961,6 @@
 		"price": 23,
 		"category": "ドラッグ",
 		"defname": "Miho_PositiveFlower_Tea"
-	},
-	{
-		"abr": "ペルソナ獄炎剣",
-		"price": 5000,
-		"category": "ペルソナ",
-		"defname": "Kijin_FlameSword"
 	},
 	{
 		"abr": "ミホ",
@@ -12012,54 +11310,6 @@
 		"category": "上着",
 		"defname": "Miho_Apparel_Shell_PMC"
 	},
-	{
-		"abr": "ミホ軍用双眼鏡",
-		"price": 617,
-		"category": "特別な衣服",
-		"defname": "Miho_Apparel_Special_Magnifier"
-	},
-	{
-		"abr": "ミホ部族伝統下着",
-		"price": 1092,
-		"category": "ロイヤリティ",
-		"defname": "Miho_Apparel_Under_TribalEltex"
-	},
-	{
-		"abr": "ミホ防寒ポンチョ",
-		"price": 197,
-		"category": "上着",
-		"defname": "Miho_Apparel_Shell_Winter"
-	},
-	{
-		"abr": "ミホ防毒マスク",
-		"price": 800,
-		"category": "Special",
-		"defname": "Miho_Apparel_Special_Toxmask"
-	},
-	{
-		"abr": "ミホ高炉",
-		"price": 1525,
-		"category": "生産物",
-		"defname": "Miho_ShaftFurnace"
-	},
-	{
-		"abr": "ミホ黒下着",
-		"price": 137,
-		"category": "下着",
-		"defname": "Miho_Apparel_Under_IndustrialBlack"
-	},
-	{
-		"abr": "yuranbaegmyeong",
-		"price": 105,
-		"category": "ロイヤリティ",
-		"defname": "YR_AP_baegmyeong"
-	},
-	{
-		"abr": "yuranjeogmyeong",
-		"price": 105,
-		"category": "ロイヤリティ",
-		"defname": "YR_AP_jeogmyeong"
-	},
 	],
-	"total": 2267
+	"total": 2000
 }

@@ -1,10 +1,10 @@
 # Tabs
-items_tab: 'Items'
-events_tab: 'Events'
-traits_tab: 'Traits'
-animals_tab: 'Animals'
-weapons_tab: 'Weapons'
-pawn_kinds_tab: 'Pawn Kinds'
+items_tab: 'アイテム'
+events_tab: 'イベント'
+traits_tab: '特性・性格'
+animals_tab: '動物'
+weapons_tab: '武器'
+pawn_kinds_tab: '種族'
 
 # Table headers
 mod_name_header: Mod Name
@@ -21,7 +21,7 @@ remove_cost_header: Remove Cost
 name_header: Name
 
 # Error messages
-no_commands: 'These are not the commands you are looking for.'
+no_commands: 'お探しのコマンドは見つかりません'
 
 # Redirect messages
 see_traits: 'See prices in the traits section'

@@ -402,12 +402,6 @@
     "version": "1.4"
   },
   {
-    "author": "Nals",
-    "name": "[NL] Custom Portraits",
-    "steamId": "1569605867",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Uuugggg",
     "name": "TDS Bug Fixes",
     "steamId": "2895035527",
@@ -768,12 +762,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "CodeOptimist",
-    "name": "While You're Up / PUAH+",
-    "steamId": "2034960453",
-    "version": "4.0.3.3352"
-  },
-  {
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
@@ -862,12 +850,6 @@
     "name": "[sd] Advanced Powergeneration (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Gear Up And Go",
-    "steamId": "1316142788",
-    "version": "1.0.0.0"
   },
   {
     "author": "Doug",
@@ -972,18 +954,6 @@
     "version": "1.4.8329.1"
   },
   {
-    "author": "Si-Cafe",
-    "name": "[RF] Fishing-ReWork (Continued)",
-    "steamId": "2920098766",
-    "version": "1.4.1"
-  },
-  {
-    "author": "Si-Cafe",
-    "name": "[RF] Fishing-ReWork Seafood and Sushi Addon (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "notfood",
     "name": "Outfitted",
     "steamId": null,
@@ -1042,6 +1012,24 @@
     "name": "Clean Pathfinding 2",
     "steamId": "2603765747",
     "version": "1.4"
+  },
+  {
+    "author": "GrumpyGremlin",
+    "name": "Craftable Mechtech Chips and Cores",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Si-Cafe",
+    "name": "[RF] Fishing-ReWork (Continued)",
+    "steamId": "2920098766",
+    "version": "1.4.1"
+  },
+  {
+    "author": "Si-Cafe",
+    "name": "[RF] Fishing-ReWork Seafood and Sushi Addon (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Porohkun",
@@ -1170,22 +1158,10 @@
     "version": null
   },
   {
-    "author": "AKreedz",
-    "name": "Anti-Air Artillery [Unofficial Update]",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "SuviIlyaDragunova",
     "name": "Wisteria Corporation",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "ssulunge",
-    "name": "FemaleBB BodyType Support",
-    "steamId": "1792668502",
-    "version": "1.0.0.0"
   },
   {
     "author": "Malistaticyと Dhyne",
@@ -1536,22 +1512,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "hodlhodl",
+    "author": "nry",
     "name": "ToolkitCore",
-    "steamId": "2018368654",
+    "steamId": "3013877477",
     "version": "1.0.0.0"
   },
   {
-    "author": "hodlhodl",
+    "author": "nry",
     "name": "Twitch Toolkit",
-    "steamId": "1718525787",
+    "steamId": "3013874066",
     "version": "2.0.10.0"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b12"
+    "version": "6.3.0.0"
   },
   {
     "author": "SirRandoo",
@@ -1563,13 +1539,19 @@
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
-    "version": "1.2.0"
+    "version": "1.4.1"
   },
   {
     "author": "hodlhodl",
     "name": "TwitchToolkit - Lootboxes (Unofficial)",
     "steamId": "1720021578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Easy Extra Apparel Layers",
+    "steamId": "2212276413",
+    "version": "1.0.0"
   },
   {
     "author": "Paul Freeman",

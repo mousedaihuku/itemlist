@@ -8137,144 +8137,6 @@
 		"defname": "Meat_AA_Amazon"
 	},
 	{
-		"abr": "アンチョビ(生)",
-		"price": 50,
-		"category": "生の魚",
-		"defname": "RF_Anchovies"
-	},
-	{
-		"abr": "イカ(生)",
-		"price": 100,
-		"category": "生の魚",
-		"defname": "RF_Squid"
-	},
-	{
-		"abr": "イカの切り身",
-		"price": 2,
-		"category": "魚介",
-		"defname": "RawSquidMeat"
-	},
-	{
-		"abr": "イカの握り寿司",
-		"price": 33,
-		"category": "調理済",
-		"defname": "MealSushiSquid"
-	},
-	{
-		"abr": "イカの皮",
-		"price": 5,
-		"category": "革",
-		"defname": "SquidLeather"
-	},
-	{
-		"abr": "イクラ",
-		"price": 6,
-		"category": "魚介",
-		"defname": "SalmonRoe"
-	},
-	{
-		"abr": "イクラの軍艦巻き",
-		"price": 33,
-		"category": "調理済",
-		"defname": "MealSushiGunkan"
-	},
-	{
-		"abr": "イワシ(生)",
-		"price": 50,
-		"category": "生の魚",
-		"defname": "RF_Sardines"
-	},
-	{
-		"abr": "うなぎ(生)",
-		"price": 33,
-		"category": "生の魚",
-		"defname": "RF_Eel"
-	},
-	{
-		"abr": "うなぎの切り身",
-		"price": 2,
-		"category": "魚介",
-		"defname": "RawEelMeat"
-	},
-	{
-		"abr": "うなぎの皮",
-		"price": 5,
-		"category": "革",
-		"defname": "EelLeather"
-	},
-	{
-		"abr": "エスカルゴ(生)",
-		"price": 50,
-		"category": "生の魚",
-		"defname": "RF_Snail"
-	},
-	{
-		"abr": "エビ(生)",
-		"price": 38,
-		"category": "生の魚",
-		"defname": "RF_Shrimp"
-	},
-	{
-		"abr": "エビの握り寿司",
-		"price": 33,
-		"category": "調理済",
-		"defname": "MealSushiShrimp"
-	},
-	{
-		"abr": "エビの身",
-		"price": 2,
-		"category": "魚介",
-		"defname": "RawShrimpMeat"
-	},
-	{
-		"abr": "カクレクマノミ(生)",
-		"price": 50,
-		"category": "生の魚",
-		"defname": "RF_Clownfish"
-	},
-	{
-		"abr": "カニ(生)",
-		"price": 33,
-		"category": "生の魚",
-		"defname": "RF_Crab"
-	},
-	{
-		"abr": "カニの握り寿司",
-		"price": 33,
-		"category": "調理済",
-		"defname": "MealSushiCrab"
-	},
-	{
-		"abr": "カニの身",
-		"price": 2,
-		"category": "魚介",
-		"defname": "RawCrabMeat"
-	},
-	{
-		"abr": "カニ籠",
-		"price": 38,
-		"category": "生産物",
-		"defname": "ShellfishTrap"
-	},
-	{
-		"abr": "キャビア",
-		"price": 67,
-		"category": "魚介",
-		"defname": "Caviar"
-	},
-	{
-		"abr": "クラゲ(生)",
-		"price": 50,
-		"category": "生の魚",
-		"defname": "RF_Jellyfish"
-	},
-	{
-		"abr": "クラゲの肉",
-		"price": 2,
-		"category": "魚介",
-		"defname": "JellyfishMeat"
-	},
-	{
 		"abr": "クロのお茶",
 		"price": 20,
 		"category": "ケモミミフード",
@@ -8293,36 +8155,6 @@
 		"defname": "KonHerbs"
 	},
 	{
-		"abr": "サーフ＆ターフ",
-		"price": 42,
-		"category": "調理済",
-		"defname": "MealSurfAndTurf"
-	},
-	{
-		"abr": "サーモンの切り身",
-		"price": 2,
-		"category": "魚介",
-		"defname": "RawSalmonMeat"
-	},
-	{
-		"abr": "サーモンの握り寿司",
-		"price": 33,
-		"category": "調理済",
-		"defname": "MealSushiSalmon"
-	},
-	{
-		"abr": "サケ(生)",
-		"price": 300,
-		"category": "生の魚",
-		"defname": "RF_Salmon"
-	},
-	{
-		"abr": "ザリガニ(生)",
-		"price": 50,
-		"category": "生の魚",
-		"defname": "RF_Crayfish"
-	},
-	{
 		"abr": "シロのお酒",
 		"price": 25,
 		"category": "ケモミミフード",
@@ -8333,48 +8165,6 @@
 		"price": 129,
 		"category": "下着",
 		"defname": "Mallow_stockings"
-	},
-	{
-		"abr": "タイ(生)",
-		"price": 100,
-		"category": "生の魚",
-		"defname": "RF_FishB"
-	},
-	{
-		"abr": "タコ(生)",
-		"price": 100,
-		"category": "生の魚",
-		"defname": "RF_Octopus"
-	},
-	{
-		"abr": "タコの切り身",
-		"price": 2,
-		"category": "魚介",
-		"defname": "RawOctopusMeat"
-	},
-	{
-		"abr": "タコの握り寿司",
-		"price": 33,
-		"category": "調理済",
-		"defname": "MealSushiOctopus"
-	},
-	{
-		"abr": "タラバガニ(生)",
-		"price": 100,
-		"category": "生の魚",
-		"defname": "RF_Kingcrab"
-	},
-	{
-		"abr": "チョウザメ(生)",
-		"price": 133,
-		"category": "生の魚",
-		"defname": "RF_Sturgeon"
-	},
-	{
-		"abr": "チョウザメ(生)",
-		"price": 133,
-		"category": "生の魚",
-		"defname": "RF_SturgeonCaviar"
 	},
 	{
 		"abr": "つっかけ靴",
@@ -8407,36 +8197,6 @@
 		"defname": "Mallow_dress_shoes"
 	},
 	{
-		"abr": "ナマコ(生)",
-		"price": 50,
-		"category": "生の魚",
-		"defname": "RF_SeaCucumber"
-	},
-	{
-		"abr": "ナマコの身",
-		"price": 2,
-		"category": "魚介",
-		"defname": "SeaCucumberMeat"
-	},
-	{
-		"abr": "ナマズ(生)",
-		"price": 138,
-		"category": "生の魚",
-		"defname": "RF_Catfish"
-	},
-	{
-		"abr": "パエリア",
-		"price": 75,
-		"category": "調理済",
-		"defname": "MealSeafoodPaella"
-	},
-	{
-		"abr": "バス(生)",
-		"price": 75,
-		"category": "生の魚",
-		"defname": "RF_Bass"
-	},
-	{
 		"abr": "ハナの香油",
 		"price": 27,
 		"category": "ケモミミフード",
@@ -8447,30 +8207,6 @@
 		"price": 42,
 		"category": "Underwear",
 		"defname": "UnderWhere_Panties"
-	},
-	{
-		"abr": "ピラニア(生)",
-		"price": 62,
-		"category": "生の魚",
-		"defname": "RF_Piranha"
-	},
-	{
-		"abr": "ピラルク(生)",
-		"price": 175,
-		"category": "生の魚",
-		"defname": "RF_Arapaima"
-	},
-	{
-		"abr": "フグ(生)",
-		"price": 50,
-		"category": "生の魚",
-		"defname": "RF_Pufferfish"
-	},
-	{
-		"abr": "フグの切り身",
-		"price": 2,
-		"category": "魚介",
-		"defname": "PufferfishMeat"
 	},
 	{
 		"abr": "ブラ",
@@ -8515,40 +8251,10 @@
 		"defname": "UnderWhere_Boxers"
 	},
 	{
-		"abr": "ホタテ(生)",
-		"price": 50,
-		"category": "生の魚",
-		"defname": "RF_Scallops"
-	},
-	{
-		"abr": "マグロ(生)",
-		"price": 417,
-		"category": "生の魚",
-		"defname": "RF_Tuna"
-	},
-	{
-		"abr": "マグロの握り寿司",
-		"price": 33,
-		"category": "調理済",
-		"defname": "MealSushiMaguro"
-	},
-	{
-		"abr": "マグロの身",
-		"price": 2,
-		"category": "魚介",
-		"defname": "RawTunaMeat"
-	},
-	{
 		"abr": "ミコの滴",
 		"price": 37,
 		"category": "ケモミミフード",
 		"defname": "MikoWater"
-	},
-	{
-		"abr": "destroyershell",
-		"price": 5017,
-		"category": "加工品",
-		"defname": "ADA_DestroyerShell"
 	},
 	{
 		"abr": "24hr太陽灯",
@@ -9931,12 +9637,6 @@
 		"defname": "Kiiro_CannedMintedCatFood"
 	},
 	{
-		"abr": "ムール貝(生)",
-		"price": 50,
-		"category": "生の魚",
-		"defname": "RF_Mussel"
-	},
-	{
 		"abr": "ユキの雫",
 		"price": 100,
 		"category": "ケモミミフード",
@@ -10011,31 +9711,31 @@
 	{
 		"abr": "ユラン招きうさぎ(健康)",
 		"price": 2,
-		"category": "加工品",
+		"category": "ユラン 招きうさぎ",
 		"defname": "YR_ManekiUsagi_Immunity"
 	},
 	{
 		"abr": "ユラン招きうさぎ(匠)",
 		"price": 2,
-		"category": "加工品",
+		"category": "ユラン 招きうさぎ",
 		"defname": "YR_ManekiUsagi_Craft"
 	},
 	{
 		"abr": "ユラン招きうさぎ(回復)",
 		"price": 2,
-		"category": "加工品",
+		"category": "ユラン 招きうさぎ",
 		"defname": "YR_ManekiUsagi_Heal"
 	},
 	{
 		"abr": "ユラン招きうさぎ(安定)",
 		"price": 2,
-		"category": "加工品",
+		"category": "ユラン 招きうさぎ",
 		"defname": "YR_ManekiUsagi_Stability"
 	},
 	{
 		"abr": "ユラン招きうさぎ(豊穣)",
 		"price": 2,
-		"category": "加工品",
+		"category": "ユラン 招きうさぎ",
 		"defname": "YR_ManekiUsagi_Plant"
 	},
 	{
@@ -10399,12 +10099,6 @@
 		"defname": "RLE_LinklikeTable"
 	},
 	{
-		"abr": "ロブスター(生)",
-		"price": 100,
-		"category": "生の魚",
-		"defname": "RF_Lobster"
-	},
-	{
 		"abr": "ロングストレージテーブル",
 		"price": 207,
 		"category": "家具",
@@ -10415,12 +10109,6 @@
 		"price": 617,
 		"category": "家具",
 		"defname": "RLE_WorkingChair"
-	},
-	{
-		"abr": "ワサビ(生)",
-		"price": 3,
-		"category": "植物原料",
-		"defname": "RF_RawWasabi"
 	},
 	{
 		"abr": "上靴",
@@ -11310,6 +10998,402 @@
 		"category": "上着",
 		"defname": "Miho_Apparel_Shell_PMC"
 	},
+	{
+		"abr": "halberd",
+		"price": 508,
+		"category": "近接",
+		"defname": "RK_Halberd"
+	},
+	{
+		"abr": "heavycompositecrossbow",
+		"price": 1925,
+		"category": "遠隔",
+		"defname": "MW_fuheliannu"
+	},
+	{
+		"abr": "machinehandbow",
+		"price": 1650,
+		"category": "遠隔",
+		"defname": "MW_liansheshounu"
+	},
+	{
+		"abr": "spear",
+		"price": 280,
+		"category": "近接",
+		"defname": "RK_Spear"
+	},
+	{
+		"abr": "アンチョビ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Anchovies"
+	},
+	{
+		"abr": "イカ(生)",
+		"price": 100,
+		"category": "生の魚",
+		"defname": "RF_Squid"
+	},
+	{
+		"abr": "イカの切り身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "RawSquidMeat"
+	},
+	{
+		"abr": "イカの握り寿司",
+		"price": 33,
+		"category": "調理済",
+		"defname": "MealSushiSquid"
+	},
+	{
+		"abr": "イカの皮",
+		"price": 5,
+		"category": "革",
+		"defname": "SquidLeather"
+	},
+	{
+		"abr": "イクラ",
+		"price": 6,
+		"category": "魚介",
+		"defname": "SalmonRoe"
+	},
+	{
+		"abr": "イクラの軍艦巻き",
+		"price": 33,
+		"category": "調理済",
+		"defname": "MealSushiGunkan"
+	},
+	{
+		"abr": "イワシ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Sardines"
+	},
+	{
+		"abr": "うなぎ(生)",
+		"price": 33,
+		"category": "生の魚",
+		"defname": "RF_Eel"
+	},
+	{
+		"abr": "うなぎの切り身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "RawEelMeat"
+	},
+	{
+		"abr": "うなぎの皮",
+		"price": 5,
+		"category": "革",
+		"defname": "EelLeather"
+	},
+	{
+		"abr": "エスカルゴ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Snail"
+	},
+	{
+		"abr": "エビ(生)",
+		"price": 38,
+		"category": "生の魚",
+		"defname": "RF_Shrimp"
+	},
+	{
+		"abr": "エビの握り寿司",
+		"price": 33,
+		"category": "調理済",
+		"defname": "MealSushiShrimp"
+	},
+	{
+		"abr": "エビの身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "RawShrimpMeat"
+	},
+	{
+		"abr": "カクレクマノミ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Clownfish"
+	},
+	{
+		"abr": "カニ(生)",
+		"price": 33,
+		"category": "生の魚",
+		"defname": "RF_Crab"
+	},
+	{
+		"abr": "カニの握り寿司",
+		"price": 33,
+		"category": "調理済",
+		"defname": "MealSushiCrab"
+	},
+	{
+		"abr": "カニの身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "RawCrabMeat"
+	},
+	{
+		"abr": "カニ籠",
+		"price": 38,
+		"category": "生産物",
+		"defname": "ShellfishTrap"
+	},
+	{
+		"abr": "キャビア",
+		"price": 67,
+		"category": "魚介",
+		"defname": "Caviar"
+	},
+	{
+		"abr": "クラゲ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Jellyfish"
+	},
+	{
+		"abr": "クラゲの肉",
+		"price": 2,
+		"category": "魚介",
+		"defname": "JellyfishMeat"
+	},
+	{
+		"abr": "クロの力",
+		"price": 600,
+		"category": "獣耳娘の力",
+		"defname": "kuroSoulPower"
+	},
+	{
+		"abr": "コヒメの力",
+		"price": 600,
+		"category": "獣耳娘の力",
+		"defname": "kohimeSoulPower"
+	},
+	{
+		"abr": "コンの力",
+		"price": 600,
+		"category": "獣耳娘の力",
+		"defname": "konSoulPower"
+	},
+	{
+		"abr": "サーフ＆ターフ",
+		"price": 42,
+		"category": "調理済",
+		"defname": "MealSurfAndTurf"
+	},
+	{
+		"abr": "サーモンの切り身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "RawSalmonMeat"
+	},
+	{
+		"abr": "サーモンの握り寿司",
+		"price": 33,
+		"category": "調理済",
+		"defname": "MealSushiSalmon"
+	},
+	{
+		"abr": "サケ(生)",
+		"price": 300,
+		"category": "生の魚",
+		"defname": "RF_Salmon"
+	},
+	{
+		"abr": "ザリガニ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Crayfish"
+	},
+	{
+		"abr": "シロの力",
+		"price": 600,
+		"category": "獣耳娘の力",
+		"defname": "siroSoulPower"
+	},
+	{
+		"abr": "タイ(生)",
+		"price": 100,
+		"category": "生の魚",
+		"defname": "RF_FishB"
+	},
+	{
+		"abr": "タコ(生)",
+		"price": 100,
+		"category": "生の魚",
+		"defname": "RF_Octopus"
+	},
+	{
+		"abr": "タコの切り身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "RawOctopusMeat"
+	},
+	{
+		"abr": "タコの握り寿司",
+		"price": 33,
+		"category": "調理済",
+		"defname": "MealSushiOctopus"
+	},
+	{
+		"abr": "タラバガニ(生)",
+		"price": 100,
+		"category": "生の魚",
+		"defname": "RF_Kingcrab"
+	},
+	{
+		"abr": "チョウザメ(生)",
+		"price": 133,
+		"category": "生の魚",
+		"defname": "RF_Sturgeon"
+	},
+	{
+		"abr": "チョウザメ(生)",
+		"price": 133,
+		"category": "生の魚",
+		"defname": "RF_SturgeonCaviar"
+	},
+	{
+		"abr": "ナマコ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_SeaCucumber"
+	},
+	{
+		"abr": "ナマコの身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "SeaCucumberMeat"
+	},
+	{
+		"abr": "ナマズ(生)",
+		"price": 138,
+		"category": "生の魚",
+		"defname": "RF_Catfish"
+	},
+	{
+		"abr": "パエリア",
+		"price": 75,
+		"category": "調理済",
+		"defname": "MealSeafoodPaella"
+	},
+	{
+		"abr": "バス(生)",
+		"price": 75,
+		"category": "生の魚",
+		"defname": "RF_Bass"
+	},
+	{
+		"abr": "ハナの力",
+		"price": 600,
+		"category": "獣耳娘の力",
+		"defname": "hanaSoulPower"
+	},
+	{
+		"abr": "ピラニア(生)",
+		"price": 62,
+		"category": "生の魚",
+		"defname": "RF_Piranha"
+	},
+	{
+		"abr": "ピラルク(生)",
+		"price": 175,
+		"category": "生の魚",
+		"defname": "RF_Arapaima"
+	},
+	{
+		"abr": "フグ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Pufferfish"
+	},
+	{
+		"abr": "フグの切り身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "PufferfishMeat"
+	},
+	{
+		"abr": "ホタテ(生)",
+		"price": 50,
+		"category": "生の魚",
+		"defname": "RF_Scallops"
+	},
+	{
+		"abr": "マグロ(生)",
+		"price": 417,
+		"category": "生の魚",
+		"defname": "RF_Tuna"
+	},
+	{
+		"abr": "マグロの握り寿司",
+		"price": 33,
+		"category": "調理済",
+		"defname": "MealSushiMaguro"
+	},
+	{
+		"abr": "マグロの身",
+		"price": 2,
+		"category": "魚介",
+		"defname": "RawTunaMeat"
+	},
+	{
+		"abr": "ミコの力",
+		"price": 600,
+		"category": "獣耳娘の力",
+		"defname": "mikoSoulPower"
+	},
+	{
+		"abr": "ミホスマートグレネードランチャー(シールドバレット)",
+		"price": 4000,
+		"category": "遠隔",
+		"defname": "Miho_Weapon_HeavyPistolHardkill"
+	},
+	{
+		"abr": "ミホスマートグレネードランチャー(マルチフレシェット)",
+		"price": 4000,
+		"category": "遠隔",
+		"defname": "Miho_Weapon_HeavyPistolFlechette"
+	},
+	{
+		"abr": "ミホ軍用双眼鏡",
+		"price": 617,
+		"category": "特別な衣服",
+		"defname": "Miho_Apparel_Special_Magnifier"
+	},
+	{
+		"abr": "ミホ部族伝統下着",
+		"price": 1092,
+		"category": "ロイヤリティ",
+		"defname": "Miho_Apparel_Under_TribalEltex"
+	},
+	{
+		"abr": "duster",
+		"price": 327,
+		"category": "Outer slot",
+		"defname": "Apparel_DusterOverShell"
+	},
+	{
+		"abr": "hood",
+		"price": 203,
+		"category": "Headgear slot",
+		"defname": "Apparel_HatHood_OverheadEquipment"
+	},
+	{
+		"abr": "tribalheaddress",
+		"price": 203,
+		"category": "Headgear slot",
+		"defname": "Apparel_TribalHeaddress_OverheadEquipment"
+	},
+	{
+		"abr": "underflakvest",
+		"price": 375,
+		"category": "装甲化",
+		"defname": "Apparel_UnderwearFlakVest"
+	}
 	],
-	"total": 2000
+	"total": 2004
 }

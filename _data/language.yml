@@ -12,12 +12,12 @@ author_header: Author
 version_header: Version
 command_name_header: Command Name
 user_level_header: User Level
-description_header: Description
+description_header: 特性の説明
 cost_header: Cost
 category_header: Category
 karma_type_header: Karma Type
-add_cost_header: Add Cost
-remove_cost_header: Remove Cost
+add_cost_header: 付与コスト
+remove_cost_header: 削除コスト
 name_header: Name
 
 # Error messages
@@ -29,21 +29,21 @@ see_kinds: 'See prices in the pawn kinds section'
 see_items: 'See prices in the items section'
 
 # Search texts
-search_items: 'Search for items...'
-search_traits: 'Search for traits...'
-search_pawn_kinds: 'Search for pawn kinds...'
-search_mods: 'Search for mods...'
-search_commands: 'Search for commands...'
-search_animals: 'Search for animals...'
-search_events: 'Search for events...'
-search_weapons: 'Search for weapons...'
+search_items: 'アイテムを検索するときははこちらに入力してください...'
+search_traits: '特性や性格を検索するときはこちらに入力してください...'
+search_pawn_kinds: '種族を検索するときはこちらに入力してください...'
+search_mods: 'MODを検索するときはこちらに入力してください...'
+search_commands: 'コマンドを検索するときはこちらに入力してください...'
+search_animals: '動物を検索するときはこちらに入力してください...'
+search_events: 'イベントを検索するときはこちらに入力してください...'
+search_weapons: '武器を検索するときはこちらに入力してください...'
 
 # Metadata
-usage: 'Usage: %s'
+usage: 'コマンド: %s'
 shortcut: 'This is a shortcut for %s'
 stats: 'Stats'
 conflicts_with: 'Conflicts with'
-from: 'From %s'
+from: 'MOD： %s'
 weight: 'Weight'
 limit: 'Limit'
 karma: 'Karma'

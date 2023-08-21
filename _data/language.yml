@@ -12,7 +12,7 @@ author_header: Author
 version_header: Version
 command_name_header: Command Name
 user_level_header: User Level
-description_header: 特性の説明
+description_header: 説明
 cost_header: Cost
 category_header: Category
 karma_type_header: Karma Type

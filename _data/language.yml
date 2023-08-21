@@ -13,9 +13,9 @@ version_header: Version
 command_name_header: Command Name
 user_level_header: User Level
 description_header: 説明
-cost_header: Cost
-category_header: Category
-karma_type_header: Karma Type
+cost_header: 必要コイン
+category_header: カテゴリー
+karma_type_header: カルマの種類
 add_cost_header: 付与コスト
 remove_cost_header: 削除コスト
 name_header: Name
@@ -34,17 +34,17 @@ search_traits: '特性や性格を検索するときはこちらに入力して�
 search_pawn_kinds: '種族を検索するときはこちらに入力してください...'
 search_mods: 'MODを検索するときはこちらに入力してください...'
 search_commands: 'コマンドを検索するときはこちらに入力してください...'
-search_animals: '動物を検索するときはこちらに入力してください...'
+search_animals: '動物はアイテムタグから検索してください...'
 search_events: 'イベントを検索するときはこちらに入力してください...'
 search_weapons: '武器を検索するときはこちらに入力してください...'
 
 # Metadata
 usage: 'コマンド: %s'
 shortcut: 'This is a shortcut for %s'
-stats: 'Stats'
-conflicts_with: 'Conflicts with'
+stats: '追加効果'
+conflicts_with: '競合する特性'
 from: 'MOD： %s'
 weight: 'Weight'
-limit: 'Limit'
-karma: 'Karma'
+limit: '１回で送れる個数：'
+karma: 'カルマの種類：'
 bypasses_limit: 'This trait may exceed the trait limit'

@@ -11881,318 +11881,6 @@
       "price": 3
     },
     {
-      "abr": "ヘイラ",
-      "category": "Animal",
-      "defname": "Alien_Heyra",
-      "price": -10
-    },
-    {
-      "abr": "ヘイラコンバットグラス",
-      "category": "Special",
-      "defname": "Heyra_Aimbot",
-      "price": 1558
-    },
-    {
-      "abr": "ヘイラスナイパースーツ",
-      "category": "装甲化",
-      "defname": "Heyra_Snipersuit",
-      "price": 3267
-    },
-    {
-      "abr": "ヘイラナノスーツ",
-      "category": "装甲化",
-      "defname": "Heyra_Tightsuit",
-      "price": 1192
-    },
-    {
-      "abr": "ヘイラ予言者華冠",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Prophetesscrown",
-      "price": 433
-    },
-    {
-      "abr": "ヘイラ予言者装束",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Prophetessattire",
-      "price": 925
-    },
-    {
-      "abr": "ヘイラ作業服",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Jianghusuit",
-      "price": 203
-    },
-    {
-      "abr": "ヘイラ佩剣",
-      "category": "近接",
-      "defname": "Heyra_Sword",
-      "price": 239
-    },
-    {
-      "abr": "ヘイラ佩剣(禁軍)",
-      "category": "近接",
-      "defname": "Heyra_Forbiddenarmysword",
-      "price": 417
-    },
-    {
-      "abr": "ヘイラ侠客装束",
-      "category": "装甲化",
-      "defname": "Heyra_Swordmasterarmor",
-      "price": 525
-    },
-    {
-      "abr": "ヘイラ包頭巾",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Headband",
-      "price": 145
-    },
-    {
-      "abr": "ヘイラ半臂",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Jacketskirt",
-      "price": 279
-    },
-    {
-      "abr": "ヘイラ外套",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Cloak",
-      "price": 315
-    },
-    {
-      "abr": "ヘイラ夜行衣",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Stealthsuit",
-      "price": 542
-    },
-    {
-      "abr": "ヘイラ大鍋",
-      "category": "着物",
-      "defname": "Heyra_Wok",
-      "price": 342
-    },
-    {
-      "abr": "ヘイラ天人囁弓",
-      "category": "遠隔",
-      "defname": "Heyra_Celestialwhisper",
-      "price": 5000
-    },
-    {
-      "abr": "ヘイラ工匠带",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Toolbelt",
-      "price": 169
-    },
-    {
-      "abr": "ヘイラ巫蠱衣",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Eldritchrobe",
-      "price": 542
-    },
-    {
-      "abr": "ヘイラ方天戟",
-      "category": "近接",
-      "defname": "Heyra_Halberd",
-      "price": 272
-    },
-    {
-      "abr": "ヘイラ方天戟(禁軍)",
-      "category": "近接",
-      "defname": "Heyra_Forbiddenarmyhalberd",
-      "price": 450
-    },
-    {
-      "abr": "ヘイラ明光兜",
-      "category": "装甲化",
-      "defname": "Heyra_Forbiddenarmyhelmet",
-      "price": 231
-    },
-    {
-      "abr": "ヘイラ明光鎧",
-      "category": "装甲化",
-      "defname": "Heyra_Forbiddenarmypanoply",
-      "price": 933
-    },
-    {
-      "abr": "ヘイラ明制襖裙",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Shortcoat",
-      "price": 210
-    },
-    {
-      "abr": "ヘイラ甘澤宝剣",
-      "category": "近接",
-      "defname": "Heyra_Swordmastersword",
-      "price": 1000
-    },
-    {
-      "abr": "ヘイラ破城鎚",
-      "category": "近接",
-      "defname": "Heyra_Warhammer",
-      "price": 342
-    },
-    {
-      "abr": "ヘイラ神火弩",
-      "category": "遠隔",
-      "defname": "Heyra_Blastcrossbow",
-      "price": 1008
-    },
-    {
-      "abr": "ヘイラ祭司装束",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Hierarchattire",
-      "price": 925
-    },
-    {
-      "abr": "ヘイラ祭司髪飾り",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Bellclips",
-      "price": 312
-    },
-    {
-      "abr": "ヘイラ筒袖鎧",
-      "category": "装甲化",
-      "defname": "Heyra_Soldierarmor",
-      "price": 567
-    },
-    {
-      "abr": "ヘイラ簔笠",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Rainhat",
-      "price": 145
-    },
-    {
-      "abr": "ヘイラ繍衣",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Embroideredshirt",
-      "price": 111
-    },
-    {
-      "abr": "ヘイラ耳当て",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Earmuffs",
-      "price": 145
-    },
-    {
-      "abr": "ヘイラ背心",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Sleeveless",
-      "price": 210
-    },
-    {
-      "abr": "ヘイラ蓑衣",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Raincoat",
-      "price": 315
-    },
-    {
-      "abr": "ヘイラ貴妃服",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Longdress",
-      "price": 210
-    },
-    {
-      "abr": "ヘイラ軽装型hmaa",
-      "category": "装甲化",
-      "defname": "Heyra_Hmaal",
-      "price": 3717
-    },
-    {
-      "abr": "ヘイラ軽装型hmaaメット",
-      "category": "装甲化",
-      "defname": "Heyra_Hmahl",
-      "price": 1625
-    },
-    {
-      "abr": "ヘイラ連弩",
-      "category": "遠隔",
-      "defname": "Heyra_Crossbow",
-      "price": 255
-    },
-    {
-      "abr": "ヘイラ道帽",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Shamanheadwear",
-      "price": 392
-    },
-    {
-      "abr": "ヘイラ道衣",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Shamanattire",
-      "price": 925
-    },
-    {
-      "abr": "ヘイラ重装型hmaa",
-      "category": "装甲化",
-      "defname": "Heyra_Hmaah",
-      "price": 4067
-    },
-    {
-      "abr": "ヘイラ重装型hmaaメット",
-      "category": "装甲化",
-      "defname": "Heyra_Hmahh",
-      "price": 1725
-    },
-    {
-      "abr": "ヘイラ鉄兜",
-      "category": "帽子",
-      "defname": "Heyra_Soldierhelmet",
-      "price": 153
-    },
-    {
-      "abr": "ヘイラ闘戈",
-      "category": "近接",
-      "defname": "Heyra_Daggeraxe",
-      "price": 272
-    },
-    {
-      "abr": "ヘイラ防寒衣",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Wintercoat",
-      "price": 350
-    },
-    {
-      "abr": "ヘイラ魚鱗甲",
-      "category": "装甲化",
-      "defname": "Heyra_Scalearmor",
-      "price": 583
-    },
-    {
-      "abr": "ヘイラ齊胸襦裙",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Bubleskirt",
-      "price": 210
-    },
-    {
-      "abr": "ヘイラの肉",
-      "category": "生肉",
-      "defname": "Meat_Alien_Heyra",
-      "price": 3
-    },
-    {
-      "abr": "ヘイラ族工作卓",
-      "category": "生産物",
-      "defname": "Heyra_Workbench",
-      "price": 282
-    },
-    {
-      "abr": "ヘイラ祭壇",
-      "category": "生産物",
-      "defname": "Heyra_Altar",
-      "price": 475
-    },
-    {
-      "abr": "ヘイラ豆(生)",
-      "category": "豆乳",
-      "defname": "Heyra_Rawbean",
-      "price": 2
-    },
-    {
-      "abr": "ヘイラ豆のおから(生)",
-      "category": "豆乳",
-      "defname": "Heyra_Beanpulp",
-      "price": 2
-    },
-    {
       "abr": "ボリ",
       "category": "Animal",
       "defname": "Alien_Bori",
@@ -12421,54 +12109,6 @@
       "price": 100
     },
     {
-      "abr": "ロン",
-      "category": "Animal",
-      "defname": "Alien_Heyra_Rong",
-      "price": -10
-    },
-    {
-      "abr": "ロン四目面具",
-      "category": "帽子",
-      "defname": "Heyra_Rong_MaskA",
-      "price": 80
-    },
-    {
-      "abr": "ロン惡狼装具",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Rong_Ulfhednararmor",
-      "price": 163
-    },
-    {
-      "abr": "ロン躁狂装具",
-      "category": "サイフォーカス",
-      "defname": "Heyra_Rong_Berserkerarmor",
-      "price": 157
-    },
-    {
-      "abr": "ロン銃刃",
-      "category": "遠隔",
-      "defname": "Heyra_Gunblade",
-      "price": 1617
-    },
-    {
-      "abr": "ロン長耳面具",
-      "category": "帽子",
-      "defname": "Heyra_Rong_MaskB",
-      "price": 80
-    },
-    {
-      "abr": "ロン陌刀",
-      "category": "近接",
-      "defname": "Heyra_Ronggreatblade",
-      "price": 358
-    },
-    {
-      "abr": "ロンの肉",
-      "category": "生肉",
-      "defname": "Meat_Alien_Heyra_Rong",
-      "price": 3
-    },
-    {
       "abr": "ワサビ(生)",
       "category": "植物原料",
       "defname": "RF_RawWasabi",
@@ -12589,12 +12229,6 @@
       "price": 3375
     },
     {
-      "abr": "古代ヘイラの血液",
-      "category": "物品",
-      "defname": "Heyra_Item_Seedingredient",
-      "price": 3333
-    },
-    {
       "abr": "古代人",
       "category": "Animal",
       "defname": "MWAncients",
@@ -12605,12 +12239,6 @@
       "category": "生肉",
       "defname": "Meat_MWAncients",
       "price": 1
-    },
-    {
-      "abr": "圧縮乾蒸餅",
-      "category": "調理済",
-      "defname": "Heyra_Biscuit",
-      "price": 25
     },
     {
       "abr": "夏用靴下",
@@ -12665,66 +12293,6 @@
       "category": "原材料",
       "defname": "Miho_CelestialScale",
       "price": 51
-    },
-    {
-      "abr": "奇跡の種 - 凍原残響",
-      "category": "奇跡の種",
-      "defname": "Heyra_Biohorn3A",
-      "price": 758
-    },
-    {
-      "abr": "奇跡の種 - 山岳残響",
-      "category": "奇跡の種",
-      "defname": "Heyra_Biohorn1A",
-      "price": 758
-    },
-    {
-      "abr": "奇跡の種 - 松林残響",
-      "category": "奇跡の種",
-      "defname": "Heyra_Biohorn0A",
-      "price": 758
-    },
-    {
-      "abr": "奇跡の種 - 森林残響",
-      "category": "奇跡の種",
-      "defname": "Heyra_Biohorn2A",
-      "price": 758
-    },
-    {
-      "abr": "奇跡の種 - 湿原残響",
-      "category": "奇跡の種",
-      "defname": "Heyra_Biohorn4A",
-      "price": 758
-    },
-    {
-      "abr": "奇跡の種 - 火焔残響",
-      "category": "奇跡の種",
-      "defname": "Heyra_Biohorn1D",
-      "price": 758
-    },
-    {
-      "abr": "奇跡の種 - 白月残響",
-      "category": "奇跡の種",
-      "defname": "Heyra_Biohorn2D",
-      "price": 758
-    },
-    {
-      "abr": "奇跡の種 - 翡翠残響",
-      "category": "奇跡の種",
-      "defname": "Heyra_Biohorn0D",
-      "price": 758
-    },
-    {
-      "abr": "奇跡の種 - 草原残響",
-      "category": "奇跡の種",
-      "defname": "Heyra_Biohorn5A",
-      "price": 758
-    },
-    {
-      "abr": "奇跡の種 - 霹靂残響",
-      "category": "奇跡の種",
-      "defname": "Heyra_Biohorn3D",
-      "price": 758
     },
     {
       "abr": "契約証明(カメの式神)",
@@ -12901,6 +12469,30 @@
       "price": 105
     },
     {
+      "abr": "automatonmechgestationprocessor",
+      "category": "機械技術",
+      "defname": "PN_MechFormfeeder",
+      "price": 2000
+    },
+    {
+      "abr": "automatonremoterepairer",
+      "category": "機械技術",
+      "defname": "PN_RemoteRepairer",
+      "price": 2000
+    },
+    {
+      "abr": "automatonremoteshielder",
+      "category": "機械技術",
+      "defname": "PN_RemoteShielder",
+      "price": 2000
+    },
+    {
+      "abr": "automatonrepairprobe",
+      "category": "機械技術",
+      "defname": "PN_RepairProbe",
+      "price": 2000
+    },
+    {
       "abr": "木製角(シフォン)",
       "category": "人造",
       "defname": "SP_WoodHorn",
@@ -12935,12 +12527,6 @@
       "category": "近接",
       "defname": "GRC_MeleeWeapon_DeathShickle",
       "price": 442
-    },
-    {
-      "abr": "殭屍",
-      "category": "Animal",
-      "defname": "HornedSpectreA",
-      "price": 2500
     },
     {
       "abr": "氈靴",
@@ -13013,12 +12599,6 @@
       "category": "装甲化",
       "defname": "GRC_Apparel_DeathDress",
       "price": 1125
-    },
-    {
-      "abr": "石臼",
-      "category": "生産物",
-      "defname": "Heyra_Stonemill",
-      "price": 185
     },
     {
       "abr": "研究室のテーブル",
@@ -13105,12 +12685,6 @@
       "price": 9
     },
     {
-      "abr": "裂肢者の肉",
-      "category": "生肉",
-      "defname": "Meat_Heyra_Dismemberer",
-      "price": 3
-    },
-    {
       "abr": "装飾ラグマット(中サイズ)",
       "category": "家具",
       "defname": "RLE_RagMatmedium",
@@ -13127,12 +12701,6 @@
       "category": "家具",
       "defname": "RLE_RagMatsmall",
       "price": 172
-    },
-    {
-      "abr": "覚醒の種",
-      "category": "アーティファクト",
-      "defname": "Heyra_Item_Activator_Thunder",
-      "price": 3333
     },
     {
       "abr": "解毒促進器",
@@ -13255,12 +12823,6 @@
       "price": 600
     },
     {
-      "abr": "青銅縦目仮面機関車の肉",
-      "category": "生肉",
-      "defname": "Meat_Heyra_MobileTotem",
-      "price": 3
-    },
-    {
       "abr": "飛碟盔",
       "category": "装甲化",
       "defname": "feidiekui",
@@ -13307,19 +12869,7 @@
       "category": "家具",
       "defname": "RLAutomatic_MahjongTable",
       "price": 408
-    },
-    {
-      "abr": "zombrella",
-      "category": "その他",
-      "defname": "Zombrella",
-      "price": 3333
-    },
-    {
-      "abr": "zombgrella",
-      "category": "その他",
-      "defname": "Zombgrella",
-      "price": 642
     }
   ],
-  "total": 2220
+  "total": 2145
 }

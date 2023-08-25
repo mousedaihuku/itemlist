@@ -102,16 +102,16 @@
     "version": "1.4"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornsonと Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Gouda quiche",
     "name": "MoHAR framework",
     "steamId": "2057001924",
     "version": "1.0.8331.27653"
+  },
+  {
+    "author": "Hatena",
+    "name": "Range Animal Framework",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Syrchalis",
@@ -1224,12 +1224,6 @@
     "version": null
   },
   {
-    "author": "Bando",
-    "name": "Heyra the Horned",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Demi, 어리연, Nemonianと gguake",
     "name": "Paniel the Automata",
     "steamId": null,
@@ -1308,6 +1302,12 @@
     "version": null
   },
   {
+    "author": "快乐柠萌茶",
+    "name": "Paniel the Automata Implant patch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "psychelo",
     "name": "kemomimihouse",
     "steamId": null,
@@ -1382,12 +1382,6 @@
   {
     "author": "Ancot",
     "name": "Yuran Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Talos",
-    "name": "Heyra Face FacialAnime",
     "steamId": null,
     "version": null
   },
@@ -1778,12 +1772,6 @@
   {
     "author": "Lucifel",
     "name": "Bori race 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Heyra the Horned 日本語翻訳",
     "steamId": null,
     "version": null
   },

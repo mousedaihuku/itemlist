@@ -54,18 +54,6 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Clothing Sorter",
-    "steamId": "2275655161",
-    "version": "1.4.6"
-  },
-  {
-    "author": "Mlie",
-    "name": "Weapons Sorter",
-    "steamId": "2290406586",
-    "version": "1.4.4"
-  },
-  {
     "author": "Owlchemist",
     "name": "Cherry Picker",
     "steamId": "2633276599",
@@ -226,6 +214,12 @@
     "name": "All your base",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oblitus",
+    "name": "My Little Planet",
+    "steamId": "1117406550",
+    "version": "1.0.0.0"
   },
   {
     "author": "avilmask",
@@ -594,12 +588,6 @@
     "version": null
   },
   {
-    "author": "daylight",
-    "name": "PET FOOD PLUS",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Owlchemist",
     "name": "Perspective: Buildings",
     "steamId": null,
@@ -614,12 +602,6 @@
   {
     "author": "Compilatronと Owlchemist",
     "name": "Power Tab 2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "neitsa",
-    "name": "Prepare Landing",
     "steamId": null,
     "version": null
   },
@@ -834,6 +816,12 @@
     "version": "1.7"
   },
   {
+    "author": "daylight",
+    "name": "PET FOOD PLUS",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "seeki",
     "name": "Prioritize Meals over Preserved Foods",
     "steamId": null,
@@ -1020,6 +1008,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Syrchalis",
+    "name": "[SYR] Doormats",
+    "steamId": "1508778962",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Porohkun",
     "name": "Concrete Walls",
     "steamId": null,
@@ -1034,12 +1028,6 @@
   {
     "author": "3HST Limited",
     "name": "Bill Doors' Instant Noodles",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dracoix",
-    "name": "Door Mat",
     "steamId": null,
     "version": null
   },
@@ -1304,6 +1292,12 @@
   {
     "author": "Millap",
     "name": "Bori race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AOBA",
+    "name": "Moyo-Light in the Abyss",
     "steamId": null,
     "version": null
   },
@@ -1928,6 +1922,12 @@
   {
     "author": "Lucifel",
     "name": "Maru RaceMod 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Moyo-Light in the Abyss 日本語翻訳",
     "steamId": null,
     "version": null
   }

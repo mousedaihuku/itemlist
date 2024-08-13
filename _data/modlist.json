@@ -366,12 +366,6 @@
     "version": "2.7.4"
   },
   {
-    "author": "Owlchemist",
-    "name": "Door Clearance",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "mastertea",
     "name": "RandomPlus",
     "steamId": null,
@@ -462,6 +456,12 @@
     "version": "1.5"
   },
   {
+    "author": "Owlchemist",
+    "name": "Door Clearance",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Wemd",
     "name": "[WD] Fast Moisture Pumps",
     "steamId": null,
@@ -538,12 +538,6 @@
     "name": "SimpleCameraSetting",
     "steamId": "3232415388",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Smart Farming",
-    "steamId": "3220129183",
-    "version": "1.5"
   },
   {
     "author": "Owlchemist",
@@ -704,12 +698,6 @@
   {
     "author": "UNAGI",
     "name": "UNAGI Animal MOD フルッフィル",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Udon",
-    "name": "Pon and Kon",
     "steamId": null,
     "version": null
   },

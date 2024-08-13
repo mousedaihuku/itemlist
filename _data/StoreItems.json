@@ -7540,13 +7540,13 @@
       "abr": "カメの式神",
       "category": "家畜",
       "defname": "YR_Sikigami_Turtle",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "タヌキの式神",
       "category": "家畜",
       "defname": "YR_Sikigami_Racoon",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "▽▽",
@@ -7702,7 +7702,7 @@
       "abr": "asエルフの民族衣装",
       "category": "着物",
       "defname": "AS_WAE_HKNationalCostume",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "asエルフの民族衣装(レプリカ)",
@@ -7864,7 +7864,7 @@
       "abr": "as簡素な下着",
       "category": "AS 下着",
       "defname": "AS_Common_PlainUnderwear",
-      "price": -10
+      "price": 109
     },
     {
       "abr": "as簡素な靴下",
@@ -8365,21 +8365,9 @@
       "price": -10
     },
     {
-      "abr": "コン",
-      "category": "家畜",
-      "defname": "PaK_Kon",
-      "price": 800
-    },
-    {
       "abr": "コンの侍刀レプリカ",
       "category": "近接",
       "defname": "MeleeWeapon_konkatana",
-      "price": -10
-    },
-    {
-      "abr": "コンの肉",
-      "category": "生肉",
-      "defname": "Meat_PaK_Kon",
       "price": -10
     },
     {
@@ -10084,18 +10072,6 @@
       "abr": "ボムボムスプレー",
       "category": "魔法植物",
       "defname": "VV_Pealauncher",
-      "price": -10
-    },
-    {
-      "abr": "ポン",
-      "category": "家畜",
-      "defname": "PaK_Pon",
-      "price": -10
-    },
-    {
-      "abr": "ポンの肉",
-      "category": "生肉",
-      "defname": "Meat_PaK_Pon",
       "price": -10
     },
     {
@@ -12580,43 +12556,43 @@
       "abr": "カカシ",
       "category": "家具",
       "defname": "RL_Scarecrow",
-      "price": 158
+      "price": -10
     },
     {
       "abr": "キャンドル",
       "category": "家具",
       "defname": "RL_Candle_B",
-      "price": 27
+      "price": -10
     },
     {
       "abr": "キャンドルスティック",
       "category": "家具",
       "defname": "RL_Candle_C",
-      "price": 27
+      "price": -10
     },
     {
       "abr": "ボート",
       "category": "家具",
       "defname": "RL_Boat",
-      "price": 207
+      "price": -10
     },
     {
       "abr": "ワイン樽の束",
       "category": "家具",
       "defname": "RL_WineBarrel",
-      "price": 207
+      "price": -10
     },
     {
       "abr": "三叉の燭台",
       "category": "家具",
       "defname": "RL_Candle_A",
-      "price": 27
+      "price": -10
     },
     {
       "abr": "十字架",
       "category": "家具",
       "defname": "RL_Cross_stone",
-      "price": 59
+      "price": -10
     },
     {
       "abr": "子供用エプロンスカート",
@@ -12694,7 +12670,7 @@
       "abr": "燭台",
       "category": "家具",
       "defname": "RL_Candle_D",
-      "price": 27
+      "price": -10
     },
     {
       "abr": "石畳",
@@ -12727,5 +12703,5 @@
       "price": 3333
     }
   ],
-  "total": 2121
+  "total": 2117
 }

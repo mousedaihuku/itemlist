@@ -85,6 +85,12 @@
   },
   {
     "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
+    "steamId": "3239583412",
+    "version": "1.5.0.1"
+  },
+  {
+    "author": "Captolamia",
     "name": "Toolkit - Channel Points (ressurected) 1.5",
     "steamId": "3240408211",
     "version": "1.5.1"
@@ -631,13 +637,25 @@
   },
   {
     "author": "DARKkai",
-    "name": "Ratkin Auxiliary framework",
+    "name": "Ratkin BackStory Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Feng Xinzi",
+    "name": "Ratkin Lifestyle+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PPONN",
+    "name": "Ratkin Apparel+(unofficial))",
     "steamId": null,
     "version": null
   },
   {
     "author": "DARKkai",
-    "name": "Ratkin Ranged Weapon Expanded New",
+    "name": "Ratkin Auxiliary framework",
     "steamId": null,
     "version": null
   },
@@ -752,6 +770,12 @@
   {
     "author": "Feng Xinzi",
     "name": "Ratkin Texture Reset",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MoManaCha",
+    "name": "Ratkin Body Retexture",
     "steamId": null,
     "version": null
   },

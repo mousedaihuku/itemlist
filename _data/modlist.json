@@ -72,6 +72,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornsonと Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "nry",
     "name": "Twitch Toolkit",
     "steamId": "3013874066",
@@ -514,6 +520,12 @@
     "name": "What's That Mod",
     "steamId": "2258431182",
     "version": "1.0.0+4ee7aafb566237826b23c6e55b2c46e43e5343c2"
+  },
+  {
+    "author": "avilmask",
+    "name": "Animal Controls",
+    "steamId": "2426119067",
+    "version": "1.0.0.0"
   },
   {
     "author": "Wemd",
@@ -986,6 +998,12 @@
   {
     "author": "Lucifel",
     "name": "Roren, People of Rorensia 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Vanilla Expanded Framework 日本語翻訳追加",
     "steamId": null,
     "version": null
   }

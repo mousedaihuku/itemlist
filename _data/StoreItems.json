@@ -12358,175 +12358,175 @@
       "abr": "ローレンロイヤルオーナメント",
       "category": "帽子",
       "defname": "Roren_RoyalOrnament",
-      "price": 1808
+      "price": -10
     },
     {
       "abr": "ローレンローレンシアブレイド",
       "category": "近接",
       "defname": "Roren_RorensianBlade",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "ローレンロケットランチャー",
       "category": "遠隔",
       "defname": "Roren_RocketLauncher",
-      "price": 1258
+      "price": -10
     },
     {
       "abr": "ローレン作業服",
       "category": "下着",
       "defname": "Roren_Labourer_outfit",
-      "price": 211
+      "price": -10
     },
     {
       "abr": "ローレン修道女ヴェール",
       "category": "帽子",
       "defname": "Roren_NunVeil",
-      "price": 262
+      "price": -10
     },
     {
       "abr": "ローレン修道女服",
       "category": "下着",
       "defname": "Roren_Nun_outfit",
-      "price": 290
+      "price": -10
     },
     {
       "abr": "ローレン古式ショットガン",
       "category": "遠隔",
       "defname": "Roren_OldShotgun",
-      "price": 1208
+      "price": -10
     },
     {
       "abr": "ローレン古式ショットガン(聖別)",
       "category": "遠隔",
       "defname": "Roren_Consecratio_OldShotgun",
-      "price": 3208
+      "price": -10
     },
     {
       "abr": "ローレン古式ピストル",
       "category": "遠隔",
       "defname": "Roren_OldPistol",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "ローレン古式ピストル(聖別)",
       "category": "遠隔",
       "defname": "Roren_Consecratio_OldPistol",
-      "price": 2667
+      "price": -10
     },
     {
       "abr": "ローレン古式マークスマンライフル",
       "category": "遠隔",
       "defname": "Roren_OldMarksmanRifle",
-      "price": 1842
+      "price": -10
     },
     {
       "abr": "ローレン古式マークスマンライフル(聖別)",
       "category": "遠隔",
       "defname": "Roren_Consecratio_OldMarksmanRifle",
-      "price": 3842
+      "price": -10
     },
     {
       "abr": "ローレン古式ライフル",
       "category": "遠隔",
       "defname": "Roren_OldRifle",
-      "price": 1783
+      "price": -10
     },
     {
       "abr": "ローレン古式ライフル(聖別)",
       "category": "遠隔",
       "defname": "Roren_Consecratio_OldRifle",
-      "price": 3783
+      "price": -10
     },
     {
       "abr": "ローレン将校コート",
       "category": "装甲化",
       "defname": "Roren_Officer_Coat",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "ローレン将校制服",
       "category": "装甲化",
       "defname": "Roren_Officer_Outfit",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "ローレン将校帽",
       "category": "装甲化",
       "defname": "Roren_OfficerCap",
-      "price": 975
+      "price": -10
     },
     {
       "abr": "ローレン歩兵アーマー",
       "category": "装甲化",
       "defname": "Roren_Infantryarmor",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "ローレン歩兵コート",
       "category": "装甲化",
       "defname": "Roren_Infantry_Coat",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "ローレン歩兵ヘルム",
       "category": "装甲化",
       "defname": "Roren_InfantryHelm",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "ローレン歩兵ヘルム-ガスマスク",
       "category": "装甲化",
       "defname": "Roren_InfantryHelmGasmask",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "ローレン歩兵ポンチョ",
       "category": "上着",
       "defname": "Roren_Infantry_Poncho",
-      "price": 305
+      "price": -10
     },
     {
       "abr": "ローレン歩兵制服",
       "category": "下着",
       "defname": "Roren_Infantry_outfit",
-      "price": 230
+      "price": -10
     },
     {
       "abr": "ローレン砲撃支援パワーアーマー",
       "category": "装甲化",
       "defname": "Roren_BombardPoweredArmor",
-      "price": 2800
+      "price": -10
     },
     {
       "abr": "ローレン葬儀帽",
       "category": "帽子",
       "defname": "Roren_FuneralHat",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "ローレン葬儀服",
       "category": "下着",
       "defname": "Roren_Funeral_outfit",
-      "price": 858
+      "price": -10
     },
     {
       "abr": "ローレン衛生兵制服",
       "category": "下着",
       "defname": "Roren_Medic_outfit",
-      "price": 231
+      "price": -10
     },
     {
       "abr": "ローレンシア203mm野砲",
       "category": "防衛",
       "defname": "Roren_Turret_203mm",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "ローレンシア57mm機関砲",
       "category": "防衛",
       "defname": "Roren_Turret_57mm",
-      "price": 1025
+      "price": -10
     },
     {
       "abr": "ローレンシアクロス",
@@ -12544,49 +12544,49 @@
       "abr": "ローレンの肉",
       "category": "生肉",
       "defname": "Meat_Alien_Roren",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ローレン祭壇",
       "category": "生産物",
       "defname": "Roren_Altar",
-      "price": 592
+      "price": -10
     },
     {
       "abr": "大きなドアマット(橙)",
       "category": "家具",
       "defname": "LT_DoorMatBigOrange",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "大きなドアマット(皮)",
       "category": "家具",
       "defname": "LT_DoorMatBigLeather",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "大きなドアマット(緑)",
       "category": "家具",
       "defname": "LT_DoorMatBigGreen",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "大きなドアマット(赤)",
       "category": "家具",
       "defname": "LT_DoorMatBigRed",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "大きなドアマット(青)",
       "category": "家具",
       "defname": "LT_DoorMatBigBlue",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "大きなドアマット(青緑)",
       "category": "家具",
       "defname": "LT_DoorMatBigTeal",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "古代のコンクリート製壁",
@@ -14089,11 +14089,17 @@
       "price": -10
     },
     {
+      "abr": "電力線",
+      "category": "その他",
+      "defname": "KCSG_PowerConduit",
+      "price": 3
+    },
+    {
       "abr": "zombrella",
       "category": "その他",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     }
   ],
-  "total": 2349
+  "total": 2350
 }

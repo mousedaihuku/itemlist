@@ -488,8 +488,32 @@
   {
     "author": "YAYO",
     "name": "Real Faction Guest (Forked)",
-    "steamId": null,
-    "version": null
+    "steamId": "3302093855",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Prepare Landing for 1.5",
+    "steamId": "3221125358",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Smart Farming",
+    "steamId": "3220129183",
+    "version": "1.5"
+  },
+  {
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.8838.32721"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "1.0.0+4ee7aafb566237826b23c6e55b2c46e43e5343c2"
   },
   {
     "author": "Wemd",
@@ -708,12 +732,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "hatena",
-    "name": "VoiceroidAsAnimal",
-    "steamId": "2073559411",
-    "version": "1.11.0"
-  },
-  {
     "author": "Velc",
     "name": "Hardworking KEMOMIMIHOUSE",
     "steamId": "2142587186",
@@ -820,6 +838,12 @@
     "name": "Range Finder",
     "steamId": "1332119637",
     "version": "2.5.0.0"
+  },
+  {
+    "author": "HopeSeekr",
+    "name": "Savegame Shrinker",
+    "steamId": "2978713095",
+    "version": "0.0.0.0"
   },
   {
     "author": "Taranchuk",

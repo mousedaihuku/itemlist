@@ -72,12 +72,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornsonと Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "nry",
     "name": "Twitch Toolkit",
     "steamId": "3013874066",
@@ -654,16 +648,16 @@
     "version": null
   },
   {
-    "author": "gguake",
-    "name": "Vivi Race",
-    "steamId": "3241577976",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Outremerと Fortified_Home",
     "name": "Miho, the celestial fox",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "いのしし_3",
+    "name": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+    "steamId": "2670355481",
+    "version": "1.0.0.0"
   },
   {
     "author": "Roo",
@@ -690,18 +684,6 @@
     "version": null
   },
   {
-    "author": "DARKkai",
-    "name": "Ratkin BackStory Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Feng Xinzi",
-    "name": "Ratkin Lifestyle+",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "PPONN",
     "name": "Ratkin Apparel+(unofficial))",
     "steamId": null,
@@ -714,28 +696,10 @@
     "version": null
   },
   {
-    "author": "EoralMilk",
-    "name": "Ratkin Gene Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "HenTaiLoliTeam",
     "name": "MoeLotl Race",
     "steamId": "3292351432",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "nsns",
-    "name": "Tinimar the Harfling",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Polonium",
-    "name": "Roren, People of Rorensia",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "psychelo",
@@ -798,12 +762,6 @@
     "version": null
   },
   {
-    "author": "Nals",
-    "name": "[NL] Compatible Body 2",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ponpeco",
     "name": "Dog Retexture",
     "steamId": null,
@@ -812,6 +770,12 @@
   {
     "author": "B333SSS",
     "name": "Furskin fluff",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Compatible Body 2",
     "steamId": null,
     "version": null
   },
@@ -931,12 +895,6 @@
   },
   {
     "author": "Lucifel",
-    "name": "Vivi, the honey bee fairy 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
     "name": "Miho,the celestial fox 日本語翻訳",
     "steamId": null,
     "version": null
@@ -956,12 +914,6 @@
   {
     "author": "Lucifel",
     "name": "MoeLotl Race 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Tinimar the Harfling 日本語翻訳",
     "steamId": null,
     "version": null
   },
@@ -990,20 +942,8 @@
     "version": null
   },
   {
-    "author": "Proxyer",
-    "name": "Ratkin Gene Expanded 日本語翻訳追加",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Lucifel",
-    "name": "Roren, People of Rorensia 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Proxyer",
-    "name": "Vanilla Expanded Framework 日本語翻訳追加",
+    "name": "Kurin, The Three Tailed Fox [Deluxe Edition] 日本語翻訳",
     "steamId": null,
     "version": null
   }

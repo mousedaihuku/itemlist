@@ -31,6 +31,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "removetrait",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
@@ -111,10 +116,20 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 23
+	"total": 26
 }

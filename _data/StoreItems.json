@@ -820,7 +820,7 @@
       "abr": "医薬品",
       "category": "薬",
       "defname": "MedicineIndustrial",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "最先端医薬品",
@@ -7777,12 +7777,6 @@
       "price": -10
     },
     {
-      "abr": "アイスフラワーティ",
-      "category": "ドラッグ",
-      "defname": "VV_FloralIceTea",
-      "price": -10
-    },
-    {
       "abr": "インシネレーター",
       "category": "遠隔",
       "defname": "Gun_Incinerator",
@@ -7801,12 +7795,6 @@
       "price": -10
     },
     {
-      "abr": "ウォータードロップ",
-      "category": "魔法植物",
-      "defname": "VV_Waterdrops",
-      "price": -10
-    },
-    {
       "abr": "エアコン(室内機)",
       "category": "衛生",
       "defname": "AirconIndoorUnit",
@@ -7816,12 +7804,6 @@
       "abr": "エアコン(室外機)",
       "category": "衛生",
       "defname": "AirConOutdoorUnit",
-      "price": -10
-    },
-    {
-      "abr": "エバーフラワー",
-      "category": "魔法植物",
-      "defname": "VV_Everflower",
       "price": -10
     },
     {
@@ -7846,12 +7828,6 @@
       "abr": "エンドテーブル",
       "category": "家具",
       "defname": "RGK_EndTableWithLamp",
-      "price": -10
-    },
-    {
-      "abr": "エンバーブルーム",
-      "category": "魔法植物",
-      "defname": "VV_EmberBloom",
       "price": -10
     },
     {
@@ -8002,12 +7978,6 @@
       "abr": "コウヤネズミの肉",
       "category": "生肉",
       "defname": "Meat_WasteRat",
-      "price": -10
-    },
-    {
-      "abr": "コーンスプリンクラー",
-      "category": "魔法植物",
-      "defname": "VV_Cornlauncher",
       "price": -10
     },
     {
@@ -8239,12 +8209,6 @@
       "price": -10
     },
     {
-      "abr": "サンダーペタル",
-      "category": "魔法植物",
-      "defname": "VV_Thunderpetals",
-      "price": -10
-    },
-    {
       "abr": "シーラムラボ",
       "category": "生産物",
       "defname": "SerumCentrifuge",
@@ -8293,12 +8257,6 @@
       "price": -10
     },
     {
-      "abr": "シュータス",
-      "category": "魔法植物",
-      "defname": "VV_Shootus",
-      "price": -10
-    },
-    {
       "abr": "シロの巻物",
       "category": "家畜",
       "defname": "sirof",
@@ -8326,18 +8284,6 @@
       "abr": "シンリンオオカミの肉",
       "category": "生肉",
       "defname": "Meat_Wolf_Timber",
-      "price": -10
-    },
-    {
-      "abr": "スカイウィード",
-      "category": "魔法植物",
-      "defname": "VV_Skyweed",
-      "price": -10
-    },
-    {
-      "abr": "スカイウィードの綿毛",
-      "category": "花びら",
-      "defname": "VV_SkyweedFluff",
       "price": -10
     },
     {
@@ -8497,48 +8443,6 @@
       "price": -10
     },
     {
-      "abr": "ちっちゃい手のこんだ食事",
-      "category": "調理済",
-      "defname": "smol_finemeal",
-      "price": -10
-    },
-    {
-      "abr": "ちっちゃい手のこんだ食事(肉類)",
-      "category": "調理済",
-      "defname": "smol_finemeal_meat",
-      "price": -10
-    },
-    {
-      "abr": "ちっちゃい手のこんだ食事(野菜)",
-      "category": "調理済",
-      "defname": "smol_finemeal_veg",
-      "price": -10
-    },
-    {
-      "abr": "ちっちゃい簡単な食事",
-      "category": "調理済",
-      "defname": "smol_simplemeal",
-      "price": -10
-    },
-    {
-      "abr": "ちっちゃい豪華な食事",
-      "category": "調理済",
-      "defname": "smol_lavishmeal",
-      "price": -10
-    },
-    {
-      "abr": "ちっちゃい豪華な食事(肉類)",
-      "category": "調理済",
-      "defname": "smol_lavishmeal_meat",
-      "price": -10
-    },
-    {
-      "abr": "ちっちゃい豪華な食事(野菜)",
-      "category": "調理済",
-      "defname": "smol_lavishmeal_veg",
-      "price": -10
-    },
-    {
       "abr": "チンチラの肉",
       "category": "生肉",
       "defname": "Meat_Chinchilla",
@@ -8548,402 +8452,6 @@
       "abr": "ティーセット",
       "category": "家具",
       "defname": "RGK_Teaset",
-      "price": -10
-    },
-    {
-      "abr": "ティニマ",
-      "category": "Animal",
-      "defname": "Tinimar_Race_grey",
-      "price": -10
-    },
-    {
-      "abr": "ティニマ",
-      "category": "Animal",
-      "defname": "Tinimar_Race",
-      "price": -10
-    },
-    {
-      "abr": "ティニマadサークレット",
-      "category": "装甲化",
-      "defname": "Tinimar_ADcirclet",
-      "price": -10
-    },
-    {
-      "abr": "ティニマadスーツ",
-      "category": "装甲化",
-      "defname": "Tinimar_ADsuit",
-      "price": -10
-    },
-    {
-      "abr": "ティニマadスーツvega",
-      "category": "装甲化",
-      "defname": "Tinimar_ADsuitVEGA",
-      "price": -10
-    },
-    {
-      "abr": "ティニマadヘルメットvega",
-      "category": "装甲化",
-      "defname": "Tinimar_ADhelmetVEGA",
-      "price": -10
-    },
-    {
-      "abr": "ティニマtシャツ",
-      "category": "下着",
-      "defname": "Tinimar_tshirt",
-      "price": -10
-    },
-    {
-      "abr": "ティニマアスフォデロス",
-      "category": "近接",
-      "defname": "Tinimar_asphodelos",
-      "price": -10
-    },
-    {
-      "abr": "ティニマアンテナ(i)",
-      "category": "Mechanitor",
-      "defname": "Tinimar_antenna_I",
-      "price": -10
-    },
-    {
-      "abr": "ティニマアンテナ(ii)",
-      "category": "Mechanitor",
-      "defname": "Tinimar_antenna_II",
-      "price": -10
-    },
-    {
-      "abr": "ティニマアンテナ(iii)",
-      "category": "Mechanitor",
-      "defname": "Tinimar_antenna_III",
-      "price": -10
-    },
-    {
-      "abr": "ティニマアンテナ(iv)",
-      "category": "Mechanitor",
-      "defname": "Tinimar_antenna_IV",
-      "price": -10
-    },
-    {
-      "abr": "ティニマエンジェルワンピース",
-      "category": "下着",
-      "defname": "Tinimar_angelonepiece",
-      "price": -10
-    },
-    {
-      "abr": "ティニマギャンベゾン",
-      "category": "着物",
-      "defname": "Tinimar_gambeson",
-      "price": -10
-    },
-    {
-      "abr": "ティニマグラスコート",
-      "category": "装甲化",
-      "defname": "Tinimar_glasscoat",
-      "price": -10
-    },
-    {
-      "abr": "ティニマグレイのクローク",
-      "category": "上着",
-      "defname": "Tinimar_greycloak",
-      "price": -10
-    },
-    {
-      "abr": "ティニマグレイのフード",
-      "category": "帽子",
-      "defname": "Tinimar_greyhood",
-      "price": -10
-    },
-    {
-      "abr": "ティニマゴシックドレス",
-      "category": "サイフォーカス",
-      "defname": "Tinimar_gothicdress",
-      "price": -10
-    },
-    {
-      "abr": "ティニマサロペット",
-      "category": "着物",
-      "defname": "Tinimar_salopette",
-      "price": -10
-    },
-    {
-      "abr": "ティニマシェイドフード",
-      "category": "帽子",
-      "defname": "Tinimar_shadehood",
-      "price": -10
-    },
-    {
-      "abr": "ティニマシェイドローブ",
-      "category": "上着",
-      "defname": "Tinimar_shadecloak",
-      "price": -10
-    },
-    {
-      "abr": "ティニマスタッフ",
-      "category": "近接",
-      "defname": "Tinimar_staff",
-      "price": -10
-    },
-    {
-      "abr": "ティニマセーラーキャスケット",
-      "category": "帽子",
-      "defname": "Tinimar_sailorIIcasquette",
-      "price": -10
-    },
-    {
-      "abr": "ティニマセーラーワンピース",
-      "category": "下着",
-      "defname": "Tinimar_sailorII",
-      "price": -10
-    },
-    {
-      "abr": "ティニマセーラー服",
-      "category": "下着",
-      "defname": "Tinimar_sailor",
-      "price": 187
-    },
-    {
-      "abr": "ティニマセプター",
-      "category": "遠隔",
-      "defname": "Tinimar_scepter",
-      "price": -10
-    },
-    {
-      "abr": "ティニマダスターコート",
-      "category": "上着",
-      "defname": "Tinimar_duster",
-      "price": -10
-    },
-    {
-      "abr": "ティニマちっちゃいlmg",
-      "category": "遠隔",
-      "defname": "smol_lmg",
-      "price": -10
-    },
-    {
-      "abr": "ティニマちっちゃいpdw",
-      "category": "遠隔",
-      "defname": "smol_pdw",
-      "price": -10
-    },
-    {
-      "abr": "ティニマちっちゃいアサルトライフル",
-      "category": "遠隔",
-      "defname": "smol_ar",
-      "price": -10
-    },
-    {
-      "abr": "ティニマちっちゃいスナイパーライフル",
-      "category": "遠隔",
-      "defname": "smol_sr",
-      "price": -10
-    },
-    {
-      "abr": "ティニマちっちゃいミシン台",
-      "category": "生産物",
-      "defname": "Tinimar_tailorbench",
-      "price": -10
-    },
-    {
-      "abr": "ティニマちっちゃいメカガン",
-      "category": "遠隔",
-      "defname": "smol_mechgun",
-      "price": -10
-    },
-    {
-      "abr": "ティニマちっちゃい剣",
-      "category": "近接",
-      "defname": "smol_sword",
-      "price": -10
-    },
-    {
-      "abr": "ティニマちっちゃい弓",
-      "category": "遠隔",
-      "defname": "smol_bow",
-      "price": -10
-    },
-    {
-      "abr": "ティニマちっちゃい槍",
-      "category": "近接",
-      "defname": "smol_spear",
-      "price": -10
-    },
-    {
-      "abr": "ティニマちっちゃい機械作業台",
-      "category": "生産物",
-      "defname": "Tinimar_machiningbench",
-      "price": -10
-    },
-    {
-      "abr": "ティニマちっちゃい鎌",
-      "category": "近接",
-      "defname": "smol_scythe",
-      "price": -10
-    },
-    {
-      "abr": "ティニマちっちゃい長弓",
-      "category": "遠隔",
-      "defname": "smol_longbow",
-      "price": -10
-    },
-    {
-      "abr": "ティニマチャージイントルーダー",
-      "category": "遠隔",
-      "defname": "Tinimar_intruder",
-      "price": -10
-    },
-    {
-      "abr": "ティニマチャージディゾルショナー",
-      "category": "遠隔",
-      "defname": "Tinimar_dissolutioner",
-      "price": -10
-    },
-    {
-      "abr": "ティニマチャージレイダー",
-      "category": "遠隔",
-      "defname": "Tinimar_raider",
-      "price": -10
-    },
-    {
-      "abr": "ティニマチュニック",
-      "category": "下着",
-      "defname": "Tinimar_tunic",
-      "price": -10
-    },
-    {
-      "abr": "ティニマヘッドドレス",
-      "category": "サイフォーカス",
-      "defname": "Tinimar_headdress",
-      "price": -10
-    },
-    {
-      "abr": "ティニマヘルメット",
-      "category": "帽子",
-      "defname": "Tinimar_hardhat",
-      "price": -10
-    },
-    {
-      "abr": "ティニマメイドドレス",
-      "category": "下着",
-      "defname": "Tinimar_maiddress",
-      "price": -10
-    },
-    {
-      "abr": "ティニマメイドブリム",
-      "category": "帽子",
-      "defname": "Tinimar_maidbrim",
-      "price": -10
-    },
-    {
-      "abr": "ティニマメタルバスター",
-      "category": "近接",
-      "defname": "Tinimar_metalburster",
-      "price": -10
-    },
-    {
-      "abr": "ティニマモダンウェア",
-      "category": "下着",
-      "defname": "Tinimar_modern",
-      "price": 187
-    },
-    {
-      "abr": "ティニマレインコート",
-      "category": "上着",
-      "defname": "Tinimar_raincoat",
-      "price": -10
-    },
-    {
-      "abr": "ティニマロイヤルインナー",
-      "category": "サイフォーカス",
-      "defname": "Tinimar_royalinner",
-      "price": -10
-    },
-    {
-      "abr": "ティニマロイヤルクラウン",
-      "category": "サイフォーカス",
-      "defname": "Tinimar_royalcrown",
-      "price": -10
-    },
-    {
-      "abr": "ティニマロイヤルコート",
-      "category": "サイフォーカス",
-      "defname": "Tinimar_royalcoat",
-      "price": -10
-    },
-    {
-      "abr": "ティニマ一枚布",
-      "category": "Special",
-      "defname": "Tinimar_bodywrap",
-      "price": -10
-    },
-    {
-      "abr": "ティニマ信号弾ベルト",
-      "category": "ユーティリティ",
-      "defname": "Tinimar_flaregun",
-      "price": -10
-    },
-    {
-      "abr": "ティニマ修道女ベール",
-      "category": "帽子",
-      "defname": "Tinimar_nunveil",
-      "price": -10
-    },
-    {
-      "abr": "ティニマ修道女服",
-      "category": "下着",
-      "defname": "Tinimar_nuncloth",
-      "price": -10
-    },
-    {
-      "abr": "ティニマ園児帽",
-      "category": "帽子",
-      "defname": "Tinimar_kinderhat",
-      "price": -10
-    },
-    {
-      "abr": "ティニマ園児服",
-      "category": "下着",
-      "defname": "Tinimar_kinderuniform",
-      "price": -10
-    },
-    {
-      "abr": "ティニマ白衣",
-      "category": "上着",
-      "defname": "Tinimar_whitecoat",
-      "price": -10
-    },
-    {
-      "abr": "ティニマ防弾チョッキ",
-      "category": "装甲化",
-      "defname": "Tinimar_flakvest",
-      "price": -10
-    },
-    {
-      "abr": "ティニマ防弾ヘルメット",
-      "category": "装甲化",
-      "defname": "Tinimar_flakhelmet",
-      "price": -10
-    },
-    {
-      "abr": "ティニマスパイシーフラスコ",
-      "category": "ドラッグ",
-      "defname": "Tinimar_SpicyFlask",
-      "price": -10
-    },
-    {
-      "abr": "ティニマソーダ",
-      "category": "ドラッグ",
-      "defname": "Tinimar_Soda",
-      "price": -10
-    },
-    {
-      "abr": "ティニマの肉",
-      "category": "生肉",
-      "defname": "Meat_Tinimar_Race",
-      "price": -10
-    },
-    {
-      "abr": "ティニマヒーリングポーション",
-      "category": "ドラッグ",
-      "defname": "Tinimar_HealingPotion",
       "price": -10
     },
     {
@@ -9097,18 +8605,6 @@
       "price": -10
     },
     {
-      "abr": "ニセ翅(ビビ)",
-      "category": "人造",
-      "defname": "VV_FakeWing",
-      "price": -10
-    },
-    {
-      "abr": "ニセ触角(ビビ)",
-      "category": "人造",
-      "defname": "VV_FakeAntennae",
-      "price": -10
-    },
-    {
       "abr": "ニワトリの肉",
       "category": "生肉",
       "defname": "Meat_Chicken",
@@ -9211,12 +8707,6 @@
       "price": -10
     },
     {
-      "abr": "ビーンスプレー",
-      "category": "魔法植物",
-      "defname": "VV_Peashooter",
-      "price": -10
-    },
-    {
       "abr": "ヒクイドリの肉",
       "category": "生肉",
       "defname": "Meat_Cassowary",
@@ -9238,186 +8728,6 @@
       "abr": "ヒトの肉",
       "category": "生肉",
       "defname": "Meat_Human",
-      "price": -10
-    },
-    {
-      "abr": "ビビ",
-      "category": "Animal",
-      "defname": "VV_Vivi",
-      "price": -10
-    },
-    {
-      "abr": "ビビエルテックスニードル",
-      "category": "遠隔",
-      "defname": "VV_EltexNeedle",
-      "price": -10
-    },
-    {
-      "abr": "ビビショックダーツ",
-      "category": "遠隔",
-      "defname": "VV_ShockDart",
-      "price": -10
-    },
-    {
-      "abr": "ビビストロー",
-      "category": "ユーティリティ",
-      "defname": "VV_StrawTool",
-      "price": -10
-    },
-    {
-      "abr": "ビビスピア",
-      "category": "近接",
-      "defname": "VV_ViviSpear",
-      "price": -10
-    },
-    {
-      "abr": "ビビスリングショット",
-      "category": "遠隔",
-      "defname": "VV_Slingshot",
-      "price": -10
-    },
-    {
-      "abr": "ビビティアラ",
-      "category": "ロイヤリティ",
-      "defname": "VV_Crown",
-      "price": -10
-    },
-    {
-      "abr": "ビビバトルコート",
-      "category": "装甲化",
-      "defname": "VV_GuardianCoat",
-      "price": -10
-    },
-    {
-      "abr": "ビビリピータークロスボウ",
-      "category": "遠隔",
-      "defname": "VV_RepeatingCrossbow",
-      "price": -10
-    },
-    {
-      "abr": "ビビロングジャベリン",
-      "category": "遠隔",
-      "defname": "VV_ViviLongJavelin",
-      "price": -10
-    },
-    {
-      "abr": "ビビ万能ブラシ",
-      "category": "ユーティリティ",
-      "defname": "VV_MultiuseBrushTool",
-      "price": -10
-    },
-    {
-      "abr": "ビビ作業服",
-      "category": "Special",
-      "defname": "VV_BasicWorkerCostume",
-      "price": -10
-    },
-    {
-      "abr": "ビビ儀礼用ランス",
-      "category": "近接",
-      "defname": "VV_RitualLance",
-      "price": -10
-    },
-    {
-      "abr": "ビビ制服",
-      "category": "Special",
-      "defname": "VV_WorkerUniformDress",
-      "price": -10
-    },
-    {
-      "abr": "ビビ制服ヘルメット",
-      "category": "装甲化",
-      "defname": "VV_UniformHelmet",
-      "price": -10
-    },
-    {
-      "abr": "ビビ制服帽子",
-      "category": "Special",
-      "defname": "VV_UniformHat",
-      "price": -10
-    },
-    {
-      "abr": "ビビ子供服",
-      "category": "Special",
-      "defname": "VV_Childrenswear",
-      "price": -10
-    },
-    {
-      "abr": "ビビ防寒マント",
-      "category": "上着",
-      "defname": "VV_WinterCape",
-      "price": -10
-    },
-    {
-      "abr": "ビビ防水コート",
-      "category": "Special",
-      "defname": "VV_WaterproofCoat",
-      "price": -10
-    },
-    {
-      "abr": "ビビクリーム",
-      "category": "ビビ資源",
-      "defname": "VV_Vivicream",
-      "price": -10
-    },
-    {
-      "abr": "ビビの卵",
-      "category": "卵(有精卵)",
-      "defname": "VV_ViviEgg",
-      "price": -10
-    },
-    {
-      "abr": "ビビの肉",
-      "category": "生肉",
-      "defname": "Meat_VV_Vivi",
-      "price": -10
-    },
-    {
-      "abr": "ビビミツ(未精製)",
-      "category": "ビビ生産物",
-      "defname": "VV_RawHoney",
-      "price": -10
-    },
-    {
-      "abr": "ビビミツ(精製)",
-      "category": "ビビ生産物",
-      "defname": "VV_FilteredHoney",
-      "price": -10
-    },
-    {
-      "abr": "ビビミツ酒",
-      "category": "ドラッグ",
-      "defname": "VV_Mead",
-      "price": -10
-    },
-    {
-      "abr": "ビビミツ酒(熟成中)",
-      "category": "加工品",
-      "defname": "VV_UnfermentedMead",
-      "price": -10
-    },
-    {
-      "abr": "ビビ加工作業台",
-      "category": "生産物",
-      "defname": "VV_RefiningWorkbench",
-      "price": -10
-    },
-    {
-      "abr": "ビビ孵化器",
-      "category": "ビビ建築物",
-      "defname": "VV_ViviHatchery",
-      "price": -10
-    },
-    {
-      "abr": "ビビ戦闘ホルモンゼリー",
-      "category": "ドラッグ",
-      "defname": "VV_CombatHormoneJelly",
-      "price": -10
-    },
-    {
-      "abr": "ビビ蜜蝋",
-      "category": "ビビ資源",
-      "defname": "VV_Viviwax",
       "price": -10
     },
     {
@@ -9451,18 +8761,6 @@
       "price": -10
     },
     {
-      "abr": "ピュリフィミント",
-      "category": "魔法植物",
-      "defname": "VV_Purifimint",
-      "price": -10
-    },
-    {
-      "abr": "ピリピリする花びら",
-      "category": "花びら",
-      "defname": "VV_SparklingPetal",
-      "price": -10
-    },
-    {
       "abr": "ビリヤード台",
       "category": "家具",
       "defname": "GL_BilliardsTable",
@@ -9484,30 +8782,6 @@
       "abr": "ブラウン管テレビ",
       "category": "娯楽",
       "defname": "GL_TubeTelevision",
-      "price": -10
-    },
-    {
-      "abr": "フラッシュバッド",
-      "category": "魔法植物",
-      "defname": "VV_Shockerbud",
-      "price": -10
-    },
-    {
-      "abr": "フラワーミルクティ",
-      "category": "ドラッグ",
-      "defname": "VV_FloralMilkTea",
-      "price": -10
-    },
-    {
-      "abr": "フロストブルーム",
-      "category": "魔法植物",
-      "defname": "VV_FrostBloom",
-      "price": -10
-    },
-    {
-      "abr": "プロポリス",
-      "category": "植物原料",
-      "defname": "VV_Propolis",
       "price": -10
     },
     {
@@ -9559,12 +8833,6 @@
       "price": -10
     },
     {
-      "abr": "ホットフラワーティ",
-      "category": "ドラッグ",
-      "defname": "VV_FloralHotTea",
-      "price": -10
-    },
-    {
       "abr": "ボマロープの肉",
       "category": "生肉",
       "defname": "Meat_Boomalope",
@@ -9577,21 +8845,9 @@
       "price": -10
     },
     {
-      "abr": "ボムボムスプレー",
-      "category": "魔法植物",
-      "defname": "VV_Pealauncher",
-      "price": -10
-    },
-    {
       "abr": "マッファローの肉",
       "category": "生肉",
       "defname": "Meat_Muffalo",
-      "price": -10
-    },
-    {
-      "abr": "マナ肥料",
-      "category": "ビビ資源",
-      "defname": "VV_Fertilizer",
       "price": -10
     },
     {
@@ -10567,12 +9823,6 @@
       "price": -10
     },
     {
-      "abr": "ライフストランド",
-      "category": "織物",
-      "defname": "VV_Lifestrand",
-      "price": -10
-    },
-    {
       "abr": "ラットキン",
       "category": "Animal",
       "defname": "Ratkin",
@@ -10594,12 +9844,6 @@
       "abr": "ラットキン実験体の肉",
       "category": "生肉",
       "defname": "Meat_Ratkin_Su",
-      "price": -10
-    },
-    {
-      "abr": "ラディアントフラワー",
-      "category": "魔法植物",
-      "defname": "VV_Radiantflower",
       "price": -10
     },
     {
@@ -10633,12 +9877,6 @@
       "price": -10
     },
     {
-      "abr": "リッチフラワー",
-      "category": "魔法植物",
-      "defname": "VV_Richflower",
-      "price": -10
-    },
-    {
       "abr": "レヴナントの脊椎",
       "category": "強化",
       "defname": "RevenantVertebrae",
@@ -10648,12 +9886,6 @@
       "abr": "レヴナントの脊椎",
       "category": "その他",
       "defname": "RevenantSpine",
-      "price": -10
-    },
-    {
-      "abr": "ローヤルゼリー",
-      "category": "ドラッグ",
-      "defname": "VV_RoyalJelly",
       "price": -10
     },
     {
@@ -10795,12 +10027,6 @@
       "price": -10
     },
     {
-      "abr": "冷たい花びら",
-      "category": "花びら",
-      "defname": "VV_CoolingPetal",
-      "price": -10
-    },
-    {
       "abr": "副腎の心臓",
       "category": "グール",
       "defname": "AdrenalHeart",
@@ -10891,12 +10117,6 @@
       "price": -10
     },
     {
-      "abr": "女王ビビドレス",
-      "category": "ロイヤリティ",
-      "defname": "VV_BasicRoyalCostume",
-      "price": -10
-    },
-    {
       "abr": "妨害フレアパック",
       "category": "ユーティリティ",
       "defname": "Apparel_DisruptorFlarePack",
@@ -10939,18 +10159,6 @@
       "price": -10
     },
     {
-      "abr": "巨大スズメバチ",
-      "category": "家畜",
-      "defname": "VV_TitanicHornet",
-      "price": -10
-    },
-    {
-      "abr": "巨大スズメバチの翅の切れ端",
-      "category": "ビビ資源",
-      "defname": "VV_TitanicHornetWing",
-      "price": -10
-    },
-    {
       "abr": "巻物",
       "category": "物品",
       "defname": "Jecrell_LeatherScroll",
@@ -10969,21 +10177,9 @@
       "price": -10
     },
     {
-      "abr": "強化翅(ビビ)",
-      "category": "強化",
-      "defname": "VV_BionicWing",
-      "price": -10
-    },
-    {
       "abr": "強化膀胱",
       "category": "強化",
       "defname": "BionicBladder",
-      "price": -10
-    },
-    {
-      "abr": "強化触角(ビビ)",
-      "category": "強化",
-      "defname": "VV_BionicAntennae",
       "price": -10
     },
     {
@@ -11017,12 +10213,6 @@
       "price": -10
     },
     {
-      "abr": "採集作業台",
-      "category": "ビビ建築物",
-      "defname": "VV_GatheringBarrel",
-      "price": -10
-    },
-    {
       "abr": "教科書",
       "category": "本",
       "defname": "TextBook",
@@ -11032,12 +10222,6 @@
       "abr": "日記",
       "category": "物品",
       "defname": "Jecrell_BookJournal",
-      "price": -10
-    },
-    {
-      "abr": "暖かい花びら",
-      "category": "花びら",
-      "defname": "VV_HeatingPetal",
       "price": -10
     },
     {
@@ -11068,12 +10252,6 @@
       "abr": "書物",
       "category": "本",
       "defname": "Tome",
-      "price": -10
-    },
-    {
-      "abr": "未確認の種子",
-      "category": "ビビ資源",
-      "defname": "VV_UnknownSeed",
       "price": -10
     },
     {
@@ -11287,12 +10465,6 @@
       "price": 3333
     },
     {
-      "abr": "生きている葉っぱ",
-      "category": "花びら",
-      "defname": "VV_LivingLeaf",
-      "price": -10
-    },
-    {
       "abr": "石のキューブの彫刻",
       "category": "芸術品",
       "defname": "StoneCubeSculpture",
@@ -11416,24 +10588,6 @@
       "abr": "腐食心臓",
       "category": "グール",
       "defname": "CorrosiveHeart",
-      "price": -10
-    },
-    {
-      "abr": "自動ハチミツ抽出機",
-      "category": "生産物",
-      "defname": "VV_AutoExtractor",
-      "price": -10
-    },
-    {
-      "abr": "花粉",
-      "category": "ビビ資源",
-      "defname": "VV_Pollen",
-      "price": -10
-    },
-    {
-      "abr": "花粉団子",
-      "category": "食物",
-      "defname": "VV_HoneyPollenCake",
       "price": -10
     },
     {
@@ -11635,12 +10789,6 @@
       "price": -10
     },
     {
-      "abr": "香しい花びら",
-      "category": "花びら",
-      "defname": "VV_PerfumingPetal",
-      "price": -10
-    },
-    {
       "abr": "馬肉",
       "category": "生肉",
       "defname": "Meat_Horse",
@@ -11657,12 +10805,6 @@
       "category": "家畜",
       "defname": "kohime",
       "price": 16667
-    },
-    {
-      "abr": "魔法植物鉢",
-      "category": "ビビ建築物",
-      "defname": "VV_ArcanePlantPot",
-      "price": -10
     },
     {
       "abr": "麻雀卓a",
@@ -11701,54 +10843,6 @@
       "price": -10
     },
     {
-      "abr": "「ジャンヌ・ダルク」",
-      "category": "家具",
-      "defname": "RL_Paint_Joan",
-      "price": -10
-    },
-    {
-      "abr": "「モナリザの微笑み」",
-      "category": "家具",
-      "defname": "RL_Paint_MonaLisa",
-      "price": -10
-    },
-    {
-      "abr": "「創造」",
-      "category": "家具",
-      "defname": "RL_Paint_Genesis",
-      "price": -10
-    },
-    {
-      "abr": "「叫び」",
-      "category": "家具",
-      "defname": "RL_Paint_Shout",
-      "price": -10
-    },
-    {
-      "abr": "「日傘をさす女性」",
-      "category": "家具",
-      "defname": "RL_Paint_Umbrella",
-      "price": -10
-    },
-    {
-      "abr": "「真珠の耳飾りをしたラットキン」",
-      "category": "家具",
-      "defname": "RL_Paint_Earring",
-      "price": -10
-    },
-    {
-      "abr": "「自画像」",
-      "category": "家具",
-      "defname": "RL_Paint_VanGogh",
-      "price": -10
-    },
-    {
-      "abr": "「雲海の上の旅人」",
-      "category": "家具",
-      "defname": "RL_Paint_Traveler",
-      "price": -10
-    },
-    {
       "abr": "rkギャンベゾン",
       "category": "装甲化",
       "defname": "RK_Gambeson",
@@ -11782,7 +10876,7 @@
       "abr": "rk士官制服",
       "category": "Special",
       "defname": "RK_MilUniform",
-      "price": 858
+      "price": -10
     },
     {
       "abr": "rk多機能ベスト",
@@ -11794,7 +10888,7 @@
       "abr": "rk官僚用の制服",
       "category": "ロイヤリティ",
       "defname": "RK_Officer",
-      "price": 775
+      "price": -10
     },
     {
       "abr": "rk戦列歩兵服",
@@ -11833,150 +10927,6 @@
       "price": -10
     },
     {
-      "abr": "カカシ",
-      "category": "家具",
-      "defname": "RL_Scarecrow",
-      "price": -10
-    },
-    {
-      "abr": "キャンドル",
-      "category": "家具",
-      "defname": "RL_Candle_B",
-      "price": -10
-    },
-    {
-      "abr": "キャンドルスティック",
-      "category": "家具",
-      "defname": "RL_Candle_C",
-      "price": -10
-    },
-    {
-      "abr": "ボート",
-      "category": "家具",
-      "defname": "RL_Boat",
-      "price": -10
-    },
-    {
-      "abr": "ワイン樽の束",
-      "category": "家具",
-      "defname": "RL_WineBarrel",
-      "price": -10
-    },
-    {
-      "abr": "三叉の燭台",
-      "category": "家具",
-      "defname": "RL_Candle_A",
-      "price": -10
-    },
-    {
-      "abr": "十字架",
-      "category": "家具",
-      "defname": "RL_Cross_stone",
-      "price": -10
-    },
-    {
-      "abr": "子供用エプロンスカート",
-      "category": "下着",
-      "defname": "RK_ApronSkirt_Child",
-      "price": 165
-    },
-    {
-      "abr": "子供用シスタードレス",
-      "category": "下着",
-      "defname": "RK_SisterDress_Child",
-      "price": -10
-    },
-    {
-      "abr": "子供用ラットキン軍用ヘルメット",
-      "category": "装甲化",
-      "defname": "RK_BulletProofHelmet_Child",
-      "price": 350
-    },
-    {
-      "abr": "子供用冬のローブ",
-      "category": "上着",
-      "defname": "RK_WinterRobe_Child",
-      "price": -10
-    },
-    {
-      "abr": "子供用庭師の制服",
-      "category": "下着",
-      "defname": "RK_GaurdenUniform_Child",
-      "price": -10
-    },
-    {
-      "abr": "子供用戦闘服",
-      "category": "装甲化",
-      "defname": "RK_OrderUniform_Child",
-      "price": -10
-    },
-    {
-      "abr": "干し草の山",
-      "category": "家具",
-      "defname": "RL_Haystack",
-      "price": -10
-    },
-    {
-      "abr": "干し草ブロック",
-      "category": "家具",
-      "defname": "RL_HayBlock",
-      "price": -10
-    },
-    {
-      "abr": "掲示板",
-      "category": "家具",
-      "defname": "RL_Board",
-      "price": -10
-    },
-    {
-      "abr": "木製十字架",
-      "category": "家具",
-      "defname": "RL_Cross_wood",
-      "price": -10
-    },
-    {
-      "abr": "洋服掛け",
-      "category": "家具",
-      "defname": "RL_ClothesHanger_A",
-      "price": -10
-    },
-    {
-      "abr": "洋服掛け",
-      "category": "家具",
-      "defname": "RL_ClothesHanger_B",
-      "price": -10
-    },
-    {
-      "abr": "燭台",
-      "category": "家具",
-      "defname": "RL_Candle_D",
-      "price": -10
-    },
-    {
-      "abr": "石畳",
-      "category": "家具",
-      "defname": "RL_Stone",
-      "price": -10
-    },
-    {
-      "abr": "荷車",
-      "category": "家具",
-      "defname": "RL_Cart",
-      "price": -10
-    },
-    {
-      "abr": "道具",
-      "category": "家具",
-      "defname": "RL_Tool",
-      "price": -10
-    },
-    {
-      "abr": "騎士像",
-      "category": "家具",
-      "defname": "RL_Statue",
-      "price": -10
-    },
-    {
       "abr": "checkerdoormat",
       "category": "家具",
       "defname": "LT_DoorMatCheckerLeather",
@@ -11986,24 +10936,6 @@
       "abr": "largecheckerdoormat",
       "category": "家具",
       "defname": "LT_DoorMatBigCheckerLeather",
-      "price": -10
-    },
-    {
-      "abr": "rkラットキン学生服",
-      "category": "下着",
-      "defname": "RK_SchoolUniform_Child",
-      "price": -10
-    },
-    {
-      "abr": "rkラットキン新兵制服",
-      "category": "装甲化",
-      "defname": "RK_Initiate",
-      "price": -10
-    },
-    {
-      "abr": "rk小鼠学生服",
-      "category": "下着",
-      "defname": "RK_SchoolUniform",
       "price": -10
     },
     {
@@ -12043,516 +10975,6 @@
       "price": -10
     },
     {
-      "abr": "ローレン",
-      "category": "Animal",
-      "defname": "Alien_Roren",
-      "price": -10
-    },
-    {
-      "abr": "ローレンatライフル",
-      "category": "遠隔",
-      "defname": "Roren_ATRifle",
-      "price": -10
-    },
-    {
-      "abr": "ローレンhmg(聖別)",
-      "category": "遠隔",
-      "defname": "Roren_Consecratio_HMG",
-      "price": -10
-    },
-    {
-      "abr": "ローレンインファントバルディッシュ",
-      "category": "近接",
-      "defname": "Roren_InfantryBardiche",
-      "price": -10
-    },
-    {
-      "abr": "ローレンインファントバルディッシュ(聖別)",
-      "category": "近接",
-      "defname": "Roren_Consecratio_InfantryBardiche",
-      "price": -10
-    },
-    {
-      "abr": "ローレンインファントピストル",
-      "category": "遠隔",
-      "defname": "Roren_InfantryPistol",
-      "price": -10
-    },
-    {
-      "abr": "ローレンインファントピストル(聖別)",
-      "category": "遠隔",
-      "defname": "Roren_Consecratio_InfantryPistol",
-      "price": -10
-    },
-    {
-      "abr": "ローレンエリートアーマー",
-      "category": "装甲化",
-      "defname": "Roren_EliteArmor",
-      "price": -10
-    },
-    {
-      "abr": "ローレンエリートコート",
-      "category": "装甲化",
-      "defname": "Roren_Elite_Coat",
-      "price": -10
-    },
-    {
-      "abr": "ローレンエリートバルディッシュ",
-      "category": "近接",
-      "defname": "Roren_EliteBardiche",
-      "price": -10
-    },
-    {
-      "abr": "ローレンエリートバルディッシュ(聖別)",
-      "category": "近接",
-      "defname": "Roren_Consecratio_EliteBardiche",
-      "price": -10
-    },
-    {
-      "abr": "ローレンエリートヘルム",
-      "category": "装甲化",
-      "defname": "Roren_EliteHelm",
-      "price": -10
-    },
-    {
-      "abr": "ローレンエリート制服",
-      "category": "下着",
-      "defname": "Roren_Elite_Outfit",
-      "price": -10
-    },
-    {
-      "abr": "ローレンオートカノン",
-      "category": "遠隔",
-      "defname": "Roren_AutoCannon",
-      "price": -10
-    },
-    {
-      "abr": "ローレンオートカノン(聖別)",
-      "category": "遠隔",
-      "defname": "Roren_Consecratio_AutoCannon",
-      "price": -10
-    },
-    {
-      "abr": "ローレンオールドスタイルドレス",
-      "category": "下着",
-      "defname": "Roren_dress_outfit",
-      "price": 315
-    },
-    {
-      "abr": "ローレンカジュアルウェア",
-      "category": "下着",
-      "defname": "Roren_Basic_outfit",
-      "price": 224
-    },
-    {
-      "abr": "ローレンクラシックマチェーテ",
-      "category": "近接",
-      "defname": "Roren_ClassicMachete",
-      "price": -10
-    },
-    {
-      "abr": "ローレンクラシックマチェーテ(聖別)",
-      "category": "近接",
-      "defname": "Roren_Consecratio_ClassicMachete",
-      "price": -10
-    },
-    {
-      "abr": "ローレングレネードランチャー",
-      "category": "遠隔",
-      "defname": "Roren_GrenadeLauncher",
-      "price": -10
-    },
-    {
-      "abr": "ローレンサブマシンガン",
-      "category": "遠隔",
-      "defname": "Roren_SMG",
-      "price": -10
-    },
-    {
-      "abr": "ローレンサブマシンガン(聖別)",
-      "category": "遠隔",
-      "defname": "Roren_Consecratio_SMG",
-      "price": -10
-    },
-    {
-      "abr": "ローレンショットガン",
-      "category": "遠隔",
-      "defname": "Roren_Shotgun",
-      "price": -10
-    },
-    {
-      "abr": "ローレンショットガン(聖別)",
-      "category": "遠隔",
-      "defname": "Roren_Consecratio_Shotgun",
-      "price": -10
-    },
-    {
-      "abr": "ローレンセーフグレネード",
-      "category": "近接",
-      "defname": "Roren_SafeGrenade",
-      "price": -10
-    },
-    {
-      "abr": "ローレンセーフグレネード(聖別)",
-      "category": "近接",
-      "defname": "Roren_Consecratio_SafeGrenade",
-      "price": -10
-    },
-    {
-      "abr": "ローレンゼーロータイバルディッシュ(聖別)",
-      "category": "近接",
-      "defname": "Roren_Consecratio_ZealotBardiche",
-      "price": -10
-    },
-    {
-      "abr": "ローレンゼロテバルディッシュ",
-      "category": "近接",
-      "defname": "Roren_ZealotBardiche",
-      "price": -10
-    },
-    {
-      "abr": "ローレンパーカー",
-      "category": "上着",
-      "defname": "Roren_Parka_outfit",
-      "price": 315
-    },
-    {
-      "abr": "ローレンハンドグレネード",
-      "category": "グレネード",
-      "defname": "Roren_Hand_Grenade",
-      "price": -10
-    },
-    {
-      "abr": "ローレンフラットキャップ",
-      "category": "帽子",
-      "defname": "Roren_FlatCap",
-      "price": -10
-    },
-    {
-      "abr": "ローレンフランマーフレイム",
-      "category": "遠隔",
-      "defname": "Roren_Flamer",
-      "price": -10
-    },
-    {
-      "abr": "ローレンヘイロー(ウイング)",
-      "category": "Mechanitor",
-      "defname": "Roren_HaloC",
-      "price": -10
-    },
-    {
-      "abr": "ローレンヘイロー(ゴールド)",
-      "category": "ユーティリティ",
-      "defname": "Roren_HaloA",
-      "price": -10
-    },
-    {
-      "abr": "ローレンヘイロー(ブラック)",
-      "category": "ユーティリティ",
-      "defname": "Roren_HaloBa",
-      "price": -10
-    },
-    {
-      "abr": "ローレンヘイロー(ホワイト)",
-      "category": "ユーティリティ",
-      "defname": "Roren_HaloBb",
-      "price": -10
-    },
-    {
-      "abr": "ローレンベテランアーマー",
-      "category": "装甲化",
-      "defname": "Roren_Veteranarmor",
-      "price": -10
-    },
-    {
-      "abr": "ローレンベビードレス",
-      "category": "下着",
-      "defname": "Roren_BabyDress_outfit",
-      "price": -10
-    },
-    {
-      "abr": "ローレンベビーパーカー",
-      "category": "上着",
-      "defname": "Roren_BParka_outfit",
-      "price": -10
-    },
-    {
-      "abr": "ローレンヘビーパワーアーマー",
-      "category": "装甲化",
-      "defname": "Roren_HeavyPoweredArmor",
-      "price": -10
-    },
-    {
-      "abr": "ローレンヘビーパワーアーマーヘルメット",
-      "category": "装甲化",
-      "defname": "Roren_HPowerHelmet",
-      "price": -10
-    },
-    {
-      "abr": "ローレンヘビーマシンガン",
-      "category": "遠隔",
-      "defname": "Roren_HMG",
-      "price": -10
-    },
-    {
-      "abr": "ローレンマークスマンライフル",
-      "category": "遠隔",
-      "defname": "Roren_MarksmanRifle",
-      "price": -10
-    },
-    {
-      "abr": "ローレンマークスマンライフル(聖別)",
-      "category": "遠隔",
-      "defname": "Roren_Consecratio_MarksmanRifle",
-      "price": -10
-    },
-    {
-      "abr": "ローレンメイドヘアバンド",
-      "category": "帽子",
-      "defname": "Roren_MaidHeadband",
-      "price": -10
-    },
-    {
-      "abr": "ローレンメイド服",
-      "category": "下着",
-      "defname": "Roren_Maid_outfit",
-      "price": 247
-    },
-    {
-      "abr": "ローレンメカロイヤルオーナメント",
-      "category": "Mechanitor",
-      "defname": "Roren_RoyalOrnament_Mech",
-      "price": -10
-    },
-    {
-      "abr": "ローレンライトパワーアーマー",
-      "category": "装甲化",
-      "defname": "Roren_LightPoweredArmor",
-      "price": -10
-    },
-    {
-      "abr": "ローレンライトパワーアーマーヘルメット",
-      "category": "装甲化",
-      "defname": "Roren_LPowerHelmet",
-      "price": -10
-    },
-    {
-      "abr": "ローレンライトマシンガン",
-      "category": "遠隔",
-      "defname": "Roren_LMG",
-      "price": -10
-    },
-    {
-      "abr": "ローレンライフル",
-      "category": "遠隔",
-      "defname": "Roren_InfantryRifle",
-      "price": -10
-    },
-    {
-      "abr": "ローレンライフル(聖別)",
-      "category": "遠隔",
-      "defname": "Roren_Consecratio_InfantryRifle",
-      "price": -10
-    },
-    {
-      "abr": "ローレンロイヤルオーナメント",
-      "category": "帽子",
-      "defname": "Roren_RoyalOrnament",
-      "price": -10
-    },
-    {
-      "abr": "ローレンローレンシアブレイド",
-      "category": "近接",
-      "defname": "Roren_RorensianBlade",
-      "price": -10
-    },
-    {
-      "abr": "ローレンロケットランチャー",
-      "category": "遠隔",
-      "defname": "Roren_RocketLauncher",
-      "price": -10
-    },
-    {
-      "abr": "ローレン作業服",
-      "category": "下着",
-      "defname": "Roren_Labourer_outfit",
-      "price": -10
-    },
-    {
-      "abr": "ローレン修道女ヴェール",
-      "category": "帽子",
-      "defname": "Roren_NunVeil",
-      "price": -10
-    },
-    {
-      "abr": "ローレン修道女服",
-      "category": "下着",
-      "defname": "Roren_Nun_outfit",
-      "price": -10
-    },
-    {
-      "abr": "ローレン古式ショットガン",
-      "category": "遠隔",
-      "defname": "Roren_OldShotgun",
-      "price": -10
-    },
-    {
-      "abr": "ローレン古式ショットガン(聖別)",
-      "category": "遠隔",
-      "defname": "Roren_Consecratio_OldShotgun",
-      "price": -10
-    },
-    {
-      "abr": "ローレン古式ピストル",
-      "category": "遠隔",
-      "defname": "Roren_OldPistol",
-      "price": -10
-    },
-    {
-      "abr": "ローレン古式ピストル(聖別)",
-      "category": "遠隔",
-      "defname": "Roren_Consecratio_OldPistol",
-      "price": -10
-    },
-    {
-      "abr": "ローレン古式マークスマンライフル",
-      "category": "遠隔",
-      "defname": "Roren_OldMarksmanRifle",
-      "price": -10
-    },
-    {
-      "abr": "ローレン古式マークスマンライフル(聖別)",
-      "category": "遠隔",
-      "defname": "Roren_Consecratio_OldMarksmanRifle",
-      "price": -10
-    },
-    {
-      "abr": "ローレン古式ライフル",
-      "category": "遠隔",
-      "defname": "Roren_OldRifle",
-      "price": -10
-    },
-    {
-      "abr": "ローレン古式ライフル(聖別)",
-      "category": "遠隔",
-      "defname": "Roren_Consecratio_OldRifle",
-      "price": -10
-    },
-    {
-      "abr": "ローレン将校コート",
-      "category": "装甲化",
-      "defname": "Roren_Officer_Coat",
-      "price": -10
-    },
-    {
-      "abr": "ローレン将校制服",
-      "category": "装甲化",
-      "defname": "Roren_Officer_Outfit",
-      "price": -10
-    },
-    {
-      "abr": "ローレン将校帽",
-      "category": "装甲化",
-      "defname": "Roren_OfficerCap",
-      "price": -10
-    },
-    {
-      "abr": "ローレン歩兵アーマー",
-      "category": "装甲化",
-      "defname": "Roren_Infantryarmor",
-      "price": -10
-    },
-    {
-      "abr": "ローレン歩兵コート",
-      "category": "装甲化",
-      "defname": "Roren_Infantry_Coat",
-      "price": -10
-    },
-    {
-      "abr": "ローレン歩兵ヘルム",
-      "category": "装甲化",
-      "defname": "Roren_InfantryHelm",
-      "price": -10
-    },
-    {
-      "abr": "ローレン歩兵ヘルム-ガスマスク",
-      "category": "装甲化",
-      "defname": "Roren_InfantryHelmGasmask",
-      "price": -10
-    },
-    {
-      "abr": "ローレン歩兵ポンチョ",
-      "category": "上着",
-      "defname": "Roren_Infantry_Poncho",
-      "price": -10
-    },
-    {
-      "abr": "ローレン歩兵制服",
-      "category": "下着",
-      "defname": "Roren_Infantry_outfit",
-      "price": -10
-    },
-    {
-      "abr": "ローレン砲撃支援パワーアーマー",
-      "category": "装甲化",
-      "defname": "Roren_BombardPoweredArmor",
-      "price": -10
-    },
-    {
-      "abr": "ローレン葬儀帽",
-      "category": "帽子",
-      "defname": "Roren_FuneralHat",
-      "price": -10
-    },
-    {
-      "abr": "ローレン葬儀服",
-      "category": "下着",
-      "defname": "Roren_Funeral_outfit",
-      "price": -10
-    },
-    {
-      "abr": "ローレン衛生兵制服",
-      "category": "下着",
-      "defname": "Roren_Medic_outfit",
-      "price": -10
-    },
-    {
-      "abr": "ローレンシア203mm野砲",
-      "category": "防衛",
-      "defname": "Roren_Turret_203mm",
-      "price": -10
-    },
-    {
-      "abr": "ローレンシア57mm機関砲",
-      "category": "防衛",
-      "defname": "Roren_Turret_57mm",
-      "price": -10
-    },
-    {
-      "abr": "ローレンシアクロス",
-      "category": "織物",
-      "defname": "Roren_Cloth",
-      "price": 5
-    },
-    {
-      "abr": "ローレンシア聖水",
-      "category": "その他",
-      "defname": "Roren_Holy_Water",
-      "price": -10
-    },
-    {
-      "abr": "ローレンの肉",
-      "category": "生肉",
-      "defname": "Meat_Alien_Roren",
-      "price": -10
-    },
-    {
-      "abr": "ローレン祭壇",
-      "category": "生産物",
-      "defname": "Roren_Altar",
-      "price": -10
-    },
-    {
       "abr": "大きなドアマット(橙)",
       "category": "家具",
       "defname": "LT_DoorMatBigOrange",
@@ -12586,12 +11008,6 @@
       "abr": "大きなドアマット(青緑)",
       "category": "家具",
       "defname": "LT_DoorMatBigTeal",
-      "price": -10
-    },
-    {
-      "abr": "古代のコンクリート製壁",
-      "category": "その他",
-      "defname": "AncientConcreteBarrier",
       "price": -10
     },
     {
@@ -12829,33 +11245,9 @@
       "price": -10
     },
     {
-      "abr": "ドア",
-      "category": "その他",
-      "defname": "Door",
-      "price": -10
-    },
-    {
-      "abr": "自動ドア",
-      "category": "その他",
-      "defname": "Autodoor",
-      "price": -10
-    },
-    {
       "abr": "家畜用出入口",
       "category": "その他",
       "defname": "AnimalFlap",
-      "price": -10
-    },
-    {
-      "abr": "華麗なドア",
-      "category": "その他",
-      "defname": "OrnateDoor",
-      "price": -10
-    },
-    {
-      "abr": "壁",
-      "category": "その他",
-      "defname": "Wall",
       "price": -10
     },
     {
@@ -13207,12 +11599,6 @@
       "price": -10
     },
     {
-      "abr": "セキュリティドア",
-      "category": "その他",
-      "defname": "SecurityDoor",
-      "price": -10
-    },
-    {
       "abr": "バイオフェライト発電機",
       "category": "その他",
       "defname": "BioferriteGenerator",
@@ -13453,12 +11839,6 @@
       "price": -10
     },
     {
-      "abr": "鉄扉",
-      "category": "その他",
-      "defname": "WA_Gate_IronGate",
-      "price": -10
-    },
-    {
       "abr": "襖-曙",
       "category": "その他",
       "defname": "WA_Fusuma01_Akebono",
@@ -13525,472 +11905,1396 @@
       "price": -10
     },
     {
+      "abr": "k.a.s.i.e(クーリン)",
+      "category": "強化",
+      "defname": "Kurin_KASIE",
+      "price": -10
+    },
+    {
+      "abr": "キミリ",
+      "category": "Animal",
+      "defname": "Kimiri",
+      "price": -10
+    },
+    {
+      "abr": "キミリカタナ",
+      "category": "近接",
+      "defname": "Kimiri_MeleeWeapon_Katana",
+      "price": -10
+    },
+    {
+      "abr": "クーリン",
+      "category": "Animal",
+      "defname": "Kurin",
+      "price": -10
+    },
+    {
+      "abr": "クーリンtシャツ",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_T_Shirt",
+      "price": -10
+    },
+    {
+      "abr": "クーリンアーマードゴシックドレス",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_OnSkin_Armored_Gothic_Dress",
+      "price": -10
+    },
+    {
+      "abr": "クーリンアサルトショットガン",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Assault_Shotgun",
+      "price": -10
+    },
+    {
+      "abr": "クーリンアサルトライフル",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Assault_Rifle",
+      "price": -10
+    },
+    {
+      "abr": "クーリンインナースーツ",
+      "category": "肌着",
+      "defname": "Kurin_Underwear_Suit",
+      "price": -10
+    },
+    {
+      "abr": "クーリンウインターハット",
+      "category": "帽子",
+      "defname": "Kurin_Overhead_Winter_Hat",
+      "price": -10
+    },
+    {
+      "abr": "クーリンエネルギーマークスマンライフル",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Energy_Marksman_Rifle",
+      "price": -10
+    },
+    {
+      "abr": "クーリンエネルギーライフル",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Energy_Rifle",
+      "price": -10
+    },
+    {
+      "abr": "クーリンエラディケーター",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Eradicator",
+      "price": -10
+    },
+    {
+      "abr": "クーリンオープンショルダーニット",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Open_Shoulder_Knit",
+      "price": -10
+    },
+    {
+      "abr": "クーリンオープンニット",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Open_Back_Knit",
+      "price": -10
+    },
+    {
+      "abr": "クーリンカーディガン",
+      "category": "上着",
+      "defname": "Kurin_Shell_Cardigan",
+      "price": -10
+    },
+    {
+      "abr": "クーリンカービン",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Carbine",
+      "price": -10
+    },
+    {
+      "abr": "クーリンガウスライフル",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Gauss_Rifle",
+      "price": -10
+    },
+    {
+      "abr": "クーリンカジュアルシャツ",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Casual_Wear",
+      "price": 315
+    },
+    {
+      "abr": "クーリンカタナ",
+      "category": "近接",
+      "defname": "Kurin_MeleeWeapon_Longsword",
+      "price": -10
+    },
+    {
+      "abr": "クーリンキツネヘアピン",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_Overhead_Cute_Hair_Pin",
+      "price": -10
+    },
+    {
+      "abr": "クーリンキュートドレス",
+      "category": "サイフォーカス",
+      "defname": "Kurin_OnSkin_Cute_Dress",
+      "price": -10
+    },
+    {
+      "abr": "クーリングレネードランチャー",
+      "category": "グレネード",
+      "defname": "Kurin_Gun_Grenade_Launcher",
+      "price": -10
+    },
+    {
+      "abr": "クーリンゴーグル",
+      "category": "帽子",
+      "defname": "Kurin_Overhead_Goggles",
+      "price": -10
+    },
+    {
+      "abr": "クーリンゴシックドレス",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_OnSkin_Gothic_Dress",
+      "price": -10
+    },
+    {
+      "abr": "クーリンサイマスターコート",
+      "category": "サイフォーカス",
+      "defname": "Kurin_Shell_Psymaster_Coat",
+      "price": -10
+    },
+    {
+      "abr": "クーリンサイマスタースーツ",
+      "category": "サイフォーカス",
+      "defname": "Kurin_OnSkin_Psymaster_Suit",
+      "price": -10
+    },
+    {
+      "abr": "クーリンサイマスターヘッドギア",
+      "category": "サイフォーカス",
+      "defname": "Kurin_Overhead_Psymaster_Headgear",
+      "price": -10
+    },
+    {
+      "abr": "クーリンサマーハット",
+      "category": "帽子",
+      "defname": "Kurin_Overhead_Summer_Hat",
+      "price": -10
+    },
+    {
+      "abr": "クーリンジャンプスーツ",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Work_Jumpsuit",
+      "price": -10
+    },
+    {
+      "abr": "クーリンショートジャンプスーツ",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Short_Jumpsuit",
+      "price": -10
+    },
+    {
+      "abr": "クーリンショートパンツ",
+      "category": "下衣",
+      "defname": "Kurin_Legs_Shorts",
+      "price": -10
+    },
+    {
+      "abr": "クーリンシンプルドレス",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_OnSkin_Traditional_Simple_Dress",
+      "price": -10
+    },
+    {
+      "abr": "クーリンスカート",
+      "category": "下衣",
+      "defname": "Kurin_Legs_Skirt",
+      "price": -10
+    },
+    {
+      "abr": "クーリンスカーフ",
+      "category": "着物",
+      "defname": "Kurin_Middle_Scarf",
+      "price": -10
+    },
+    {
+      "abr": "クーリンスタンガン",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Stun_Gun",
+      "price": -10
+    },
+    {
+      "abr": "クーリンストッキング(ガーター)",
+      "category": "ストッキング",
+      "defname": "Kurin_Stockings_Garterbelt",
+      "price": -10
+    },
+    {
+      "abr": "クーリンストッキング(白)",
+      "category": "ストッキング",
+      "defname": "Kurin_Stockings_White",
+      "price": -10
+    },
+    {
+      "abr": "クーリンストッキング(縞)",
+      "category": "ストッキング",
+      "defname": "Kurin_Stockings_Striped",
+      "price": -10
+    },
+    {
+      "abr": "クーリンストッキング(茶)",
+      "category": "ストッキング",
+      "defname": "Kurin_Stockings_Brown",
+      "price": -10
+    },
+    {
+      "abr": "クーリンスナイパーライフル",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Sniper_Rifle",
+      "price": -10
+    },
+    {
+      "abr": "クーリンダウンジャケット",
+      "category": "上着",
+      "defname": "Kurin_Shell_Winter_Padding",
+      "price": -10
+    },
+    {
+      "abr": "クーリンタクティカルアーマー",
+      "category": "装甲化",
+      "defname": "Kurin_Tactical_Armor",
+      "price": -10
+    },
+    {
+      "abr": "クーリンタクティカルベスト",
+      "category": "装甲化",
+      "defname": "Kurin_Middle_Tactical_Vest",
+      "price": 650
+    },
+    {
+      "abr": "クーリンタクティカルヘルメット",
+      "category": "装甲化",
+      "defname": "Kurin_Tactical_Armor_Helmet",
+      "price": 1575
+    },
+    {
+      "abr": "クーリンテスラライフル",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Tesla_Rifle",
+      "price": 3092
+    },
+    {
+      "abr": "クーリンパーカー",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Hoodie",
+      "price": 269
+    },
+    {
+      "abr": "クーリンパジャマ",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Pajama",
+      "price": 236
+    },
+    {
+      "abr": "クーリンバックパック",
+      "category": "ユーティリティ",
+      "defname": "Kurin_Backpack_Civil",
+      "price": 203
+    },
+    {
+      "abr": "クーリンバトルライフル",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Battle_Rifle",
+      "price": 975
+    },
+    {
+      "abr": "クーリンパンスト",
+      "category": "ストッキング",
+      "defname": "Kurin_Stockings_Pantyhose",
+      "price": 101
+    },
+    {
+      "abr": "クーリンパンツ",
+      "category": "下衣",
+      "defname": "Kurin_Legs_Pants",
+      "price": 191
+    },
+    {
+      "abr": "クーリンビキニアーマー",
+      "category": "装甲化",
+      "defname": "Kurin_OnSkin_Bikini_Armor",
+      "price": 1442
+    },
+    {
+      "abr": "クーリンビキニアーマーヘッドギア",
+      "category": "装甲化",
+      "defname": "Kurin_Overhead_Bikini_Armor_Headgear",
+      "price": 833
+    },
+    {
+      "abr": "クーリンピストル",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Pistol",
+      "price": 309
+    },
+    {
+      "abr": "クーリンファンシードレス",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_OnSkin_Traditional_Fancy_Dress",
+      "price": 400
+    },
+    {
+      "abr": "クーリンブラウス",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Shirt",
+      "price": 191
+    },
+    {
+      "abr": "クーリンブラックドレス",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_OnSkin_Seductive_Black_Dress",
+      "price": 525
+    },
+    {
+      "abr": "クーリンヘアピン",
+      "category": "帽子",
+      "defname": "Kurin_Overhead_Casual_Hair_Pin",
+      "price": 350
+    },
+    {
+      "abr": "クーリンヘッドドレス",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_Overhead_Gothic_Hair_Pin",
+      "price": 350
+    },
+    {
+      "abr": "クーリンホットパンツ",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Hot_Pants",
+      "price": 169
+    },
+    {
+      "abr": "クーリンボディアーマー",
+      "category": "装甲化",
+      "defname": "Kurin_Middle_Body_Armor",
+      "price": 392
+    },
+    {
+      "abr": "クーリンホワイトドレス",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_OnSkin_Seductive_White_Dress",
+      "price": 525
+    },
+    {
+      "abr": "クーリンメカマスターアーマー",
+      "category": "装甲化",
+      "defname": "Kurin_Mechmaster_Armor",
+      "price": 12067
+    },
+    {
+      "abr": "クーリンメカマスターヘルメット",
+      "category": "装甲化",
+      "defname": "Kurin_Mechmaster_Armor_Helmet",
+      "price": 7242
+    },
+    {
+      "abr": "クーリンラグジュアリードレス",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_OnSkin_Traditional_Luxury_Dress",
+      "price": 400
+    },
+    {
+      "abr": "クーリンロケットランチャー",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Rocket_Launcher",
+      "price": 1758
+    },
+    {
+      "abr": "クーリンロングコート",
+      "category": "上着",
+      "defname": "Kurin_Shell_Duster",
+      "price": 315
+    },
+    {
+      "abr": "クーリンロングスカート",
+      "category": "下衣",
+      "defname": "Kurin_Legs_Long_Skirt",
+      "price": 191
+    },
+    {
+      "abr": "クーリンワンピース",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_OnSkin_One_Piece_Dress",
+      "price": 236
+    },
+    {
+      "abr": "クーリン下着(白)",
+      "category": "肌着",
+      "defname": "Kurin_Underwear_White",
+      "price": 101
+    },
+    {
+      "abr": "クーリン下着(縞)",
+      "category": "肌着",
+      "defname": "Kurin_Underwear_Striped",
+      "price": 101
+    },
+    {
+      "abr": "クーリン下着(赤)",
+      "category": "肌着",
+      "defname": "Kurin_Underwear_Red",
+      "price": 101
+    },
+    {
+      "abr": "クーリン下着(魅)",
+      "category": "肌着",
+      "defname": "Kurin_Underwear_Slim",
+      "price": 101
+    },
+    {
+      "abr": "クーリン下着(黒)",
+      "category": "肌着",
+      "defname": "Kurin_Underwear_Black",
+      "price": 101
+    },
+    {
+      "abr": "クーリン伝統的なコート",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_Shell_Traditional_Coat",
+      "price": 550
+    },
+    {
+      "abr": "クーリン伝統的な髪飾り",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_Overhead_Traditional_Hair_Pin",
+      "price": 173
+    },
+    {
+      "abr": "クーリン作業用バックパック",
+      "category": "ユーティリティ",
+      "defname": "Kurin_Backpack_Worker",
+      "price": 392
+    },
+    {
+      "abr": "クーリン修道帽",
+      "category": "帽子",
+      "defname": "Kurin_Overhead_Nun_Headpiece",
+      "price": 350
+    },
+    {
+      "abr": "クーリン修道服",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Nun_Dress",
+      "price": 400
+    },
+    {
+      "abr": "クーリン儀式剣",
+      "category": "近接",
+      "defname": "Kurin_MeleeWeapon_Ceremonial_Sword",
+      "price": 767
+    },
+    {
+      "abr": "クーリン子供用tシャツ",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_T_Shirt_Child",
+      "price": 110
+    },
+    {
+      "abr": "クーリン子供用ウインターハット",
+      "category": "帽子",
+      "defname": "Kurin_Overhead_Winter_Hat_Child",
+      "price": 65
+    },
+    {
+      "abr": "クーリン子供用オープンショルダーニット",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Open_Shoulder_Knit_Child",
+      "price": 148
+    },
+    {
+      "abr": "クーリン子供用カーディガン",
+      "category": "上着",
+      "defname": "Kurin_Shell_Cardigan_Child",
+      "price": 181
+    },
+    {
+      "abr": "クーリン子供用キツネヘアピン",
+      "category": "サイフォーカス",
+      "defname": "Kurin_Overhead_Cute_Hair_Pin_Child",
+      "price": 218
+    },
+    {
+      "abr": "クーリン子供用サマーハット",
+      "category": "帽子",
+      "defname": "Kurin_Overhead_Summer_Hat_Child",
+      "price": 65
+    },
+    {
+      "abr": "クーリン子供用ジャンプスーツ",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Work_Jumpsuit_Child",
+      "price": 323
+    },
+    {
+      "abr": "クーリン子供用ショートパンツ",
+      "category": "下衣",
+      "defname": "Kurin_Legs_Shorts_Child",
+      "price": 95
+    },
+    {
+      "abr": "クーリン子供用シンプルドレス",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Traditional_Simple_Dress_Child",
+      "price": 273
+    },
+    {
+      "abr": "クーリン子供用スカート",
+      "category": "下衣",
+      "defname": "Kurin_Legs_Skirt_Child",
+      "price": 95
+    },
+    {
+      "abr": "クーリン子供用ストッキング(白)",
+      "category": "ストッキング",
+      "defname": "Kurin_Stockings_White_Child",
+      "price": 61
+    },
+    {
+      "abr": "クーリン子供用ストッキング(縞)",
+      "category": "ストッキング",
+      "defname": "Kurin_Stockings_Striped_Child",
+      "price": 61
+    },
+    {
+      "abr": "クーリン子供用ストッキング(茶)",
+      "category": "ストッキング",
+      "defname": "Kurin_Stockings_Brown_Child",
+      "price": 61
+    },
+    {
+      "abr": "クーリン子供用ダウンジャケット",
+      "category": "上着",
+      "defname": "Kurin_Shell_Winter_Padding_Child",
+      "price": 231
+    },
+    {
+      "abr": "クーリン子供用パーカー",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Hoodie_Child",
+      "price": 181
+    },
+    {
+      "abr": "クーリン子供用パンスト",
+      "category": "ストッキング",
+      "defname": "Kurin_Stockings_Pantyhose_Child",
+      "price": 61
+    },
+    {
+      "abr": "クーリン子供用パンツ",
+      "category": "下衣",
+      "defname": "Kurin_Legs_Pants_Child",
+      "price": 115
+    },
+    {
+      "abr": "クーリン子供用ブラウス",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_Shirt_Child",
+      "price": 110
+    },
+    {
+      "abr": "クーリン子供用ヘアピン",
+      "category": "帽子",
+      "defname": "Kurin_Overhead_Casual_Hair_Pin_Child",
+      "price": 210
+    },
+    {
+      "abr": "クーリン子供用ヘッドドレス",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_Overhead_Gothic_Hair_Pin_Child",
+      "price": 210
+    },
+    {
+      "abr": "クーリン子供用ロングコート",
+      "category": "上着",
+      "defname": "Kurin_Shell_Duster_Child",
+      "price": 197
+    },
+    {
+      "abr": "クーリン子供用ロングスカート",
+      "category": "下衣",
+      "defname": "Kurin_Legs_Long_Skirt_Child",
+      "price": 115
+    },
+    {
+      "abr": "クーリン子供用ワンピース",
+      "category": "下着",
+      "defname": "Kurin_OnSkin_One_Piece_Dress_Child",
+      "price": 148
+    },
+    {
+      "abr": "クーリン子供用下着(白)",
+      "category": "肌着",
+      "defname": "Kurin_Underwear_White_Child",
+      "price": 61
+    },
+    {
+      "abr": "クーリン子供用下着(縞)",
+      "category": "肌着",
+      "defname": "Kurin_Underwear_Striped_Child",
+      "price": 61
+    },
+    {
+      "abr": "クーリン子供用下着(赤)",
+      "category": "肌着",
+      "defname": "Kurin_Underwear_Red_Child",
+      "price": 61
+    },
+    {
+      "abr": "クーリン子供用下着(黒)",
+      "category": "肌着",
+      "defname": "Kurin_Underwear_Black_Child",
+      "price": 61
+    },
+    {
+      "abr": "クーリン子供用伝統的な髪飾り",
+      "category": "帽子",
+      "defname": "Kurin_Overhead_Traditional_Hair_Pin_Child",
+      "price": 218
+    },
+    {
+      "abr": "クーリン子供用野球帽",
+      "category": "帽子",
+      "defname": "Kurin_Overhead_Cap_Child",
+      "price": 65
+    },
+    {
+      "abr": "クーリン対物ライフル",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Anti_Materiel_Rifle",
+      "price": 1283
+    },
+    {
+      "abr": "クーリン将校帽",
+      "category": "ロイヤリティ",
+      "defname": "Kurin_Overhead_Officer_Cap",
+      "price": 240
+    },
+    {
+      "abr": "クーリン狩猟用ショットガン",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Hunting_Shotgun",
+      "price": 475
+    },
+    {
+      "abr": "クーリン苦無",
+      "category": "遠隔",
+      "defname": "Kurin_Gun_Surigum",
+      "price": 143
+    },
+    {
+      "abr": "クーリン軍服",
+      "category": "装甲化",
+      "defname": "Kurin_OnSkin_Military_Uniform",
+      "price": 1275
+    },
+    {
+      "abr": "クーリン軍用バックパック",
+      "category": "ユーティリティ",
+      "defname": "Kurin_Backpack_Military",
+      "price": 400
+    },
+    {
+      "abr": "クーリン軍用ヘルメット",
+      "category": "装甲化",
+      "defname": "Kurin_Overhead_Military_Helmet",
+      "price": 833
+    },
+    {
+      "abr": "クーリン野球帽",
+      "category": "帽子",
+      "defname": "Kurin_Overhead_Cap",
+      "price": 107
+    },
+    {
+      "abr": "クーリン防護服",
+      "category": "Special",
+      "defname": "Kurin_Middle_Hazmat_Suit",
+      "price": 1342
+    },
+    {
+      "abr": "クーリングールバック",
+      "category": "特殊品",
+      "defname": "Kurin_GhoulVac",
+      "price": -10
+    },
+    {
+      "abr": "クーリンのケーキ",
+      "category": "調理済",
+      "defname": "Kurin_Cake",
+      "price": -10
+    },
+    {
+      "abr": "クーリンバイオ燃料",
+      "category": "特殊品",
+      "defname": "Kurin_Biofuel",
+      "price": 14
+    },
+    {
+      "abr": "クーリンバッテリー",
+      "category": "特殊品",
+      "defname": "Kurin_Battery",
+      "price": 942
+    },
+    {
+      "abr": "クーリンビレット(クリソーダ)",
+      "category": "特殊品",
+      "defname": "Kurin_Billet_KuriSoda",
+      "price": 7
+    },
+    {
+      "abr": "クーリンポスター(イトヤ)",
+      "category": "クーリンポスター",
+      "defname": "Kurin_Poster_E",
+      "price": 165
+    },
+    {
+      "abr": "クーリンポスター(キミコ)",
+      "category": "クーリンポスター",
+      "defname": "Kurin_Poster_B",
+      "price": 165
+    },
+    {
+      "abr": "クーリンポスター(チヨコ)",
+      "category": "クーリンポスター",
+      "defname": "Kurin_Poster_A",
+      "price": 165
+    },
+    {
+      "abr": "クーリンポスター(ビビコ)",
+      "category": "クーリンポスター",
+      "defname": "Kurin_Poster_D",
+      "price": 165
+    },
+    {
+      "abr": "クーリンポスター(ミカミ)",
+      "category": "クーリンポスター",
+      "defname": "Kurin_Poster_C",
+      "price": 165
+    },
+    {
+      "abr": "クーリンメカノイドボックス(スマーティ)",
+      "category": "クーリンメカノイドボックス",
+      "defname": "Kurin_Box_Smarty_Servant",
+      "price": -10
+    },
+    {
+      "abr": "クーリンメカノイドボックス(スマーティ-ドリラー)",
+      "category": "クーリンメカノイドボックス",
+      "defname": "Kurin_Box_Smarty_Driller",
+      "price": -10
+    },
+    {
+      "abr": "クーリンメカノイドボックス(ピースキーパー-アセンブラー)",
+      "category": "クーリンメカノイドボックス",
+      "defname": "Kurin_Box_Peacekeeper_Assembler",
+      "price": -10
+    },
+    {
+      "abr": "クーリンメカノイドボックス(ピースキーパー-エレクター)",
+      "category": "クーリンメカノイドボックス",
+      "defname": "Kurin_Box_Peacekeeper_Erecter",
+      "price": -10
+    },
+    {
+      "abr": "クーリンメカノイドボックス(ピースキーパー-カーヴァー)",
+      "category": "クーリンメカノイドボックス",
+      "defname": "Kurin_Box_Peacekeeper_Carver",
+      "price": -10
+    },
+    {
+      "abr": "クーリンメカノイドボックス(ピースキーパー-グロウラー)",
+      "category": "クーリンメカノイドボックス",
+      "defname": "Kurin_Box_Peacekeeper_Grower",
+      "price": -10
+    },
+    {
+      "abr": "クーリンメカノイドボックス(ピースキーパー-バウンサー)",
+      "category": "クーリンメカノイドボックス",
+      "defname": "Kurin_Box_Peacekeeper_Bouncer",
+      "price": 2917
+    },
+    {
+      "abr": "クーリンライトボール",
+      "category": "その他",
+      "defname": "Kurin_Party_Ball",
+      "price": 154
+    },
+    {
+      "abr": "クーリンラウドスピーカー",
+      "category": "その他",
+      "defname": "Kurin_Party_Loudspeaker",
+      "price": 367
+    },
+    {
+      "abr": "クーリンリブートデバイス",
+      "category": "特殊品",
+      "defname": "Kurin_Rebooting_Device",
+      "price": 2017
+    },
+    {
+      "abr": "クーリン特製縄トラップ",
+      "category": "防衛",
+      "defname": "Kurin_Noose_Trap",
+      "price": 51
+    },
+    {
+      "abr": "クーリン電動ミシン",
+      "category": "生産物",
+      "defname": "Kurin_Electric_Tailoring_Bench",
+      "price": 533
+    },
+    {
+      "abr": "クリソーダ",
+      "category": "特殊品",
+      "defname": "Kurin_KuriSoda",
+      "price": 20
+    },
+    {
+      "abr": "スプーン",
+      "category": "近接",
+      "defname": "MeleeWeapon_Spoon",
+      "price": 4
+    },
+    {
+      "abr": "リリン",
+      "category": "家畜",
+      "defname": "Lilin",
+      "price": 1583
+    },
+    {
+      "abr": "リリンの毛",
+      "category": "毛",
+      "defname": "Lilin_Wool",
+      "price": 4
+    },
+    {
+      "abr": "リリンの毛",
+      "category": "毛",
+      "defname": "Lilin_Wool_PaleBrown",
+      "price": 4
+    },
+    {
+      "abr": "リリンの毛",
+      "category": "毛",
+      "defname": "Lilin_Wool_DesertSand",
+      "price": 4
+    },
+    {
+      "abr": "リリンの毛",
+      "category": "毛",
+      "defname": "Lilin_Wool_PinkBrown",
+      "price": 4
+    },
+    {
+      "abr": "リリンの毛",
+      "category": "毛",
+      "defname": "Lilin_Wool_DarkGrey",
+      "price": 4
+    },
+    {
+      "abr": "リリンの毛",
+      "category": "毛",
+      "defname": "Lilin_Wool_LightGrey",
+      "price": 4
+    },
+    {
+      "abr": "リリンの毛",
+      "category": "毛",
+      "defname": "Lilin_Wool_CreamyAddon",
+      "price": 4
+    },
+    {
+      "abr": "リリンの毛",
+      "category": "毛",
+      "defname": "Lilin_Wool_WhileAddon",
+      "price": 4
+    },
+    {
+      "abr": "リリンの革",
+      "category": "革",
+      "defname": "Lilin_Leather",
+      "price": 3
+    },
+    {
+      "abr": "リリンの革",
+      "category": "革",
+      "defname": "Lilin_Leather_PaleBrown",
+      "price": 3
+    },
+    {
+      "abr": "リリンの革",
+      "category": "革",
+      "defname": "Lilin_Leather_DesertSand",
+      "price": 3
+    },
+    {
+      "abr": "リリンの革",
+      "category": "革",
+      "defname": "Lilin_Leather_PinkBrown",
+      "price": 3
+    },
+    {
+      "abr": "リリンの革",
+      "category": "革",
+      "defname": "Lilin_Leather_DarkGrey",
+      "price": 3
+    },
+    {
+      "abr": "リリンの革",
+      "category": "革",
+      "defname": "Lilin_Leather_LightGrey",
+      "price": 3
+    },
+    {
+      "abr": "強化尻尾(キミリ)",
+      "category": "強化",
+      "defname": "Kimiri_Bionic_Tail",
+      "price": 1108
+    },
+    {
+      "abr": "強化尻尾(クーリン)",
+      "category": "強化",
+      "defname": "Kurin_Bionic_Tail",
+      "price": 942
+    },
+    {
+      "abr": "強化耳(キミリ)",
+      "category": "強化",
+      "defname": "Kimiri_Bionic_Ear",
+      "price": 1058
+    },
+    {
+      "abr": "強化耳(クーリン)",
+      "category": "強化",
+      "defname": "Kurin_Bionic_Ear",
+      "price": 1250
+    },
+    {
+      "abr": "最先端コンポーネント",
+      "category": "特殊品",
+      "defname": "Kurin_Ultra_Component",
+      "price": 2000
+    },
+    {
       "abr": "障子-組",
       "category": "その他",
       "defname": "WA_Shoji03_Combi",
-      "price": -10
+      "price": 29
     },
     {
       "abr": "障子-飾",
       "category": "その他",
       "defname": "WA_Shoji04_Deco",
-      "price": -10
+      "price": 29
     },
     {
       "abr": "大和塀",
       "category": "その他",
       "defname": "WA_Fence_Yamatobei",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "透塀",
       "category": "その他",
       "defname": "WA_Fence_Sukibei",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "築地塀",
       "category": "その他",
       "defname": "WA_Fence_Tuijibei",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "水堀",
       "category": "その他",
       "defname": "WA_Wall_WaterMoats",
-      "price": -10
+      "price": 41
     },
     {
       "abr": "空堀",
       "category": "その他",
       "defname": "WA_Wall_DryMoats",
-      "price": -10
-    },
-    {
-      "abr": "城壁",
-      "category": "その他",
-      "defname": "WA_Wall_Kawara",
-      "price": -10
-    },
-    {
-      "abr": "城壁(出窓)",
-      "category": "その他",
-      "defname": "WA_Wall_Demado",
-      "price": -10
+      "price": 23
     },
     {
       "abr": "石垣",
       "category": "その他",
       "defname": "WA_Wall_StoneWall",
-      "price": -10
+      "price": 26
     },
     {
       "abr": "階段(3マス)",
       "category": "その他",
       "defname": "WA_Step",
-      "price": -10
+      "price": 51
     },
     {
       "abr": "階段(2マス)",
       "category": "その他",
       "defname": "WA_StepB",
-      "price": -10
-    },
-    {
-      "abr": "真壁(白)",
-      "category": "その他",
-      "defname": "WA_Wall_White",
-      "price": -10
-    },
-    {
-      "abr": "真壁(桜)",
-      "category": "その他",
-      "defname": "WA_Wall_Pink",
-      "price": -10
-    },
-    {
-      "abr": "真壁(梔子)",
-      "category": "その他",
-      "defname": "WA_Wall_Yellow",
-      "price": -10
-    },
-    {
-      "abr": "真壁(鶯)",
-      "category": "その他",
-      "defname": "WA_Wall_Green",
-      "price": -10
-    },
-    {
-      "abr": "真壁(藍)",
-      "category": "その他",
-      "defname": "WA_Wall_Blue",
-      "price": -10
-    },
-    {
-      "abr": "真壁(薄墨)",
-      "category": "その他",
-      "defname": "WA_Wall_Gray",
-      "price": -10
-    },
-    {
-      "abr": "真壁(鈍)",
-      "category": "その他",
-      "defname": "WA_Wall_Black",
-      "price": -10
+      "price": 35
     },
     {
       "abr": "天秤鞴",
       "category": "その他",
       "defname": "TenbinBellows",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "水車鞴",
       "category": "その他",
       "defname": "TA_WatermillBellows",
-      "price": -10
+      "price": 717
     },
     {
       "abr": "伏せ焼き場",
       "category": "その他",
       "defname": "RPC_CharcoalPit",
-      "price": -10
+      "price": 73
     },
     {
       "abr": "たたら炉",
       "category": "その他",
       "defname": "TataraFurnace",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "加工用水車",
       "category": "その他",
       "defname": "ProductionWaterMill",
-      "price": -10
+      "price": 675
     },
     {
       "abr": "排水管",
       "category": "その他",
       "defname": "sewagePipeStuff",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "送風管",
       "category": "その他",
       "defname": "airPipe",
-      "price": -10
-    },
-    {
-      "abr": "仕切りドア",
-      "category": "その他",
-      "defname": "ToiletStallDoor",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "原始的な井戸",
       "category": "その他",
       "defname": "PrimitiveWell",
-      "price": -10
+      "price": 95
     },
     {
       "abr": "焼却穴",
       "category": "その他",
       "defname": "BurnPit",
-      "price": -10
+      "price": 65
     },
     {
       "abr": "水泳プール",
       "category": "その他",
       "defname": "DBHSwimmingPool",
-      "price": -10
+      "price": 1617
     },
     {
       "abr": "井戸",
       "category": "その他",
       "defname": "WaterWellInlet",
-      "price": -10
+      "price": 248
     },
     {
       "abr": "井戸(深層)",
       "category": "その他",
       "defname": "DeepWaterWellInlet",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "給水塔",
       "category": "その他",
       "defname": "WaterTowerS",
-      "price": -10
+      "price": 258
     },
     {
       "abr": "給水塔(大型)",
       "category": "その他",
       "defname": "WaterTowerL",
-      "price": -10
+      "price": 717
     },
     {
       "abr": "風力ポンプ",
       "category": "その他",
       "defname": "WindPump",
-      "price": -10
+      "price": 358
     },
     {
       "abr": "給水ポンプ",
       "category": "その他",
       "defname": "PumpingStation",
-      "price": -10
+      "price": 567
     },
     {
       "abr": "下水排水口",
       "category": "その他",
       "defname": "SewageOutlet",
-      "price": -10
+      "price": 176
     },
     {
       "abr": "浄化槽",
       "category": "その他",
       "defname": "SewageSepticTank",
-      "price": -10
+      "price": 658
     },
     {
       "abr": "下水処理施設",
       "category": "その他",
       "defname": "SewageTreatment",
-      "price": -10
+      "price": 1725
     },
     {
       "abr": "上水処理施設",
       "category": "その他",
       "defname": "WaterTreatment",
-      "price": -10
+      "price": 1075
     },
     {
       "abr": "太陽熱温水器",
       "category": "その他",
       "defname": "SolarHeater",
-      "price": -10
+      "price": 244
     },
     {
       "abr": "地熱ヒーター",
       "category": "その他",
       "defname": "GeothermHeater",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "温泉",
       "category": "その他",
       "defname": "StandaloneHotSpring",
-      "price": -10
+      "price": 1775
     },
     {
       "abr": "街路灯",
       "category": "その他",
       "defname": "RGK_Street_Lamp_L",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "街路灯(電気)",
       "category": "その他",
       "defname": "RGK_Street_Lamp",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "吊りランプ柱",
       "category": "その他",
       "defname": "RGK_Street_Lamp_Seven",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "吊りランプ柱(電気)",
       "category": "その他",
       "defname": "RGK_Street_Lamp_SevenE",
-      "price": -10
-    },
-    {
-      "abr": "壁",
-      "category": "その他",
-      "defname": "RGK_Wall",
-      "price": -10
-    },
-    {
-      "abr": "壁",
-      "category": "その他",
-      "defname": "GL_Wall",
-      "price": -10
-    },
-    {
-      "abr": "壁（換気口付)",
-      "category": "その他",
-      "defname": "RGK_VentWall",
-      "price": -10
-    },
-    {
-      "abr": "壁（換気口付)",
-      "category": "その他",
-      "defname": "GL_VentWall",
-      "price": -10
-    },
-    {
-      "abr": "壁（窓付)",
-      "category": "その他",
-      "defname": "RGK_WindowWall",
-      "price": -10
-    },
-    {
-      "abr": "壁（窓付)",
-      "category": "その他",
-      "defname": "GL_WindowWall",
-      "price": -10
+      "price": 142
     },
     {
       "abr": "フェンス",
       "category": "その他",
       "defname": "RGK_WoodFence",
-      "price": -10
-    },
-    {
-      "abr": "フェンスドア",
-      "category": "その他",
-      "defname": "RGK_Door",
-      "price": -10
-    },
-    {
-      "abr": "壁（花の装飾付)",
-      "category": "その他",
-      "defname": "GL_FlowerWall",
-      "price": -10
-    },
-    {
-      "abr": "アンティークドア",
-      "category": "その他",
-      "defname": "RGK_DoorOld",
-      "price": -10
-    },
-    {
-      "abr": "自動ドア",
-      "category": "その他",
-      "defname": "RGK_AutodoorOld",
-      "price": -10
-    },
-    {
-      "abr": "ドアフレーム",
-      "category": "その他",
-      "defname": "GL_DoorFrame",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "縁石(木)",
       "category": "その他",
       "defname": "GL_BoundaryWood",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "縁石(石)",
       "category": "その他",
       "defname": "GL_BoundaryStone",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "縁石l字(木)",
       "category": "その他",
       "defname": "GL_BoundaryWoodCorner",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "縁石l字(石)",
       "category": "その他",
       "defname": "GL_BoundaryStoneCorner",
-      "price": -10
-    },
-    {
-      "abr": "マナ伝達チューブ",
-      "category": "その他",
-      "defname": "VV_ManaTransferTube",
-      "price": -10
-    },
-    {
-      "abr": "マナ伝達チューブ(埋設)",
-      "category": "その他",
-      "defname": "VV_HiddenManaTransferTube",
-      "price": -10
-    },
-    {
-      "abr": "スカイウィードボックス",
-      "category": "その他",
-      "defname": "VV_SkyweedBox",
-      "price": -10
-    },
-    {
-      "abr": "魔法植物育苗槽",
-      "category": "その他",
-      "defname": "VV_ArcanePlantFarm",
-      "price": -10
-    },
-    {
-      "abr": "ビビクリームの壁",
-      "category": "その他",
-      "defname": "VV_ViviCreamWall",
-      "price": -10
-    },
-    {
-      "abr": "滑らかなビビクリームの壁",
-      "category": "その他",
-      "defname": "VV_SmoothedViviCreamWall",
-      "price": -10
-    },
-    {
-      "abr": "ビビハニカムの壁",
-      "category": "その他",
-      "defname": "VV_ViviHoneycombWall",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "狐刃蝶召喚陣",
       "category": "その他",
       "defname": "Miho_Butterfly_Portal_Dummy",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "狐刃蝶召喚陣",
       "category": "その他",
       "defname": "Miho_Butterfly_Portal",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "狐猟鷹召喚陣",
       "category": "その他",
       "defname": "Miho_Hawk_Portal",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "狐刃蝶召喚陣",
       "category": "その他",
       "defname": "Miho_ButterflyHaze_Portal",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "紫狐召喚陣",
       "category": "その他",
       "defname": "Miho_Fox_Portal",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "狐嫌体召喚陣",
       "category": "その他",
       "defname": "Miho_Thrumbo_Portal",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "ミホメカニック工場",
       "category": "その他",
       "defname": "Miho_MechFactory",
-      "price": -10
+      "price": 1892
+    },
+    {
+      "abr": "クーリン簡易造成機",
+      "category": "その他",
+      "defname": "Kurin_Fabricator_Simple",
+      "price": 1725
+    },
+    {
+      "abr": "クーリン素材造成機",
+      "category": "その他",
+      "defname": "Kurin_Fabricator_Material",
+      "price": 4642
+    },
+    {
+      "abr": "クーリン先進造成機",
+      "category": "その他",
+      "defname": "Kurin_Fabricator_Advanced",
+      "price": 4442
+    },
+    {
+      "abr": "クーリン充電ステーション",
+      "category": "その他",
+      "defname": "Kurin_Charging_Station",
+      "price": 1308
+    },
+    {
+      "abr": "クーリン食品調理機",
+      "category": "その他",
+      "defname": "Kurin_Food_Apparatus",
+      "price": 1125
+    },
+    {
+      "abr": "クーリン食肉変換機",
+      "category": "その他",
+      "defname": "Kurin_Fabricator_MeatConverter",
+      "price": 1883
+    },
+    {
+      "abr": "クーリン屠殺機",
+      "category": "その他",
+      "defname": "Kurin_Fabricator_BodyDevourer",
+      "price": 2250
+    },
+    {
+      "abr": "クーリンホッパー",
+      "category": "その他",
+      "defname": "Kurin_Fabricator_Hopper",
+      "price": 49
+    },
+    {
+      "abr": "クーリン艦船体骨格",
+      "category": "その他",
+      "defname": "Kurin_Ship_Beam",
+      "price": 1775
+    },
+    {
+      "abr": "クーリン艦耐圧冬眠カプセル",
+      "category": "その他",
+      "defname": "Kurin_Ship_Cryptosleep_Casket",
+      "price": 1725
+    },
+    {
+      "abr": "クーリン艦防衛タレット",
+      "category": "その他",
+      "defname": "Kurin_Ship_Turret",
+      "price": 7817
+    },
+    {
+      "abr": "クーリン艦メインコンピューター",
+      "category": "その他",
+      "defname": "Kurin_Ship_Computer",
+      "price": 11517
+    },
+    {
+      "abr": "クーリン艦反応炉",
+      "category": "その他",
+      "defname": "Kurin_Ship_Reactor",
+      "price": 26967
+    },
+    {
+      "abr": "クーリン艦メインエンジン",
+      "category": "その他",
+      "defname": "Kurin_Ship_Engine",
+      "price": 4592
+    },
+    {
+      "abr": "クーリン艦apu",
+      "category": "その他",
+      "defname": "Kurin_Ship_APU",
+      "price": 7742
+    },
+    {
+      "abr": "クーリン艦mtm",
+      "category": "その他",
+      "defname": "Kurin_Ship_MTM",
+      "price": 4050
+    },
+    {
+      "abr": "クーリン艦通信モジュール",
+      "category": "その他",
+      "defname": "Kurin_Ship_Communication_Module",
+      "price": 3275
+    },
+    {
+      "abr": "クーリン艦貨物コンテナ",
+      "category": "その他",
+      "defname": "Kurin_Ship_Storage_Module",
+      "price": 1200
+    },
+    {
+      "abr": "クーリン艦蓄電装置",
+      "category": "その他",
+      "defname": "Kurin_Ship_Capacitor_Array",
+      "price": 2133
     },
     {
       "abr": "ユラン封印石",
       "category": "その他",
       "defname": "YR_sealingspell_Base",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "▲",
@@ -14008,13 +13312,13 @@
       "abr": "呪術",
       "category": "その他",
       "defname": "YR_Bunker_Ready",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "囮",
       "category": "その他",
       "defname": "YR_DecoyTurret",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "◈",
@@ -14050,31 +13354,19 @@
       "abr": "ハムスターホイール発電機",
       "category": "その他",
       "defname": "RK_HamsterWheelGenerator",
-      "price": -10
-    },
-    {
-      "abr": "風車",
-      "category": "その他",
-      "defname": "RL_Windmill",
-      "price": -10
-    },
-    {
-      "abr": "風車（発電）",
-      "category": "その他",
-      "defname": "RL_Windmill_Power",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "通天鼎",
       "category": "その他",
       "defname": "Axolotl_AlchemyStove",
-      "price": -10
+      "price": 6108
     },
     {
       "abr": "返魂炉",
       "category": "その他",
       "defname": "Axolotl_DeputyStove",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "hotspring",
@@ -14089,17 +13381,11 @@
       "price": -10
     },
     {
-      "abr": "電力線",
-      "category": "その他",
-      "defname": "KCSG_PowerConduit",
-      "price": 3
-    },
-    {
       "abr": "zombrella",
       "category": "その他",
       "defname": "Zombrella",
-      "price": 3333
+      "price": -10
     }
   ],
-  "total": 2350
+  "total": 2231
 }

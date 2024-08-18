@@ -11,7 +11,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": "Updates the current list of active viewers.",
-    "name": "全てのユーザーの状態を更新する",
+    "name": "視聴者を更新する",
     "usage": "!refreshviewers",
     "userLevel": "Moderator",
     "shortcut": false,
@@ -47,7 +47,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": "Gives eveyrone coins.",
-    "name": "全てのユーザーにコインを配る",
+    "name": "全てのコインを渡す",
     "usage": "!giveallcoins <coins>",
     "userLevel": "Moderator",
     "shortcut": false,
@@ -65,7 +65,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": "Gives a viewer coins.",
-    "name": "特定のユーザーにコインを配る",
+    "name": "コインを渡す",
     "usage": "!givecoins <viewer> <coins>",
     "userLevel": "Moderator",
     "shortcut": false,
@@ -83,7 +83,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": "Shows the balance of a given user.",
-    "name": "特定のユーザーを確認する",
+    "name": "ユーザーを確認する",
     "usage": "!checkuser <viewer>",
     "userLevel": "Moderator",
     "shortcut": false,
@@ -101,7 +101,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": "Sets the current karma for a given user.",
-    "name": "カルマレベルを設定する",
+    "name": "カルマを設定する",
     "usage": "!setkarma <viewer> <karma>",
     "userLevel": "Moderator",
     "shortcut": false,
@@ -119,7 +119,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": "Toggles coin generation.",
-    "name": "コインの使用をONOFFの切り替えをする",
+    "name": "コインを切り替える",
     "usage": "!togglecoins",
     "userLevel": "Moderator",
     "shortcut": false,
@@ -137,7 +137,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": "Shows your current balance, karma, and optionally, the amount of coins earned per cycle.",
-    "name": "コインやカルマの状態を確認する",
+    "name": "バランスを確認する",
     "usage": "!bal",
     "userLevel": "Anyone",
     "shortcut": false,
@@ -173,7 +173,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "ストア一覧",
+    "name": "購入リスト",
     "usage": "!purchaselist",
     "userLevel": "Anyone",
     "shortcut": false,
@@ -191,7 +191,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": "Gives a viewer some of your coins.",
-    "name": "特定のユーザーにコイン譲渡する",
+    "name": "コインを贈る",
     "usage": "!giftcoins <viewer> <amount>",
     "userLevel": "Anyone",
     "shortcut": false,
@@ -227,7 +227,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "MOD（TwitchToolkit）の情報",
+    "name": "MOD情報",
     "usage": "!modinfo",
     "userLevel": "Anyone",
     "shortcut": false,
@@ -245,7 +245,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "購入コマンド",
+    "name": "購入",
     "usage": "!buy",
     "userLevel": "Anyone",
     "shortcut": false,
@@ -263,7 +263,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": "Lets you wager coins to level up a skill of your choosing.",
-    "name": "スキルのレベルアップコマンド",
+    "name": "スキルレベル",
     "usage": "!levelskill <skill> <coins>",
     "userLevel": "Anyone",
     "shortcut": true,
@@ -281,7 +281,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "MOD（TwitchToolkit）の設定",
+    "name": "MODの設定",
     "usage": "!modsettings",
     "userLevel": "Anyone",
     "shortcut": false,
@@ -299,7 +299,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "指示コマンド",
+    "name": "指示",
     "usage": "!instructions",
     "userLevel": "Anyone",
     "shortcut": false,
@@ -317,7 +317,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "全てのコマンドを確認する",
+    "name": "全てのコマンド",
     "usage": "!allcommands",
     "userLevel": "Anyone",
     "shortcut": false,
@@ -335,47 +335,11 @@
       "mod": "Twitch Toolkit"
     },
     "description": "Shows you the complete list of installed mods.",
-    "name": "使用MOD一覧を見る",
+    "name": "インストール済みのMOD",
     "usage": "!installedmods",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "InstalledMods"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Viewer class",
-    "usage": "!mypawnclass",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnClass"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Ability level",
-    "usage": "!abilitylevel",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "AbilityLevel"
   },
   {
     "data": {

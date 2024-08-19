@@ -5536,8 +5536,8 @@
       },
       "description": "基本的なヒトであり,遺伝子工学によっても,非地球型惑星への進化の圧力によっても,ほとんど変化させられていません.",
       "defName": "Human",
-      "enabled": true,
-      "name": "ヒトa",
+      "enabled": false,
+      "name": "ヒトb",
       "price": 2917
     },
     {
@@ -5919,8 +5919,8 @@
       },
       "description": "基本的なヒトであり,遺伝子工学によっても,非地球型惑星への進化の圧力によっても,ほとんど変化させられていません.",
       "defName": "CreepJoiner",
-      "enabled": false,
-      "name": "ヒトb",
+      "enabled": true,
+      "name": "ヒトa",
       "price": 2917
     },
     {

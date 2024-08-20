@@ -132,12 +132,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "DerekBickley",
-    "name": "[LTO] Colony Groups",
-    "steamId": "2345493945",
-    "version": "1.0.06"
-  },
-  {
     "author": "Uuugggg",
     "name": "TDS Bug Fixes",
     "steamId": "2895035527",
@@ -414,12 +408,6 @@
     "version": null
   },
   {
-    "author": "Aoi_nasuko",
-    "name": "[B.E.P Mod]Nasuko Storyteller",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "Tab-sorting",
     "steamId": "2138635288",
@@ -520,6 +508,18 @@
     "name": "Animal Controls",
     "steamId": "2426119067",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kiame Vivacity, Taranchukと Fishpear",
+    "name": "[1.5][KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings ",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Wemd",
@@ -926,12 +926,6 @@
   {
     "author": "Proxyer",
     "name": "Dubs Performance Analyzer 日本語翻訳追加",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Proxyer",
-    "name": "Colony Groups 日本語翻訳追加",
     "steamId": null,
     "version": null
   },

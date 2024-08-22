@@ -84,6 +84,12 @@
     "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
   },
   {
+    "author": "Hatena",
+    "name": "Range Animal Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Captolamia",
     "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
     "steamId": "3239583412",
@@ -522,6 +528,18 @@
     "version": null
   },
   {
+    "author": "Dyrewulfe",
+    "name": "Food Poisoning Stack Fix (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.1.0+7d56af4a193adaf667037ad4fdfbcf54b8c71fce"
+  },
+  {
     "author": "Wemd",
     "name": "[WD] Fast Moisture Pumps",
     "steamId": null,
@@ -534,26 +552,8 @@
     "version": "1.5"
   },
   {
-    "author": "Udon",
-    "name": "【ZP】Rice cultivating civilization【1.4】",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
     "author": "balistafreak",
     "name": "Standalone Hot Spring",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "NightmareCorporation",
-    "name": "DBH & VFEC/Hot Spring Compatibility",
     "steamId": null,
     "version": null
   },
@@ -654,12 +654,6 @@
     "version": null
   },
   {
-    "author": "いのしし_3",
-    "name": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-    "steamId": "2670355481",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Roo",
     "name": "Yuran race",
     "steamId": null,
@@ -702,10 +696,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Seiochと MaroonToon",
+    "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "psychelo",
     "name": "kemomimihouse",
     "steamId": "2075974335",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "UNAGI",
+    "name": "UNAGI Animal MOD ビッグポメ",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Velc",
@@ -734,6 +740,12 @@
   {
     "author": "Feng Xinzi",
     "name": "Hyacinth's Ratkin Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "darkmiz",
+    "name": "Kurin HAR Facial Animation",
     "steamId": null,
     "version": null
   },
@@ -919,12 +931,6 @@
   },
   {
     "author": "Proxyer",
-    "name": "Dubs Bad Hygiene 日本語翻訳追加",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Proxyer",
     "name": "Dubs Performance Analyzer 日本語翻訳追加",
     "steamId": null,
     "version": null
@@ -937,7 +943,7 @@
   },
   {
     "author": "Lucifel",
-    "name": "Kurin, The Three Tailed Fox [Deluxe Edition] 日本語翻訳",
+    "name": "Kurin HAR Edition 日本語翻訳",
     "steamId": null,
     "version": null
   }

@@ -402,18 +402,6 @@
     "version": "1.5.0"
   },
   {
-    "author": "KingsMan_",
-    "name": "Barbatos StoryTeller",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ayameduki",
-    "name": "[Aya]Idea Storyteller",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "Tab-sorting",
     "steamId": "2138635288",
@@ -424,12 +412,6 @@
     "name": "Scrollable Gizmos",
     "steamId": "2838035829",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Arquebus",
-    "name": "Hotseat - Dynamic Storyteller Switcher",
-    "steamId": "2175327693",
-    "version": "1.0.8840.31977"
   },
   {
     "author": "Jecrell",
@@ -538,6 +520,18 @@
     "name": "Remove Death Amnesia",
     "steamId": "1905421159",
     "version": "2.1.0+7d56af4a193adaf667037ad4fdfbcf54b8c71fce"
+  },
+  {
+    "author": "Leoltron",
+    "name": "Max Buy, Max Sell",
+    "steamId": "2889812094",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Wemd",
@@ -666,26 +660,8 @@
     "version": null
   },
   {
-    "author": "rabiosus",
-    "name": "Dragonian Strange Apparels",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Gloomylynx Nukafrog",
     "name": "NewRatkinPlus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "PPONN",
-    "name": "Ratkin Apparel+(unofficial))",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DARKkai",
-    "name": "Ratkin Auxiliary framework",
     "steamId": null,
     "version": null
   },
@@ -826,12 +802,6 @@
     "name": "Range Finder",
     "steamId": "1332119637",
     "version": "2.5.0.0"
-  },
-  {
-    "author": "HopeSeekr",
-    "name": "Savegame Shrinker",
-    "steamId": "2978713095",
-    "version": "0.0.0.0"
   },
   {
     "author": "Taranchuk",

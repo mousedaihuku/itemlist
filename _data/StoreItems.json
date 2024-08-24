@@ -944,7 +944,7 @@
 	},
 	{
 		"abr": "木材",
-		"price": -10,
+		"price": 2,
 		"category": "原材料",
 		"defname": "WoodLog"
 	},
@@ -4987,12 +4987,6 @@
 		"defname": "TableProsthetics"
 	},
 	{
-		"abr": "rk両手大剣",
-		"price": -10,
-		"category": "白兵戦武器",
-		"defname": "RK_M_BigSword"
-	},
-	{
 		"abr": "アイベックスの肉",
 		"price": -10,
 		"category": "生肉",
@@ -5095,40 +5089,10 @@
 		"defname": "owl_doublerefrigerator"
 	},
 	{
-		"abr": "drウサミミ",
-		"price": -10,
-		"category": "帽子",
-		"defname": "DR_RB_transparentbunny_head"
-	},
-	{
-		"abr": "drエナメルナース服",
-		"price": -10,
-		"category": "アーマー",
-		"defname": "DR_RB_enamelnurse"
-	},
-	{
-		"abr": "drゴシックドレス",
-		"price": 1217,
-		"category": "アーマー",
-		"defname": "DR_RB_goth"
-	},
-	{
-		"abr": "drゴシックヘッドドレス",
-		"price": -10,
-		"category": "帽子",
-		"defname": "DR_RB_goth_head"
-	},
-	{
 		"abr": "drサマーワンピース",
 		"price": -10,
 		"category": "衣服",
 		"defname": "DR_SummerDress"
-	},
-	{
-		"abr": "drナースキャップ",
-		"price": -10,
-		"category": "帽子",
-		"defname": "DR_RB_enamelnurse_head"
 	},
 	{
 		"abr": "drワイドハット",
@@ -5137,28 +5101,10 @@
 		"defname": "DR_Widehat"
 	},
 	{
-		"abr": "dr半透明バニースーツ",
-		"price": -10,
-		"category": "アーマー",
-		"defname": "DR_RB_transparentbunny"
-	},
-	{
 		"abr": "dr守護宝珠",
 		"price": -10,
 		"category": "アーマー",
 		"defname": "DR_ProtectionOrb"
-	},
-	{
-		"abr": "dr髪飾り",
-		"price": -10,
-		"category": "帽子",
-		"defname": "DR_RB_sic_cultist_Head"
-	},
-	{
-		"abr": "dr黒教団服",
-		"price": -10,
-		"category": "アーマー",
-		"defname": "DR_RB_sic_cultist"
 	},
 	{
 		"abr": "iedデッドライフトラップ",
@@ -8011,90 +7957,6 @@
 		"defname": "FM_ManagerStation"
 	},
 	{
-		"abr": "rkギャンベゾン",
-		"price": -10,
-		"category": "RK 衣服",
-		"defname": "RK_Gambeson"
-	},
-	{
-		"abr": "rkギャンベゾンb型",
-		"price": -10,
-		"category": "RK 衣服",
-		"defname": "RK_GambesonB"
-	},
-	{
-		"abr": "rkクルセーダードレス",
-		"price": -10,
-		"category": "RK 衣服",
-		"defname": "RK_Crusader"
-	},
-	{
-		"abr": "rkサークレット",
-		"price": -10,
-		"category": "RK 衣服",
-		"defname": "RK_Circlet"
-	},
-	{
-		"abr": "rkパワーアーム付ローブ",
-		"price": -10,
-		"category": "RK 衣服",
-		"defname": "RK_OuterPlate"
-	},
-	{
-		"abr": "rk士官制服",
-		"price": -10,
-		"category": "RK 衣服",
-		"defname": "RK_MilUniform"
-	},
-	{
-		"abr": "rk多機能ベスト",
-		"price": -10,
-		"category": "RK 衣服",
-		"defname": "RK_Vest"
-	},
-	{
-		"abr": "rk官僚用の制服",
-		"price": -10,
-		"category": "RK 衣服",
-		"defname": "RK_Officer"
-	},
-	{
-		"abr": "rk戦列歩兵服",
-		"price": -10,
-		"category": "RK 衣服",
-		"defname": "RK_Rifleman"
-	},
-	{
-		"abr": "rk東洋風ドレス",
-		"price": 475,
-		"category": "RK 衣服",
-		"defname": "RK_Oriental"
-	},
-	{
-		"abr": "rk砂漠スカーフ",
-		"price": -10,
-		"category": "RK 衣服",
-		"defname": "RK_Scarf"
-	},
-	{
-		"abr": "rk追加スリーブ",
-		"price": -10,
-		"category": "RK 衣服",
-		"defname": "RK_Sleeves"
-	},
-	{
-		"abr": "rk防衛ユニフォーム",
-		"price": -10,
-		"category": "RK 衣服",
-		"defname": "RK_GuardsmanA"
-	},
-	{
-		"abr": "rk防衛ユニフォームb型",
-		"price": -10,
-		"category": "RK 衣服",
-		"defname": "RK_GuardsmanB"
-	},
-	{
 		"abr": "checkerdoormat",
 		"price": -10,
 		"category": "家具",
@@ -9264,6 +9126,198 @@
 		"category": "",
 		"defname": "StandaloneHotSpringEXE"
 	},
+	{
+		"abr": "クーリン",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Kurin_Race"
+	},
+	{
+		"abr": "クーリンショットガン",
+		"price": 792,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Shotgun"
+	},
+	{
+		"abr": "クーリンチャージショットガン",
+		"price": 3083,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Charge_Shotgun"
+	},
+	{
+		"abr": "クーリンチャージライフル",
+		"price": 3083,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Charge_Rifle"
+	},
+	{
+		"abr": "クーリンパジャマa",
+		"price": 265,
+		"category": "クーリン下着",
+		"defname": "Kurin_OnSkin_PajamasA"
+	},
+	{
+		"abr": "クーリンパジャマb",
+		"price": 265,
+		"category": "クーリン下着",
+		"defname": "Kurin_OnSkin_PajamasB"
+	},
+	{
+		"abr": "クーリンパジャマc",
+		"price": 265,
+		"category": "クーリン下着",
+		"defname": "Kurin_OnSkin_PajamasC"
+	},
+	{
+		"abr": "クーリン下着(無)",
+		"price": 112,
+		"category": "クーリン下着",
+		"defname": "Kurin_Underwear_Stuffed"
+	},
+	{
+		"abr": "クーリン下着(白)",
+		"price": 112,
+		"category": "クーリン下着",
+		"defname": "Kurin_Underwear"
+	},
+	{
+		"abr": "クーリン下着(縞)",
+		"price": 112,
+		"category": "クーリン下着",
+		"defname": "Kurin_Underwear_Striped_Stuffed"
+	},
+	{
+		"abr": "クーリン下着(裸)",
+		"price": 112,
+		"category": "クーリン下着",
+		"defname": "Kurin_Underwear_Prude"
+	},
+	{
+		"abr": "クーリン伝統的なコート",
+		"price": 298,
+		"category": "クーリン上着",
+		"defname": "Kurin_OnSkin_Traditional_Coat"
+	},
+	{
+		"abr": "クーリン儀式用双刃刀",
+		"price": 892,
+		"category": "白兵戦武器",
+		"defname": "Kurin_MeleeWeapon_Ceremonial_Polearm"
+	},
+	{
+		"abr": "クーリン子供用セーター",
+		"price": 253,
+		"category": "クーリン上着",
+		"defname": "Kurin_Kid_Sweater"
+	},
+	{
+		"abr": "クーリン子供用ドレス",
+		"price": 129,
+		"category": "クーリン下着",
+		"defname": "Kurin_OnSkin_Kid_Shirt"
+	},
+	{
+		"abr": "クーリン子供用ハット",
+		"price": 73,
+		"category": "クーリン帽子",
+		"defname": "Kurin_Kid_Hat"
+	},
+	{
+		"abr": "クーリン手作りドレス",
+		"price": 209,
+		"category": "クーリン下着",
+		"defname": "Kurin_OnSkin_Makeshift_Dress"
+	},
+	{
+		"abr": "クーリン赤狐アーマー",
+		"price": 4117,
+		"category": "クーリン上着",
+		"defname": "Kurin_Redfox_Armor"
+	},
+	{
+		"abr": "クーリン赤狐ヘルメット",
+		"price": 1758,
+		"category": "クーリン帽子",
+		"defname": "Kurin_Redfox_Helmet"
+	},
+	{
+		"abr": "クーリン青狐スーツ",
+		"price": 2025,
+		"category": "クーリン下着",
+		"defname": "Kurin_Waterfox_Armor"
+	},
+	{
+		"abr": "クーリンの肉",
+		"price": 1,
+		"category": "生肉",
+		"defname": "Meat_Kurin_Race"
+	},
+	{
+		"abr": "クーリンミシン台",
+		"price": 433,
+		"category": "生産物",
+		"defname": "Kurin_Tailoring_Bench"
+	},
+	{
+		"abr": "クーリンモノエッジ",
+		"price": 7500,
+		"category": "白兵戦武器",
+		"defname": "Kurin_nanoedge"
+	},
+	{
+		"abr": "クーリン特製縄トラップ",
+		"price": 84,
+		"category": "防衛",
+		"defname": "DRNTF_NooseTrap"
+	},
+	{
+		"abr": "テイルブレード(クーリン)",
+		"price": 2092,
+		"category": "強化",
+		"defname": "KurinTailBlade"
+	},
+	{
+		"abr": "ニセ尻尾(クーリン)",
+		"price": 282,
+		"category": "人造",
+		"defname": "Kurin_FakeTail"
+	},
+	{
+		"abr": "ビッグポメ",
+		"price": 1500,
+		"category": "家畜",
+		"defname": "UNAGIBIGpome"
+	},
+	{
+		"abr": "ビッグポメの毛",
+		"price": 4,
+		"category": "毛",
+		"defname": "Wool_UNAGIBIGpome"
+	},
+	{
+		"abr": "ビッグポメの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_UNAGIBIGpome"
+	},
+	{
+		"abr": "メカニター用クーリン耳",
+		"price": 1583,
+		"category": "強化",
+		"defname": "Kurin_MechanitorEar"
+	},
+	{
+		"abr": "強化尻尾(クーリン)",
+		"price": 992,
+		"category": "強化",
+		"defname": "Kurin_BionicTail"
+	},
+	{
+		"abr": "強化耳(クーリン)",
+		"price": 1367,
+		"category": "強化",
+		"defname": "Kurin_BionicEar"
+	},
 	],
-	"total": 1646
+	"total": 1558
 }

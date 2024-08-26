@@ -1,27 +1,9 @@
 [
   {
-    "author": "Zetrith",
-    "name": "Prepatcher",
-    "steamId": "2934420800",
-    "version": "1.0.0+350afc454b4f794a613c562877690c2fe8a66670"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
     "version": "2.3.1.0"
-  },
-  {
-    "author": "bradson",
-    "name": "Fishery - Modding Library",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "bradson",
-    "name": "Performance Fish",
-    "steamId": "",
-    "version": "0.6.2.0+79e8b5f70d53ac37ef43c08273e37bb8b34b041c"
   },
   {
     "author": "UnlimitedHugs",

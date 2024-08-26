@@ -66,6 +66,16 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "surgery",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "replacetrait",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -131,5 +141,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 26
+	"total": 28
 }

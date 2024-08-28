@@ -24,24 +24,6 @@
     "version": "1.7.1"
   },
   {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - Experimentals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "3211700981",
@@ -64,12 +46,6 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
-  },
-  {
-    "author": "Hatena",
-    "name": "Range Animal Framework",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Captolamia",
@@ -216,16 +192,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SeoHyeon",
-    "name": "Safe Drug Policy Generator",
-    "steamId": "2582640021",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Relta",
     "name": "Rename Pawns",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "SeoHyeon",
+    "name": "Safe Drug Policy Generator",
+    "steamId": "2582640021",
+    "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
@@ -267,7 +243,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.15+90aa040a4b9b24f520274fbe2ad3a6151b31e52c"
+    "version": "1.12.17+6db7d75d6e1005522b3ed749fab1d56e12fc2a46"
   },
   {
     "author": "Jaxe",
@@ -516,8 +492,44 @@
     "version": null
   },
   {
+    "author": "HopeSeekr",
+    "name": "Savegame Shrinker",
+    "steamId": "2978713095",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "RimSaves",
+    "steamId": "1713367505",
+    "version": "2024.0.1.20"
+  },
+  {
+    "author": "Dakk Passerida",
+    "name": "Replantable Anima Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dakk Passerida",
+    "name": "Replantable Gauranlen Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Patricia?!",
+    "name": "Patricia's Moveable Monoliths",
+    "steamId": "3219733061",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Wemd",
     "name": "[WD] Fast Moisture Pumps",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "uniinu",
+    "name": "おっぱい追加",
     "steamId": null,
     "version": null
   },
@@ -588,12 +600,6 @@
     "version": null
   },
   {
-    "author": "daylight",
-    "name": "PET FOOD PLUS",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "UNAGI",
     "name": "UNAGI_Hair2",
     "steamId": null,
@@ -606,110 +612,14 @@
     "version": null
   },
   {
-    "author": "GloomyLynx NukaFrog",
-    "name": "GloomyFurniture",
-    "steamId": "1558635181",
-    "version": "1.0.4"
-  },
-  {
-    "author": "Mantrap",
-    "name": "Gloomy Furniture Fix",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ponpeco",
     "name": "Ponpeco Hair",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Outremerと Fortified_Home",
-    "name": "Miho, the celestial fox",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roo",
-    "name": "Yuran race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roo",
-    "name": "Gloomy Dragonian race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "HenTaiLoliTeam",
-    "name": "MoeLotl Race",
-    "steamId": "3292351432",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Seiochと MaroonToon",
-    "name": "Kurin HAR Edition",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "psychelo",
-    "name": "kemomimihouse",
-    "steamId": "2075974335",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "UNAGI",
     "name": "UNAGI Animal MOD ビッグポメ",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Velc",
-    "name": "Hardworking KEMOMIMIHOUSE",
-    "steamId": "2142587186",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "塔洛斯",
-    "name": "Miho Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ancot",
-    "name": "Yuran Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ancot",
-    "name": "Ancots Dragonian Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Feng Xinzi",
-    "name": "Hyacinth's Ratkin Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "darkmiz",
-    "name": "Kurin HAR Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "HenTaiLoliTeam",
-    "name": "MoeLotl Facial Animation",
     "steamId": null,
     "version": null
   },
@@ -732,6 +642,18 @@
     "version": null
   },
   {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - Experimentals",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ponpeco",
     "name": "Dog Retexture",
     "steamId": null,
@@ -744,32 +666,14 @@
     "version": null
   },
   {
-    "author": "Nals",
-    "name": "[NL] Compatible Body 2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Feng Xinzi",
-    "name": "Ratkin Texture Reset",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MoManaCha",
-    "name": "Ratkin Body Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "OPERATOR",
     "name": "Go Away Eye Strain!",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Captain Waifu",
-    "name": "Gloomy Furniture Upscale",
+    "author": "Sato Imozou",
+    "name": "IMOZOU Body",
     "steamId": null,
     "version": null
   },
@@ -796,12 +700,6 @@
     "name": "Custom clearing of gc cache",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Performance Analyzer",
-    "steamId": "2038874626",
-    "version": "1.0.0+2534407508e276c66794b6b0ba18f36e2117384e"
   },
   {
     "author": "Krkr",
@@ -858,44 +756,8 @@
     "version": null
   },
   {
-    "author": "Lucifel",
-    "name": "Miho,the celestial fox 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Yuran race 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Gloomy Dragonian race 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "MoeLotl Race 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Proxyer",
-    "name": "Dubs Performance Analyzer 日本語翻訳追加",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Proxyer",
     "name": "Mid-saver Saver 日本語翻訳追加",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Kurin HAR Edition 日本語翻訳",
     "steamId": null,
     "version": null
   }

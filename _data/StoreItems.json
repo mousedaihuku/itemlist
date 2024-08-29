@@ -1166,13 +1166,13 @@
     },
     {
       "abr": "ウォーマスク",
-      "category": "Sṗèçìàſ",
+      "category": "Special",
       "defname": "Apparel_WarMask",
       "price": -10
     },
     {
       "abr": "ベール",
-      "category": "Sṗèçìàſ",
+      "category": "Special",
       "defname": "Apparel_WarVeil",
       "price": -10
     },
@@ -1202,7 +1202,7 @@
     },
     {
       "abr": "精神波遮断ヘルメット",
-      "category": "Sṗèçìàſ",
+      "category": "Special",
       "defname": "Apparel_PsychicFoilHelmet",
       "price": -10
     },
@@ -1648,7 +1648,7 @@
       "abr": "ハスキー",
       "category": "家畜",
       "defname": "Husky",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "サル",
@@ -2366,7 +2366,7 @@
     },
     {
       "abr": "ガンリンク",
-      "category": "Sṗèçìàſ",
+      "category": "Special",
       "defname": "Apparel_Gunlink",
       "price": -10
     },
@@ -2600,13 +2600,13 @@
     },
     {
       "abr": "奴隷の首輪",
-      "category": "Sṗèçìàſ",
+      "category": "Special",
       "defname": "Apparel_Collar",
       "price": -10
     },
     {
       "abr": "オーソリティキャップ",
-      "category": "Sṗèçìàſ",
+      "category": "Special",
       "defname": "Apparel_AuthorityCap",
       "price": -10
     },
@@ -2630,7 +2630,7 @@
     },
     {
       "abr": "奴隷の革帯",
-      "category": "Sṗèçìàſ",
+      "category": "Special",
       "defname": "Apparel_BodyStrap",
       "price": -10
     },
@@ -2648,7 +2648,7 @@
     },
     {
       "abr": "苦悶の王冠",
-      "category": "Sṗèçìàſ",
+      "category": "Special",
       "defname": "Apparel_TortureCrown",
       "price": -10
     },
@@ -3026,19 +3026,19 @@
     },
     {
       "abr": "無線ヘッドセット",
-      "category": "Mèçĥàƞìṭòṟ",
+      "category": "Mechanitor",
       "defname": "Apparel_AirwireHeadset",
       "price": -10
     },
     {
       "abr": "アレイヘッドセット",
-      "category": "Mèçĥàƞìṭòṟ",
+      "category": "Mechanitor",
       "defname": "Apparel_ArrayHeadset",
       "price": -10
     },
     {
       "abr": "インテグレータヘッドセット",
-      "category": "Mèçĥàƞìṭòṟ",
+      "category": "Mechanitor",
       "defname": "Apparel_IntegratorHeadset",
       "price": -10
     },
@@ -3056,25 +3056,25 @@
     },
     {
       "abr": "ガスマスク",
-      "category": "Sṗèçìàſ",
+      "category": "Special",
       "defname": "Apparel_GasMask",
       "price": -10
     },
     {
       "abr": "フェイスマスク",
-      "category": "Sṗèçìàſ",
+      "category": "Special",
       "defname": "Apparel_ClothMask",
       "price": -10
     },
     {
       "abr": "制御パック",
-      "category": "Mèçĥàƞìṭòṟ",
+      "category": "Mechanitor",
       "defname": "Apparel_PackControl",
       "price": -10
     },
     {
       "abr": "帯域幅パック",
-      "category": "Mèçĥàƞìṭòṟ",
+      "category": "Mechanitor",
       "defname": "Apparel_PackBandwidth",
       "price": -10
     },
@@ -3092,7 +3092,7 @@
     },
     {
       "abr": "重装弾ベルト",
-      "category": "Sṗèçìàſ",
+      "category": "Special",
       "defname": "Apparel_Bandolier",
       "price": -10
     },
@@ -4592,7 +4592,7 @@
     },
     {
       "abr": "儀式の仮面",
-      "category": "Sṗèçìàſ",
+      "category": "Special",
       "defname": "Apparel_CultistMask",
       "price": -10
     },
@@ -5650,7 +5650,7 @@
       "abr": "zombrella",
       "category": "その他",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     }
   ],
   "total": 942

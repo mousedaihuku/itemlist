@@ -180,12 +180,6 @@
     "version": null
   },
   {
-    "author": "Hatti",
-    "name": "QualityBuilder",
-    "steamId": "754637870",
-    "version": "1.0.18"
-  },
-  {
     "author": "Sandy",
     "name": "RPG Style Inventory Revamped",
     "steamId": "2478833213",
@@ -522,6 +516,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.18"
+  },
+  {
     "author": "Wemd",
     "name": "[WD] Fast Moisture Pumps",
     "steamId": null,
@@ -614,6 +614,12 @@
   {
     "author": "ponpeco",
     "name": "Ponpeco Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Ponytail is Kawaii (Continued)",
     "steamId": null,
     "version": null
   },

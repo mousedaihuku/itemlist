@@ -3,19 +3,25 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.1.0"
+    "version": "2.4.1.0"
   },
   {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": "1508850027",
-    "version": "1.15.3.0"
+    "author": "legodude17と Oskar Potocki",
+    "name": "Vanilla Backgrounds Expanded",
+    "steamId": "2775017012",
+    "version": "1.0.0.0"
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "3211700981",
-    "version": "1.4.1242.0"
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
     "author": "nry",
@@ -33,37 +39,109 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
+    "steamId": "3239583412",
+    "version": "1.6.0.1"
   },
   {
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
-    "version": "1.5.0"
+    "version": "1.6.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.2.1+7ccb7fa1f193a57b700662cc86a5e7d810bda4fd"
+    "author": "Hatena",
+    "name": "Range Animal Framework",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
-    "steamId": "3239583412",
-    "version": "1.5.0.1"
+    "author": "Krypt",
+    "name": "RWLayout",
+    "steamId": "2209393954",
+    "version": "1.0.0+b235132e69278f77bcefb44b0dad51caa583602a"
   },
   {
-    "author": "aRandomKiwi",
-    "name": "RimSaves",
-    "steamId": "1713367505",
-    "version": "2024.0.1.20"
+    "author": "Mlie",
+    "name": "Weapons Sorter",
+    "steamId": "2290406586",
+    "version": "1.6.0"
   },
   {
-    "author": "HopeSeekr",
-    "name": "Savegame Shrinker",
-    "steamId": "2978713095",
-    "version": "0.0.0.0"
+    "author": "Mlie",
+    "name": "Clothing Sorter",
+    "steamId": "2275655161",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "Grouped Pawns Lists",
+    "steamId": "2340773428",
+    "version": "1.0.0+72ec5504f8dfc442d87f0781e681999f48317a61"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TD Enhancement Pack - Continued",
+    "steamId": "",
+    "version": "1.0.0+8903dce780011e85ff19cd80847764c632fdd965"
+  },
+  {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
+  },
+  {
+    "author": "Dark",
+    "name": "Job In Bar",
+    "steamId": "2086300611",
+    "version": "1.6.7"
+  },
+  {
+    "author": "avilmask",
+    "name": "Animal Controls",
+    "steamId": "2426119067",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TD Find Lib - Continued",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TDS Bug Fixes - Continued",
+    "steamId": "3529433984",
+    "version": "1.0.0+51b4236fa18697d459fc30755b31fa25941ac46e"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Ctrl F - Continued",
+    "steamId": "3529520961",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Everybody Gets One - Continued",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "VouLT",
+    "name": "Better Pawn Control",
+    "steamId": "1541460369",
+    "version": "2.8.0+bf1809ad476a6c900d1097cd6dc00ecea37d8f48"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
   },
   {
     "author": "mastertea",
@@ -72,15 +150,345 @@
     "version": null
   },
   {
-    "author": "Scherub",
-    "name": "Planning Extended",
-    "steamId": "2877392159",
-    "version": "1.12.0+cfcbed1043b18b3fb817997a8007cb5a60769474"
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "3.3.2.0"
+  },
+  {
+    "author": "We're in Heaven",
+    "name": "Colony Manager Fork",
+    "steamId": "3262932412",
+    "version": "1.6"
+  },
+  {
+    "author": "Mlie",
+    "name": "Custom Prisoner Interactions",
+    "steamId": "2841231775",
+    "version": "1.6.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kiame Vivacity, Taranchukと Fishpear",
+    "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings [1.5/1.6]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dingo",
+    "name": "No Forced Slowdown",
+    "steamId": "1419593453",
+    "version": "1.6.4497.1"
+  },
+  {
+    "author": "winggar",
+    "name": "Wing's No Shadows",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17",
+    "name": "Smarter Deconstruction and Mining (Continued)",
+    "steamId": "3261302741",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Ben Lubar",
+    "name": "Prison Commons (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "VOTE and LEADER (Continued)",
+    "steamId": "2896484287",
+    "version": "1.6.1"
+  },
+  {
+    "author": "Liebasam",
+    "name": "We Had a Trader? (Continued)",
+    "steamId": "1541408076",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
+    "version": "1.0.0.0"
   },
   {
     "author": "Stmast",
     "name": "Shella Backgrounds",
     "steamId": "2853407446",
     "version": "1.2.0.0"
+  },
+  {
+    "author": "sxcher",
+    "name": "Sxcher Backgrounds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Real Faction Guest (Forked)",
+    "steamId": "3302093855",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SeoHyeon",
+    "name": "Safe Drug Policy Generator",
+    "steamId": "2582640021",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "seeki",
+    "name": "Want to Sleep with Spouse or Lover",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Mid-saver Saver",
+    "steamId": "3261311100",
+    "version": "1.6"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Toggleable Overlays",
+    "steamId": "3261316725",
+    "version": "1.6"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Toggleable Readouts",
+    "steamId": "3261317086",
+    "version": "1.6"
+  },
+  {
+    "author": "YukiAiko",
+    "name": "No HAR Hairs on Humans",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Scherub",
+    "name": "Planning Extended",
+    "steamId": "2877392159",
+    "version": "1.12.0+a59cdba300ba869f4aa5e1b82eebf783ea26f517"
+  },
+  {
+    "author": "Feng Xinziと Mya",
+    "name": "Mya's fufu",
+    "steamId": "3266224389",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UNAGI",
+    "name": "UNAGI CAFE",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "balistafreak",
+    "name": "Standalone Hot Spring",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "Standalone Hot Spring addon patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ponpeco",
+    "name": "Ponpeco Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roo",
+    "name": "Gloomy Dragonian race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sanoo6",
+    "name": "Haeyang Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rabiosus",
+    "name": "Dragonian Strange Apparels",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "gyun",
+    "name": "Korossa: scorched brass",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HenTaiLoliTeam",
+    "name": "MoeLotl Race",
+    "steamId": "3292351432",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Yukishiro",
+    "name": "Venarium Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haduki, Heliとaoi_nasuko",
+    "name": "Ancient Species(Unofficial)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alopex Callisto Studio",
+    "name": "[ACS]Celestia Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MelonDoveと Ancot",
+    "name": "Wolfein Race",
+    "steamId": "3473140562",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LazyBread, EoralMilkと玖日长弓",
+    "name": "Epona Dynastic Rise",
+    "steamId": "3514746737",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "いのしし_3",
+    "name": "Kurin, The Three Tailed Fox [Deluxe Edition]: Lite",
+    "steamId": "3523131215",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "psychelo",
+    "name": "kemomimihouse",
+    "steamId": "2075974335",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lucifel",
+    "name": "[ACS]Celestia Race 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Haeyang Race 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Korossa: scorched brass 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "MoeLotl Race 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Venarium Race 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Wolfein Race 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Gloomy Dragonian race 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Kurin, The Three Tailed Fox [Deluxe Edition]: Lite 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Epona Dynastic Rise 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Colony Groups 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Colony Manager 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Mya's fufu 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Mid-saver Saver 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "namidasechi",
+    "name": "RimHUD 日本語追加",
+    "steamId": null,
+    "version": null
   }
 ]

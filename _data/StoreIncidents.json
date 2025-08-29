@@ -111,11 +111,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wandererjoins",
-		"price": 50,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -307,7 +302,7 @@
 	},
 	{
 		"abr": "item",
-		"price": 1,
+		"price": 50,
 		"karmatype": "Good"
 	},
 	{
@@ -446,5 +441,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 89
+	"total": 88
 }

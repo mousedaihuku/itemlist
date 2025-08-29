@@ -379,12 +379,6 @@
 		"defname": "FirefoamPopper"
 	},
 	{
-		"abr": "土壌改良ポンプ",
-		"price": 458,
-		"category": "",
-		"defname": "MoisturePump"
-	},
-	{
 		"abr": "マルチアナライザ",
 		"price": 1700,
 		"category": "その他",
@@ -3991,593 +3985,8273 @@
 		"defname": "Meat_Horse"
 	},
 	{
-		"abr": "古代の街灯",
-		"price": 50,
-		"category": "",
-		"defname": "AncientLamppost"
+		"abr": "iedデッドライフトラップ",
+		"price": 192,
+		"category": "防衛",
+		"defname": "TrapIED_Deadlife"
 	},
 	{
-		"abr": "トーチランプ",
-		"price": 41,
-		"category": "",
-		"defname": "TorchLamp"
+		"abr": "インシネレーター",
+		"price": 883,
+		"category": "遠距離武器",
+		"defname": "Gun_Incinerator"
 	},
 	{
-		"abr": "壁掛け松明",
-		"price": 31,
-		"category": "",
-		"defname": "TorchWallLamp"
+		"abr": "ヴォイドサイトシーラム",
+		"price": 100,
+		"category": "ドラッグ",
+		"defname": "VoidsightSerum"
 	},
 	{
-		"abr": "通信機",
-		"price": 608,
-		"category": "",
-		"defname": "CommsConsole"
+		"abr": "ヴォイドの彫刻",
+		"price": 206,
+		"category": "芸術品",
+		"defname": "VoidSculpture"
 	},
 	{
-		"abr": "地殻深部スキャナー",
-		"price": 1092,
-		"category": "",
-		"defname": "GroundPenetratingScanner"
+		"abr": "エレクトロハーベスター",
+		"price": 267,
+		"category": "電力",
+		"defname": "Electroharvester"
 	},
 	{
-		"abr": "長距離鉱物探査スキャナー",
-		"price": 1683,
-		"category": "",
-		"defname": "LongRangeMineralScanner"
+		"abr": "グール蘇生シーラム",
+		"price": 100,
+		"category": "ドラッグ",
+		"defname": "GhoulResurrectionSerum"
 	},
 	{
-		"abr": "ポッドランチャー",
-		"price": 230,
-		"category": "",
-		"defname": "PodLauncher"
+		"abr": "グール装甲",
+		"price": 142,
+		"category": "グール",
+		"defname": "GhoulPlating"
 	},
 	{
-		"abr": "輸送ポッド",
-		"price": 253,
-		"category": "",
-		"defname": "TransportPod"
+		"abr": "グール鉄棘",
+		"price": 80,
+		"category": "グール",
+		"defname": "GhoulBarbs"
 	},
 	{
-		"abr": "墓",
-		"price": 5,
-		"category": "",
-		"defname": "Grave"
+		"abr": "シーラムラボ",
+		"price": 1208,
+		"category": "生産物",
+		"defname": "SerumCentrifuge"
 	},
 	{
-		"abr": "石棺",
-		"price": 214,
-		"category": "",
-		"defname": "Sarcophagus"
+		"abr": "シャードアニマル・パルサー",
+		"price": 875,
+		"category": "アーティファクト",
+		"defname": "ShardAnimalPulser"
 	},
 	{
-		"abr": "冬眠カプセル",
-		"price": 1183,
-		"category": "",
-		"defname": "CryptosleepCasket"
+		"abr": "ジャガーノートシーラム",
+		"price": 333,
+		"category": "ドラッグ",
+		"defname": "JuggernautSerum"
 	},
 	{
-		"abr": "古代の冬眠カプセル",
-		"price": 617,
-		"category": "",
-		"defname": "AncientCryptosleepCasket"
+		"abr": "スクラップのキューブの彫刻",
+		"price": 30,
+		"category": "芸術品",
+		"defname": "ScrapCubeSculpture"
 	},
 	{
-		"abr": "大きな石碑",
-		"price": 467,
-		"category": "",
-		"defname": "SteleLarge"
+		"abr": "スリープサプレッサー",
+		"price": 908,
+		"category": "その他",
+		"defname": "SleepSuppressor"
 	},
 	{
-		"abr": "壮大な石碑",
-		"price": 933,
-		"category": "",
-		"defname": "SteleGrand"
+		"abr": "タレットパック",
+		"price": 392,
+		"category": "ユーティリティ",
+		"defname": "Apparel_PackTurret"
 	},
 	{
-		"abr": "電力線",
-		"price": 3,
-		"category": "",
-		"defname": "PowerConduit"
+		"abr": "デッドライフシェル",
+		"price": 92,
+		"category": "迫撃砲弾",
+		"defname": "Shell_Deadlife"
 	},
 	{
-		"abr": "埋設型電力線",
-		"price": 8,
-		"category": "",
-		"defname": "HiddenConduit"
+		"abr": "デッドライフパック",
+		"price": 742,
+		"category": "ユーティリティ",
+		"defname": "Apparel_DeadlifePack"
 	},
 	{
-		"abr": "電力線(防水)",
-		"price": 32,
-		"category": "",
-		"defname": "WaterproofConduit"
+		"abr": "ドレッドレザー",
+		"price": 6,
+		"category": "革",
+		"defname": "Leather_Dread"
 	},
 	{
-		"abr": "ブレーカスイッチ",
-		"price": 102,
-		"category": "",
-		"defname": "PowerSwitch"
+		"abr": "ナーヴスパイカー",
+		"price": 104,
+		"category": "遠距離武器",
+		"defname": "NerveSpiker"
 	},
 	{
-		"abr": "火力発電(樹)",
-		"price": 442,
-		"category": "",
-		"defname": "WoodFiredGenerator"
+		"abr": "バイオフェライト",
+		"price": 1,
+		"category": "原材料",
+		"defname": "Bioferrite"
 	},
 	{
-		"abr": "火力発電(液化燃料)",
-		"price": 492,
-		"category": "",
-		"defname": "ChemfuelPoweredGenerator"
+		"abr": "バイオフェライトシェイパー",
+		"price": 333,
+		"category": "生産物",
+		"defname": "BioferriteShaper"
 	},
 	{
-		"abr": "風力発電機",
-		"price": 442,
-		"category": "",
-		"defname": "WindTurbine"
+		"abr": "バイオフェライトハーベスター",
+		"price": 236,
+		"category": "電力",
+		"defname": "BioferriteHarvester"
 	},
 	{
-		"abr": "太陽光発電",
-		"price": 492,
-		"category": "",
-		"defname": "SolarGenerator"
+		"abr": "バイオミューテーション・パルサー",
+		"price": 1333,
+		"category": "アーティファクト",
+		"defname": "BiomutationPulser"
 	},
 	{
-		"abr": "地熱発電",
-		"price": 1575,
-		"category": "",
-		"defname": "GeothermalGenerator"
+		"abr": "バイオミューテーションランス",
+		"price": 1417,
+		"category": "ユーティリティ",
+		"defname": "Apparel_BiomutationLance"
 	},
 	{
-		"abr": "水力発電",
-		"price": 1000,
-		"category": "",
-		"defname": "WatermillGenerator"
+		"abr": "ヘルキャットライフル",
+		"price": 825,
+		"category": "遠距離武器",
+		"defname": "Gun_HellcatRifle"
 	},
 	{
-		"abr": "電気火葬炉",
-		"price": 700,
-		"category": "",
-		"defname": "ElectricCrematorium"
+		"abr": "メタルブラッドシーラム",
+		"price": 333,
+		"category": "ドラッグ",
+		"defname": "MetalbloodSerum"
 	},
 	{
-		"abr": "水耕栽培器",
-		"price": 383,
-		"category": "",
-		"defname": "HydroponicsBasin"
+		"abr": "メタルブラッドの心臓",
+		"price": 158,
+		"category": "グール",
+		"defname": "MetalbloodHeart"
 	},
 	{
-		"abr": "ペーストディスペンサ",
-		"price": 567,
-		"category": "",
-		"defname": "NutrientPasteDispenser"
+		"abr": "モノリスの破片",
+		"price": 3333,
+		"category": "その他",
+		"defname": "MonolithFragment"
 	},
 	{
-		"abr": "食材ホッパー",
-		"price": 49,
-		"category": "",
-		"defname": "Hopper"
+		"abr": "レヴナントの脊椎",
+		"price": 3158,
+		"category": "強化",
+		"defname": "RevenantVertebrae"
 	},
 	{
-		"abr": "土のう",
-		"price": 18,
-		"category": "",
-		"defname": "Sandbags"
+		"abr": "レヴナントの脊椎",
+		"price": 1667,
+		"category": "その他",
+		"defname": "RevenantSpine"
 	},
 	{
-		"abr": "バリケード",
-		"price": 19,
-		"category": "",
-		"defname": "Barricade"
-	},
-	{
-		"abr": "オートキャノンタレット",
-		"price": 2117,
-		"category": "",
-		"defname": "Turret_Autocannon"
-	},
-	{
-		"abr": "ウランスラグタレット",
-		"price": 2408,
-		"category": "",
-		"defname": "Turret_Sniper"
-	},
-	{
-		"abr": "広範囲ロケットランチャー",
-		"price": 1792,
-		"category": "",
-		"defname": "Turret_RocketswarmLauncher"
-	},
-	{
-		"abr": "船体骨格",
-		"price": 1775,
-		"category": "",
-		"defname": "Ship_Beam"
-	},
-	{
-		"abr": "耐圧冬眠カプセル",
-		"price": 1725,
-		"category": "",
-		"defname": "Ship_CryptosleepCasket"
-	},
-	{
-		"abr": "コンピュータコア",
-		"price": 9742,
-		"category": "",
-		"defname": "Ship_ComputerCore"
-	},
-	{
-		"abr": "反応炉",
-		"price": 9067,
-		"category": "",
-		"defname": "Ship_Reactor"
-	},
-	{
-		"abr": "核物質エンジン",
-		"price": 5925,
-		"category": "",
-		"defname": "Ship_Engine"
-	},
-	{
-		"abr": "船殻センサー束",
-		"price": 3008,
-		"category": "",
-		"defname": "Ship_SensorCluster"
-	},
-	{
-		"abr": "家畜用出入口",
-		"price": 88,
-		"category": "",
-		"defname": "AnimalFlap"
-	},
-	{
-		"abr": "フェンス",
-		"price": 4,
-		"category": "",
-		"defname": "Fence"
-	},
-	{
-		"abr": "フェンスゲート",
-		"price": 86,
-		"category": "",
-		"defname": "FenceGate"
-	},
-	{
-		"abr": "支柱",
-		"price": 71,
-		"category": "",
-		"defname": "Column"
-	},
-	{
-		"abr": "焚き火",
-		"price": 41,
-		"category": "",
-		"defname": "Campfire"
-	},
-	{
-		"abr": "気化熱クーラー",
+		"abr": "儀式の仮面",
 		"price": 101,
-		"category": "",
-		"defname": "PassiveCooler"
+		"category": "帽子",
+		"defname": "Apparel_CultistMask"
 	},
 	{
-		"abr": "クーラー",
-		"price": 458,
-		"category": "",
-		"defname": "Cooler"
+		"abr": "先触れの木の種",
+		"price": 1000,
+		"category": "その他",
+		"defname": "HarbingerSeed"
 	},
 	{
-		"abr": "換気口",
-		"price": 97,
-		"category": "",
-		"defname": "Vent"
+		"abr": "副腎の心臓",
+		"price": 158,
+		"category": "グール",
+		"defname": "AdrenalHeart"
 	},
 	{
-		"abr": "時限式起動装置",
-		"price": 107,
-		"category": "",
-		"defname": "ActivatorCountdown"
+		"abr": "収容プラットフォーム",
+		"price": 139,
+		"category": "その他",
+		"defname": "HoldingPlatform"
 	},
 	{
-		"abr": "近接式起動装置",
-		"price": 107,
-		"category": "",
-		"defname": "ActivatorProximity"
+		"abr": "妨害フレアパック",
+		"price": 134,
+		"category": "ユーティリティ",
+		"defname": "Apparel_DisruptorFlarePack"
 	},
 	{
-		"abr": "メカ高角シールド",
-		"price": 1667,
-		"category": "",
-		"defname": "ShieldGeneratorMortar"
+		"abr": "式典用フード",
+		"price": 91,
+		"category": "帽子",
+		"defname": "Apparel_CeremonialCultistMask"
 	},
 	{
-		"abr": "メカ低角シールド",
-		"price": 1667,
-		"category": "",
-		"defname": "ShieldGeneratorBullets"
-	},
-	{
-		"abr": "メカカプセル",
-		"price": 467,
-		"category": "",
-		"defname": "MechCapsule"
-	},
-	{
-		"abr": "メカアセンブラ",
-		"price": 467,
-		"category": "",
-		"defname": "MechAssembler"
-	},
-	{
-		"abr": "メカドロップビーコン",
-		"price": 105,
-		"category": "",
-		"defname": "MechDropBeacon"
-	},
-	{
-		"abr": "古代のターミナル",
-		"price": 6,
-		"category": "",
-		"defname": "AncientTerminal_Worshipful"
-	},
-	{
-		"abr": "古代のターミナル",
-		"price": 6,
-		"category": "",
-		"defname": "AncientTerminal"
-	},
-	{
-		"abr": "古代の敵性ターミナル",
-		"price": 6,
-		"category": "",
-		"defname": "AncientEnemyTerminal"
-	},
-	{
-		"abr": "密閉容器",
-		"price": 6,
-		"category": "",
-		"defname": "AncientHermeticCrate"
-	},
-	{
-		"abr": "警報付き容器",
-		"price": 12,
-		"category": "",
-		"defname": "AncientSecurityCrate"
-	},
-	{
-		"abr": "古代の通信コンソール",
-		"price": 12,
-		"category": "",
-		"defname": "AncientCommsConsole"
-	},
-	{
-		"abr": "古代の不安定な燃料ノード",
-		"price": 18,
-		"category": "",
-		"defname": "AncientFuelNode"
-	},
-	{
-		"abr": "古代のシステムラック",
-		"price": 9,
-		"category": "",
-		"defname": "AncientSystemRack"
-	},
-	{
-		"abr": "古代の部品の塊",
-		"price": 12,
-		"category": "",
-		"defname": "AncientEquipmentBlocks"
-	},
-	{
-		"abr": "古代の機械",
-		"price": 18,
-		"category": "",
-		"defname": "AncientMachine"
-	},
-	{
-		"abr": "古代の貯蔵シリンダー",
-		"price": 12,
-		"category": "",
-		"defname": "AncientStorageCylinder"
-	},
-	{
-		"abr": "古代のベッド",
-		"price": 5,
-		"category": "",
-		"defname": "AncientBed"
-	},
-	{
-		"abr": "古代のディスプレイ",
-		"price": 9,
-		"category": "",
-		"defname": "AncientDisplayBank"
-	},
-	{
-		"abr": "古代のロッカー",
-		"price": 5,
-		"category": "",
-		"defname": "AncientLockerBank"
-	},
-	{
-		"abr": "古代の容器",
-		"price": 2,
-		"category": "",
-		"defname": "AncientCrate"
-	},
-	{
-		"abr": "古代の軍用容器",
-		"price": 2,
-		"category": "",
-		"defname": "AncientMilitaryCrate"
-	},
-	{
-		"abr": "古代の円柱型容器",
-		"price": 2,
-		"category": "",
-		"defname": "AncientSpacerCrate"
-	},
-	{
-		"abr": "古代の樽",
+		"abr": "捻れた肉",
 		"price": 1,
-		"category": "",
-		"defname": "AncientBarrel"
+		"category": "生肉",
+		"defname": "Meat_Twisted"
 	},
 	{
-		"abr": "古代のジェネレータ",
-		"price": 1,
-		"category": "",
-		"defname": "AncientGenerator"
-	},
-	{
-		"abr": "古代の手術台",
-		"price": 1,
-		"category": "",
-		"defname": "AncientOperatingTable"
-	},
-	{
-		"abr": "小規模祭壇",
-		"price": 197,
-		"category": "",
-		"defname": "Altar_Small"
-	},
-	{
-		"abr": "中規模祭壇",
-		"price": 425,
-		"category": "",
-		"defname": "Altar_Medium"
-	},
-	{
-		"abr": "大規模祭壇",
-		"price": 783,
-		"category": "",
-		"defname": "Altar_Large"
-	},
-	{
-		"abr": "巨大祭壇",
-		"price": 1183,
-		"category": "",
-		"defname": "Altar_Grand"
-	},
-	{
-		"abr": "イデオグラム",
-		"price": 308,
-		"category": "",
-		"defname": "Ideogram"
-	},
-	{
-		"abr": "ダークトーチ",
-		"price": 41,
-		"category": "",
-		"defname": "Darktorch"
-	},
-	{
-		"abr": "キノコのダークトーチ",
-		"price": 37,
-		"category": "",
-		"defname": "DarktorchFungus"
-	},
-	{
-		"abr": "聖遺物箱",
-		"price": 2492,
-		"category": "",
-		"defname": "Reliquary"
-	},
-	{
-		"abr": "オートボング",
-		"price": 567,
-		"category": "",
-		"defname": "Autobong"
-	},
-	{
-		"abr": "バンドノード",
-		"price": 892,
-		"category": "",
-		"defname": "BandNode"
-	},
-	{
-		"abr": "有毒発電機",
-		"price": 600,
-		"category": "",
-		"defname": "ToxifierGenerator"
-	},
-	{
-		"abr": "遺伝子アセンブラ",
-		"price": 917,
-		"category": "",
-		"defname": "GeneAssembler"
-	},
-	{
-		"abr": "遺伝子抽出器",
-		"price": 1117,
-		"category": "",
-		"defname": "GeneExtractor"
-	},
-	{
-		"abr": "人工生育槽",
-		"price": 733,
-		"category": "",
-		"defname": "GrowthVat"
-	},
-	{
-		"abr": "メカバンドアンテナ",
+		"abr": "書物",
 		"price": 417,
-		"category": "",
-		"defname": "BurnoutMechlinkBooster"
+		"category": "本",
+		"defname": "Tome"
 	},
 	{
-		"abr": "メカバンドパラボラ",
-		"price": 1325,
-		"category": "",
-		"defname": "MechbandDish"
+		"abr": "泥のキューブの彫刻",
+		"price": 30,
+		"category": "芸術品",
+		"defname": "DirtCubeSculpture"
 	},
 	{
-		"abr": "廃棄物パック分解装置",
-		"price": 4067,
-		"category": "",
-		"defname": "WastepackAtomizer"
+		"abr": "熱狂誘発装置",
+		"price": 825,
+		"category": "その他",
+		"defname": "FrenzyInducer"
 	},
 	{
-		"abr": "遺伝子プロセッサ",
+		"abr": "石のキューブの彫刻",
+		"price": 30,
+		"category": "芸術品",
+		"defname": "StoneCubeSculpture"
+	},
+	{
+		"abr": "砂のキューブの彫刻",
+		"price": 30,
+		"category": "芸術品",
+		"defname": "SandCubeSculpture"
+	},
+	{
+		"abr": "研究用コート",
+		"price": 263,
+		"category": "その他",
+		"defname": "Apparel_LabCoat"
+	},
+	{
+		"abr": "破片",
+		"price": 667,
+		"category": "加工品",
+		"defname": "Shard"
+	},
+	{
+		"abr": "破片インヒビター",
+		"price": 717,
+		"category": "その他",
+		"defname": "ShardInhibitor"
+	},
+	{
+		"abr": "破片の狂気の槍",
+		"price": 883,
+		"category": "ユーティリティ",
+		"defname": "Apparel_ShardPsychicInsanityLance"
+	},
+	{
+		"abr": "破片の衝撃の槍",
 		"price": 850,
-		"category": "",
-		"defname": "GeneProcessor"
+		"category": "ユーティリティ",
+		"defname": "Apparel_ShardPsychicShockLance"
 	},
 	{
-		"abr": "メカ培養槽",
-		"price": 683,
-		"category": "",
-		"defname": "MechGestator"
+		"abr": "破片ビーコン",
+		"price": 708,
+		"category": "その他",
+		"defname": "ShardBeacon"
 	},
 	{
-		"abr": "大型メカ培養槽",
-		"price": 1367,
-		"category": "",
-		"defname": "LargeMechGestator"
+		"abr": "精神鎮静シーラム",
+		"price": 133,
+		"category": "ドラッグ",
+		"defname": "MindNumbSerum"
 	},
 	{
-		"abr": "サブコア・ソフトスキャナー",
-		"price": 1642,
-		"category": "",
-		"defname": "SubcoreSoftscanner"
+		"abr": "腐食心臓",
+		"price": 158,
+		"category": "グール",
+		"defname": "CorrosiveHeart"
 	},
 	{
-		"abr": "サブコア・リップスキャナー",
-		"price": 3208,
-		"category": "",
-		"defname": "SubcoreRipscanner"
+		"abr": "近接式検知器",
+		"price": 108,
+		"category": "その他",
+		"defname": "ProximityDetector"
 	},
 	{
-		"abr": "メカ充電器",
+		"abr": "電動インヒビター",
+		"price": 222,
+		"category": "その他",
+		"defname": "ElectricInhibitor"
+	},
+	{
+		"abr": "黄金のキューブ",
+		"price": 2000,
+		"category": "その他",
+		"defname": "GoldenCube"
+	},
+	{
+		"abr": "アーキアンの種",
+		"price": 1083,
+		"category": "その他",
+		"defname": "ArcheanSeed"
+	},
+	{
+		"abr": "アオサギの卵(有精卵)",
+		"price": 30,
+		"category": "卵(有精卵)",
+		"defname": "EggHeronFertilized"
+	},
+	{
+		"abr": "アオサギの卵(無精卵)",
+		"price": 12,
+		"category": "卵(無精卵)",
+		"defname": "EggHeronUnfertilized"
+	},
+	{
+		"abr": "アザラシ",
+		"price": 483,
+		"category": "家畜",
+		"defname": "Seal"
+	},
+	{
+		"abr": "アザラシの皮",
+		"price": 7,
+		"category": "革",
+		"defname": "Leather_Sealskin"
+	},
+	{
+		"abr": "アザラシの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Seal"
+	},
+	{
+		"abr": "アシカ",
+		"price": 533,
+		"category": "家畜",
+		"defname": "SeaLion"
+	},
+	{
+		"abr": "アシカの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_SeaLion"
+	},
+	{
+		"abr": "アナグマ",
+		"price": 167,
+		"category": "家畜",
+		"defname": "Badger"
+	},
+	{
+		"abr": "アナグマの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Badger"
+	},
+	{
+		"abr": "アリゲーター",
+		"price": 583,
+		"category": "家畜",
+		"defname": "Alligator"
+	},
+	{
+		"abr": "アリゲーターの卵(有精卵)",
+		"price": 33,
+		"category": "卵(有精卵)",
+		"defname": "EggAlligatorFertilized"
+	},
+	{
+		"abr": "アリゲーターの卵(無精卵)",
+		"price": 28,
+		"category": "卵(無精卵)",
+		"defname": "EggAlligatorUnfertilized"
+	},
+	{
+		"abr": "アリゲーターの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Alligator"
+	},
+	{
+		"abr": "アルファスランボの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_AlphaThrumbo"
+	},
+	{
+		"abr": "アルファスランボの角",
+		"price": 5000,
+		"category": "その他",
+		"defname": "AlphaThrumboHorn"
+	},
+	{
+		"abr": "アルマジロ",
+		"price": 167,
+		"category": "家畜",
+		"defname": "Armadillo"
+	},
+	{
+		"abr": "アルマジロの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Armadillo"
+	},
+	{
+		"abr": "アルマジロの革",
+		"price": 5,
+		"category": "革",
+		"defname": "Leather_Armadillo"
+	},
+	{
+		"abr": "イグアナの卵(無精卵)",
+		"price": 28,
+		"category": "卵(無精卵)",
+		"defname": "EggIguanaUnfertilized"
+	},
+	{
+		"abr": "イシガニ",
+		"price": 133,
+		"category": "家畜",
+		"defname": "StoneCrab"
+	},
+	{
+		"abr": "イシガニの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_StoneCrab"
+	},
+	{
+		"abr": "ウシガエル",
+		"price": 100,
+		"category": "家畜",
+		"defname": "Bullfrog"
+	},
+	{
+		"abr": "ウシガエルの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Bullfrog"
+	},
+	{
+		"abr": "ウズラ",
+		"price": 50,
+		"category": "家畜",
+		"defname": "Quail"
+	},
+	{
+		"abr": "ウズラの卵(有精卵)",
+		"price": 18,
+		"category": "卵(有精卵)",
+		"defname": "EggQuailFertilized"
+	},
+	{
+		"abr": "ウズラの卵(無精卵)",
+		"price": 12,
+		"category": "卵(無精卵)",
+		"defname": "EggQuailUnfertilized"
+	},
+	{
+		"abr": "ウミガメ",
+		"price": 417,
+		"category": "家畜",
+		"defname": "SeaTurtle"
+	},
+	{
+		"abr": "ウミガメの卵(有精卵)",
+		"price": 33,
+		"category": "卵(有精卵)",
+		"defname": "EggSeaTurtleFertilized"
+	},
+	{
+		"abr": "ウミガメの卵(無精卵)",
+		"price": 15,
+		"category": "卵(無精卵)",
+		"defname": "EggSeaTurtleUnfertilized"
+	},
+	{
+		"abr": "ウミガメの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_SeaTurtle"
+	},
+	{
+		"abr": "エミューの卵(無精卵)",
+		"price": 20,
+		"category": "卵(無精卵)",
+		"defname": "EggEmuUnfertilized"
+	},
+	{
+		"abr": "オオトカゲ",
+		"price": 292,
+		"category": "家畜",
+		"defname": "MonitorLizard"
+	},
+	{
+		"abr": "オオトカゲの卵(有精卵)",
+		"price": 43,
+		"category": "卵(有精卵)",
+		"defname": "EggMonitorLizardFertilized"
+	},
+	{
+		"abr": "オオトカゲの卵(無精卵)",
+		"price": 15,
+		"category": "卵(無精卵)",
+		"defname": "EggMonitorLizardUnfertilized"
+	},
+	{
+		"abr": "オオトカゲの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_MonitorLizard"
+	},
+	{
+		"abr": "オオヘラジカ",
+		"price": 625,
+		"category": "家畜",
+		"defname": "Moose"
+	},
+	{
+		"abr": "オオヘラジカの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Moose"
+	},
+	{
+		"abr": "カジキ",
+		"price": 47,
+		"category": "魚",
+		"defname": "Fish_Marlin"
+	},
+	{
+		"abr": "カバ",
+		"price": 1000,
+		"category": "家畜",
+		"defname": "Hippo"
+	},
+	{
+		"abr": "カバの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Hippo"
+	},
+	{
+		"abr": "カバの革",
+		"price": 6,
+		"category": "革",
+		"defname": "Leather_Hippo"
+	},
+	{
+		"abr": "カメの卵(無精卵)",
+		"price": 28,
+		"category": "卵(無精卵)",
+		"defname": "EggTortoiseUnfertilized"
+	},
+	{
+		"abr": "カラス",
+		"price": 50,
+		"category": "家畜",
+		"defname": "Crow"
+	},
+	{
+		"abr": "カラスの卵(有精卵)",
+		"price": 18,
+		"category": "卵(有精卵)",
+		"defname": "EggCrowFertilized"
+	},
+	{
+		"abr": "カラスの卵(無精卵)",
+		"price": 12,
+		"category": "卵(無精卵)",
+		"defname": "EggCrowUnfertilized"
+	},
+	{
+		"abr": "カワウソ",
+		"price": 100,
+		"category": "家畜",
+		"defname": "Otter"
+	},
+	{
+		"abr": "カワウソの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Otter"
+	},
+	{
+		"abr": "クジャク",
+		"price": 300,
+		"category": "家畜",
+		"defname": "Peacock"
+	},
+	{
+		"abr": "クジャクの卵(有精卵)",
+		"price": 43,
+		"category": "卵(有精卵)",
+		"defname": "EggPeacockFertilized"
+	},
+	{
+		"abr": "クジャクの卵(無精卵)",
+		"price": 12,
+		"category": "卵(無精卵)",
+		"defname": "EggPeacockUnfertilized"
+	},
+	{
+		"abr": "クズリ",
+		"price": 250,
+		"category": "家畜",
+		"defname": "Wolverine"
+	},
+	{
+		"abr": "クズリの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Wolverine"
+	},
+	{
+		"abr": "グッピー",
+		"price": 42,
+		"category": "魚",
+		"defname": "Fish_Guppy"
+	},
+	{
+		"abr": "グレートウルフ",
+		"price": 833,
+		"category": "家畜",
+		"defname": "Wolf_Great"
+	},
+	{
+		"abr": "グレートウルフの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Wolf_Great"
+	},
+	{
+		"abr": "コブラの卵(無精卵)",
+		"price": 23,
+		"category": "卵(無精卵)",
+		"defname": "EggCobraUnfertilized"
+	},
+	{
+		"abr": "ゴリラ",
+		"price": 1000,
+		"category": "家畜",
+		"defname": "Gorilla"
+	},
+	{
+		"abr": "ゴリラの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Gorilla"
+	},
+	{
+		"abr": "コロッサストード",
+		"price": 367,
+		"category": "家畜",
+		"defname": "ColossusToad"
+	},
+	{
+		"abr": "コロッサストードの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_ColossusToad"
+	},
+	{
+		"abr": "コンゴウインコ",
+		"price": 150,
+		"category": "家畜",
+		"defname": "Macaw"
+	},
+	{
+		"abr": "コンゴウインコの卵(有精卵)",
+		"price": 18,
+		"category": "卵(有精卵)",
+		"defname": "EggMacawFertilized"
+	},
+	{
+		"abr": "コンゴウインコの卵(無精卵)",
+		"price": 12,
+		"category": "卵(無精卵)",
+		"defname": "EggMacawUnfertilized"
+	},
+	{
+		"abr": "サイロキャップ",
+		"price": 17,
+		"category": "ドラッグ",
+		"defname": "Drug_Psilocap"
+	},
+	{
+		"abr": "サギ",
+		"price": 200,
+		"category": "家畜",
+		"defname": "Heron"
+	},
+	{
+		"abr": "サケ",
+		"price": 11,
+		"category": "魚",
+		"defname": "Fish_Salmon"
+	},
+	{
+		"abr": "シールドジェネレーター",
+		"price": 3833,
+		"category": "その他",
+		"defname": "GravshipShieldGenerator"
+	},
+	{
+		"abr": "シグナルジャマー",
+		"price": 4767,
+		"category": "その他",
+		"defname": "SignalJammer"
+	},
+	{
+		"abr": "シチメンチョウの卵(無精卵)",
+		"price": 12,
+		"category": "卵(無精卵)",
+		"defname": "EggTurkeyUnfertilized"
+	},
+	{
+		"abr": "シミターキャット",
+		"price": 833,
+		"category": "家畜",
+		"defname": "Cat_Scimitar"
+	},
+	{
+		"abr": "シミターキャットの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Cat_Scimitar"
+	},
+	{
+		"abr": "ジャコウウシ",
+		"price": 617,
+		"category": "家畜",
+		"defname": "Muskox"
+	},
+	{
+		"abr": "ジャコウウシの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Muskox"
+	},
+	{
+		"abr": "ジャコウウシ毛",
+		"price": 4,
+		"category": "毛",
+		"defname": "WoolMuskox"
+	},
+	{
+		"abr": "シャトルエンジン",
+		"price": 4167,
+		"category": "加工品",
+		"defname": "ShuttleEngine"
+	},
+	{
+		"abr": "スズメ",
+		"price": 50,
+		"category": "家畜",
+		"defname": "Sparrow"
+	},
+	{
+		"abr": "スズメの卵(有精卵)",
+		"price": 18,
+		"category": "卵(有精卵)",
+		"defname": "EggSparrowFertilized"
+	},
+	{
+		"abr": "スズメの卵(無精卵)",
+		"price": 12,
+		"category": "卵(無精卵)",
+		"defname": "EggSparrowUnfertilized"
+	},
+	{
+		"abr": "スランボの長毛皮",
+		"price": 33,
+		"category": "革",
+		"defname": "Leather_AlphaThrumbo"
+	},
+	{
+		"abr": "セイウチ",
 		"price": 500,
-		"category": "",
-		"defname": "BasicRecharger"
+		"category": "家畜",
+		"defname": "Walrus"
 	},
 	{
-		"abr": "大型メカ充電器",
-		"price": 950,
-		"category": "",
-		"defname": "StandardRecharger"
+		"abr": "セイウチの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Walrus"
 	},
+	{
+		"abr": "セレブレックスノード",
+		"price": 8333,
+		"category": "ユーティリティ",
+		"defname": "Apparel_CerebrexNode"
+	},
+	{
+		"abr": "ダチョウの卵(無精卵)",
+		"price": 25,
+		"category": "卵(無精卵)",
+		"defname": "EggOstrichUnfertilized"
+	},
+	{
+		"abr": "タラ",
+		"price": 11,
+		"category": "魚",
+		"defname": "Fish_Cod"
+	},
+	{
+		"abr": "ティラピア",
+		"price": 11,
+		"category": "魚",
+		"defname": "Fish_Tilapia"
+	},
+	{
+		"abr": "トキシフィッシュ",
+		"price": 2,
+		"category": "魚",
+		"defname": "Fish_Toxfish"
+	},
+	{
+		"abr": "ドッグフィッシュ",
+		"price": 21,
+		"category": "魚",
+		"defname": "Fish_Dogfish"
+	},
+	{
+		"abr": "トラ",
+		"price": 750,
+		"category": "家畜",
+		"defname": "Tiger"
+	},
+	{
+		"abr": "トラの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Tiger"
+	},
+	{
+		"abr": "ナマズ",
+		"price": 43,
+		"category": "魚",
+		"defname": "Fish_Catfish"
+	},
+	{
+		"abr": "ハイブクイーン",
+		"price": 3333,
+		"category": "家畜",
+		"defname": "HiveQueen"
+	},
+	{
+		"abr": "パイロットai亜人格コア",
+		"price": 1625,
+		"category": "その他",
+		"defname": "PilotSubpersonaCore"
+	},
+	{
+		"abr": "パイロットアシスタント",
+		"price": 975,
+		"category": "強化",
+		"defname": "PilotAssistant"
+	},
+	{
+		"abr": "パイロットコンソール",
+		"price": 617,
+		"category": "その他",
+		"defname": "PilotConsole"
+	},
+	{
+		"abr": "ハクチョウ",
+		"price": 333,
+		"category": "家畜",
+		"defname": "Swan"
+	},
+	{
+		"abr": "ハクチョウの卵(有精卵)",
+		"price": 25,
+		"category": "卵(有精卵)",
+		"defname": "EggSwanFertilized"
+	},
+	{
+		"abr": "ハクチョウの卵(無精卵)",
+		"price": 12,
+		"category": "卵(無精卵)",
+		"defname": "EggSwanUnfertilized"
+	},
+	{
+		"abr": "ハゲタカ",
+		"price": 200,
+		"category": "家畜",
+		"defname": "Vulture"
+	},
+	{
+		"abr": "ハゲタカの卵(有精卵)",
+		"price": 27,
+		"category": "卵(有精卵)",
+		"defname": "EggVultureFertilized"
+	},
+	{
+		"abr": "ハゲタカの卵(無精卵)",
+		"price": 12,
+		"category": "卵(無精卵)",
+		"defname": "EggVultureUnfertilized"
+	},
+	{
+		"abr": "バス",
+		"price": 11,
+		"category": "魚",
+		"defname": "Fish_Bass"
+	},
+	{
+		"abr": "バッタ",
+		"price": 200,
+		"category": "家畜",
+		"defname": "Locust"
+	},
+	{
+		"abr": "パンダ",
+		"price": 667,
+		"category": "家畜",
+		"defname": "Panda"
+	},
+	{
+		"abr": "ハンタートラップ",
+		"price": 302,
+		"category": "防衛",
+		"defname": "HunterDroneTrap"
+	},
+	{
+		"abr": "ハンターパック",
+		"price": 508,
+		"category": "ユーティリティ",
+		"defname": "Apparel_PackHunter"
+	},
+	{
+		"abr": "パンダの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Panda"
+	},
+	{
+		"abr": "ビームグレイザー",
+		"price": 1875,
+		"category": "遠距離武器",
+		"defname": "Gun_BeamGraser"
+	},
+	{
+		"abr": "ビームリピーター",
+		"price": 2058,
+		"category": "遠距離武器",
+		"defname": "Gun_BeamRepeater"
+	},
+	{
+		"abr": "ヒクイドリの卵(無精卵)",
+		"price": 23,
+		"category": "卵(無精卵)",
+		"defname": "EggCassowaryUnfertilized"
+	},
+	{
+		"abr": "ピラニア",
+		"price": 67,
+		"category": "魚",
+		"defname": "Fish_Piranha"
+	},
+	{
+		"abr": "ヒラメ",
+		"price": 37,
+		"category": "魚",
+		"defname": "Fish_Flounder"
+	},
+	{
+		"abr": "フラミンゴ",
+		"price": 200,
+		"category": "家畜",
+		"defname": "Flamingo"
+	},
+	{
+		"abr": "フラミンゴの卵(有精卵)",
+		"price": 43,
+		"category": "卵(有精卵)",
+		"defname": "EggFlamingoFertilized"
+	},
+	{
+		"abr": "フラミンゴの卵(無精卵)",
+		"price": 12,
+		"category": "卵(無精卵)",
+		"defname": "EggFlamingoUnfertilized"
+	},
+	{
+		"abr": "ブルーフィッシュ",
+		"price": 11,
+		"category": "魚",
+		"defname": "Fish_Bluefish"
+	},
+	{
+		"abr": "プレーリードッグ",
+		"price": 50,
+		"category": "家畜",
+		"defname": "PrairieDog"
+	},
+	{
+		"abr": "プレーリードッグの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_PrairieDog"
+	},
+	{
+		"abr": "フロストフィッシュ",
+		"price": 57,
+		"category": "魚",
+		"defname": "Fish_Frostfish"
+	},
+	{
+		"abr": "ペンギン",
+		"price": 250,
+		"category": "家畜",
+		"defname": "Penguin"
+	},
+	{
+		"abr": "ペンギンの卵(有精卵)",
+		"price": 42,
+		"category": "卵(有精卵)",
+		"defname": "EggPenguinFertilized"
+	},
+	{
+		"abr": "ペンギンの卵(無精卵)",
+		"price": 12,
+		"category": "卵(無精卵)",
+		"defname": "EggPenguinUnfertilized"
+	},
+	{
+		"abr": "ボッグハウンド",
+		"price": 367,
+		"category": "家畜",
+		"defname": "BogHound"
+	},
+	{
+		"abr": "ボッグハウンドの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_BogHound"
+	},
+	{
+		"abr": "マグロ",
+		"price": 53,
+		"category": "魚",
+		"defname": "Fish_Tuna"
+	},
+	{
+		"abr": "マストドン",
+		"price": 1233,
+		"category": "家畜",
+		"defname": "Mastodon"
+	},
+	{
+		"abr": "マストドンの牙",
+		"price": 200,
+		"category": "その他",
+		"defname": "MastodonTusk"
+	},
+	{
+		"abr": "マストドンの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Mastodon"
+	},
+	{
+		"abr": "マストドンの革",
+		"price": 5,
+		"category": "革",
+		"defname": "Leather_Mastodon"
+	},
+	{
+		"abr": "マストドン毛",
+		"price": 4,
+		"category": "毛",
+		"defname": "WoolMastodon"
+	},
+	{
+		"abr": "ミンク",
+		"price": 267,
+		"category": "家畜",
+		"defname": "Mink"
+	},
+	{
+		"abr": "ミンクの毛皮",
+		"price": 9,
+		"category": "革",
+		"defname": "Leather_Mink"
+	},
+	{
+		"abr": "ミンクの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Mink"
+	},
+	{
+		"abr": "メガハタネズミ",
+		"price": 417,
+		"category": "家畜",
+		"defname": "Megavole"
+	},
+	{
+		"abr": "メガハタネズミの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Megavole"
+	},
+	{
+		"abr": "ヤドカリ",
+		"price": 100,
+		"category": "家畜",
+		"defname": "HermitCrab"
+	},
+	{
+		"abr": "ヤドカリの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_HermitCrab"
+	},
+	{
+		"abr": "ヤマアラシ",
+		"price": 58,
+		"category": "家畜",
+		"defname": "Porcupine"
+	},
+	{
+		"abr": "ヤマアラシの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Porcupine"
+	},
+	{
+		"abr": "ユニークなグレートボウ",
+		"price": 174,
+		"category": "ユニーク武器",
+		"defname": "Bow_Great_Unique"
+	},
+	{
+		"abr": "ユニークなサブマシンガン",
+		"price": 592,
+		"category": "ユニーク武器",
+		"defname": "Gun_HeavySMG_Unique"
+	},
+	{
+		"abr": "ユニークなスナイパーライフル",
+		"price": 883,
+		"category": "ユニーク武器",
+		"defname": "Gun_SniperRifle_Unique"
+	},
+	{
+		"abr": "ユニークなチェーンショットガン",
+		"price": 675,
+		"category": "ユニーク武器",
+		"defname": "Gun_ChainShotgun_Unique"
+	},
+	{
+		"abr": "ユニークなチャージライフル",
+		"price": 1683,
+		"category": "ユニーク武器",
+		"defname": "Gun_ChargeRifle_Unique"
+	},
+	{
+		"abr": "ユニークなチャージランス",
+		"price": 2258,
+		"category": "ユニーク武器",
+		"defname": "Gun_ChargeLance_Unique"
+	},
+	{
+		"abr": "ユニークなビームリピーター",
+		"price": 2058,
+		"category": "ユニーク武器",
+		"defname": "Gun_BeamRepeater_Unique"
+	},
+	{
+		"abr": "ユニークなヘルキャットライフル",
+		"price": 825,
+		"category": "ユニーク武器",
+		"defname": "Gun_HellcatRifle_Unique"
+	},
+	{
+		"abr": "ユニークなボルトアクションライフル",
+		"price": 425,
+		"category": "ユニーク武器",
+		"defname": "Gun_BoltActionRifle_Unique"
+	},
+	{
+		"abr": "ユニークなミニガン",
+		"price": 1933,
+		"category": "ユニーク武器",
+		"defname": "Gun_Minigun_Unique"
+	},
+	{
+		"abr": "ユニークなリボルバー",
+		"price": 226,
+		"category": "ユニーク武器",
+		"defname": "Gun_Revolver_Unique"
+	},
+	{
+		"abr": "ユニークな軍用ライフル",
+		"price": 800,
+		"category": "ユニーク武器",
+		"defname": "Gun_AssaultRifle_Unique"
+	},
+	{
+		"abr": "ユニークな軽機関銃",
+		"price": 708,
+		"category": "ユニーク武器",
+		"defname": "Gun_LMG_Unique"
+	},
+	{
+		"abr": "ヨウガンツムリ",
+		"price": 300,
+		"category": "家畜",
+		"defname": "LavaSnail"
+	},
+	{
+		"abr": "ヨウガンツムリの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_LavaSnail"
+	},
+	{
+		"abr": "ルリツグミ",
+		"price": 50,
+		"category": "家畜",
+		"defname": "Bluebird"
+	},
+	{
+		"abr": "ルリツグミの卵(有精卵)",
+		"price": 18,
+		"category": "卵(有精卵)",
+		"defname": "EggBluebirdFertilized"
+	},
+	{
+		"abr": "ルリツグミの卵(無精卵)",
+		"price": 12,
+		"category": "卵(無精卵)",
+		"defname": "EggBluebirdUnfertilized"
+	},
+	{
+		"abr": "ワスプトラップ",
+		"price": 133,
+		"category": "防衛",
+		"defname": "WaspDroneTrap"
+	},
+	{
+		"abr": "古代の発掘用爆薬",
+		"price": 18,
+		"category": "その他",
+		"defname": "AncientMiningCharge"
+	},
+	{
+		"abr": "地図",
+		"price": 300,
+		"category": "本",
+		"defname": "Map"
+	},
+	{
+		"abr": "大型スラスター",
+		"price": 1267,
+		"category": "その他",
+		"defname": "LargeThruster"
+	},
+	{
+		"abr": "子供用真空スーツ",
+		"price": 575,
+		"category": "アーマー",
+		"defname": "Apparel_VacsuitChildren"
+	},
+	{
+		"abr": "小型スラスター",
+		"price": 842,
+		"category": "その他",
+		"defname": "SmallThruster"
+	},
+	{
+		"abr": "幼虫",
+		"price": 58,
+		"category": "家畜",
+		"defname": "Larva"
+	},
+	{
+		"abr": "彫像",
+		"price": 342,
+		"category": "芸術品",
+		"defname": "Statue"
+	},
+	{
+		"abr": "燃料最適化装置",
+		"price": 2583,
+		"category": "その他",
+		"defname": "FuelOptimizer"
+	},
+	{
+		"abr": "真空スーツ",
+		"price": 1033,
+		"category": "アーマー",
+		"defname": "Apparel_Vacsuit"
+	},
+	{
+		"abr": "真空スーツヘルメット",
+		"price": 323,
+		"category": "頭装備",
+		"defname": "Apparel_VacsuitHelmet"
+	},
+	{
+		"abr": "真空岩ブロック",
+		"price": 3,
+		"category": "石材",
+		"defname": "BlocksVacstone"
+	},
+	{
+		"abr": "知覚促進器",
+		"price": 667,
+		"category": "ドラッグ",
+		"defname": "SentienceCatalyst"
+	},
+	{
+		"abr": "血液加温器",
+		"price": 183,
+		"category": "グール",
+		"defname": "BloodWarmer"
+	},
+	{
+		"abr": "酸素ポンプ",
+		"price": 333,
+		"category": "その他",
+		"defname": "OxygenPump"
+	},
+	{
+		"abr": "重力エンジン",
+		"price": 3333,
+		"category": "その他",
+		"defname": "GravEngine"
+	},
+	{
+		"abr": "重力コア",
+		"price": 2083,
+		"category": "加工品",
+		"defname": "Gravcore"
+	},
+	{
+		"abr": "重力コア・パワーセル",
+		"price": 3300,
+		"category": "その他",
+		"defname": "GravcorePowerCell"
+	},
+	{
+		"abr": "重力域拡張器",
+		"price": 2683,
+		"category": "その他",
+		"defname": "GravFieldExtender"
+	},
+	{
+		"abr": "重力軽量パネル",
+		"price": 7,
+		"category": "原材料",
+		"defname": "GravlitePanel"
+	},
+	{
+		"abr": "黒曜石",
+		"price": 8,
+		"category": "原材料",
+		"defname": "Obsidian"
+	},
+	{
+		"abr": "子供服スタンド",
+		"price": 102,
+		"category": "家具",
+		"defname": "Building_KidOutfitStand"
+	},
+	{
+		"abr": "耐真空腺",
+		"price": 2050,
+		"category": "強化",
+		"defname": "VacskinGland"
+	},
+	{
+		"abr": "衣服スタンド",
+		"price": 119,
+		"category": "家具",
+		"defname": "Building_OutfitStand"
+	},
+	{
+		"abr": "aobaのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_AOBAFufu"
+	},
+	{
+		"abr": "arlenelibitinaのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_ALFufu"
+	},
+	{
+		"abr": "billdoorsのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_BillFufu"
+	},
+	{
+		"abr": "breadmoのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_BunFufu"
+	},
+	{
+		"abr": "fengxinziのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_FengxinziFufu"
+	},
+	{
+		"abr": "kv4_exのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_KVFufu"
+	},
+	{
+		"abr": "luximirのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_MirFufu"
+	},
+	{
+		"abr": "m.y.gのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_MoyuguFufu"
+	},
+	{
+		"abr": "mya萌羊のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_MyaFufu"
+	},
+	{
+		"abr": "zyszhaoのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_ZysFufu"
+	},
+	{
+		"abr": "アゼリアのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_AzaleaFufu"
+	},
+	{
+		"abr": "アンコットのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_AncotFufu"
+	},
+	{
+		"abr": "アンティのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_AntyFufu"
+	},
+	{
+		"abr": "ヴィヴィアンのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_VivianFufu"
+	},
+	{
+		"abr": "ヴェロニカのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_RabbieNicoFufu"
+	},
+	{
+		"abr": "エポナのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_EponaFufu"
+	},
+	{
+		"abr": "カリキャット・コージーのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_CaliCatFufu"
+	},
+	{
+		"abr": "キイロ勇者のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_KiiroFufu"
+	},
+	{
+		"abr": "サリー・ジャックラビットのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_RabbieJackFufu"
+	},
+	{
+		"abr": "シンダーのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_CinderFufu"
+	},
+	{
+		"abr": "セア・スピリットウィーバーのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_MihoFufu"
+	},
+	{
+		"abr": "ドラコニアンのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_DragonianFufu"
+	},
+	{
+		"abr": "ニャロンのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_NyaronFufu"
+	},
+	{
+		"abr": "ニュートロンのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_NeutronFufu"
+	},
+	{
+		"abr": "ネズミミミンチョのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_MinchoFufu"
+	},
+	{
+		"abr": "ハイビスカスのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_HibiscusFufu"
+	},
+	{
+		"abr": "パニエルのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_PanielFufu"
+	},
+	{
+		"abr": "マルのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_MaruFufu"
+	},
+	{
+		"abr": "ミリラのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_MiliraFufu"
+	},
+	{
+		"abr": "モモカのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_MomokaFufu"
+	},
+	{
+		"abr": "モヨのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_MoyoFufu"
+	},
+	{
+		"abr": "ユランのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_YuranFufu"
+	},
+	{
+		"abr": "ラレインスノーのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_SnowFufu"
+	},
+	{
+		"abr": "九月のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_JiuFufu"
+	},
+	{
+		"abr": "兎獣耳族ハナのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_HanaFufu"
+	},
+	{
+		"abr": "化猫獣耳ミコのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_MikoFufu"
+	},
+	{
+		"abr": "壊れかけパニエルのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_DPanielFufu"
+	},
+	{
+		"abr": "柠檬味厨刀のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_LemonFufu"
+	},
+	{
+		"abr": "柠檬茶のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_MonochaFufu"
+	},
+	{
+		"abr": "橘児のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_JillerFufu"
+	},
+	{
+		"abr": "歩児のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_BuerFufu"
+	},
+	{
+		"abr": "氷竜人ユキのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_YukiFufu"
+	},
+	{
+		"abr": "犬獣耳族クロのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_KuroFufu"
+	},
+	{
+		"abr": "狐獣耳族コンのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_KongFufu"
+	},
+	{
+		"abr": "狼獣耳族シロのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_SiroFufu"
+	},
+	{
+		"abr": "猫鲨のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_CatsharkFufu"
+	},
+	{
+		"abr": "甲児のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_JiaerFufu"
+	},
+	{
+		"abr": "白児のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_BaierFufu"
+	},
+	{
+		"abr": "白牡丹のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_BaimudanFufu"
+	},
+	{
+		"abr": "白芷のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_BaizhiFufu"
+	},
+	{
+		"abr": "秋辞のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_QiuciFufu"
+	},
+	{
+		"abr": "窗边的东楠枝のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_DongnanzhiFufu"
+	},
+	{
+		"abr": "紫蛱蝶のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_ZixiadieFufu"
+	},
+	{
+		"abr": "緑煙蘿のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_LoongFufu"
+	},
+	{
+		"abr": "羊獣角族アオメのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_AomeFufu"
+	},
+	{
+		"abr": "羊獣角族アカメのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_AkameFufu"
+	},
+	{
+		"abr": "蛛児のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_ZhuerFufu"
+	},
+	{
+		"abr": "闊児のぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_KuoerFufu"
+	},
+	{
+		"abr": "鬼人コヒメのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_KohimeFufu"
+	},
+	{
+		"abr": "黒衣のアポクリトンのぬいぐるみ",
+		"price": 667,
+		"category": "家具",
+		"defname": "GD_ApocritonFufu"
+	},
+	{
+		"abr": "《五谷学》",
+		"price": 2500,
+		"category": "モエロトル研学書籍",
+		"defname": "Axolotl_Book_ClassicOfCereals"
+	},
+	{
+		"abr": "《先天罡気》",
+		"price": 3000,
+		"category": "モエロトル内功書籍",
+		"defname": "Axolotl_Book_PrimalQiMethod"
+	},
+	{
+		"abr": "《冶鋳真伝》",
+		"price": 3500,
+		"category": "モエロトル研学書籍",
+		"defname": "Axolotl_Book_AnnalsOfTheForge"
+	},
+	{
+		"abr": "《太学経》",
+		"price": 5333,
+		"category": "モエロトル研学書籍",
+		"defname": "Axolotl_Book_ClassicOfErudition"
+	},
+	{
+		"abr": "《御剣訣》",
+		"price": 4333,
+		"category": "モエロトル外功書籍",
+		"defname": "Axolotl_Book_SwordParryArt"
+	},
+	{
+		"abr": "《本草綱目》",
+		"price": 3500,
+		"category": "モエロトル研学書籍",
+		"defname": "Axolotl_Book_GrandHerbal"
+	},
+	{
+		"abr": "《止水法》",
+		"price": 3000,
+		"category": "モエロトル内功書籍",
+		"defname": "Axolotl_Book_StillWaterSutra"
+	},
+	{
+		"abr": "《源流之書・第一巻》",
+		"price": 833,
+		"category": "モエロトル派系書籍 - 水",
+		"defname": "Axolotl_BookWater_1Level"
+	},
+	{
+		"abr": "《源流之書・第三巻》",
+		"price": 2000,
+		"category": "モエロトル派系書籍 - 水",
+		"defname": "Axolotl_BookWater_3Level"
+	},
+	{
+		"abr": "《源流之書・第二巻》",
+		"price": 1333,
+		"category": "モエロトル派系書籍 - 水",
+		"defname": "Axolotl_BookWater_2Level"
+	},
+	{
+		"abr": "《源流之書・第五巻》",
+		"price": 5333,
+		"category": "モエロトル派系書籍 - 水",
+		"defname": "Axolotl_BookWater_5Level"
+	},
+	{
+		"abr": "《源流之書・第四巻》",
+		"price": 3333,
+		"category": "モエロトル派系書籍 - 水",
+		"defname": "Axolotl_BookWater_4Level"
+	},
+	{
+		"abr": "《灼炎之書・第一巻》",
+		"price": 833,
+		"category": "モエロトル派系書籍 - 火",
+		"defname": "Axolotl_BookFire_1Level"
+	},
+	{
+		"abr": "《灼炎之書・第三巻》",
+		"price": 2000,
+		"category": "モエロトル派系書籍 - 火",
+		"defname": "Axolotl_BookFire_3Level"
+	},
+	{
+		"abr": "《灼炎之書・第二巻》",
+		"price": 1333,
+		"category": "モエロトル派系書籍 - 火",
+		"defname": "Axolotl_BookFire_2Level"
+	},
+	{
+		"abr": "《灼炎之書・第五巻》",
+		"price": 5333,
+		"category": "モエロトル派系書籍 - 火",
+		"defname": "Axolotl_BookFire_5Level"
+	},
+	{
+		"abr": "《灼炎之書・第四巻》",
+		"price": 3333,
+		"category": "モエロトル派系書籍 - 火",
+		"defname": "Axolotl_BookFire_4Level"
+	},
+	{
+		"abr": "《無量歩》",
+		"price": 3000,
+		"category": "モエロトル軽功書籍",
+		"defname": "Axolotl_Book_BoundlessCloudTread"
+	},
+	{
+		"abr": "《燃心法》",
+		"price": 3000,
+		"category": "モエロトル内功書籍",
+		"defname": "Axolotl_Book_BlazingHeartSutra"
+	},
+	{
+		"abr": "《百花之書・第一巻》",
+		"price": 833,
+		"category": "モエロトル派系書籍 - 花",
+		"defname": "Axolotl_BookFlower_1Level"
+	},
+	{
+		"abr": "《百花之書・第三巻》",
+		"price": 2000,
+		"category": "モエロトル派系書籍 - 花",
+		"defname": "Axolotl_BookFlower_3Level"
+	},
+	{
+		"abr": "《百花之書・第二巻》",
+		"price": 1333,
+		"category": "モエロトル派系書籍 - 花",
+		"defname": "Axolotl_BookFlower_2Level"
+	},
+	{
+		"abr": "《百花之書・第五巻》",
+		"price": 5333,
+		"category": "モエロトル派系書籍 - 花",
+		"defname": "Axolotl_BookFlower_5Level"
+	},
+	{
+		"abr": "《百花之書・第四巻》",
+		"price": 3333,
+		"category": "モエロトル派系書籍 - 花",
+		"defname": "Axolotl_BookFlower_4Level"
+	},
+	{
+		"abr": "《碧影決》",
+		"price": 3500,
+		"category": "モエロトル外功書籍",
+		"defname": "Axolotl_Book_JadeShadowArt"
+	},
+	{
+		"abr": "《磐岩之書・第一巻》",
+		"price": 833,
+		"category": "モエロトル派系書籍 - 岩",
+		"defname": "Axolotl_BookRock_1Level"
+	},
+	{
+		"abr": "《磐岩之書・第三巻》",
+		"price": 2000,
+		"category": "モエロトル派系書籍 - 岩",
+		"defname": "Axolotl_BookRock_3Level"
+	},
+	{
+		"abr": "《磐岩之書・第二巻》",
+		"price": 1333,
+		"category": "モエロトル派系書籍 - 岩",
+		"defname": "Axolotl_BookRock_2Level"
+	},
+	{
+		"abr": "《磐岩之書・第五巻》",
+		"price": 5333,
+		"category": "モエロトル派系書籍 - 岩",
+		"defname": "Axolotl_BookRock_5Level"
+	},
+	{
+		"abr": "《磐岩之書・第四巻》",
+		"price": 3333,
+		"category": "モエロトル派系書籍 - 岩",
+		"defname": "Axolotl_BookRock_4Level"
+	},
+	{
+		"abr": "《神行千里》",
+		"price": 3000,
+		"category": "モエロトル軽功書籍",
+		"defname": "Axolotl_Book_Thousand-LeagueDivineStride"
+	},
+	{
+		"abr": "《蓄勢決》",
+		"price": 3500,
+		"category": "モエロトル外功書籍",
+		"defname": "Axolotl_Book_PowerAccumulationArt"
+	},
+	{
+		"abr": "《農耕学》",
+		"price": 2500,
+		"category": "モエロトル研学書籍",
+		"defname": "Axolotl_Book_TreatiseOnAgrarianArts"
+	},
+	{
+		"abr": "《集気要決》",
+		"price": 3000,
+		"category": "モエロトル内功書籍",
+		"defname": "Axolotl_Book_BreathingMethod"
+	},
+	{
+		"abr": "《雲来跡》",
+		"price": 3000,
+		"category": "モエロトル軽功書籍",
+		"defname": "Axolotl_Book_PhantomCloudTrace"
+	},
+	{
+		"abr": "《雷霆之書・第一巻》",
+		"price": 833,
+		"category": "モエロトル派系書籍 - 雷",
+		"defname": "Axolotl_BookThunder_1Level"
+	},
+	{
+		"abr": "《雷霆之書・第三巻》",
+		"price": 2000,
+		"category": "モエロトル派系書籍 - 雷",
+		"defname": "Axolotl_BookThunder_3Level"
+	},
+	{
+		"abr": "《雷霆之書・第二巻》",
+		"price": 1333,
+		"category": "モエロトル派系書籍 - 雷",
+		"defname": "Axolotl_BookThunder_2Level"
+	},
+	{
+		"abr": "《雷霆之書・第五巻》",
+		"price": 5333,
+		"category": "モエロトル派系書籍 - 雷",
+		"defname": "Axolotl_BookThunder_5Level"
+	},
+	{
+		"abr": "《雷霆之書・第四巻》",
+		"price": 3333,
+		"category": "モエロトル派系書籍 - 雷",
+		"defname": "Axolotl_BookThunder_4Level"
+	},
+	{
+		"abr": "a.j.m9",
+		"price": 1408,
+		"category": "遠距離武器",
+		"defname": "KJW_AJM"
+	},
+	{
+		"abr": "ai管理者",
+		"price": 7833,
+		"category": "生産物",
+		"defname": "FM_AIManager"
+	},
+	{
+		"abr": "asエリート姫騎士鎧",
+		"price": 5542,
+		"category": "AS 衣装",
+		"defname": "AS_WAE_EliteKnightDress"
+	},
+	{
+		"abr": "asエリート姫騎士鎧（黒）",
+		"price": 5542,
+		"category": "AS 衣装",
+		"defname": "AS_WAE_EliteKnightDressBK"
+	},
+	{
+		"abr": "asエルフナノスーツ",
+		"price": 4208,
+		"category": "AS 衣装",
+		"defname": "AS_WHE_NanoSuits"
+	},
+	{
+		"abr": "asエルフの子供用民族衣装",
+		"price": 203,
+		"category": "AS 衣装",
+		"defname": "AS_WAE_HKNationalCostume_Child"
+	},
+	{
+		"abr": "asエルフの子供用民族衣装(レプリカ)",
+		"price": 151,
+		"category": "AS 衣装",
+		"defname": "AS_WAE_HKNationalCostume_Child_Replica"
+	},
+	{
+		"abr": "asエルフの民族衣装",
+		"price": 203,
+		"category": "AS 衣装",
+		"defname": "AS_WAE_HKNationalCostume"
+	},
+	{
+		"abr": "asエルフの民族衣装(レプリカ)",
+		"price": 151,
+		"category": "AS 衣装",
+		"defname": "AS_WAE_HKNationalCostume_Replica"
+	},
+	{
+		"abr": "asエルフの軽装鎧",
+		"price": 2625,
+		"category": "AS 衣装",
+		"defname": "AS_WAE_HKArcherArmor"
+	},
+	{
+		"abr": "asエルブンコンパウンドボウ",
+		"price": 6167,
+		"category": "遠距離武器",
+		"defname": "AS_ElvenCompoundBow"
+	},
+	{
+		"abr": "asエルブンボウ",
+		"price": 658,
+		"category": "遠距離武器",
+		"defname": "AS_ElvenBow"
+	},
+	{
+		"abr": "asエルフ貴族のコート",
+		"price": 1917,
+		"category": "AS 衣装",
+		"defname": "AS_WAE_NobleCoat"
+	},
+	{
+		"abr": "asエルフ貴族のコート（黒）",
+		"price": 1917,
+		"category": "AS 衣装",
+		"defname": "AS_WAE_NobleCoatBK"
+	},
+	{
+		"abr": "asコンパウンドボウ",
+		"price": 2533,
+		"category": "遠距離武器",
+		"defname": "AS_CompoundBow"
+	},
+	{
+		"abr": "asシールドスカーフ",
+		"price": 967,
+		"category": "AS 衣装",
+		"defname": "AS_AT_ShieldScarf"
+	},
+	{
+		"abr": "asシールドロングスカーフ",
+		"price": 967,
+		"category": "AS 衣装",
+		"defname": "AS_AT_ShieldLongScarf"
+	},
+	{
+		"abr": "asショートブレード",
+		"price": 182,
+		"category": "白兵戦武器",
+		"defname": "AS_WAE_ShorBlade"
+	},
+	{
+		"abr": "asスカーフ",
+		"price": 185,
+		"category": "AS 衣装",
+		"defname": "AS_Common_PlainScarf"
+	},
+	{
+		"abr": "asスカウトアーマー（古代エルフ）",
+		"price": 1733,
+		"category": "AS 衣装",
+		"defname": "AS_WAE_RengerArmor"
+	},
+	{
+		"abr": "asタイツスーツ",
+		"price": 241,
+		"category": "AS 衣装",
+		"defname": "AS_Common_TighetsSuit"
+	},
+	{
+		"abr": "asツーハンドウォーアックス",
+		"price": 1275,
+		"category": "白兵戦武器",
+		"defname": "AS_WAE_TwoHandWarAxe"
+	},
+	{
+		"abr": "asハードフェザーヘルム",
+		"price": 1450,
+		"category": "AS 衣装",
+		"defname": "AS_WAE_FeatherHardHelm"
+	},
+	{
+		"abr": "asハイパーシールドスカーフ",
+		"price": 2042,
+		"category": "AS 衣装",
+		"defname": "AS_WHE_HyperShieldScarf"
+	},
+	{
+		"abr": "asハイパーシールドロングスカーフ",
+		"price": 2042,
+		"category": "AS 衣装",
+		"defname": "AS_WHE_HyperShieldLongScarf"
+	},
+	{
+		"abr": "asフェザーヘルム",
+		"price": 1400,
+		"category": "AS 衣装",
+		"defname": "AS_WAE_FeatherHelm"
+	},
+	{
+		"abr": "asロングスカーフ",
+		"price": 185,
+		"category": "AS 衣装",
+		"defname": "AS_Common_PlainLongScarf"
+	},
+	{
+		"abr": "as一枚布",
+		"price": 161,
+		"category": "AS 衣装",
+		"defname": "AS_Common_Tribal"
+	},
+	{
+		"abr": "as姫騎士鎧",
+		"price": 3542,
+		"category": "AS 衣装",
+		"defname": "AS_WAE_KnightDress"
+	},
+	{
+		"abr": "as子供用タイツスーツ",
+		"price": 241,
+		"category": "AS 衣装",
+		"defname": "AS_Common_TighetsSuit_Child"
+	},
+	{
+		"abr": "as子供用簡素な下着",
+		"price": 109,
+		"category": "AS 衣装",
+		"defname": "AS_Common_PlainUnderwear_Child"
+	},
+	{
+		"abr": "as子供用簡素な靴下",
+		"price": 105,
+		"category": "AS 衣装",
+		"defname": "AS_Common_PlainStoking_Child"
+	},
+	{
+		"abr": "as星騎士の両手剣",
+		"price": 5017,
+		"category": "白兵戦武器",
+		"defname": "AS_WAE_StarKnightTwoHandSword"
+	},
+	{
+		"abr": "as星騎士の剣",
+		"price": 2400,
+		"category": "白兵戦武器",
+		"defname": "AS_WAE_StarKnightSword"
+	},
+	{
+		"abr": "as星騎士の剣(レプリカ)",
+		"price": 1325,
+		"category": "白兵戦武器",
+		"defname": "AS_WAE_StarKnightSwordRe"
+	},
+	{
+		"abr": "as簡素な下着",
+		"price": 109,
+		"category": "AS 衣装",
+		"defname": "AS_Common_PlainUnderwear"
+	},
+	{
+		"abr": "as簡素な靴下",
+		"price": 105,
+		"category": "AS 衣装",
+		"defname": "AS_Common_PlainStoking"
+	},
+	{
+		"abr": "as騎士剣",
+		"price": 608,
+		"category": "白兵戦武器",
+		"defname": "AS_WAE_KnightSword"
+	},
+	{
+		"abr": "cps-1サイキックエンハンサー",
+		"price": 267,
+		"category": "セレスティアドラッグ",
+		"defname": "Celes_CPS1M"
+	},
+	{
+		"abr": "cs-12へモスタット",
+		"price": 67,
+		"category": "セレスティアドラッグ",
+		"defname": "Celes_CS12M"
+	},
+	{
+		"abr": "cs-6コンバットブースター",
+		"price": 100,
+		"category": "セレスティアドラッグ",
+		"defname": "Celes_CS6M"
+	},
+	{
+		"abr": "doublewiderefrigerator",
+		"price": 467,
+		"category": "家具",
+		"defname": "owl_doublerefrigerator"
+	},
+	{
+		"abr": "drウサミミ",
+		"price": 320,
+		"category": "ドラコニアン帽子",
+		"defname": "DR_RB_transparentbunny_head"
+	},
+	{
+		"abr": "drエナメルナース服",
+		"price": 1217,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_RB_enamelnurse"
+	},
+	{
+		"abr": "drエルテックススタッフ",
+		"price": 1325,
+		"category": "ドラコニアン武器",
+		"defname": "DR_BattleStaff"
+	},
+	{
+		"abr": "drエルテックスドレス",
+		"price": 1217,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_PsychicDress"
+	},
+	{
+		"abr": "drエルテックスヘルム",
+		"price": 320,
+		"category": "ドラコニアン帽子",
+		"defname": "DR_PsychicHelm"
+	},
+	{
+		"abr": "drオフショルダードレス",
+		"price": 658,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_OffshoulderDress"
+	},
+	{
+		"abr": "drグレートソード",
+		"price": 1258,
+		"category": "ドラコニアン武器",
+		"defname": "DR_Battlesword"
+	},
+	{
+		"abr": "drコールドメイス",
+		"price": 4408,
+		"category": "ペルソナ武器",
+		"defname": "DR_SoulMace"
+	},
+	{
+		"abr": "drゴシックドレス",
+		"price": 1217,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_RB_goth"
+	},
+	{
+		"abr": "drゴシックヘッドドレス",
+		"price": 320,
+		"category": "ドラコニアン帽子",
+		"defname": "DR_RB_goth_head"
+	},
+	{
+		"abr": "drサイドオープンドレス",
+		"price": 650,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_SideDress"
+	},
+	{
+		"abr": "drサマーワンピース",
+		"price": 650,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_SummerDress"
+	},
+	{
+		"abr": "drサンタ服",
+		"price": 1217,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_RB_catsanta"
+	},
+	{
+		"abr": "drシースルードレス",
+		"price": 650,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_Seethrough"
+	},
+	{
+		"abr": "drナースキャップ",
+		"price": 320,
+		"category": "ドラコニアン帽子",
+		"defname": "DR_RB_enamelnurse_head"
+	},
+	{
+		"abr": "drバトルドレス",
+		"price": 1217,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_BattleDress"
+	},
+	{
+		"abr": "drバトルヘルムa",
+		"price": 320,
+		"category": "ドラコニアン帽子",
+		"defname": "DR_BattleHelmA"
+	},
+	{
+		"abr": "drミッドオフドレス",
+		"price": 650,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_MidOff"
+	},
+	{
+		"abr": "drメイス",
+		"price": 1258,
+		"category": "ドラコニアン武器",
+		"defname": "DR_BattleMace"
+	},
+	{
+		"abr": "drリボンドレス",
+		"price": 650,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_OpenDress"
+	},
+	{
+		"abr": "drワイドハット",
+		"price": 375,
+		"category": "ドラコニアン帽子",
+		"defname": "DR_Widehat"
+	},
+	{
+		"abr": "dr半透明バニースーツ",
+		"price": 1217,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_RB_transparentbunny"
+	},
+	{
+		"abr": "dr奴隷の目隠し",
+		"price": 375,
+		"category": "ドラコニアン帽子",
+		"defname": "DR_SlaveBlindfold"
+	},
+	{
+		"abr": "dr奴隷服",
+		"price": 650,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_SlaveCloth"
+	},
+	{
+		"abr": "dr子供服",
+		"price": 492,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_AP_Child"
+	},
+	{
+		"abr": "dr守護宝珠",
+		"price": 1217,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_ProtectionOrb"
+	},
+	{
+		"abr": "dr投げ槍",
+		"price": 1308,
+		"category": "ドラコニアン武器",
+		"defname": "DR_GreatBow"
+	},
+	{
+		"abr": "dr普通のドレス",
+		"price": 625,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_BasicDress"
+	},
+	{
+		"abr": "dr普通の服",
+		"price": 592,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_BasicWear"
+	},
+	{
+		"abr": "dr赤リボン",
+		"price": 320,
+		"category": "ドラコニアン帽子",
+		"defname": "DR_RB_catsanta_Head"
+	},
+	{
+		"abr": "dr髪飾り",
+		"price": 320,
+		"category": "ドラコニアン帽子",
+		"defname": "DR_RB_sic_cultist_Head"
+	},
+	{
+		"abr": "dr黒教団服",
+		"price": 1217,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_RB_sic_cultist"
+	},
+	{
+		"abr": "ias-2イミュンアゴニスト",
+		"price": 50,
+		"category": "セレスティアドラッグ",
+		"defname": "Celes_IAS2M"
+	},
+	{
+		"abr": "iedフッ化水素酸トラップ",
+		"price": 192,
+		"category": "防衛",
+		"defname": "HYTrapIED_HF"
+	},
+	{
+		"abr": "jp8",
+		"price": 33,
+		"category": "ドラッグ",
+		"defname": "HY_JP"
+	},
+	{
+		"abr": "mg-emarkiib'フルリッパー'",
+		"price": 2892,
+		"category": "遠距離武器",
+		"defname": "KJW_AMGE"
+	},
+	{
+		"abr": "mre",
+		"price": 25,
+		"category": "調理済",
+		"defname": "HYMealMRE"
+	},
+	{
+		"abr": "mya萌羊のミシン台",
+		"price": 475,
+		"category": "生産物",
+		"defname": "Fufu_TailoringBench"
+	},
+	{
+		"abr": "ns-90ナーブスティム",
+		"price": 60,
+		"category": "セレスティアドラッグ",
+		"defname": "Celes_NS90M"
+	},
+	{
+		"abr": "oicwライフル",
+		"price": 1808,
+		"category": "遠距離武器",
+		"defname": "KJW_OICW"
+	},
+	{
+		"abr": "refrigerator",
+		"price": 242,
+		"category": "家具",
+		"defname": "owl_refrigerator"
+	},
+	{
+		"abr": "rs-1テストブースター",
+		"price": 200,
+		"category": "セレスティアドラッグ",
+		"defname": "Celes_RS1M"
+	},
+	{
+		"abr": "tarx-100",
+		"price": 800,
+		"category": "遠距離武器",
+		"defname": "KJW_TARX"
+	},
+	{
+		"abr": "unaお弁当",
+		"price": 42,
+		"category": "調理済",
+		"defname": "UNAGI_Bento"
+	},
+	{
+		"abr": "unaカフェエプロン",
+		"price": 327,
+		"category": "その他",
+		"defname": "Apparel_UNAcafe_epuron"
+	},
+	{
+		"abr": "unaカフェシャツ",
+		"price": 166,
+		"category": "その他",
+		"defname": "UNAcafe_wanpi"
+	},
+	{
+		"abr": "unaカフェベルト",
+		"price": 375,
+		"category": "アーマー",
+		"defname": "Apparel_UNAcafe_belt"
+	},
+	{
+		"abr": "unaカフェ壁飾り",
+		"price": 51,
+		"category": "家具",
+		"defname": "UNA_WallDecoration"
+	},
+	{
+		"abr": "unaカフェ帽子",
+		"price": 94,
+		"category": "帽子",
+		"defname": "Apparel_UNAGIBatch"
+	},
+	{
+		"abr": "unaゼリーアラモード",
+		"price": 42,
+		"category": "調理済",
+		"defname": "UNA_Jelly"
+	},
+	{
+		"abr": "unaベジタブルティー",
+		"price": 25,
+		"category": "調理済",
+		"defname": "UNA_HerbalTea"
+	},
+	{
+		"abr": "unaポテトグラタン",
+		"price": 33,
+		"category": "調理済",
+		"defname": "UNA_PotatoGratin"
+	},
+	{
+		"abr": "una大型植木鉢",
+		"price": 170,
+		"category": "家具",
+		"defname": "UNA_planterL"
+	},
+	{
+		"abr": "una米粉パンケーキ",
+		"price": 30,
+		"category": "調理済",
+		"defname": "UNAGI_RicePancake"
+	},
+	{
+		"abr": "una米粉ベーグル",
+		"price": 37,
+		"category": "調理済",
+		"defname": "UNAGI_RiceBagel"
+	},
+	{
+		"abr": "unaコーン団子",
+		"price": 13,
+		"category": "調理済",
+		"defname": "UNA_CornDango"
+	},
+	{
+		"abr": "unaスイートキャンディ",
+		"price": 50,
+		"category": "調理済",
+		"defname": "UNAGI_SweetResearchCandy"
+	},
+	{
+		"abr": "unaベリーケーキ",
+		"price": 50,
+		"category": "調理済",
+		"defname": "UNA_Berrycake"
+	},
+	{
+		"abr": "volkヘビーマシンガン",
+		"price": 2000,
+		"category": "遠距離武器",
+		"defname": "KJW_VOLK"
+	},
+	{
+		"abr": "volkヘビーマシンガン",
+		"price": 1508,
+		"category": "遠距離武器",
+		"defname": "KJW_VOLK_exotic"
+	},
+	{
+		"abr": "wraithcrc",
+		"price": 800,
+		"category": "遠距離武器",
+		"defname": "KJW_WRAITH"
+	},
+	{
+		"abr": "アイスクリーム製造機",
+		"price": 517,
+		"category": "生産物",
+		"defname": "HYIcecreamStation"
+	},
+	{
+		"abr": "アイスバー",
+		"price": 8,
+		"category": "ドラッグ",
+		"defname": "IcecreamBar"
+	},
+	{
+		"abr": "アオメの羊毛",
+		"price": 17,
+		"category": "毛",
+		"defname": "aomeWool"
+	},
+	{
+		"abr": "アカメの羊毛",
+		"price": 17,
+		"category": "毛",
+		"defname": "akameWool"
+	},
+	{
+		"abr": "アクア",
+		"price": 13,
+		"category": "原材料",
+		"defname": "HYAquaStone"
+	},
+	{
+		"abr": "アクア抽出器",
+		"price": 833,
+		"category": "生産物",
+		"defname": "HYAquaProcessor"
+	},
+	{
+		"abr": "アクア深部ドリル",
+		"price": 2000,
+		"category": "生産物",
+		"defname": "HYAquaDeepDrill"
+	},
+	{
+		"abr": "アサルト対戦車ライフル",
+		"price": 3208,
+		"category": "遠距離武器",
+		"defname": "KJW_AMAR_Kinetic"
+	},
+	{
+		"abr": "アサルト対戦車ライフル",
+		"price": 3208,
+		"category": "遠距離武器",
+		"defname": "KJW_AMR"
+	},
+	{
+		"abr": "アビサルティア",
+		"price": 3750,
+		"category": "Animal",
+		"defname": "Celes_Abyssia_Race"
+	},
+	{
+		"abr": "アビサルティアの肉",
+		"price": 1,
+		"category": "生肉",
+		"defname": "Meat_Celes_Abyssia_Race"
+	},
+	{
+		"abr": "アリコーン",
+		"price": 5000,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_Alicorn"
+	},
+	{
+		"abr": "アリコーンエリクサー",
+		"price": 4567,
+		"category": "ドラッグ",
+		"defname": "EponaAlicornCocktail"
+	},
+	{
+		"abr": "アリコーン医薬品",
+		"price": 78,
+		"category": "薬",
+		"defname": "AlicornMedicineUltratech"
+	},
+	{
+		"abr": "アリコーン粉末",
+		"price": 42,
+		"category": "薬",
+		"defname": "AlicornMedicine"
+	},
+	{
+		"abr": "インテグラーゼ抑制剤",
+		"price": 2667,
+		"category": "ドラッグ",
+		"defname": "Korossa_T2_Vitamin"
+	},
+	{
+		"abr": "ヴェナアンダーウェア",
+		"price": 212,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_UndergarmentB"
+	},
+	{
+		"abr": "ヴェナオートライフル",
+		"price": 592,
+		"category": "ヴェナ遠隔武器",
+		"defname": "Venarium_Rifle_Basic"
+	},
+	{
+		"abr": "ヴェナカジュアルウェア",
+		"price": 303,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_CasualWear"
+	},
+	{
+		"abr": "ヴェナゴーストタイトコンバットスーツ",
+		"price": 1558,
+		"category": "ヴェナ防具",
+		"defname": "Venarium_GhostUniform"
+	},
+	{
+		"abr": "ヴェナゴーストヘッドガード",
+		"price": 933,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_GBrowguard"
+	},
+	{
+		"abr": "ヴェナゴーストマスク",
+		"price": 858,
+		"category": "ヴェナ帽子",
+		"defname": "Venarium_GhostMask"
+	},
+	{
+		"abr": "ヴェナゴーストロングソード",
+		"price": 1225,
+		"category": "ヴェナ特殊武器",
+		"defname": "Venarium_GhostSword"
+	},
+	{
+		"abr": "ヴェナゴースト電磁マークスマンライフル",
+		"price": 1883,
+		"category": "ヴェナ遠隔武器",
+		"defname": "Venarium_GhostDMR_Basic"
+	},
+	{
+		"abr": "ヴェナゴースト電磁ライフル",
+		"price": 1717,
+		"category": "ヴェナ遠隔武器",
+		"defname": "Venarium_GhostAR_Basic"
+	},
+	{
+		"abr": "ヴェナセミオートショットガン",
+		"price": 675,
+		"category": "ヴェナ遠隔武器",
+		"defname": "Venarium_Shotgun_Basic"
+	},
+	{
+		"abr": "ヴェナタクティカルナイフ",
+		"price": 197,
+		"category": "ヴェナ鋭利武器",
+		"defname": "Venarium_Knife"
+	},
+	{
+		"abr": "ヴェナハーヴェスターサイス",
+		"price": 1700,
+		"category": "ヴェナ特殊武器",
+		"defname": "Venarium_Scythe"
+	},
+	{
+		"abr": "ヴェナピストル",
+		"price": 265,
+		"category": "ヴェナ遠隔武器",
+		"defname": "Venarium_Pistol_Basic"
+	},
+	{
+		"abr": "ヴェナヘッドガード",
+		"price": 767,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_Browguard"
+	},
+	{
+		"abr": "ヴェナヘビーマシンガン",
+		"price": 1933,
+		"category": "ヴェナ遠隔武器",
+		"defname": "Venarium_HeavyMachine_Basic"
+	},
+	{
+		"abr": "ヴェナボルトアクションライフル",
+		"price": 433,
+		"category": "ヴェナ遠隔武器",
+		"defname": "Venarium_ActionRifle_Basic"
+	},
+	{
+		"abr": "ヴェナマークスマンライフル",
+		"price": 808,
+		"category": "ヴェナ遠隔武器",
+		"defname": "Venarium_DMR_Basic"
+	},
+	{
+		"abr": "ヴェナライトマシンガン",
+		"price": 1108,
+		"category": "ヴェナ遠隔武器",
+		"defname": "Venarium_Machinegun_Basic"
+	},
+	{
+		"abr": "ヴェナランジェリーストッキング",
+		"price": 212,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_Undergarment"
+	},
+	{
+		"abr": "ヴェナロングソード",
+		"price": 617,
+		"category": "ヴェナ鋭利武器",
+		"defname": "Venarium_Sword"
+	},
+	{
+		"abr": "ヴェナ将校帽",
+		"price": 925,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_OfficerHat"
+	},
+	{
+		"abr": "ヴェナ将校服",
+		"price": 1408,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_OfficerUniform"
+	},
+	{
+		"abr": "ヴェナ工兵服",
+		"price": 583,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_EngUniform"
+	},
+	{
+		"abr": "ヴェナ特殊サブマシンガン",
+		"price": 625,
+		"category": "ヴェナ遠隔武器",
+		"defname": "Venarium_Submachine_Basic"
+	},
+	{
+		"abr": "ヴェナ特殊作戦服",
+		"price": 1483,
+		"category": "ヴェナ防具",
+		"defname": "Venarium_SfUniform"
+	},
+	{
+		"abr": "ヴェナ特殊作戦用マスク",
+		"price": 425,
+		"category": "ヴェナ帽子",
+		"defname": "Venarium_NormalMask"
+	},
+	{
+		"abr": "ヴェナ真空スーツ",
+		"price": 967,
+		"category": "ヴェナ防具",
+		"defname": "Venarium_SpaceSuit"
+	},
+	{
+		"abr": "ヴェナ真空マスク",
+		"price": 617,
+		"category": "ヴェナ帽子",
+		"defname": "Venarium_SpaceMask"
+	},
+	{
+		"abr": "ヴェナ軍帽",
+		"price": 625,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_UniformHat"
+	},
+	{
+		"abr": "ヴェナ軍服(ショート)",
+		"price": 850,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_Uniform"
+	},
+	{
+		"abr": "ヴェナ軍服(ロング)",
+		"price": 850,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_LongUniform"
+	},
+	{
+		"abr": "ヴェナ防寒コート",
+		"price": 583,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_Coat"
+	},
+	{
+		"abr": "ヴェナ防弾チョッキ",
+		"price": 600,
+		"category": "ヴェナ防具",
+		"defname": "Venarium_Bulletproof"
+	},
+	{
+		"abr": "ヴェナリオン",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "Venarium_Race"
+	},
+	{
+		"abr": "ヴェナリオンの肉",
+		"price": 2,
+		"category": "生肉",
+		"defname": "Meat_Venarium_Race"
+	},
+	{
+		"abr": "ヴェナ合金",
+		"price": 17,
+		"category": "原材料",
+		"defname": "Venarium_alloy"
+	},
+	{
+		"abr": "ヴェナ機械加工台",
+		"price": 642,
+		"category": "生産物",
+		"defname": "Venarium_TableMachining"
+	},
+	{
+		"abr": "ヴェナ毒ガスグレネード",
+		"price": 68,
+		"category": "投擲武器",
+		"defname": "Venarium_ToxGrenade"
+	},
+	{
+		"abr": "ヴェナ毒ガス砲弾",
+		"price": 92,
+		"category": "迫撃砲弾",
+		"defname": "Venarium_Shell_Toxic"
+	},
+	{
+		"abr": "ヴェナ溶鉱炉",
+		"price": 525,
+		"category": "生産物",
+		"defname": "Venarium_Furnace"
+	},
+	{
+		"abr": "ヴェナ生地",
+		"price": 7,
+		"category": "織物",
+		"defname": "Venarium_Flax"
+	},
+	{
+		"abr": "ヴェナ裁縫作業台",
+		"price": 425,
+		"category": "生産物",
+		"defname": "Venarium_TailorBench"
+	},
+	{
+		"abr": "ヴェポタの花びら",
+		"price": 2,
+		"category": "生野菜",
+		"defname": "Venarium_VepotaRaw"
+	},
+	{
+		"abr": "ヴェポタファイバー",
+		"price": 5,
+		"category": "原材料",
+		"defname": "Venarium_cotton"
+	},
+	{
+		"abr": "ヴェポタ花糕",
+		"price": 50,
+		"category": "調理済",
+		"defname": "Venarium_MealA"
+	},
+	{
+		"abr": "ウルフェイン",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "Wolfein_Race"
+	},
+	{
+		"abr": "ウルフェインaiptガウスライフル",
+		"price": 2933,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_AR_AIPTStungun"
+	},
+	{
+		"abr": "ウルフェインaiptガンリンク",
+		"price": 290,
+		"category": "帽子",
+		"defname": "Wolfein_AIPTGunlink"
+	},
+	{
+		"abr": "ウルフェインaiptゴーグル",
+		"price": 290,
+		"category": "帽子",
+		"defname": "Wolfein_AIPTGoggle"
+	},
+	{
+		"abr": "ウルフェインaiptダスターコート",
+		"price": 1183,
+		"category": "外套",
+		"defname": "Wolfein_AIPTDustcoat"
+	},
+	{
+		"abr": "ウルフェインaiptチェーンソー",
+		"price": 2158,
+		"category": "白兵戦武器",
+		"defname": "W_Weapon_Melee_AIPTChainSaw"
+	},
+	{
+		"abr": "ウルフェインaiptヘビーパワーアーマー",
+		"price": 4367,
+		"category": "外套",
+		"defname": "Wolfein_AIPTHeavyPowerArmor"
+	},
+	{
+		"abr": "ウルフェインaiptヘビーパワーヘルメット",
+		"price": 2000,
+		"category": "帽子",
+		"defname": "Wolfein_AIPTHeavyPowerArmorHelmet"
+	},
+	{
+		"abr": "ウルフェインaipt処理班コンバットスーツ",
+		"price": 725,
+		"category": "上着",
+		"defname": "Wolfein_AIPTCombatSuit"
+	},
+	{
+		"abr": "ウルフェインaipt処理班制式制服",
+		"price": 758,
+		"category": "上着",
+		"defname": "Wolfein_AIPTStandardUniform"
+	},
+	{
+		"abr": "ウルフェインaipt制式火炎放射器",
+		"price": 1300,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_RF_Incinerator"
+	},
+	{
+		"abr": "ウルフェインaipt处理班サポートスーツ",
+		"price": 758,
+		"category": "上着",
+		"defname": "Wolfein_AIPTSupportSuit"
+	},
+	{
+		"abr": "ウルフェインaipt調査班制服(ショートパンツ)",
+		"price": 483,
+		"category": "上着",
+		"defname": "Wolfein_AIPTUniform_Pants"
+	},
+	{
+		"abr": "ウルフェインaipt調査班制服(スカート)",
+		"price": 483,
+		"category": "上着",
+		"defname": "Wolfein_AIPTUniform_Skirt"
+	},
+	{
+		"abr": "ウルフェインaipt調査班制服(パンツ)",
+		"price": 483,
+		"category": "上着",
+		"defname": "Wolfein_AIPTUniform_Trousers"
+	},
+	{
+		"abr": "ウルフェインolスーツ",
+		"price": 467,
+		"category": "上着",
+		"defname": "Wolfein_OLSuit"
+	},
+	{
+		"abr": "ウルフェインtシャツ",
+		"price": 268,
+		"category": "上着",
+		"defname": "Wolfein_T-shirt"
+	},
+	{
+		"abr": "ウルフェインアウトドアジャケット",
+		"price": 650,
+		"category": "外套",
+		"defname": "Wolfein_OutdoorJacket"
+	},
+	{
+		"abr": "ウルフェインアサルトライフル",
+		"price": 1542,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_AR_AssaultRifle"
+	},
+	{
+		"abr": "ウルフェインアレイグラス",
+		"price": 1008,
+		"category": "帽子",
+		"defname": "Wolfein_ArrayGlass"
+	},
+	{
+		"abr": "ウルフェインアロイサーベル",
+		"price": 1542,
+		"category": "白兵戦武器",
+		"defname": "W_Weapon_Melee_AlloySabre"
+	},
+	{
+		"abr": "ウルフェインアロイダガー",
+		"price": 492,
+		"category": "白兵戦武器",
+		"defname": "W_Weapon_Melee_AlloyDagger"
+	},
+	{
+		"abr": "ウルフェインウインターコート",
+		"price": 375,
+		"category": "外套",
+		"defname": "Wolfein_Wintercoat"
+	},
+	{
+		"abr": "ウルフェインエグゾスケルトンシールド",
+		"price": 4867,
+		"category": "その他",
+		"defname": "Wolfein_ExoskeletonShield"
+	},
+	{
+		"abr": "ウルフェインオートショットガン",
+		"price": 1583,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_SG_AutomaticShotgun"
+	},
+	{
+		"abr": "ウルフェインオートピストル",
+		"price": 875,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_HG_MachinePistol"
+	},
+	{
+		"abr": "ウルフェインガーターベルト(白)",
+		"price": 149,
+		"category": "下着",
+		"defname": "Wolfein_White_Suspender"
+	},
+	{
+		"abr": "ウルフェインガーターベルト(黒)",
+		"price": 149,
+		"category": "下着",
+		"defname": "Wolfein_Black_Suspender"
+	},
+	{
+		"abr": "ウルフェインガードパワーアーマー",
+		"price": 3325,
+		"category": "外套",
+		"defname": "Wolfein_GuardPowerArmor"
+	},
+	{
+		"abr": "ウルフェインカービン",
+		"price": 1542,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_AR_Carbine"
+	},
+	{
+		"abr": "ウルフェインガスマスク",
+		"price": 558,
+		"category": "帽子",
+		"defname": "Wolfein_GazMask"
+	},
+	{
+		"abr": "ウルフェインクルースーツ",
+		"price": 284,
+		"category": "上着",
+		"defname": "Wolfein_StartingClothing"
+	},
+	{
+		"abr": "ウルフェイングレネードランチャー",
+		"price": 1800,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_Launcher_GrenadeLauncher"
+	},
+	{
+		"abr": "ウルフェインコンバットタイツ",
+		"price": 244,
+		"category": "下着",
+		"defname": "Wolfein_SkintightGarment"
+	},
+	{
+		"abr": "ウルフェインコンバットタイトアンダーウェア",
+		"price": 232,
+		"category": "下着",
+		"defname": "Wolfein_CombattightUnderwear"
+	},
+	{
+		"abr": "ウルフェインコンバットユニットエキサイター",
+		"price": 290,
+		"category": "帽子",
+		"defname": "Wolfein_CombatUnitExciter"
+	},
+	{
+		"abr": "ウルフェインサーマルゴーグル",
+		"price": 261,
+		"category": "帽子",
+		"defname": "Wolfein_ThermalGoggle"
+	},
+	{
+		"abr": "ウルフェインサイキックコンバットスーツ",
+		"price": 792,
+		"category": "外套",
+		"defname": "Wolfein_PsionicCombatSuit"
+	},
+	{
+		"abr": "ウルフェインサイキックコンバットヘルメット",
+		"price": 1275,
+		"category": "帽子",
+		"defname": "Wolfein_PsionicCombatHelmet"
+	},
+	{
+		"abr": "ウルフェインシールドベルト",
+		"price": 3225,
+		"category": "その他",
+		"defname": "Wolfein_ShieldBelt"
+	},
+	{
+		"abr": "ウルフェインシェフ服",
+		"price": 333,
+		"category": "上着",
+		"defname": "Wolfein_ChefsUniform"
+	},
+	{
+		"abr": "ウルフェインジャケットとセーター",
+		"price": 550,
+		"category": "外套",
+		"defname": "Wolfein_SuitWithSweater"
+	},
+	{
+		"abr": "ウルフェインシャツ(スカート)",
+		"price": 285,
+		"category": "上着",
+		"defname": "Wolfein_Shirt_Skirt"
+	},
+	{
+		"abr": "ウルフェインシャツ(パンツ)",
+		"price": 285,
+		"category": "上着",
+		"defname": "Wolfein_Shirt_Trousers"
+	},
+	{
+		"abr": "ウルフェインショート丈ジャケット",
+		"price": 517,
+		"category": "上着",
+		"defname": "Wolfein_CroppedJacket"
+	},
+	{
+		"abr": "ウルフェインシンプルスピア",
+		"price": 75,
+		"category": "白兵戦武器",
+		"defname": "W_Weapon_Melee_SimpleSpear"
+	},
+	{
+		"abr": "ウルフェインシンプルダガー",
+		"price": 53,
+		"category": "白兵戦武器",
+		"defname": "W_Weapon_Melee_SimpleDagger"
+	},
+	{
+		"abr": "ウルフェインシンプルメイス",
+		"price": 79,
+		"category": "白兵戦武器",
+		"defname": "W_Weapon_Melee_SimpleMace"
+	},
+	{
+		"abr": "ウルフェインスカウトパワーアーマー",
+		"price": 3150,
+		"category": "外套",
+		"defname": "Wolfein_ScoutPowerArmor"
+	},
+	{
+		"abr": "ウルフェインストッキング(白)",
+		"price": 149,
+		"category": "下着",
+		"defname": "Wolfein_White_Stocking"
+	},
+	{
+		"abr": "ウルフェインストッキング(黒)",
+		"price": 149,
+		"category": "下着",
+		"defname": "Wolfein_Black_Stocking"
+	},
+	{
+		"abr": "ウルフェインスナイパーライフル",
+		"price": 1642,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_RF_SniperRifle"
+	},
+	{
+		"abr": "ウルフェインスポーツアンダーウェア(白)",
+		"price": 149,
+		"category": "下着",
+		"defname": "Wolfein_White_SportsUnderwear"
+	},
+	{
+		"abr": "ウルフェインスポーツアンダーウェア(黒)",
+		"price": 149,
+		"category": "下着",
+		"defname": "Wolfein_Black_SportsUnderwear"
+	},
+	{
+		"abr": "ウルフェインスポーツショーツ(白)",
+		"price": 149,
+		"category": "下着",
+		"defname": "Wolfein_White_SportsShorts"
+	},
+	{
+		"abr": "ウルフェインスポーツショーツ(黒)",
+		"price": 149,
+		"category": "下着",
+		"defname": "Wolfein_Black_SportsShorts"
+	},
+	{
+		"abr": "ウルフェインセーター",
+		"price": 235,
+		"category": "上着",
+		"defname": "Wolfein_Sweater"
+	},
+	{
+		"abr": "ウルフェインセーラー服",
+		"price": 350,
+		"category": "上着",
+		"defname": "Wolfein_SailorSuit"
+	},
+	{
+		"abr": "ウルフェインタイトボディースーツ",
+		"price": 550,
+		"category": "上着",
+		"defname": "Wolfein_TightCombatUniform"
+	},
+	{
+		"abr": "ウルフェインタクティカルジャケット(スカート)",
+		"price": 392,
+		"category": "上着",
+		"defname": "Wolfein_TacticalJacket_Skirt"
+	},
+	{
+		"abr": "ウルフェインタクティカルジャケット(パンツ)",
+		"price": 392,
+		"category": "上着",
+		"defname": "Wolfein_TacticalJacket_Pants"
+	},
+	{
+		"abr": "ウルフェインタクティカルベースボールキャップ",
+		"price": 235,
+		"category": "帽子",
+		"defname": "Wolfein_ShooterCap"
+	},
+	{
+		"abr": "ウルフェインダスターコート",
+		"price": 375,
+		"category": "外套",
+		"defname": "Wolfein_Dustcoat"
+	},
+	{
+		"abr": "ウルフェインチャージアサルトライフル",
+		"price": 3225,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_AR_ChargeAssaultRifle"
+	},
+	{
+		"abr": "ウルフェインチャージオートショットガン",
+		"price": 3042,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_SG_ChargeAutomaticShotgun"
+	},
+	{
+		"abr": "ウルフェインチャージサブマシンガン",
+		"price": 3258,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_SMG_ChargeSubmachineGun"
+	},
+	{
+		"abr": "ウルフェインチャージスナイパーライフル",
+		"price": 3067,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_RF_ChargeSniperRifle"
+	},
+	{
+		"abr": "ウルフェインチャージバトルライフル",
+		"price": 3408,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_AR_ChargeCombatRifle"
+	},
+	{
+		"abr": "ウルフェインチャージミニガン",
+		"price": 5875,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_MG_ChargeMinigun"
+	},
+	{
+		"abr": "ウルフェインチャージラピッドピストル",
+		"price": 1975,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_HG_ChargeRapidFirePistol"
+	},
+	{
+		"abr": "ウルフェインテイルベルト",
+		"price": 56,
+		"category": "その他",
+		"defname": "Wolfein_TailBelt"
+	},
+	{
+		"abr": "ウルフェインテーザーガン",
+		"price": 775,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_Launcher_TaserGun"
+	},
+	{
+		"abr": "ウルフェインニュースボーイキャップ",
+		"price": 127,
+		"category": "帽子",
+		"defname": "Wolfein_NewsboyCap"
+	},
+	{
+		"abr": "ウルフェインパーカー",
+		"price": 301,
+		"category": "上着",
+		"defname": "Wolfein_Hoodie"
+	},
+	{
+		"abr": "ウルフェインハーフリムグラス",
+		"price": 103,
+		"category": "帽子",
+		"defname": "Wolfein_SquareGlasses"
+	},
+	{
+		"abr": "ウルフェインハイレグレオタード",
+		"price": 517,
+		"category": "上着",
+		"defname": "Wolfein_HighcutLeotard"
+	},
+	{
+		"abr": "ウルフェインパワーヘルメット",
+		"price": 1308,
+		"category": "帽子",
+		"defname": "Wolfein_PowerArmorHelmet"
+	},
+	{
+		"abr": "ウルフェインパンティストッキング(白)",
+		"price": 149,
+		"category": "下着",
+		"defname": "Wolfein_White_Pantynose"
+	},
+	{
+		"abr": "ウルフェインパンティストッキング(黒)",
+		"price": 149,
+		"category": "下着",
+		"defname": "Wolfein_Black_Pantynose"
+	},
+	{
+		"abr": "ウルフェインフラググレネード",
+		"price": 442,
+		"category": "投擲武器",
+		"defname": "W_Weapon_Grenade_FragGrenade"
+	},
+	{
+		"abr": "ウルフェインへそ出しtシャツ",
+		"price": 235,
+		"category": "上着",
+		"defname": "Wolfein_ShortT-shirt"
+	},
+	{
+		"abr": "ウルフェインヘビーサーベル",
+		"price": 1983,
+		"category": "白兵戦武器",
+		"defname": "W_Weapon_Melee_HeavySabre"
+	},
+	{
+		"abr": "ウルフェインヘビーパワーアーマー",
+		"price": 4108,
+		"category": "外套",
+		"defname": "Wolfein_HeavyPowerArmor"
+	},
+	{
+		"abr": "ウルフェインヘビーパワーアクス",
+		"price": 2292,
+		"category": "白兵戦武器",
+		"defname": "W_Weapon_Melee_HeavyPowerAxe"
+	},
+	{
+		"abr": "ウルフェインヘビーパワーヘルメット",
+		"price": 2033,
+		"category": "帽子",
+		"defname": "Wolfein_HeavyPowerArmorHelmet"
+	},
+	{
+		"abr": "ウルフェインヘビーピストル",
+		"price": 517,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_HG_HeavyPistol"
+	},
+	{
+		"abr": "ウルフェインヘビーボディーアーマー",
+		"price": 850,
+		"category": "外套",
+		"defname": "Wolfein_HeavyFlakJacket"
+	},
+	{
+		"abr": "ウルフェインヘビーマチェット",
+		"price": 1875,
+		"category": "白兵戦武器",
+		"defname": "W_Weapon_Melee_HeavyMachete"
+	},
+	{
+		"abr": "ウルフェインベレー帽",
+		"price": 124,
+		"category": "帽子",
+		"defname": "Wolfein_Beret"
+	},
+	{
+		"abr": "ウルフェインミニガン",
+		"price": 4242,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_MG_Minigun"
+	},
+	{
+		"abr": "ウルフェインメカニタースーツ",
+		"price": 3650,
+		"category": "外套",
+		"defname": "Wolfein_MechanitorSuit"
+	},
+	{
+		"abr": "ウルフェインライオットシールド",
+		"price": 1708,
+		"category": "その他",
+		"defname": "Wolfein_RiotShield"
+	},
+	{
+		"abr": "ウルフェインライオットバトン",
+		"price": 667,
+		"category": "白兵戦武器",
+		"defname": "W_Weapon_Melee_Baton"
+	},
+	{
+		"abr": "ウルフェインライトコンバットアンダーウェア",
+		"price": 219,
+		"category": "下着",
+		"defname": "Wolfein_LightweightCombatSuit"
+	},
+	{
+		"abr": "ウルフェインライトコンバットジャケット",
+		"price": 450,
+		"category": "外套",
+		"defname": "Wolfein_LightweightCombatjacket"
+	},
+	{
+		"abr": "ウルフェインライトコンバットスーツ",
+		"price": 492,
+		"category": "上着",
+		"defname": "Wolfein_LightweightCombatUniform"
+	},
+	{
+		"abr": "ウルフェインライトサブマシンガン",
+		"price": 1617,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_SMG_LightSubmachineGun"
+	},
+	{
+		"abr": "ウルフェインライトボディアーマー",
+		"price": 600,
+		"category": "外套",
+		"defname": "Wolfein_FlakJacket"
+	},
+	{
+		"abr": "ウルフェインレッドキャップコンバットスーツ",
+		"price": 1108,
+		"category": "外套",
+		"defname": "Wolfein_RedCombatSuit"
+	},
+	{
+		"abr": "ウルフェインレッドキャップコンバットヘルメット",
+		"price": 1200,
+		"category": "帽子",
+		"defname": "Wolfein_RedCombatHelmet"
+	},
+	{
+		"abr": "ウルフェインロングバレルショットガン",
+		"price": 1150,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_SG_Shotgun"
+	},
+	{
+		"abr": "ウルフェインロングボウ",
+		"price": 114,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_Longbow"
+	},
+	{
+		"abr": "ウルフェイン一枚布",
+		"price": 212,
+		"category": "上着",
+		"defname": "Wolfein_Tribal"
+	},
+	{
+		"abr": "ウルフェイン事務職員制服",
+		"price": 467,
+		"category": "上着",
+		"defname": "Wolfein_BusinessUniform"
+	},
+	{
+		"abr": "ウルフェイン制式軍服",
+		"price": 575,
+		"category": "上着",
+		"defname": "Wolfein_RegularUniform"
+	},
+	{
+		"abr": "ウルフェイン包帯",
+		"price": 149,
+		"category": "下着",
+		"defname": "Wolfein_Bandage"
+	},
+	{
+		"abr": "ウルフェイン医師服",
+		"price": 333,
+		"category": "上着",
+		"defname": "Wolfein_MedicalUniform"
+	},
+	{
+		"abr": "ウルフェイン反射ベスト付き作業服",
+		"price": 272,
+		"category": "上着",
+		"defname": "Wolfein_ReflectiveOveralls"
+	},
+	{
+		"abr": "ウルフェイン奴隷服",
+		"price": 217,
+		"category": "上着",
+		"defname": "Wolfein_Slave"
+	},
+	{
+		"abr": "ウルフェイン宇宙活動用スーツ",
+		"price": 2100,
+		"category": "外套",
+		"defname": "Wolfein_SpaceSuit"
+	},
+	{
+		"abr": "ウルフェイン宇宙活動用ヘルメット",
+		"price": 1133,
+		"category": "帽子",
+		"defname": "Wolfein_SpaceSuitHelmet"
+	},
+	{
+		"abr": "ウルフェイン安全帽",
+		"price": 159,
+		"category": "帽子",
+		"defname": "Wolfein_SafetyHelmet"
+	},
+	{
+		"abr": "ウルフェイン対戦車ロケットランチャー",
+		"price": 3942,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_MissileLauncher"
+	},
+	{
+		"abr": "ウルフェイン尖兵戦闘服",
+		"price": 1217,
+		"category": "外套",
+		"defname": "Wolfein_VanguardUniform"
+	},
+	{
+		"abr": "ウルフェイン工作服",
+		"price": 286,
+		"category": "上着",
+		"defname": "Wolfein_Overalls"
+	},
+	{
+		"abr": "ウルフェイン巻き包帯",
+		"price": 40,
+		"category": "帽子",
+		"defname": "Wolfein_HeadBandage"
+	},
+	{
+		"abr": "ウルフェイン手製アサルトライフル",
+		"price": 425,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_AR_HomemadeRifle"
+	},
+	{
+		"abr": "ウルフェイン手製ピストル",
+		"price": 114,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_HG_HomemadePistol"
+	},
+	{
+		"abr": "ウルフェイン手製ボルトアクションライフル",
+		"price": 367,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_RF_HomemadeBolt-actionRifle"
+	},
+	{
+		"abr": "ウルフェイン手製火炎放射器",
+		"price": 600,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_HomemadeFlamethrower"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍アサルトライフル",
+		"price": 1425,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_AR_RebelAssaultRifle"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍アロイダガー",
+		"price": 272,
+		"category": "白兵戦武器",
+		"defname": "W_Weapon_Melee_RebelAlloyDagger"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍クローク",
+		"price": 162,
+		"category": "外套",
+		"defname": "Wolfein_RebelDustproofCloak"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍コンバットスーツ",
+		"price": 442,
+		"category": "上着",
+		"defname": "Wolfein_RebelCombatSuit"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍サブマシンガン",
+		"price": 1517,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_SMG_RebelSubmachineGun"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍サポートスーツ",
+		"price": 475,
+		"category": "上着",
+		"defname": "Wolfein_RebelSupportSuit"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍ショットガン",
+		"price": 1325,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_SG_RebelShotgun"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍スナイパーライフル",
+		"price": 1525,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_RF_RebelSniperRifle"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍パワーアーマー",
+		"price": 2567,
+		"category": "外套",
+		"defname": "Wolfein_RebelPowerArmor"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍ピストル",
+		"price": 450,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_HG_RebelPistol"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍ヘビーパワーアーマー",
+		"price": 3392,
+		"category": "外套",
+		"defname": "Wolfein_RebelHeavyPowerArmor"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍ヘビーパワーヘルメット",
+		"price": 1508,
+		"category": "帽子",
+		"defname": "Wolfein_RebelHeavyPowerArmorHelmet"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍ライトマシンガン",
+		"price": 2600,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_MG_RebelLightMachineGun"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍制式服",
+		"price": 567,
+		"category": "上着",
+		"defname": "Wolfein_RebelUniform"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍対車両ロケットランチャー",
+		"price": 2767,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_RebelMissileLauncher"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍遊撃隊員服",
+		"price": 392,
+		"category": "上着",
+		"defname": "Wolfein_RebelGuerrillaUniform"
+	},
+	{
+		"abr": "ウルフェイン旧世代スカウトパワーアーマー",
+		"price": 4442,
+		"category": "外套",
+		"defname": "Wolfein_ImperialScoutPowerArmor"
+	},
+	{
+		"abr": "ウルフェイン旧世代ロイヤルパワーアーマー",
+		"price": 4325,
+		"category": "外套",
+		"defname": "Wolfein_ImperialGuardPowerArmor"
+	},
+	{
+		"abr": "ウルフェイン旧世代ロイヤルパワーアーマーマスク",
+		"price": 1967,
+		"category": "帽子",
+		"defname": "Wolfein_ImperialGuardPowerArmorMask"
+	},
+	{
+		"abr": "ウルフェイン民生用cncバックパック",
+		"price": 1692,
+		"category": "その他",
+		"defname": "Wolfein_CivilControlPack"
+	},
+	{
+		"abr": "ウルフェイン特殊作戦服",
+		"price": 1075,
+		"category": "外套",
+		"defname": "Wolfein_SpecialmilitaryUniform"
+	},
+	{
+		"abr": "ウルフェイン研究服",
+		"price": 333,
+		"category": "上着",
+		"defname": "Wolfein_Labgown"
+	},
+	{
+		"abr": "ウルフェイン網タイツ",
+		"price": 149,
+		"category": "下着",
+		"defname": "Wolfein_MeshSocks"
+	},
+	{
+		"abr": "ウルフェイン職員用制服",
+		"price": 467,
+		"category": "上着",
+		"defname": "Wolfein_StaffUniform"
+	},
+	{
+		"abr": "ウルフェイン職員用制服(シャツ)",
+		"price": 467,
+		"category": "上着",
+		"defname": "Wolfein_ShirtStaffUniform"
+	},
+	{
+		"abr": "ウルフェイン職員用制服(ロングスカート)",
+		"price": 467,
+		"category": "上着",
+		"defname": "Wolfein_LonguetteStaffUniform"
+	},
+	{
+		"abr": "ウルフェイン自衛用ピストル",
+		"price": 517,
+		"category": "遠距離武器",
+		"defname": "W_Weapon_HG_Pistol"
+	},
+	{
+		"abr": "ウルフェイン荒野の継ぎ接ぎコート",
+		"price": 383,
+		"category": "外套",
+		"defname": "Wolfein_WastelandSplicingcoat"
+	},
+	{
+		"abr": "ウルフェイン試作型メカシグナルブースター",
+		"price": 1008,
+		"category": "帽子",
+		"defname": "Wolfein_PrototypicalMechSignalBooster"
+	},
+	{
+		"abr": "ウルフェイン身分証明カード",
+		"price": 50,
+		"category": "その他",
+		"defname": "Wolfein_InformationIdentificationCard"
+	},
+	{
+		"abr": "ウルフェイン軍用cncバックパック",
+		"price": 2475,
+		"category": "その他",
+		"defname": "Wolfein_MilitaryControlPack"
+	},
+	{
+		"abr": "ウルフェイン軍用ウインターコート",
+		"price": 875,
+		"category": "外套",
+		"defname": "Wolfein_MilitaryWintercoat"
+	},
+	{
+		"abr": "ウルフェイン軍用ケープ",
+		"price": 975,
+		"category": "外套",
+		"defname": "Wolfein_MilitaryCape"
+	},
+	{
+		"abr": "ウルフェイン軍用ダスターコート",
+		"price": 1000,
+		"category": "外套",
+		"defname": "Wolfein_MilitaryDustcoat"
+	},
+	{
+		"abr": "ウルフェイン軍用ヘルメット",
+		"price": 1408,
+		"category": "帽子",
+		"defname": "Wolfein_Helmet"
+	},
+	{
+		"abr": "ウルフェインの肉",
+		"price": 2,
+		"category": "生肉",
+		"defname": "Meat_Wolfein_Race"
+	},
+	{
+		"abr": "ウルフェインメカ充電器",
+		"price": 500,
+		"category": "生産物",
+		"defname": "Wolfein_MechCharger"
+	},
+	{
+		"abr": "ウルフェインリペア作業台",
+		"price": 1342,
+		"category": "家具",
+		"defname": "Wolfein_ShelfSmall"
+	},
+	{
+		"abr": "ウルフェイン包装職員食",
+		"price": 50,
+		"category": "調理済",
+		"defname": "Wolfein_PackingStaffMeals"
+	},
+	{
+		"abr": "ウルフェイン医薬品",
+		"price": 33,
+		"category": "薬",
+		"defname": "Wolfein_MedicineIndustrial"
+	},
+	{
+		"abr": "ウルフェイン大型メカ充電器",
+		"price": 1842,
+		"category": "生産物",
+		"defname": "Wolfein_MechChargerLarge"
+	},
+	{
+		"abr": "ウルフェイン抵抗軍軍糧",
+		"price": 33,
+		"category": "調理済",
+		"defname": "Wolfein_ResistanceArmyRations"
+	},
+	{
+		"abr": "ウルフェイン旧世代テクノロジー分析レポート",
+		"price": 1000,
+		"category": "加工品",
+		"defname": "Wolfein_ImperialDataAnalysis"
+	},
+	{
+		"abr": "ウルフェイン機械コンポーネント",
+		"price": 842,
+		"category": "加工品",
+		"defname": "Wolfein_MechanicalComponent"
+	},
+	{
+		"abr": "ウルフェイン機械加工台",
+		"price": 783,
+		"category": "生産物",
+		"defname": "Wolfein_TableMachining"
+	},
+	{
+		"abr": "ウルフェイン特殊複合繊維",
+		"price": 6,
+		"category": "織物",
+		"defname": "Wolfein_CompositeFabric"
+	},
+	{
+		"abr": "ウルフェイン軍需企業メカコア",
+		"price": 333,
+		"category": "加工品",
+		"defname": "Wolfein_MegaCorpMechCore"
+	},
+	{
+		"abr": "ウルフェイン逆解析工作台",
+		"price": 783,
+		"category": "生産物",
+		"defname": "Wolfein_ReverseResearchBench"
+	},
+	{
+		"abr": "ウルフェイン電動ミシン台",
+		"price": 783,
+		"category": "生産物",
+		"defname": "Wolfein_Electric_TailoringBench"
+	},
+	{
+		"abr": "ウルフェイン電子コンポーネント",
+		"price": 917,
+		"category": "加工品",
+		"defname": "Wolfein_ElectronicComponent"
+	},
+	{
+		"abr": "ウルフェイン高性能合金",
+		"price": 18,
+		"category": "原材料",
+		"defname": "Wolfein_AlloyMaterials"
+	},
+	{
+		"abr": "エクスカリバー",
+		"price": 3333,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_EqusCalibur"
+	},
+	{
+		"abr": "エポナ",
+		"price": 3750,
+		"category": "Animal",
+		"defname": "Alien_Epona"
+	},
+	{
+		"abr": "エポナアーマーメルトライフル",
+		"price": 967,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_laserrifle"
+	},
+	{
+		"abr": "エポナウォーピック",
+		"price": 942,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_Hammer"
+	},
+	{
+		"abr": "エポナエリートヘルメット",
+		"price": 600,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_EliteHelmet"
+	},
+	{
+		"abr": "エポナエレキショックハープーンガン",
+		"price": 1833,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_ExperimentalElectroshockHarpoonGun"
+	},
+	{
+		"abr": "エポナオーガニックバンカーバスター",
+		"price": 500,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_Grenade"
+	},
+	{
+		"abr": "エポナキネティックダブルバトルアクス",
+		"price": 1050,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_DoubleAxe"
+	},
+	{
+		"abr": "エポナギャンベゾン",
+		"price": 1300,
+		"category": "エポナ制服",
+		"defname": "Epona_Apparel_JackPlate"
+	},
+	{
+		"abr": "エポナクランベルト",
+		"price": 425,
+		"category": "エポナコート",
+		"defname": "Epona_Apparel_ClanBelt"
+	},
+	{
+		"abr": "エポナクレイモア",
+		"price": 1333,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_Claymore"
+	},
+	{
+		"abr": "エポナクロスボウ",
+		"price": 383,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_BulletBow"
+	},
+	{
+		"abr": "エポナサーベル",
+		"price": 483,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_Sickle"
+	},
+	{
+		"abr": "エポナサンダーハンマー",
+		"price": 1225,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_Wrath"
+	},
+	{
+		"abr": "エポナシージアーバレスト",
+		"price": 1100,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_SiegeArbalest"
+	},
+	{
+		"abr": "エポナジャベリンの束",
+		"price": 231,
+		"category": "エポナパック",
+		"defname": "Epona_Apparel_JavQuiver"
+	},
+	{
+		"abr": "エポナスチームガトリング",
+		"price": 3300,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_Steamgatling"
+	},
+	{
+		"abr": "エポナスチームクレイモア(未完成)",
+		"price": 3200,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_SteamClaymore"
+	},
+	{
+		"abr": "エポナスチームチェインショットガン",
+		"price": 1433,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_Steam-poweredchainshotgun"
+	},
+	{
+		"abr": "エポナスチームフラック",
+		"price": 4792,
+		"category": "遠距離武器",
+		"defname": "Epona_Weapon_Steamflak"
+	},
+	{
+		"abr": "エポナスチームランス",
+		"price": 2950,
+		"category": "遠距離武器",
+		"defname": "Epona_Weapon_Steamlance"
+	},
+	{
+		"abr": "エポナストライプアンダーウェア",
+		"price": 98,
+		"category": "エポナパンティ",
+		"defname": "Epona_Apparel_Underwear"
+	},
+	{
+		"abr": "エポナスパイ用ネズ耳",
+		"price": 62,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_EarCostume"
+	},
+	{
+		"abr": "エポナスペーススーツ",
+		"price": 1825,
+		"category": "エポナドレス",
+		"defname": "Epona_Apparel_EVA"
+	},
+	{
+		"abr": "エポナスペースヘルメット",
+		"price": 775,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_EVA"
+	},
+	{
+		"abr": "エポナスペルブック",
+		"price": 1042,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_Book"
+	},
+	{
+		"abr": "エポナスワッシュバックラー",
+		"price": 1100,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_Swashbuckler"
+	},
+	{
+		"abr": "エポナセクシーアンダーウェア",
+		"price": 98,
+		"category": "エポナパンティ",
+		"defname": "Epona_Apparel_Teddy"
+	},
+	{
+		"abr": "エポナタキオンランス",
+		"price": 416667,
+		"category": "遠距離武器",
+		"defname": "Epona_Weapon_TachyonLance"
+	},
+	{
+		"abr": "エポナチャージアサルトライフル",
+		"price": 1758,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_Vector"
+	},
+	{
+		"abr": "エポナティアラ",
+		"price": 367,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_Tiara"
+	},
+	{
+		"abr": "エポナデストリエランス",
+		"price": 1717,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_BigLance"
+	},
+	{
+		"abr": "エポナデュアルガトリング",
+		"price": 1042,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_HandgunGatling"
+	},
+	{
+		"abr": "エポナトラノスランス",
+		"price": 3200,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_LanceToranos"
+	},
+	{
+		"abr": "エポナニセキツネの尻尾",
+		"price": 195,
+		"category": "エポナコート",
+		"defname": "Epona_Apparel_MihoCos"
+	},
+	{
+		"abr": "エポナニセキツネ耳",
+		"price": 169,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_MihoCostume"
+	},
+	{
+		"abr": "エポナニンジンゴディソード",
+		"price": 1025,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_EponaLongSword"
+	},
+	{
+		"abr": "エポナニンジンバッグ",
+		"price": 62,
+		"category": "エポナパック",
+		"defname": "Epona_Apparel_Pack_Carrot"
+	},
+	{
+		"abr": "エポナノーブルケープ",
+		"price": 1033,
+		"category": "エポナコート",
+		"defname": "Epona_Apparel_NobleCape"
+	},
+	{
+		"abr": "エポナハーフソード",
+		"price": 450,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_EponaHalfSword"
+	},
+	{
+		"abr": "エポナバトルハンマー",
+		"price": 883,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_dWarfHammer"
+	},
+	{
+		"abr": "エポナバトルメイス",
+		"price": 592,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_mace"
+	},
+	{
+		"abr": "エポナバフコート",
+		"price": 633,
+		"category": "エポナ普段着",
+		"defname": "Epona_Apparel_BuffCoat"
+	},
+	{
+		"abr": "エポナバリスティックシールド",
+		"price": 2275,
+		"category": "エポナシールド",
+		"defname": "Epona_Apparel_NewShield_Balistic"
+	},
+	{
+		"abr": "エポナハンティングライフル",
+		"price": 2850,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_HuntingRifle"
+	},
+	{
+		"abr": "エポナハンドキャノン(散弾)",
+		"price": 858,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_HandcannonShotgun"
+	},
+	{
+		"abr": "エポナハンドキャノン(榴弾)",
+		"price": 1167,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_HandcannonMortar"
+	},
+	{
+		"abr": "エポナヒートパルスキャノン",
+		"price": 416667,
+		"category": "遠距離武器",
+		"defname": "Epona_Weapon_flak"
+	},
+	{
+		"abr": "エポナピックアクス",
+		"price": 525,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_Pickaxe"
+	},
+	{
+		"abr": "エポナファーケープ",
+		"price": 408,
+		"category": "エポナコート",
+		"defname": "Epona_Apparel_FurCape"
+	},
+	{
+		"abr": "エポナフラワーリープ",
+		"price": 100,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_Priest_B"
+	},
+	{
+		"abr": "エポナフランシスカ",
+		"price": 274,
+		"category": "遠距離武器",
+		"defname": "Epona_Weapon_BoarSpear"
+	},
+	{
+		"abr": "エポナフルプレートアーマー",
+		"price": 1633,
+		"category": "エポナ着物",
+		"defname": "Epona_Apparel_FullPlate"
+	},
+	{
+		"abr": "エポナブレストプレート",
+		"price": 667,
+		"category": "エポナ着物",
+		"defname": "Epona_Apparel_BreastPlate"
+	},
+	{
+		"abr": "エポナブロードソード",
+		"price": 309,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_Broadsword"
+	},
+	{
+		"abr": "エポナプロテクターヘルメット",
+		"price": 1683,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_GuardianHelmet"
+	},
+	{
+		"abr": "エポナペガサスナイトの制服",
+		"price": 1717,
+		"category": "エポナ制服",
+		"defname": "Epona_Apparel_Platinum"
+	},
+	{
+		"abr": "エポナペッパーボックスデュアルピストル",
+		"price": 204,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_Handgun"
+	},
+	{
+		"abr": "エポナヘルメット",
+		"price": 324,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_Helmet"
+	},
+	{
+		"abr": "エポナマティーニ・カービン",
+		"price": 850,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_carbine"
+	},
+	{
+		"abr": "エポナマティーニ・ゼリーカービン",
+		"price": 1017,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_LongCarbine"
+	},
+	{
+		"abr": "エポナマティーニ・ゼリースナイパー",
+		"price": 1667,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_LongRifle"
+	},
+	{
+		"abr": "エポナミドルアサルトライフル",
+		"price": 1608,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_Mnineteenfifteen"
+	},
+	{
+		"abr": "エポナメイドコス",
+		"price": 617,
+		"category": "エポナドレス",
+		"defname": "Epona_Apparel_maidcostume"
+	},
+	{
+		"abr": "エポナメイドヘアドレス",
+		"price": 113,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_MaidHeaddress"
+	},
+	{
+		"abr": "エポナメカニック帽",
+		"price": 291,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_Artificer"
+	},
+	{
+		"abr": "エポナメカニック服",
+		"price": 1025,
+		"category": "エポナドレス",
+		"defname": "Epona_Apparel_Artificer"
+	},
+	{
+		"abr": "エポナモーニングスター",
+		"price": 567,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_Morningstar"
+	},
+	{
+		"abr": "エポナユラン巫女服",
+		"price": 383,
+		"category": "エポナコス",
+		"defname": "Epona_Apparel_ShrineMaiden"
+	},
+	{
+		"abr": "エポナライタープレート",
+		"price": 1625,
+		"category": "エポナ着物",
+		"defname": "Epona_Apparel_DragoonPlate"
+	},
+	{
+		"abr": "エポナライトシールド",
+		"price": 933,
+		"category": "エポナシールド",
+		"defname": "Epona_Apparel_NewShield_Light"
+	},
+	{
+		"abr": "エポナラットキンコス服",
+		"price": 383,
+		"category": "エポナコス",
+		"defname": "Epona_Apparel_RatkinCos"
+	},
+	{
+		"abr": "エポナランス",
+		"price": 775,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_Lance"
+	},
+	{
+		"abr": "エポナリボルバーショットガン",
+		"price": 617,
+		"category": "エポナ遠隔武器",
+		"defname": "Epona_Weapon_RevolverShotgun"
+	},
+	{
+		"abr": "エポナレッグガード",
+		"price": 408,
+		"category": "エポナ着物",
+		"defname": "Epona_Apparel_LegGustd"
+	},
+	{
+		"abr": "エポナレンジャーボウ",
+		"price": 1042,
+		"category": "遠距離武器",
+		"defname": "Epona_Weapon_RangerBow"
+	},
+	{
+		"abr": "エポナロイヤルパワーアーマー",
+		"price": 7417,
+		"category": "エポナパワーアーマー用弾薬",
+		"defname": "Epona_Apparel_PowerArmor"
+	},
+	{
+		"abr": "エポナロイヤルパワーアーマーヘルメット",
+		"price": 2517,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_RoyalPowerHelmet"
+	},
+	{
+		"abr": "エポナロッホアーバーアックス",
+		"price": 508,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_Axe"
+	},
+	{
+		"abr": "エポナロレーヌトライデント",
+		"price": 600,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_LorraineCrossHalberd"
+	},
+	{
+		"abr": "エポナ冒険服",
+		"price": 1708,
+		"category": "エポナ普段着",
+		"defname": "Epona_Apparel_Adventurer"
+	},
+	{
+		"abr": "エポナ制服",
+		"price": 1958,
+		"category": "エポナ普段着",
+		"defname": "Epona_Apparel_Noble_B"
+	},
+	{
+		"abr": "エポナ司祭の月桂冠",
+		"price": 195,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_Priest"
+	},
+	{
+		"abr": "エポナ唐刀",
+		"price": 433,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_TangSword"
+	},
+	{
+		"abr": "エポナ婚礼衣装",
+		"price": 517,
+		"category": "エポナドレス",
+		"defname": "Epona_Apparel_Priest_B"
+	},
+	{
+		"abr": "エポナ子供服",
+		"price": 310,
+		"category": "エポナ普段着",
+		"defname": "Epona_Apparel_Child"
+	},
+	{
+		"abr": "エポナ学生服",
+		"price": 617,
+		"category": "エポナコス",
+		"defname": "Epona_Apparel_Student"
+	},
+	{
+		"abr": "エポナ家畜管理耳標",
+		"price": 57,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_Ear"
+	},
+	{
+		"abr": "エポナ審問官の制服",
+		"price": 1692,
+		"category": "エポナ制服",
+		"defname": "Epona_Apparel_JudgesTrenchCoat"
+	},
+	{
+		"abr": "エポナ審問官の帽子",
+		"price": 204,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_Tribunal"
+	},
+	{
+		"abr": "エポナ審問官用オートピストル",
+		"price": 342,
+		"category": "遠距離武器",
+		"defname": "Epona_Weapon_Broomhandle"
+	},
+	{
+		"abr": "エポナ帽子",
+		"price": 145,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_Common"
+	},
+	{
+		"abr": "エポナ庶民服",
+		"price": 248,
+		"category": "エポナ普段着",
+		"defname": "Epona_Apparel_Farmer"
+	},
+	{
+		"abr": "エポナ戦術ウサ耳帽",
+		"price": 197,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_BunnyCostume"
+	},
+	{
+		"abr": "エポナ戦術ベレー帽",
+		"price": 204,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_TacticalBeret"
+	},
+	{
+		"abr": "エポナ戦術逆バニーガールスーツ",
+		"price": 2308,
+		"category": "エポナ着物",
+		"defname": "Epona_Apparel_EponaReverseBunnyGirlOutfit"
+	},
+	{
+		"abr": "エポナ戦術野球帽",
+		"price": 311,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_tacticalcap"
+	},
+	{
+		"abr": "エポナ戦術防風ジャケット",
+		"price": 1708,
+		"category": "エポナ制服",
+		"defname": "Epona_Apparel_Tacticalgear"
+	},
+	{
+		"abr": "エポナ戦術魔法師の帽子",
+		"price": 315,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_TacticalWitch_B"
+	},
+	{
+		"abr": "エポナ戦術魔法師服",
+		"price": 517,
+		"category": "エポナ制服",
+		"defname": "Epona_Apparel_TacticalWitch_A"
+	},
+	{
+		"abr": "エポナ旅行服",
+		"price": 2042,
+		"category": "エポナ普段着",
+		"defname": "Epona_Apparel_Traveler"
+	},
+	{
+		"abr": "エポナ模倣戦術ウィンドブレーカー",
+		"price": 1708,
+		"category": "エポナ制服",
+		"defname": "Epona_Apparel_TacticalCombatUniform"
+	},
+	{
+		"abr": "エポナ毒矢筒",
+		"price": 383,
+		"category": "エポナパック",
+		"defname": "Epona_Apparel_Quiver_Poison"
+	},
+	{
+		"abr": "エポナ無反動砲",
+		"price": 1333,
+		"category": "遠距離武器",
+		"defname": "Epona_Weapon_RecycleBazooka"
+	},
+	{
+		"abr": "エポナ祭司服",
+		"price": 617,
+		"category": "エポナドレス",
+		"defname": "Epona_Apparel_Priest"
+	},
+	{
+		"abr": "エポナ箒",
+		"price": 265,
+		"category": "白兵戦武器",
+		"defname": "Epona_Weapon_broom"
+	},
+	{
+		"abr": "エポナ絆創膏",
+		"price": 81,
+		"category": "エポナパンティ",
+		"defname": "Epona_Apparel_bandage"
+	},
+	{
+		"abr": "エポナ聖女のベール",
+		"price": 195,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Vell_Saintess"
+	},
+	{
+		"abr": "エポナ聖王パワーアーマー",
+		"price": 9267,
+		"category": "エポナパワーアーマー用弾薬",
+		"defname": "Epona_Apparel_ArmorPowerBase"
+	},
+	{
+		"abr": "エポナ花飾り",
+		"price": 180,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_Hairpin"
+	},
+	{
+		"abr": "エポナ貴族服",
+		"price": 1033,
+		"category": "エポナドレス",
+		"defname": "Epona_Apparel_Noble"
+	},
+	{
+		"abr": "エポナ軍用スチームアーマー",
+		"price": 3367,
+		"category": "エポナパワーアーマー用弾薬",
+		"defname": "Epona_Apparel_PowerArmorMunition"
+	},
+	{
+		"abr": "エポナ防寒フード",
+		"price": 315,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_Winter"
+	},
+	{
+		"abr": "エポナ防弾タージ",
+		"price": 800,
+		"category": "エポナシールド",
+		"defname": "Epona_Shield_MetalTarge"
+	},
+	{
+		"abr": "エポナ階差機関",
+		"price": 3017,
+		"category": "エポナパック",
+		"defname": "Epona_Apparel_Difference"
+	},
+	{
+		"abr": "エポナ騎兵タージ",
+		"price": 290,
+		"category": "エポナシールド",
+		"defname": "Epona_Shield_CavalryTargeWooden"
+	},
+	{
+		"abr": "エポナ魔女の帽子",
+		"price": 315,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_HatWitchs"
+	},
+	{
+		"abr": "エポナ魔女服",
+		"price": 517,
+		"category": "エポナ制服",
+		"defname": "Epona_Apparel_Witch"
+	},
+	{
+		"abr": "エポナキッチン",
+		"price": 467,
+		"category": "生産物",
+		"defname": "EponaBuildingKitchen"
+	},
+	{
+		"abr": "エポナキルト",
+		"price": 7,
+		"category": "織物",
+		"defname": "EponaCloth"
+	},
+	{
+		"abr": "エポナタペストリー",
+		"price": 550,
+		"category": "芸術品",
+		"defname": "EponaTapySmall"
+	},
+	{
+		"abr": "エポナの皮",
+		"price": 7,
+		"category": "革",
+		"defname": "Leather_Epona"
+	},
+	{
+		"abr": "エポナヒーターシールド",
+		"price": 1092,
+		"category": "エポナ追加",
+		"defname": "Epona_Apparel_Shield_Heater_Plain"
+	},
+	{
+		"abr": "エポナヒーターシールド(ヒポグリフ)",
+		"price": 1133,
+		"category": "エポナ追加",
+		"defname": "Epona_Apparel_Shield_Heater_Hippogryph"
+	},
+	{
+		"abr": "エポナヒーターシールド(双剣)",
+		"price": 1133,
+		"category": "エポナ追加",
+		"defname": "Epona_Apparel_Shield_Heater_Swords"
+	},
+	{
+		"abr": "エポナヒーターシールド(杯)",
+		"price": 1133,
+		"category": "エポナ追加",
+		"defname": "Epona_Apparel_Shield_Heater_Wine"
+	},
+	{
+		"abr": "エポナ爆裂リカー",
+		"price": 112,
+		"category": "ドラッグ",
+		"defname": "EponaBombarrotCocktail"
+	},
+	{
+		"abr": "エポナ爆裂鍛冶台",
+		"price": 792,
+		"category": "生産物",
+		"defname": "EponaBuildingBombForge"
+	},
+	{
+		"abr": "エポナ織機",
+		"price": 467,
+		"category": "生産物",
+		"defname": "EponaBuildingLoom"
+	},
+	{
+		"abr": "エポナ鍛冶台",
+		"price": 750,
+		"category": "生産物",
+		"defname": "EponaBuildingForge"
+	},
+	{
+		"abr": "エポナ電動鍛冶台",
+		"price": 1000,
+		"category": "生産物",
+		"defname": "EponaBuildingBombElectric"
+	},
+	{
+		"abr": "エポナ馬乳酒",
+		"price": 27,
+		"category": "ドラッグ",
+		"defname": "Epona_Kumis"
+	},
+	{
+		"abr": "エポナ馬乳酒(未発酵)",
+		"price": 183,
+		"category": "加工品",
+		"defname": "Epona_KumisPreferment"
+	},
+	{
+		"abr": "エポネーター5500",
+		"price": 525,
+		"category": "生産物",
+		"defname": "EponaBuildingTailor"
+	},
+	{
+		"abr": "キャラメルロール",
+		"price": 0,
+		"category": "食物",
+		"defname": "HYTootsie"
+	},
+	{
+		"abr": "キャロティウム",
+		"price": 2,
+		"category": "原材料",
+		"defname": "Carrotium"
+	},
+	{
+		"abr": "クーリン",
+		"price": 4375,
+		"category": "Animal",
+		"defname": "Kurin"
+	},
+	{
+		"abr": "クーリンtシャツ",
+		"price": 191,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_T_Shirt"
+	},
+	{
+		"abr": "クーリンアーマードゴシックドレス",
+		"price": 608,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Armored_Gothic_Dress"
+	},
+	{
+		"abr": "クーリンアサルトショットガン",
+		"price": 742,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Assault_Shotgun"
+	},
+	{
+		"abr": "クーリンアサルトライフル",
+		"price": 842,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Assault_Rifle"
+	},
+	{
+		"abr": "クーリンインナースーツ",
+		"price": 575,
+		"category": "肌着",
+		"defname": "Kurin_Underwear_Suit"
+	},
+	{
+		"abr": "クーリンウインターハット",
+		"price": 107,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Winter_Hat"
+	},
+	{
+		"abr": "クーリンエネルギーマークスマンライフル",
+		"price": 2892,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Energy_Marksman_Rifle"
+	},
+	{
+		"abr": "クーリンエネルギーライフル",
+		"price": 2458,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Energy_Rifle"
+	},
+	{
+		"abr": "クーリンエンジニアジャケット",
+		"price": 892,
+		"category": "上着",
+		"defname": "Kurin_Shell_Engineer_Jacket"
+	},
+	{
+		"abr": "クーリンエンジニアスーツ",
+		"price": 7583,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Engineer_Suit"
+	},
+	{
+		"abr": "クーリンオープンショルダーニット",
+		"price": 236,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Open_Shoulder_Knit"
+	},
+	{
+		"abr": "クーリンオープンニット",
+		"price": 203,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Open_Back_Knit"
+	},
+	{
+		"abr": "クーリンカーディガン",
+		"price": 298,
+		"category": "上着",
+		"defname": "Kurin_Shell_Cardigan"
+	},
+	{
+		"abr": "クーリンカービン",
+		"price": 667,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Carbine"
+	},
+	{
+		"abr": "クーリンガウスライフル",
+		"price": 2033,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Gauss_Rifle"
+	},
+	{
+		"abr": "クーリンカジュアルシャツ",
+		"price": 315,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Casual_Wear"
+	},
+	{
+		"abr": "クーリンキツネヘアピン",
+		"price": 173,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Cute_Hair_Pin"
+	},
+	{
+		"abr": "クーリンキュートドレス",
+		"price": 383,
+		"category": "サイキック衣服",
+		"defname": "Kurin_OnSkin_Cute_Dress"
+	},
+	{
+		"abr": "クーリングレネードランチャー",
+		"price": 1083,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Grenade_Launcher"
+	},
+	{
+		"abr": "クーリンゴシックドレス",
+		"price": 400,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Gothic_Dress"
+	},
+	{
+		"abr": "クーリンコンバットスーツ",
+		"price": 1967,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Combat_Suit"
+	},
+	{
+		"abr": "クーリンサイマスターコート",
+		"price": 1000,
+		"category": "サイキック衣服",
+		"defname": "Kurin_Shell_Psymaster_Coat"
+	},
+	{
+		"abr": "クーリンサイマスタースーツ",
+		"price": 1250,
+		"category": "サイキック衣服",
+		"defname": "Kurin_OnSkin_Psymaster_Suit"
+	},
+	{
+		"abr": "クーリンサイマスターヘッドギア",
+		"price": 833,
+		"category": "サイキック衣服",
+		"defname": "Kurin_Overhead_Psymaster_Headgear"
+	},
+	{
+		"abr": "クーリンサマーハット",
+		"price": 107,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Summer_Hat"
+	},
+	{
+		"abr": "クーリンジャンプスーツ",
+		"price": 525,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Work_Jumpsuit"
+	},
+	{
+		"abr": "クーリンショートパンツ",
+		"price": 151,
+		"category": "下衣",
+		"defname": "Kurin_Legs_Shorts"
+	},
+	{
+		"abr": "クーリンシンプルドレス",
+		"price": 400,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Traditional_Simple_Dress"
+	},
+	{
+		"abr": "クーリンスカート",
+		"price": 151,
+		"category": "下衣",
+		"defname": "Kurin_Legs_Skirt"
+	},
+	{
+		"abr": "クーリンスカーフ",
+		"price": 107,
+		"category": "着物",
+		"defname": "Kurin_Middle_Scarf"
+	},
+	{
+		"abr": "クーリンスタンガン",
+		"price": 483,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Stun_Gun"
+	},
+	{
+		"abr": "クーリンストッキング(ガーター)",
+		"price": 101,
+		"category": "ストッキング",
+		"defname": "Kurin_Stockings_Garterbelt"
+	},
+	{
+		"abr": "クーリンストッキング(白)",
+		"price": 101,
+		"category": "ストッキング",
+		"defname": "Kurin_Stockings_White"
+	},
+	{
+		"abr": "クーリンストッキング(縞)",
+		"price": 101,
+		"category": "ストッキング",
+		"defname": "Kurin_Stockings_Striped"
+	},
+	{
+		"abr": "クーリンストッキング(茶)",
+		"price": 101,
+		"category": "ストッキング",
+		"defname": "Kurin_Stockings_Brown"
+	},
+	{
+		"abr": "クーリンスナイパーライフル",
+		"price": 908,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Sniper_Rifle"
+	},
+	{
+		"abr": "クーリンダウンジャケット",
+		"price": 350,
+		"category": "上着",
+		"defname": "Kurin_Shell_Winter_Padding"
+	},
+	{
+		"abr": "クーリンタクティカルベスト",
+		"price": 650,
+		"category": "軍服",
+		"defname": "Kurin_Middle_Tactical_Vest"
+	},
+	{
+		"abr": "クーリンテスラライフル",
+		"price": 3092,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Tesla_Rifle"
+	},
+	{
+		"abr": "クーリンパーカー",
+		"price": 269,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Hoodie"
+	},
+	{
+		"abr": "クーリンパジャマ",
+		"price": 236,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Pajama"
+	},
+	{
+		"abr": "クーリンバックパック",
+		"price": 203,
+		"category": "バックパック",
+		"defname": "Kurin_Backpack_Civil"
+	},
+	{
+		"abr": "クーリンバトルライフル",
+		"price": 975,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Battle_Rifle"
+	},
+	{
+		"abr": "クーリンパンスト",
+		"price": 101,
+		"category": "ストッキング",
+		"defname": "Kurin_Stockings_Pantyhose"
+	},
+	{
+		"abr": "クーリンパンツ",
+		"price": 191,
+		"category": "下衣",
+		"defname": "Kurin_Legs_Pants"
+	},
+	{
+		"abr": "クーリンビキニアーマー",
+		"price": 1442,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Bikini_Armor"
+	},
+	{
+		"abr": "クーリンビキニアーマーヘッドギア",
+		"price": 833,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Bikini_Armor_Headgear"
+	},
+	{
+		"abr": "クーリンピストル",
+		"price": 309,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Pistol"
+	},
+	{
+		"abr": "クーリンファンシードレス",
+		"price": 400,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Traditional_Fancy_Dress"
+	},
+	{
+		"abr": "クーリンブラウス",
+		"price": 191,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Shirt"
+	},
+	{
+		"abr": "クーリンブラックドレス",
+		"price": 525,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Seductive_Black_Dress"
+	},
+	{
+		"abr": "クーリンヘアピン",
+		"price": 350,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Casual_Hair_Pin"
+	},
+	{
+		"abr": "クーリンヘッドドレス",
+		"price": 350,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Gothic_Hair_Pin"
+	},
+	{
+		"abr": "クーリンホットパンツ",
+		"price": 169,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Hot_Pants"
+	},
+	{
+		"abr": "クーリンボディアーマー",
+		"price": 392,
+		"category": "軍服",
+		"defname": "Kurin_Middle_Body_Armor"
+	},
+	{
+		"abr": "クーリンホワイトドレス",
+		"price": 525,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Seductive_White_Dress"
+	},
+	{
+		"abr": "クーリンラグジュアリードレス",
+		"price": 400,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Traditional_Luxury_Dress"
+	},
+	{
+		"abr": "クーリンロケットランチャー",
+		"price": 1758,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Rocket_Launcher"
+	},
+	{
+		"abr": "クーリンロングコート",
+		"price": 315,
+		"category": "上着",
+		"defname": "Kurin_Shell_Duster"
+	},
+	{
+		"abr": "クーリンロングスカート",
+		"price": 191,
+		"category": "下衣",
+		"defname": "Kurin_Legs_Long_Skirt"
+	},
+	{
+		"abr": "クーリンワンピース",
+		"price": 236,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_One_Piece_Dress"
+	},
+	{
+		"abr": "クーリン下着(白)",
+		"price": 101,
+		"category": "肌着",
+		"defname": "Kurin_Underwear_White"
+	},
+	{
+		"abr": "クーリン下着(縞)",
+		"price": 101,
+		"category": "肌着",
+		"defname": "Kurin_Underwear_Striped"
+	},
+	{
+		"abr": "クーリン下着(赤)",
+		"price": 101,
+		"category": "肌着",
+		"defname": "Kurin_Underwear_Red"
+	},
+	{
+		"abr": "クーリン下着(魅)",
+		"price": 101,
+		"category": "肌着",
+		"defname": "Kurin_Underwear_Slim"
+	},
+	{
+		"abr": "クーリン下着(黒)",
+		"price": 101,
+		"category": "肌着",
+		"defname": "Kurin_Underwear_Black"
+	},
+	{
+		"abr": "クーリン伝統的なコート",
+		"price": 550,
+		"category": "上着",
+		"defname": "Kurin_Shell_Traditional_Coat"
+	},
+	{
+		"abr": "クーリン伝統的な髪飾り",
+		"price": 173,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Traditional_Hair_Pin"
+	},
+	{
+		"abr": "クーリン作業用バックパック",
+		"price": 392,
+		"category": "バックパック",
+		"defname": "Kurin_Backpack_Worker"
+	},
+	{
+		"abr": "クーリン修道帽",
+		"price": 350,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Nun_Headpiece"
+	},
+	{
+		"abr": "クーリン修道服",
+		"price": 400,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Nun_Dress"
+	},
+	{
+		"abr": "クーリン儀式剣",
+		"price": 767,
+		"category": "白兵戦武器",
+		"defname": "Kurin_MeleeWeapon_Ceremonial_Sword"
+	},
+	{
+		"abr": "クーリン対物ライフル",
+		"price": 1283,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Anti_Materiel_Rifle"
+	},
+	{
+		"abr": "クーリン将校コート",
+		"price": 500,
+		"category": "上着",
+		"defname": "Kurin_Shell_Officer_Coat"
+	},
+	{
+		"abr": "クーリン将校帽",
+		"price": 240,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Officer_Cap"
+	},
+	{
+		"abr": "クーリン狩猟用ショットガン",
+		"price": 475,
+		"category": "遠距離武器",
+		"defname": "Kurin_Gun_Hunting_Shotgun"
+	},
+	{
+		"abr": "クーリン苦無",
+		"price": 143,
+		"category": "白兵戦武器",
+		"defname": "Kurin_Gun_Surigum"
+	},
+	{
+		"abr": "クーリン軍服",
+		"price": 1275,
+		"category": "下着",
+		"defname": "Kurin_OnSkin_Military_Uniform"
+	},
+	{
+		"abr": "クーリン軍用バックパック",
+		"price": 400,
+		"category": "バックパック",
+		"defname": "Kurin_Backpack_Military"
+	},
+	{
+		"abr": "クーリン軍用ヘルメット",
+		"price": 833,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Military_Helmet"
+	},
+	{
+		"abr": "クーリン野球帽",
+		"price": 107,
+		"category": "帽子",
+		"defname": "Kurin_Overhead_Cap"
+	},
+	{
+		"abr": "クーリン防護服",
+		"price": 1342,
+		"category": "軍服",
+		"defname": "Kurin_Middle_Hazmat_Suit"
+	},
+	{
+		"abr": "クーリンドレッサーステーション",
+		"price": 1150,
+		"category": "特殊品",
+		"defname": "Kurin_Dresser_Station"
+	},
+	{
+		"abr": "クーリンホッパー",
+		"price": 49,
+		"category": "特殊品",
+		"defname": "Kurin_Fabricator_Hopper"
+	},
+	{
+		"abr": "クーリン特製縄トラップ",
+		"price": 51,
+		"category": "防衛",
+		"defname": "Kurin_Noose_Trap"
+	},
+	{
+		"abr": "クーリン電動ミシン",
+		"price": 533,
+		"category": "生産物",
+		"defname": "Kurin_Electric_Tailoring_Bench"
+	},
+	{
+		"abr": "クエンリン合金",
+		"price": 7,
+		"category": "原材料",
+		"defname": "CelesAlloy"
+	},
+	{
+		"abr": "クリスタルポッド",
+		"price": 20,
+		"category": "セレスティアナノ素材",
+		"defname": "Celes_RawCrystalOrchid"
+	},
+	{
+		"abr": "クリスタル化した死体",
+		"price": 20,
+		"category": "塊",
+		"defname": "Celes_NanoCrystallisedCorpse"
+	},
+	{
+		"abr": "クリスタル化石原料",
+		"price": 200,
+		"category": "加工品",
+		"defname": "Celes_NanoMachineCrystal"
+	},
+	{
+		"abr": "クロの毛",
+		"price": 17,
+		"category": "毛",
+		"defname": "kuroWool"
+	},
+	{
+		"abr": "ゴーストテイル",
+		"price": 142,
+		"category": "人造",
+		"defname": "Venarium_GhostTail"
+	},
+	{
+		"abr": "ゴーストホーン",
+		"price": 142,
+		"category": "人造",
+		"defname": "Venarium_GhostHorn"
+	},
+	{
+		"abr": "ゴーディフ",
+		"price": 2500,
+		"category": "家畜",
+		"defname": "Epona_Sheep"
+	},
+	{
+		"abr": "ゴーディフチーズ",
+		"price": 60,
+		"category": "調理済",
+		"defname": "Epona_Sheep_Cheese"
+	},
+	{
+		"abr": "ゴーディフチーズ(未成熟)",
+		"price": 25,
+		"category": "加工品",
+		"defname": "Epona_Sheep_CheesePreferment"
+	},
+	{
+		"abr": "ゴーディフの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Epona_Sheep"
+	},
+	{
+		"abr": "ゴーディフミルク",
+		"price": 6,
+		"category": "畜産物",
+		"defname": "Epona_Sheep_Milk"
+	},
+	{
+		"abr": "ゴーディフロイヤルチーズ",
+		"price": 80,
+		"category": "調理済",
+		"defname": "Epona_Sheep_CheeseRoyal"
+	},
+	{
+		"abr": "ゴーディフ脂",
+		"price": 2,
+		"category": "畜産物",
+		"defname": "Epona_Sheep_Fat"
+	},
+	{
+		"abr": "コヒメの毛",
+		"price": 50,
+		"category": "毛",
+		"defname": "kohimeWool"
+	},
+	{
+		"abr": "コロッサ",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "Korossa"
+	},
+	{
+		"abr": "コロッサ真空パック",
+		"price": 642,
+		"category": "ユーティリティ",
+		"defname": "KRS_vacpack"
+	},
+	{
+		"abr": "コロッサ4連装焼夷グレネードランチャー",
+		"price": 1017,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_FLASH_belt"
+	},
+	{
+		"abr": "コロッサbsdシャツ",
+		"price": 6667,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_BSD_shirts"
+	},
+	{
+		"abr": "コロッサbsdベスト",
+		"price": 11667,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_BSD_Vest"
+	},
+	{
+		"abr": "コロッサbsdヘルメット(gpnvg)",
+		"price": 11667,
+		"category": "コロッサ帽子",
+		"defname": "Korossa_BSD_helmetA"
+	},
+	{
+		"abr": "コロッサeodスーツ",
+		"price": 1517,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_Juggernaut"
+	},
+	{
+		"abr": "コロッサエクソスーツイェーガー",
+		"price": 1992,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_Exosuit_Smoke"
+	},
+	{
+		"abr": "コロッサエクソスーツドリフター",
+		"price": 1992,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_Exosuit_Drifter"
+	},
+	{
+		"abr": "コロッサエクソスーツブラスクラウン",
+		"price": 1992,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_Exosuit"
+	},
+	{
+		"abr": "コロッサカジュアルシャツ",
+		"price": 306,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_casual_shirts"
+	},
+	{
+		"abr": "コロッサカジュアルシャツ",
+		"price": 306,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_casual_shirtsA"
+	},
+	{
+		"abr": "コロッサカラー",
+		"price": 68,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_Collar"
+	},
+	{
+		"abr": "コロッサキラ",
+		"price": 1667,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_kira"
+	},
+	{
+		"abr": "コロッサグレネードランチャー(閃光弾)",
+		"price": 1017,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_m320_flash"
+	},
+	{
+		"abr": "コロッササマーウェア",
+		"price": 306,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_casual_shirtsG"
+	},
+	{
+		"abr": "コロッサチェストリグ",
+		"price": 241,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_Basic_Alice"
+	},
+	{
+		"abr": "コロッサパーカー",
+		"price": 383,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_casual_shirtsC"
+	},
+	{
+		"abr": "コロッサバニースーツ",
+		"price": 138,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_casual_shirtsF"
+	},
+	{
+		"abr": "コロッサビキニ",
+		"price": 38,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_casual_shirtsD"
+	},
+	{
+		"abr": "コロッサプレートキャリア",
+		"price": 442,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_platecarrier"
+	},
+	{
+		"abr": "コロッサメイド服",
+		"price": 306,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_casual_shirtsB"
+	},
+	{
+		"abr": "コロッサメカニターボディスーツ",
+		"price": 2558,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_mechanitor_bodysuit"
+	},
+	{
+		"abr": "コロッサモダンパーカー(腰)",
+		"price": 658,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_Parka_open_modern"
+	},
+	{
+		"abr": "コロッサ使い捨て対戦車ロケットランチャー",
+		"price": 167,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_apparel_LAW"
+	},
+	{
+		"abr": "コロッサ古いボディアーマー(ポケット)",
+		"price": 425,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_Basic_FlakVest"
+	},
+	{
+		"abr": "コロッサ奴隷服",
+		"price": 138,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_casual_shirtsE"
+	},
+	{
+		"abr": "コロッサ子供服",
+		"price": 306,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_children_apparel"
+	},
+	{
+		"abr": "コロッサ対戦車ミサイルランチャー",
+		"price": 2333,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_apparel_DRAGON"
+	},
+	{
+		"abr": "コロッサ対戦車ロケットランチャー",
+		"price": 2083,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_apparel_PF"
+	},
+	{
+		"abr": "コロッサ強化ヘルメット",
+		"price": 642,
+		"category": "コロッサ帽子",
+		"defname": "Korossa_Visorhelmet"
+	},
+	{
+		"abr": "コロッサ標準スーツ",
+		"price": 306,
+		"category": "コロッサ衣服",
+		"defname": "Korossa_Basic_Suit"
+	},
+	{
+		"abr": "コロッサ標準防弾ヘルメット",
+		"price": 442,
+		"category": "コロッサ帽子",
+		"defname": "Korossa_BasicFlakHelmet"
+	},
+	{
+		"abr": "コロッサ標準防弾ヘルメット(防毒マスク)",
+		"price": 542,
+		"category": "コロッサ帽子",
+		"defname": "Korossa_gasFlakHelmet"
+	},
+	{
+		"abr": "コロッサの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Korossa"
+	},
+	{
+		"abr": "コロッサ機密pda",
+		"price": 667,
+		"category": "その他",
+		"defname": "KRS_PDA"
+	},
+	{
+		"abr": "コンの侍刀レプリカ",
+		"price": 2517,
+		"category": "白兵戦武器",
+		"defname": "MeleeWeapon_konkatana"
+	},
+	{
+		"abr": "コンの髪の毛",
+		"price": 10,
+		"category": "毛",
+		"defname": "konWool"
+	},
+	{
+		"abr": "コンバットオートピストル",
+		"price": 232,
+		"category": "遠距離武器",
+		"defname": "KJW_Kimber"
+	},
+	{
+		"abr": "コンバットショットガン",
+		"price": 425,
+		"category": "遠距離武器",
+		"defname": "KJW_Shotgun"
+	},
+	{
+		"abr": "サーヴァントローブ",
+		"price": 783,
+		"category": "その他",
+		"defname": "Celes_ServantCoat"
+	},
+	{
+		"abr": "サブマシンガン",
+		"price": 367,
+		"category": "遠距離武器",
+		"defname": "KJW_MPX"
+	},
+	{
+		"abr": "サブマシンガン",
+		"price": 367,
+		"category": "遠距離武器",
+		"defname": "KJW_MPX_spc"
+	},
+	{
+		"abr": "サブマシンガン",
+		"price": 367,
+		"category": "遠距離武器",
+		"defname": "KJW_MPX_TAC"
+	},
+	{
+		"abr": "サブマシンガン",
+		"price": 367,
+		"category": "遠距離武器",
+		"defname": "KJW_SPC"
+	},
+	{
+		"abr": "シロの巻物",
+		"price": 3333,
+		"category": "家畜",
+		"defname": "sirof"
+	},
+	{
+		"abr": "シロの忍刀レプリカ",
+		"price": 1833,
+		"category": "白兵戦武器",
+		"defname": "MeleeWeapon_sirokatana"
+	},
+	{
+		"abr": "シロの髪の毛",
+		"price": 10,
+		"category": "毛",
+		"defname": "siroWool"
+	},
+	{
+		"abr": "ジン",
+		"price": 42,
+		"category": "ドラッグ",
+		"defname": "HY_Sapphire"
+	},
+	{
+		"abr": "スターブームパイ",
+		"price": 53,
+		"category": "調理済",
+		"defname": "EponaStarboomPie"
+	},
+	{
+		"abr": "セミオートハンティングライフル",
+		"price": 492,
+		"category": "遠距離武器",
+		"defname": "KJW_M1A"
+	},
+	{
+		"abr": "セレスティア",
+		"price": 3750,
+		"category": "Animal",
+		"defname": "Celes_Race"
+	},
+	{
+		"abr": "セレスティアドーン",
+		"price": 3333,
+		"category": "セレスティア近接武器",
+		"defname": "CelesRelicSword"
+	},
+	{
+		"abr": "セレスティアアウトドアジャケット",
+		"price": 321,
+		"category": "セレスティア普段着",
+		"defname": "Celes_TrenchCoat"
+	},
+	{
+		"abr": "セレスティアアンダーウェア",
+		"price": 68,
+		"category": "セレスティア普段着",
+		"defname": "Celes_UnderwearA"
+	},
+	{
+		"abr": "セレスティアアンダーウェア(ストラップ)",
+		"price": 68,
+		"category": "セレスティア普段着",
+		"defname": "Celes_UnderwearB"
+	},
+	{
+		"abr": "セレスティアアンダーウェア(セクシー)",
+		"price": 68,
+		"category": "セレスティア普段着",
+		"defname": "Celes_UnderwearC"
+	},
+	{
+		"abr": "セレスティアウィンターミリタリーコート",
+		"price": 750,
+		"category": "セレスティア軍用服",
+		"defname": "Celes_MilitaryCoat"
+	},
+	{
+		"abr": "セレスティアウインドブレーカー",
+		"price": 327,
+		"category": "セレスティア普段着",
+		"defname": "Celes_WinterCoat"
+	},
+	{
+		"abr": "セレスティアエクスプローラーベスト",
+		"price": 442,
+		"category": "セレスティア普段着",
+		"defname": "Celes_ExploreVest"
+	},
+	{
+		"abr": "セレスティアキッチンエプロン",
+		"price": 219,
+		"category": "セレスティア普段着",
+		"defname": "Celes_KitchenApron"
+	},
+	{
+		"abr": "セレスティアクラシックアサルトライフル",
+		"price": 1467,
+		"category": "セレスティア遠隔武器",
+		"defname": "Celes_Mid_SAssault"
+	},
+	{
+		"abr": "セレスティアクラシックオートショットガン",
+		"price": 1467,
+		"category": "セレスティア遠隔武器",
+		"defname": "Celes_Mid_ShotGun"
+	},
+	{
+		"abr": "セレスティアクラシックスナイパーライフル",
+		"price": 2300,
+		"category": "セレスティア遠隔武器",
+		"defname": "Celes_Mid_SR"
+	},
+	{
+		"abr": "セレスティアクラシックマークスマンライフル",
+		"price": 1767,
+		"category": "セレスティア遠隔武器",
+		"defname": "Celes_Mid_DMR"
+	},
+	{
+		"abr": "セレスティアサマーベスト",
+		"price": 126,
+		"category": "セレスティア普段着",
+		"defname": "Celes_SummerVest"
+	},
+	{
+		"abr": "セレスティアサマーミリタリースーツ",
+		"price": 600,
+		"category": "セレスティア軍用服",
+		"defname": "Celes_MilitaryUniform"
+	},
+	{
+		"abr": "セレスティアシティオペレーションスーツ",
+		"price": 400,
+		"category": "セレスティア軍用服",
+		"defname": "Celes_CombatSuitJK"
+	},
+	{
+		"abr": "セレスティアスリングショット",
+		"price": 68,
+		"category": "セレスティア普段着",
+		"defname": "Celes_SwimsuitB"
+	},
+	{
+		"abr": "セレスティアセンチネルサディラパワーアーマー",
+		"price": 4492,
+		"category": "セレスティア軍用服",
+		"defname": "Celes_LightPowerArmour"
+	},
+	{
+		"abr": "セレスティアセンチネルサディラパワーアーマー",
+		"price": 4492,
+		"category": "セレスティア軍用服",
+		"defname": "Celes_MidPowerArmour"
+	},
+	{
+		"abr": "セレスティアタクティカルベスト",
+		"price": 400,
+		"category": "セレスティア軍用服",
+		"defname": "Celes_TacticalVest"
+	},
+	{
+		"abr": "セレスティアダスターコート",
+		"price": 321,
+		"category": "セレスティア普段着",
+		"defname": "Celes_SummerCoat"
+	},
+	{
+		"abr": "セレスティアトライバルチュニック",
+		"price": 209,
+		"category": "セレスティア普段着",
+		"defname": "Celes_Tribal"
+	},
+	{
+		"abr": "セレスティアハイネックセーター",
+		"price": 166,
+		"category": "セレスティア普段着",
+		"defname": "Celes_WinterSweater"
+	},
+	{
+		"abr": "セレスティアビキニスタイル",
+		"price": 68,
+		"category": "セレスティア普段着",
+		"defname": "Celes_SwimsuitA"
+	},
+	{
+		"abr": "セレスティアフィールドオペレーションスーツ",
+		"price": 400,
+		"category": "セレスティア軍用服",
+		"defname": "Celes_CombatSuitTactical"
+	},
+	{
+		"abr": "セレスティアフィールドコート",
+		"price": 750,
+		"category": "セレスティア軍用服",
+		"defname": "Celes_FieldCoat"
+	},
+	{
+		"abr": "セレスティアマグネティックリソナンスアクセラレーター",
+		"price": 5617,
+		"category": "セレスティア遠隔武器",
+		"defname": "Celes_Spacer_Launcher"
+	},
+	{
+		"abr": "セレスティアラボコート",
+		"price": 287,
+		"category": "セレスティア普段着",
+		"defname": "Celes_LabCoat"
+	},
+	{
+		"abr": "セレスティア事務職員の制服",
+		"price": 172,
+		"category": "セレスティア普段着",
+		"defname": "Celes_CivilianUniform"
+	},
+	{
+		"abr": "セレスティア制式アサルトライフル",
+		"price": 2708,
+		"category": "セレスティア遠隔武器",
+		"defname": "Celes_Spacer_Rifle"
+	},
+	{
+		"abr": "セレスティア制式サブマシンガン",
+		"price": 1217,
+		"category": "セレスティア遠隔武器",
+		"defname": "Celes_Spacer_SMG"
+	},
+	{
+		"abr": "セレスティア制式スナイパーライフル",
+		"price": 3650,
+		"category": "セレスティア遠隔武器",
+		"defname": "Celes_Spacer_SniperRifle"
+	},
+	{
+		"abr": "セレスティア制式モノサーベル",
+		"price": 2467,
+		"category": "セレスティア近接武器",
+		"defname": "CelesSaberSpacer"
+	},
+	{
+		"abr": "セレスティア制式モノダガー",
+		"price": 1083,
+		"category": "セレスティア近接武器",
+		"defname": "CelesMonoDagger"
+	},
+	{
+		"abr": "セレスティア放射性高エネルギープラズマランチャー",
+		"price": 5617,
+		"category": "セレスティア遠隔武器",
+		"defname": "Celes_Spacer_HMG"
+	},
+	{
+		"abr": "セレスティア開拓用アイスピック",
+		"price": 248,
+		"category": "セレスティア近接武器",
+		"defname": "Celes_IceAxe"
+	},
+	{
+		"abr": "セレスティア開拓用セミオートショットガン",
+		"price": 733,
+		"category": "セレスティア遠隔武器",
+		"defname": "Celes_Early_ShotGun"
+	},
+	{
+		"abr": "セレスティア開拓用セミオートライフル",
+		"price": 742,
+		"category": "セレスティア遠隔武器",
+		"defname": "Celes_Early_SemiRifle"
+	},
+	{
+		"abr": "セレスティア開拓用ダガー",
+		"price": 202,
+		"category": "セレスティア近接武器",
+		"defname": "CelesDagger"
+	},
+	{
+		"abr": "セレスティア開拓用ボルトアクションライフル",
+		"price": 792,
+		"category": "セレスティア遠隔武器",
+		"defname": "Celes_Early_Rifle"
+	},
+	{
+		"abr": "セレスティア開拓用リボルバー",
+		"price": 508,
+		"category": "セレスティア遠隔武器",
+		"defname": "Celes_Early_Revolver"
+	},
+	{
+		"abr": "セレスティア開拓用手斧",
+		"price": 184,
+		"category": "セレスティア近接武器",
+		"defname": "Celes_Hatchet"
+	},
+	{
+		"abr": "セレスティア開拓者コート",
+		"price": 533,
+		"category": "セレスティア普段着",
+		"defname": "Celes_ExploreCoat"
+	},
+	{
+		"abr": "セレスティア開拓軍刀",
+		"price": 450,
+		"category": "セレスティア近接武器",
+		"defname": "CelesSaberIndustrial"
+	},
+	{
+		"abr": "セレスティアmre",
+		"price": 40,
+		"category": "調理済",
+		"defname": "CelesMRE"
+	},
+	{
+		"abr": "セレスティアの肉",
+		"price": 1,
+		"category": "生肉",
+		"defname": "Meat_Celes_Race"
+	},
+	{
+		"abr": "セレスティアプロパゲートカン",
+		"price": 2500,
+		"category": "生産物",
+		"defname": "Celes_PropagateTerminal"
+	},
+	{
+		"abr": "セレスティアプロパゲートラジエーター",
+		"price": 642,
+		"category": "生産物",
+		"defname": "Celes_PropagateRadiator"
+	},
+	{
+		"abr": "セレスティアミシン台",
+		"price": 492,
+		"category": "生産物",
+		"defname": "Celes_TailoringTab"
+	},
+	{
+		"abr": "セレスティアルタクティカルヘルメット",
+		"price": 950,
+		"category": "セレスティア帽子",
+		"defname": "Celes_TacticalHelmet"
+	},
+	{
+		"abr": "セレスティアルミリタリーハット",
+		"price": 433,
+		"category": "セレスティア帽子",
+		"defname": "Celes_MilitaryHat"
+	},
+	{
+		"abr": "セレスティア先進コンポーネント",
+		"price": 500,
+		"category": "セレスティア工業製品",
+		"defname": "Celes_SpaceWeapenComponent"
+	},
+	{
+		"abr": "セレスティア先進加工台",
+		"price": 492,
+		"category": "生産物",
+		"defname": "Celes_MultifunctionalTabB"
+	},
+	{
+		"abr": "セレスティア加工台",
+		"price": 492,
+		"category": "生産物",
+		"defname": "Celes_MultifunctionalTabA"
+	},
+	{
+		"abr": "セレスティア工業チップ",
+		"price": 250,
+		"category": "セレスティア工業製品",
+		"defname": "Celes_IndustrialChips"
+	},
+	{
+		"abr": "セレスティア救急薬",
+		"price": 100,
+		"category": "薬",
+		"defname": "MedicineCeles"
+	},
+	{
+		"abr": "セレスティア開拓隊砲撃指示器",
+		"price": 2000,
+		"category": "ユーティリティ",
+		"defname": "CelesArtilleryTargeter"
+	},
+	{
+		"abr": "ダストメカシルク",
+		"price": 13,
+		"category": "織物",
+		"defname": "CelesAdvanceCloth"
+	},
+	{
+		"abr": "ダストメカマニホールド",
+		"price": 20,
+		"category": "セレスティアナノ素材",
+		"defname": "CelesNanoManifold"
+	},
+	{
+		"abr": "チョコアイスクリーム",
+		"price": 17,
+		"category": "ドラッグ",
+		"defname": "IcecreamChoco"
+	},
+	{
+		"abr": "デストリエ",
+		"price": 6250,
+		"category": "Animal",
+		"defname": "Alien_Destrier"
+	},
+	{
+		"abr": "テックプリント(伝世至宝)",
+		"price": 8333,
+		"category": "テックプリント",
+		"defname": "Techprint_Axolotl_Research_HeavenlyTopArmor"
+	},
+	{
+		"abr": "ドラコオーブ",
+		"price": 2167,
+		"category": "その他",
+		"defname": "DragonianOrb"
+	},
+	{
+		"abr": "ドラコニアン",
+		"price": 9667,
+		"category": "Animal",
+		"defname": "Dragonian_Race"
+	},
+	{
+		"abr": "ドラコニアンの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_Dragonian_Race"
+	},
+	{
+		"abr": "ドラコニアンミルク",
+		"price": 14,
+		"category": "畜産物",
+		"defname": "DragonianMilk"
+	},
+	{
+		"abr": "ドラコニアン毛",
+		"price": 18,
+		"category": "毛",
+		"defname": "WoolDragonian"
+	},
+	{
+		"abr": "ナトリウム冷却装置",
+		"price": 33,
+		"category": "加工品",
+		"defname": "HY_SodiumCoolerModule"
+	},
+	{
+		"abr": "ナポリタン",
+		"price": 67,
+		"category": "ドラッグ",
+		"defname": "IcecreamNeapolitan"
+	},
+	{
+		"abr": "ニセウサギの耳",
+		"price": 433,
+		"category": "人造",
+		"defname": "Celes_FakeEar"
+	},
+	{
+		"abr": "ニセ尻尾(コロッサ)",
+		"price": 228,
+		"category": "人造",
+		"defname": "Korossa_FakeTail"
+	},
+	{
+		"abr": "ぬいぐるみブラインドボックス",
+		"price": 633,
+		"category": "物品",
+		"defname": "MyaFufuBox"
+	},
+	{
+		"abr": "ノイズサブマシンガン",
+		"price": 367,
+		"category": "遠距離武器",
+		"defname": "KJW_mpsd"
+	},
+	{
+		"abr": "ハーフエルフ",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "AS_WHE_Race"
+	},
+	{
+		"abr": "ハーフエルフの肉",
+		"price": 1,
+		"category": "生肉",
+		"defname": "Meat_AS_WHE_Race"
+	},
+	{
+		"abr": "パイオニアキー",
+		"price": 1333,
+		"category": "加工品",
+		"defname": "CelesKeyCard"
+	},
+	{
+		"abr": "バイオ酵素ゲル",
+		"price": 20,
+		"category": "セレスティア工業製品",
+		"defname": "Celes_BioGel"
+	},
+	{
+		"abr": "ハイカッパ",
+		"price": 232,
+		"category": "遠距離武器",
+		"defname": "KJW_hicapa"
+	},
+	{
+		"abr": "ハイカッパコンバージョンキット",
+		"price": 232,
+		"category": "遠距離武器",
+		"defname": "KJW_noah_hicapa"
+	},
+	{
+		"abr": "バトルアサルトライフル",
+		"price": 1283,
+		"category": "ユニーク武器",
+		"defname": "KJW_TACTICOOL"
+	},
+	{
+		"abr": "バトルライフル",
+		"price": 667,
+		"category": "遠距離武器",
+		"defname": "KJW_FNFAL"
+	},
+	{
+		"abr": "ハナの髪の毛",
+		"price": 13,
+		"category": "毛",
+		"defname": "hanaWool"
+	},
+	{
+		"abr": "バニラアイスクリーム",
+		"price": 17,
+		"category": "ドラッグ",
+		"defname": "IcecreamVanila"
+	},
+	{
+		"abr": "ファブリックプリンター",
+		"price": 833,
+		"category": "生産物",
+		"defname": "HYFabricPrinter"
+	},
+	{
+		"abr": "プーカ",
+		"price": 2083,
+		"category": "家畜",
+		"defname": "Epona_Pwca"
+	},
+	{
+		"abr": "フェーズ1抑制剤",
+		"price": 17,
+		"category": "ドラッグ",
+		"defname": "T1_suppression"
+	},
+	{
+		"abr": "フェーズ2抑制剤",
+		"price": 33,
+		"category": "ドラッグ",
+		"defname": "T2_suppression"
+	},
+	{
+		"abr": "フェーズ3抑制剤",
+		"price": 42,
+		"category": "ドラッグ",
+		"defname": "T3_suppression"
+	},
+	{
+		"abr": "フッ化水素酸",
+		"price": 12,
+		"category": "加工品",
+		"defname": "HY_HydrogenFluorite"
+	},
+	{
+		"abr": "フッ化水素酸中和剤",
+		"price": 125,
+		"category": "ドラッグ",
+		"defname": "HY_HFCure"
+	},
+	{
+		"abr": "フッ化水素酸化学砲弾",
+		"price": 92,
+		"category": "迫撃砲弾",
+		"defname": "Shell_HF"
+	},
+	{
+		"abr": "ブラックアウトilo",
+		"price": 883,
+		"category": "遠距離武器",
+		"defname": "KJW_Blackout"
+	},
+	{
+		"abr": "ブラックダウンr.300",
+		"price": 925,
+		"category": "遠距離武器",
+		"defname": "KJW_Blackdown"
+	},
+	{
+		"abr": "ブリーチショットガン",
+		"price": 425,
+		"category": "遠距離武器",
+		"defname": "KJW_Supershotty"
+	},
+	{
+		"abr": "フロアアクアリウム",
+		"price": 650,
+		"category": "家具",
+		"defname": "HYFloorAquarium"
+	},
+	{
+		"abr": "プロテアーゼ抑制剤",
+		"price": 5333,
+		"category": "ドラッグ",
+		"defname": "Korossa_T3_Vial"
+	},
+	{
+		"abr": "ヘムパウダースチール",
+		"price": 58,
+		"category": "原材料",
+		"defname": "HYHemuAlloy"
+	},
+	{
+		"abr": "ヘヤン20mmバルカン",
+		"price": 2842,
+		"category": "遠距離武器",
+		"defname": "Gun_HYVulcan"
+	},
+	{
+		"abr": "ヘヤン30mmオートキャノン",
+		"price": 3383,
+		"category": "遠距離武器",
+		"defname": "Gun_HYBrrrt"
+	},
+	{
+		"abr": "ヘヤンgスーツタイプa",
+		"price": 3133,
+		"category": "ヘヤン衣服",
+		"defname": "HY_GSuitA"
+	},
+	{
+		"abr": "ヘヤンアサルトライフル",
+		"price": 992,
+		"category": "遠距離武器",
+		"defname": "Gun_HYAssaultRifle"
+	},
+	{
+		"abr": "ヘヤンヴェイパーガン",
+		"price": 1500,
+		"category": "遠距離武器",
+		"defname": "Gun_HYVapor"
+	},
+	{
+		"abr": "ヘヤンウォーターガン",
+		"price": 266,
+		"category": "遠距離武器",
+		"defname": "Gun_HYPistol"
+	},
+	{
+		"abr": "ヘヤンウォータージェット",
+		"price": 608,
+		"category": "ヘヤン武器",
+		"defname": "HYCutter"
+	},
+	{
+		"abr": "ヘヤンウォーターライフル",
+		"price": 492,
+		"category": "遠距離武器",
+		"defname": "Gun_HYRifle"
+	},
+	{
+		"abr": "ヘヤンエキゾチックセーラーコート",
+		"price": 550,
+		"category": "ヘヤン衣服",
+		"defname": "HY_KSailorCoat"
+	},
+	{
+		"abr": "ヘヤンエキゾチックセーラー服a",
+		"price": 550,
+		"category": "ヘヤン衣服",
+		"defname": "HY_KSailorA"
+	},
+	{
+		"abr": "ヘヤンエキゾチックセーラー服b",
+		"price": 550,
+		"category": "ヘヤン衣服",
+		"defname": "HY_KSailorB"
+	},
+	{
+		"abr": "ヘヤンケープa",
+		"price": 650,
+		"category": "ヘヤン衣服",
+		"defname": "HY_CapeA"
+	},
+	{
+		"abr": "ヘヤンケープb",
+		"price": 650,
+		"category": "ヘヤン衣服",
+		"defname": "HY_CapeB"
+	},
+	{
+		"abr": "ヘヤンケープc",
+		"price": 650,
+		"category": "ヘヤン衣服",
+		"defname": "HY_CapeC"
+	},
+	{
+		"abr": "ヘヤンサバイバルナイフ",
+		"price": 500,
+		"category": "ヘヤン武器",
+		"defname": "HYASEK"
+	},
+	{
+		"abr": "ヘヤンサブマシンガン",
+		"price": 783,
+		"category": "遠距離武器",
+		"defname": "Gun_HYSMG"
+	},
+	{
+		"abr": "ヘヤンシックル",
+		"price": 500,
+		"category": "ヘヤン武器",
+		"defname": "HYSickle"
+	},
+	{
+		"abr": "ヘヤンシャツa",
+		"price": 742,
+		"category": "ヘヤン衣服",
+		"defname": "HY_ShirtA"
+	},
+	{
+		"abr": "ヘヤンシャツb",
+		"price": 742,
+		"category": "ヘヤン衣服",
+		"defname": "HY_ShirtB"
+	},
+	{
+		"abr": "ヘヤンスイムスーツa",
+		"price": 274,
+		"category": "ヘヤン衣服",
+		"defname": "HY_SwimSuitA"
+	},
+	{
+		"abr": "ヘヤンスイムスーツb",
+		"price": 274,
+		"category": "ヘヤン衣服",
+		"defname": "HY_SwimSuitB"
+	},
+	{
+		"abr": "ヘヤンスイムスーツc",
+		"price": 274,
+		"category": "ヘヤン衣服",
+		"defname": "HY_SwimSuitC"
+	},
+	{
+		"abr": "ヘヤンストライプビキニa",
+		"price": 157,
+		"category": "ヘヤン衣服",
+		"defname": "HY_StripeA"
+	},
+	{
+		"abr": "ヘヤンセーラーキャップa",
+		"price": 163,
+		"category": "ヘヤン帽子",
+		"defname": "HY_SailorHatA"
+	},
+	{
+		"abr": "ヘヤンセーラーキャップb",
+		"price": 163,
+		"category": "ヘヤン帽子",
+		"defname": "HY_SailorHatB"
+	},
+	{
+		"abr": "ヘヤンセーラー服(半袖)a",
+		"price": 383,
+		"category": "ヘヤン衣服",
+		"defname": "HY_SailorA"
+	},
+	{
+		"abr": "ヘヤンセーラー服(半袖)b",
+		"price": 383,
+		"category": "ヘヤン衣服",
+		"defname": "HY_SailorB"
+	},
+	{
+		"abr": "ヘヤンセーラー服(半袖)c",
+		"price": 383,
+		"category": "ヘヤン衣服",
+		"defname": "HY_SailorC"
+	},
+	{
+		"abr": "ヘヤンセーラー服(長袖)a",
+		"price": 600,
+		"category": "ヘヤン衣服",
+		"defname": "HY_LongSailorA"
+	},
+	{
+		"abr": "ヘヤンセーラー服(長袖)b",
+		"price": 600,
+		"category": "ヘヤン衣服",
+		"defname": "HY_LongSailorB"
+	},
+	{
+		"abr": "ヘヤンセーラー服(長袖)c",
+		"price": 600,
+		"category": "ヘヤン衣服",
+		"defname": "HY_LongSailorC"
+	},
+	{
+		"abr": "ヘヤンドレスa",
+		"price": 742,
+		"category": "ヘヤン衣服",
+		"defname": "HY_DressA"
+	},
+	{
+		"abr": "ヘヤンドレスb",
+		"price": 742,
+		"category": "ヘヤン衣服",
+		"defname": "HY_DressB"
+	},
+	{
+		"abr": "ヘヤンバヨネット",
+		"price": 500,
+		"category": "ヘヤン武器",
+		"defname": "HYBayonet"
+	},
+	{
+		"abr": "ヘヤンフッ化水素酸スプレー",
+		"price": 1333,
+		"category": "遠距離武器",
+		"defname": "Gun_HYHFSpray"
+	},
+	{
+		"abr": "ヘヤンフライトヘルメット",
+		"price": 600,
+		"category": "ヘヤン帽子",
+		"defname": "HY_HMD"
+	},
+	{
+		"abr": "ヘヤンマグナジャベリン",
+		"price": 3867,
+		"category": "ヘヤン武器",
+		"defname": "HYJavelin"
+	},
+	{
+		"abr": "ヘヤンマグナシューターヘルメット",
+		"price": 3925,
+		"category": "ヘヤン帽子",
+		"defname": "HY_MagnaHelmetShoot"
+	},
+	{
+		"abr": "ヘヤンマグナビームライフル",
+		"price": 3800,
+		"category": "遠距離武器",
+		"defname": "Gun_HYBeamRifle"
+	},
+	{
+		"abr": "ヘヤンマグナベースアーマー",
+		"price": 4508,
+		"category": "ヘヤン衣服",
+		"defname": "HY_MagnaBase"
+	},
+	{
+		"abr": "ヘヤンマグナベースヘルメット",
+		"price": 2775,
+		"category": "ヘヤン帽子",
+		"defname": "HY_MagnaHelmetBase"
+	},
+	{
+		"abr": "ヘヤンマグナメレーアーマー",
+		"price": 5833,
+		"category": "ヘヤン衣服",
+		"defname": "HY_MagnaMelee"
+	},
+	{
+		"abr": "ヘヤンマグナメレーヘルメット",
+		"price": 3925,
+		"category": "ヘヤン帽子",
+		"defname": "HY_MagnaHelmetMelee"
+	},
+	{
+		"abr": "ヘヤンワンピースa",
+		"price": 367,
+		"category": "ヘヤン衣服",
+		"defname": "HY_OnepieceA"
+	},
+	{
+		"abr": "ヘヤンワンピースb",
+		"price": 367,
+		"category": "ヘヤン衣服",
+		"defname": "HY_OnepieceB"
+	},
+	{
+		"abr": "ヘヤン子供用セーラー服",
+		"price": 112,
+		"category": "ヘヤン衣服",
+		"defname": "HY_ChildSailor"
+	},
+	{
+		"abr": "ヘヤン子供用ビーチドレス",
+		"price": 112,
+		"category": "ヘヤン衣服",
+		"defname": "HY_ChildDress"
+	},
+	{
+		"abr": "ヘヤン守護の首飾り",
+		"price": 313,
+		"category": "ヘヤン衣服",
+		"defname": "HY_ShieldNecklace"
+	},
+	{
+		"abr": "ヘヤン幸運の首飾り",
+		"price": 367,
+		"category": "ヘヤン衣服",
+		"defname": "HY_FortuneNecklace"
+	},
+	{
+		"abr": "ヘヤン汎用セーラー服a",
+		"price": 733,
+		"category": "ヘヤン衣服",
+		"defname": "HY_VSailorA"
+	},
+	{
+		"abr": "ヘヤン汎用セーラー服b",
+		"price": 733,
+		"category": "ヘヤン衣服",
+		"defname": "HY_VSailorB"
+	},
+	{
+		"abr": "ヘヤン治癒の首飾り",
+		"price": 450,
+		"category": "ヘヤン衣服",
+		"defname": "HY_HealingNecklace"
+	},
+	{
+		"abr": "ヘヤン清楽ハンマー",
+		"price": 169,
+		"category": "ヘヤン武器",
+		"defname": "HYGgang"
+	},
+	{
+		"abr": "ヘヤン精神の首飾り",
+		"price": 367,
+		"category": "ヘヤン衣服",
+		"defname": "HY_PsychicNecklace"
+	},
+	{
+		"abr": "ヘヤン航空管制官用ヘッドセット",
+		"price": 13,
+		"category": "ヘヤン衣服",
+		"defname": "HY_Controller"
+	},
+	{
+		"abr": "ヘヤン軍用ジャケット",
+		"price": 1892,
+		"category": "ヘヤン衣服",
+		"defname": "HY_SealJacket"
+	},
+	{
+		"abr": "ヘヤン軍用スーツ",
+		"price": 3000,
+		"category": "ヘヤン衣服",
+		"defname": "HY_SealSuit"
+	},
+	{
+		"abr": "ヘヤン軍用ヘルメット",
+		"price": 733,
+		"category": "ヘヤン帽子",
+		"defname": "HY_Helmet"
+	},
+	{
+		"abr": "ヘヤン防弾ジャケット",
+		"price": 1467,
+		"category": "ヘヤン衣服",
+		"defname": "HY_FlakJacket"
+	},
+	{
+		"abr": "ヘヤン防弾チョッキ",
+		"price": 450,
+		"category": "ヘヤン衣服",
+		"defname": "HY_FlakVest"
+	},
+	{
+		"abr": "ヘヤンコア培養機",
+		"price": 833,
+		"category": "生産物",
+		"defname": "HYGestator"
+	},
+	{
+		"abr": "ヘヤンミーティングテーブル",
+		"price": 1367,
+		"category": "家具",
+		"defname": "HYTable1x3c"
+	},
+	{
+		"abr": "ヘヤン作業台",
+		"price": 600,
+		"category": "生産物",
+		"defname": "HYWorkBench"
+	},
+	{
+		"abr": "ヘヤン保温機能性薬剤",
+		"price": 25,
+		"category": "ヘヤン追加機能",
+		"defname": "HY_TemperatureMod"
+	},
+	{
+		"abr": "ヘヤン増粘剤",
+		"price": 25,
+		"category": "ヘヤン追加機能",
+		"defname": "HY_Thickener"
+	},
+	{
+		"abr": "ヘヤン将校用椅子",
+		"price": 1383,
+		"category": "家具",
+		"defname": "HY_ChairA"
+	},
+	{
+		"abr": "ヘヤン-汚染種",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "HY_Polluted_Race"
+	},
+	{
+		"abr": "ヘヤン-海水種",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "HY_Saline_Race"
+	},
+	{
+		"abr": "ヘヤン消毒機能性薬剤",
+		"price": 25,
+		"category": "ヘヤン追加機能",
+		"defname": "HY_DisinfectionMod"
+	},
+	{
+		"abr": "ヘヤン-淡水種",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "HY_Fresh_Race"
+	},
+	{
+		"abr": "ヘヤン減粘剤",
+		"price": 25,
+		"category": "ヘヤン追加機能",
+		"defname": "HY_ViscosityReducer"
+	},
+	{
+		"abr": "ヘヤン缶詰工場",
+		"price": 208,
+		"category": "生産物",
+		"defname": "HYCannery"
+	},
+	{
+		"abr": "ヘヤン缶詰-汚染種",
+		"price": 3333,
+		"category": "ヘヤン缶",
+		"defname": "PollutedHYCan"
+	},
+	{
+		"abr": "ヘヤン缶詰-海水種",
+		"price": 3333,
+		"category": "ヘヤン缶",
+		"defname": "SalineHYCan"
+	},
+	{
+		"abr": "ヘヤン缶詰-淡水種",
+		"price": 3333,
+		"category": "ヘヤン缶",
+		"defname": "FreshHYCan"
+	},
+	{
+		"abr": "ヘヤン芳香機能性薬剤",
+		"price": 25,
+		"category": "ヘヤン追加機能",
+		"defname": "HY_PerfumeMod"
+	},
+	{
+		"abr": "ヘヤン解剖学実習台",
+		"price": 325,
+		"category": "生産物",
+		"defname": "HYTableAnatomy"
+	},
+	{
+		"abr": "ヘヤン開缶場",
+		"price": 101,
+		"category": "生産物",
+		"defname": "HYTinOpener"
+	},
+	{
+		"abr": "ベリーアイスクリーム",
+		"price": 17,
+		"category": "ドラッグ",
+		"defname": "IcecreamBerry"
+	},
+	{
+		"abr": "ポイントディフェンスシステム",
+		"price": 1742,
+		"category": "防衛",
+		"defname": "Korossa_building_CIWS"
+	},
+	{
+		"abr": "ポータブルヘビーマシンガン",
+		"price": 1667,
+		"category": "遠距離武器",
+		"defname": "KJW_M2a"
+	},
+	{
+		"abr": "マグナsbd",
+		"price": 1750,
+		"category": "強化",
+		"defname": "HY_MagnaMastery"
+	},
+	{
+		"abr": "マグナクッキークリッカー",
+		"price": 1750,
+		"category": "強化",
+		"defname": "HY_MagnaCookieClicker"
+	},
+	{
+		"abr": "マグナダヴィンチ",
+		"price": 1750,
+		"category": "強化",
+		"defname": "HY_MagnaDaVinci"
+	},
+	{
+		"abr": "マグナデリバリーレッグ",
+		"price": 1750,
+		"category": "強化",
+		"defname": "HY_MagnaDeliveryLeg"
+	},
+	{
+		"abr": "マグナメガジーニーチップス",
+		"price": 1750,
+		"category": "強化",
+		"defname": "HY_MagnaMegaGenie"
+	},
+	{
+		"abr": "マリモ",
+		"price": 5,
+		"category": "原材料",
+		"defname": "HYMarimo"
+	},
+	{
+		"abr": "マリモ培養機",
+		"price": 833,
+		"category": "生産物",
+		"defname": "HYMarimoGestator"
+	},
+	{
+		"abr": "マリモ生地",
+		"price": 8,
+		"category": "織物",
+		"defname": "HY_MarimoFabric"
+	},
+	{
+		"abr": "マロ・テティス",
+		"price": 6667,
+		"category": "Animal",
+		"defname": "HY_Tethys"
+	},
+	{
+		"abr": "ミコの金色毛",
+		"price": 20,
+		"category": "毛",
+		"defname": "mikoWool"
+	},
+	{
+		"abr": "ミルクボール",
+		"price": 200,
+		"category": "家畜",
+		"defname": "HY_Milkball"
+	},
+	{
+		"abr": "ミルクボールの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_HY_Milkball"
+	},
+	{
+		"abr": "メカリンク(ヘヤン)",
+		"price": 833,
+		"category": "機械技術",
+		"defname": "HYMechlink"
+	},
+	{
+		"abr": "モエロトル",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Axolotl"
+	},
+	{
+		"abr": "モエロトル万歳梅御袍",
+		"price": 2000,
+		"category": "高級衣服",
+		"defname": "Axolotl_RegalPlumRobe"
+	},
+	{
+		"abr": "モエロトル万歳梅髪簪",
+		"price": 767,
+		"category": "高級帽子",
+		"defname": "Axolotl_RegalPlumHeaddress"
+	},
+	{
+		"abr": "モエロトル伏波袍",
+		"price": 1167,
+		"category": "防具",
+		"defname": "Axolotl_TidalWaveRobe"
+	},
+	{
+		"abr": "モエロトル刺繍襟巻",
+		"price": 367,
+		"category": "高級帽子",
+		"defname": "Axolotl_EmbroideredScarf"
+	},
+	{
+		"abr": "モエロトル厚實襟巻",
+		"price": 525,
+		"category": "衣服",
+		"defname": "Axolotl_CabledScarf"
+	},
+	{
+		"abr": "モエロトル吉祥肚兜",
+		"price": 129,
+		"category": "衣服",
+		"defname": "Axolotl_LuckyBellyPocket"
+	},
+	{
+		"abr": "モエロトル堅岩鎧",
+		"price": 750,
+		"category": "螈気服",
+		"defname": "Axolotl_StonecladCloak"
+	},
+	{
+		"abr": "モエロトル夜眠紗",
+		"price": 105,
+		"category": "衣服",
+		"defname": "Axolotl_SilkPyjamas"
+	},
+	{
+		"abr": "モエロトル学士服",
+		"price": 700,
+		"category": "衣服",
+		"defname": "Axolotl_ScholarGarb"
+	},
+	{
+		"abr": "モエロトル崛岳霊衣",
+		"price": 1550,
+		"category": "螈気服",
+		"defname": "Axolotl_CragLotlQiGarment"
+	},
+	{
+		"abr": "モエロトル拘束衣",
+		"price": 144,
+		"category": "衣服",
+		"defname": "Axolotl_SlaveAttire"
+	},
+	{
+		"abr": "モエロトル挽月簪",
+		"price": 297,
+		"category": "高級帽子",
+		"defname": "Axolotl_MoonHeaddress"
+	},
+	{
+		"abr": "モエロトル方格襟巻",
+		"price": 222,
+		"category": "衣服",
+		"defname": "Axolotl_PlaidScarf"
+	},
+	{
+		"abr": "モエロトル旗袍",
+		"price": 342,
+		"category": "高級衣服",
+		"defname": "Axolotl_SilkCheongsam"
+	},
+	{
+		"abr": "モエロトル映日裳",
+		"price": 750,
+		"category": "螈気服",
+		"defname": "Axolotl_SunlitRobe"
+	},
+	{
+		"abr": "モエロトル普段着",
+		"price": 187,
+		"category": "衣服",
+		"defname": "Axolotl_CasualWear"
+	},
+	{
+		"abr": "モエロトル暖冬宝袍",
+		"price": 188,
+		"category": "子供服",
+		"defname": "Axolotl_WarmWinterRobe"
+	},
+	{
+		"abr": "モエロトル月桂服",
+		"price": 1025,
+		"category": "防具",
+		"defname": "Axolotl_LaurelUnderwear"
+	},
+	{
+		"abr": "モエロトル桃花霊衣",
+		"price": 1683,
+		"category": "螈気服",
+		"defname": "Axolotl_BlossomLotlQiGarment"
+	},
+	{
+		"abr": "モエロトル毛皮羽織",
+		"price": 236,
+		"category": "高級衣服",
+		"defname": "Axolotl_FurShawl"
+	},
+	{
+		"abr": "モエロトル民服",
+		"price": 189,
+		"category": "衣服",
+		"defname": "Axolotl_MoeLotlSuit"
+	},
+	{
+		"abr": "モエロトル浮光衫",
+		"price": 1050,
+		"category": "防具",
+		"defname": "Axolotl_LuminousGarment"
+	},
+	{
+		"abr": "モエロトル濯枝連弩",
+		"price": 808,
+		"category": "螈気武器",
+		"defname": "Axolotl_MoeLotlCrossBow_Intermediate"
+	},
+	{
+		"abr": "モエロトル瀚海雲鲸砲",
+		"price": 4058,
+		"category": "遠隔武器",
+		"defname": "Axolotl_VastSeaCelestialWhaleCannon"
+	},
+	{
+		"abr": "モエロトル炎煌闊刀",
+		"price": 1200,
+		"category": "鋭利系武器",
+		"defname": "Axolotl_Flame_VermilionBird_Machete"
+	},
+	{
+		"abr": "モエロトル烏紗帽",
+		"price": 286,
+		"category": "衣服",
+		"defname": "Axolotl_BlackGauzeCap"
+	},
+	{
+		"abr": "モエロトル焰凰冠冕",
+		"price": 5383,
+		"category": "動力装甲",
+		"defname": "Axolotl_FlameVermilionBirdCrown"
+	},
+	{
+		"abr": "モエロトル焰凰御甲",
+		"price": 5850,
+		"category": "動力装甲",
+		"defname": "Axolotl_FlameVermilionBirdArmour"
+	},
+	{
+		"abr": "モエロトル熊猫傭仆服",
+		"price": 295,
+		"category": "衣服",
+		"defname": "Axolotl_PandaServantAttire"
+	},
+	{
+		"abr": "モエロトル熊猫寝間着",
+		"price": 367,
+		"category": "衣服",
+		"defname": "Axolotl_PandaPajamas"
+	},
+	{
+		"abr": "モエロトル熊猫頭飾",
+		"price": 92,
+		"category": "衣服",
+		"defname": "Axolotl_PandaHeaddress"
+	},
+	{
+		"abr": "モエロトル熾焔霊衣",
+		"price": 1625,
+		"category": "螈気服",
+		"defname": "Axolotl_FlameLotlQiGarment"
+	},
+	{
+		"abr": "モエロトル猟師服",
+		"price": 304,
+		"category": "衣服",
+		"defname": "Axolotl_HunterClothes"
+	},
+	{
+		"abr": "モエロトル猫耳髪帯",
+		"price": 303,
+		"category": "衣服",
+		"defname": "Axolotl_PurrloinHairband"
+	},
+	{
+		"abr": "モエロトル白雪裘",
+		"price": 750,
+		"category": "螈気服",
+		"defname": "Axolotl_WhiteSnowRobe"
+	},
+	{
+		"abr": "モエロトル百宝葫芦",
+		"price": 450,
+		"category": "携行装備",
+		"defname": "Axolotl_TreasureGourd"
+	},
+	{
+		"abr": "モエロトル百花披袍",
+		"price": 375,
+		"category": "高級衣服",
+		"defname": "Axolotl_BaihuaRobe"
+	},
+	{
+		"abr": "モエロトル百花纓",
+		"price": 152,
+		"category": "衣服",
+		"defname": "Axolotl_HundredFlowersHeaddress"
+	},
+	{
+		"abr": "モエロトル破陣弩",
+		"price": 1250,
+		"category": "螈気武器",
+		"defname": "Axolotl_BattlebreakerCrossbow"
+	},
+	{
+		"abr": "モエロトル碧影",
+		"price": 883,
+		"category": "鋭利系武器",
+		"defname": "Axolotl_Turquoise_shadow"
+	},
+	{
+		"abr": "モエロトル磐岩戟",
+		"price": 1250,
+		"category": "鋭利系武器",
+		"defname": "Axolotl_Rockforge_Halberd"
+	},
+	{
+		"abr": "モエロトル紅絹髪帯",
+		"price": 286,
+		"category": "衣服",
+		"defname": "Axolotl_RedSilkHairband"
+	},
+	{
+		"abr": "モエロトル綸巾",
+		"price": 1358,
+		"category": "高級帽子",
+		"defname": "Axolotl_SilkRibbonTurban"
+	},
+	{
+		"abr": "モエロトル纏風剣",
+		"price": 1542,
+		"category": "鋭利系武器",
+		"defname": "Axolotl_WindWrappingSword"
+	},
+	{
+		"abr": "モエロトル羽扇",
+		"price": 717,
+		"category": "打撃系武器",
+		"defname": "Axolotl_FeatherFan"
+	},
+	{
+		"abr": "モエロトル羽根護罩",
+		"price": 367,
+		"category": "高級帽子",
+		"defname": "Axolotl_PlumageEyeCover"
+	},
+	{
+		"abr": "モエロトル聚墨衫",
+		"price": 742,
+		"category": "螈気服",
+		"defname": "Axolotl_InkGatheringRobe"
+	},
+	{
+		"abr": "モエロトル華貴風衣",
+		"price": 450,
+		"category": "高級衣服",
+		"defname": "Axolotl_SumptuousWindbreaker"
+	},
+	{
+		"abr": "モエロトル萌螈剣",
+		"price": 350,
+		"category": "鋭利系武器",
+		"defname": "Axolotl_Sword"
+	},
+	{
+		"abr": "モエロトル萌螈連弩",
+		"price": 450,
+		"category": "螈気武器",
+		"defname": "Axolotl_MoeLotlCrossBow_Basic"
+	},
+	{
+		"abr": "モエロトル落陽弓",
+		"price": 1092,
+		"category": "螈気武器",
+		"defname": "Axolotl_FallingSunBow"
+	},
+	{
+		"abr": "モエロトル蓑羽氅",
+		"price": 483,
+		"category": "螈気服",
+		"defname": "Axolotl_ClearFeatherCloak"
+	},
+	{
+		"abr": "モエロトル蔵宝袋",
+		"price": 222,
+		"category": "携行装備",
+		"defname": "Axolotl_TreasurePouch"
+	},
+	{
+		"abr": "モエロトル薄墨斗笠",
+		"price": 433,
+		"category": "頭防具",
+		"defname": "Axolotl_InkBlackConicalBambooHat"
+	},
+	{
+		"abr": "モエロトル薄墨霊衣",
+		"price": 1683,
+		"category": "螈気服",
+		"defname": "Axolotl_InkBlackLotlQiGarment"
+	},
+	{
+		"abr": "モエロトル薄墨面具",
+		"price": 358,
+		"category": "頭防具",
+		"defname": "Axolotl_InkBlackMasks"
+	},
+	{
+		"abr": "モエロトル行囊",
+		"price": 195,
+		"category": "衣服",
+		"defname": "Axolotl_MoeLotlBackpack"
+	},
+	{
+		"abr": "モエロトル角箍",
+		"price": 226,
+		"category": "衣服",
+		"defname": "Axolotl_MoeLotlHorns"
+	},
+	{
+		"abr": "モエロトル詠鶴裳",
+		"price": 883,
+		"category": "螈気服",
+		"defname": "Axolotl_CraneSongLotlQiGarment"
+	},
+	{
+		"abr": "モエロトル護心鏡",
+		"price": 492,
+		"category": "防具",
+		"defname": "Axolotl_HeartwardMirrorplate"
+	},
+	{
+		"abr": "モエロトル護身内衣",
+		"price": 558,
+		"category": "防具",
+		"defname": "Axolotl_ProtectiveUnderwear"
+	},
+	{
+		"abr": "モエロトル貔虎白面",
+		"price": 525,
+		"category": "頭防具",
+		"defname": "Axolotl_SwiftTigerWhiteFace"
+	},
+	{
+		"abr": "モエロトル貼身内衣",
+		"price": 104,
+		"category": "衣服",
+		"defname": "Axolotl_IntimateUndergarment"
+	},
+	{
+		"abr": "モエロトル赤鹿角面",
+		"price": 525,
+		"category": "頭防具",
+		"defname": "Axolotl_RedAntlerNoodle"
+	},
+	{
+		"abr": "モエロトル軽雲紗",
+		"price": 717,
+		"category": "螈気服",
+		"defname": "Axolotl_LightCloudRobe"
+	},
+	{
+		"abr": "モエロトル轟天雷",
+		"price": 2000,
+		"category": "特殊武器",
+		"defname": "Axolotl_ElectromagneticLauncher"
+	},
+	{
+		"abr": "モエロトル錘",
+		"price": 383,
+		"category": "打撃系武器",
+		"defname": "Axolotl_Hammer"
+	},
+	{
+		"abr": "モエロトル錦繍外套",
+		"price": 288,
+		"category": "高級衣服",
+		"defname": "Axolotl_SplendidCape"
+	},
+	{
+		"abr": "モエロトル錦繍長裙",
+		"price": 408,
+		"category": "高級衣服",
+		"defname": "Axolotl_SplendidDress"
+	},
+	{
+		"abr": "モエロトル鐧",
+		"price": 683,
+		"category": "打撃系武器",
+		"defname": "Axolotl_Mace"
+	},
+	{
+		"abr": "モエロトル雉翎冠",
+		"price": 500,
+		"category": "高級帽子",
+		"defname": "Axolotl_Pheasant-PlumeCoronet"
+	},
+	{
+		"abr": "モエロトル雲鲸冠冕",
+		"price": 5383,
+		"category": "動力装甲",
+		"defname": "Axolotl_CelestialWhaleCrown"
+	},
+	{
+		"abr": "モエロトル雲鲸御甲",
+		"price": 6200,
+		"category": "動力装甲",
+		"defname": "Axolotl_CelestialWhaleArmour"
+	},
+	{
+		"abr": "モエロトル霜寒霊衣",
+		"price": 1758,
+		"category": "螈気服",
+		"defname": "Axolotl_FrostyLotlQiGarment"
+	},
+	{
+		"abr": "モエロトル霞帔婚衣",
+		"price": 758,
+		"category": "高級衣服",
+		"defname": "Axolotl_AfterglowMarriageRobe"
+	},
+	{
+		"abr": "モエロトル青雲霊衣",
+		"price": 1717,
+		"category": "螈気服",
+		"defname": "Axolotl_VerdantLotlQiGarment"
+	},
+	{
+		"abr": "モエロトル靛霆花",
+		"price": 1575,
+		"category": "鋭利系武器",
+		"defname": "Axolotl_IndigoFlower"
+	},
+	{
+		"abr": "モエロトル首輪",
+		"price": 134,
+		"category": "衣服",
+		"defname": "Axolotl_Necklace"
+	},
+	{
+		"abr": "モエロトル馨香袖",
+		"price": 750,
+		"category": "螈気服",
+		"defname": "Axolotl_FragrantSleeves"
+	},
+	{
+		"abr": "モエロトル鳳冠",
+		"price": 392,
+		"category": "高級帽子",
+		"defname": "Axolotl_PhoenixCrown"
+	},
+	{
+		"abr": "モエロトル鷹隼連弩",
+		"price": 1250,
+		"category": "螈気武器",
+		"defname": "Axolotl_MoeLotlCrossBow_Advanced"
+	},
+	{
+		"abr": "モエロトル麒麟銃",
+		"price": 792,
+		"category": "螈気武器",
+		"defname": "Axolotl_PlatinumFirearm"
+	},
+	{
+		"abr": "モエロトル黒鉄銃",
+		"price": 633,
+		"category": "螈気武器",
+		"defname": "Axolotl_BlackGoldFirearm"
+	},
+	{
+		"abr": "モエロトル齋雲服",
+		"price": 239,
+		"category": "高級衣服",
+		"defname": "Axolotl_CloudRobe"
+	},
+	{
+		"abr": "モエロトル龍祥宝帽",
+		"price": 77,
+		"category": "子供服",
+		"defname": "Axolotl_DragonFortuneHat"
+	},
+	{
+		"abr": "モエロトルの肉",
+		"price": 1,
+		"category": "生肉",
+		"defname": "Meat_Axolotl"
+	},
+	{
+		"abr": "モエロトル尻尾の炭火焼き",
+		"price": 17,
+		"category": "調理済",
+		"defname": "CharredTail"
+	},
+	{
+		"abr": "モジュラーライフル",
+		"price": 800,
+		"category": "遠距離武器",
+		"defname": "KJW_SCAR"
+	},
+	{
+		"abr": "ユキの鱗",
+		"price": 83,
+		"category": "毛",
+		"defname": "yukiwool"
+	},
+	{
+		"abr": "ユニポネン",
+		"price": 7500,
+		"category": "Animal",
+		"defname": "Alien_Unicorn"
+	},
+	{
+		"abr": "ユニポネンメディカルウォーデンパワーヘルム(未完成)",
+		"price": 692,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_SanctuaryWardenHelm"
+	},
+	{
+		"abr": "ユニポネンメディカルナイトアーマーa",
+		"price": 2417,
+		"category": "エポナ着物",
+		"defname": "Epona_Apparel_HospitalKnightAttire_A"
+	},
+	{
+		"abr": "ユニポネンメディカルナイトアーマーb",
+		"price": 2417,
+		"category": "エポナ着物",
+		"defname": "Epona_Apparel_HospitalKnightAttire_B"
+	},
+	{
+		"abr": "ユニポネンメディカルナイトシールド",
+		"price": 1850,
+		"category": "エポナシールド",
+		"defname": "Epona_Apparel_NewShield_Medic"
+	},
+	{
+		"abr": "ユニポネンメディカルナイトシューターヘルム",
+		"price": 608,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_KnightsHospitaller_B"
+	},
+	{
+		"abr": "ユニポネンメディカルナイトフルプレート",
+		"price": 2500,
+		"category": "エポナ着物",
+		"defname": "Epona_Apparel_FullPlateMedic"
+	},
+	{
+		"abr": "ユニポネンメディカルナイトヘルメット",
+		"price": 608,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_KnightsHospitaller"
+	},
+	{
+		"abr": "ラスガン",
+		"price": 1233,
+		"category": "遠距離武器",
+		"defname": "KJW_Lasgun"
+	},
+	{
+		"abr": "ラム",
+		"price": 42,
+		"category": "ドラッグ",
+		"defname": "CptQ"
+	},
+	{
+		"abr": "リバースターゼ抑制剤",
+		"price": 1333,
+		"category": "ドラッグ",
+		"defname": "Korossa_T1_Tablet"
+	},
+	{
+		"abr": "リリン",
+		"price": 1583,
+		"category": "家畜",
+		"defname": "Lilin"
+	},
+	{
+		"abr": "リリンの毛",
+		"price": 4,
+		"category": "毛",
+		"defname": "Lilin_Wool"
+	},
+	{
+		"abr": "リリンの毛",
+		"price": 4,
+		"category": "毛",
+		"defname": "Lilin_Wool_PaleBrown"
+	},
+	{
+		"abr": "リリンの毛",
+		"price": 4,
+		"category": "毛",
+		"defname": "Lilin_Wool_DesertSand"
+	},
+	{
+		"abr": "リリンの毛",
+		"price": 4,
+		"category": "毛",
+		"defname": "Lilin_Wool_PinkBrown"
+	},
+	{
+		"abr": "リリンの毛",
+		"price": 4,
+		"category": "毛",
+		"defname": "Lilin_Wool_DarkGrey"
+	},
+	{
+		"abr": "リリンの毛",
+		"price": 4,
+		"category": "毛",
+		"defname": "Lilin_Wool_LightGrey"
+	},
+	{
+		"abr": "リリンの毛",
+		"price": 4,
+		"category": "毛",
+		"defname": "Lilin_Wool_CreamyAddon"
+	},
+	{
+		"abr": "リリンの毛",
+		"price": 4,
+		"category": "毛",
+		"defname": "Lilin_Wool_WhileAddon"
+	},
+	{
+		"abr": "リリンの革",
+		"price": 3,
+		"category": "革",
+		"defname": "Lilin_Leather"
+	},
+	{
+		"abr": "リリンの革",
+		"price": 3,
+		"category": "革",
+		"defname": "Lilin_Leather_PaleBrown"
+	},
+	{
+		"abr": "リリンの革",
+		"price": 3,
+		"category": "革",
+		"defname": "Lilin_Leather_DesertSand"
+	},
+	{
+		"abr": "リリンの革",
+		"price": 3,
+		"category": "革",
+		"defname": "Lilin_Leather_PinkBrown"
+	},
+	{
+		"abr": "リリンの革",
+		"price": 3,
+		"category": "革",
+		"defname": "Lilin_Leather_DarkGrey"
+	},
+	{
+		"abr": "リリンの革",
+		"price": 3,
+		"category": "革",
+		"defname": "Lilin_Leather_LightGrey"
+	},
+	{
+		"abr": "ルシフェリウム抑制液",
+		"price": 58,
+		"category": "ドラッグ",
+		"defname": "LuciferiumSolution"
+	},
+	{
+		"abr": "レイヴンホークb.305",
+		"price": 800,
+		"category": "遠距離武器",
+		"defname": "KJW_Ravenhawk"
+	},
+	{
+		"abr": "レーションd",
+		"price": 12,
+		"category": "食物",
+		"defname": "HYChoco"
+	},
+	{
+		"abr": "レトロライフル",
+		"price": 775,
+		"category": "遠距離武器",
+		"defname": "KJW_Retro_AR"
+	},
+	{
+		"abr": "レトロライフル",
+		"price": 800,
+		"category": "遠距離武器",
+		"defname": "KJW_Retro_AR_A"
+	},
+	{
+		"abr": "ロキンバーガー",
+		"price": 48,
+		"category": "調理済",
+		"defname": "EponaHamburger"
+	},
+	{
+		"abr": "中型モジュラーライフル",
+		"price": 850,
+		"category": "遠距離武器",
+		"defname": "KJW_SCARH"
+	},
+	{
+		"abr": "人体粉末",
+		"price": 5,
+		"category": "原材料",
+		"defname": "HumanPowder"
+	},
+	{
+		"abr": "人工ニセ角(ヴェナ)",
+		"price": 142,
+		"category": "人造",
+		"defname": "Venarium_ArtificialHorn"
+	},
+	{
+		"abr": "人工尻尾(ヴェナ)",
+		"price": 142,
+		"category": "人造",
+		"defname": "Venarium_ArtificialTail"
+	},
+	{
+		"abr": "人工尻尾(ウルフェイン)",
+		"price": 158,
+		"category": "人造",
+		"defname": "Wolfein_ArtificialTail"
+	},
+	{
+		"abr": "人工耳(ウルフェイン)",
+		"price": 142,
+		"category": "人造",
+		"defname": "Wolfein_ArtificialEar"
+	},
+	{
+		"abr": "体外式膜型人工肺(ecmo)",
+		"price": 383,
+		"category": "人造",
+		"defname": "HY_ECMO"
+	},
+	{
+		"abr": "兎獣耳族ハナ",
+		"price": 3333,
+		"category": "家畜",
+		"defname": "hana"
+	},
+	{
+		"abr": "助燃剤",
+		"price": 50,
+		"category": "モエロトル特殊品",
+		"defname": "Axolotl_ArmorJumpFuel"
+	},
+	{
+		"abr": "化猫獣耳ミコ",
+		"price": 16667,
+		"category": "家畜",
+		"defname": "miko"
+	},
+	{
+		"abr": "古代エルフ",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "AS_WAE_Race"
+	},
+	{
+		"abr": "古代エルフの肉",
+		"price": 2,
+		"category": "生肉",
+		"defname": "Meat_AS_WAE_Race"
+	},
+	{
+		"abr": "叶羊",
+		"price": 500,
+		"category": "家畜",
+		"defname": "Axolotl_LeafSheep"
+	},
+	{
+		"abr": "叶羊の肉",
+		"price": 3,
+		"category": "生野菜",
+		"defname": "Axolotl_LeafSheep_LeafMeat"
+	},
+	{
+		"abr": "叶羊凝胶",
+		"price": 3,
+		"category": "畜産物",
+		"defname": "Axolotl_LeafSheep_Gel"
+	},
+	{
+		"abr": "叶花糕",
+		"price": 5,
+		"category": "調理済",
+		"defname": "Axolotl_LeafFlowerJelly"
+	},
+	{
+		"abr": "回脉丹",
+		"price": 1000,
+		"category": "モエロトル特殊品",
+		"defname": "Axolotl_ReversalMeridianPill"
+	},
+	{
+		"abr": "回脉丹剤",
+		"price": 5,
+		"category": "モエロトル特殊品",
+		"defname": "Axolotl_herbsIngredient"
+	},
+	{
+		"abr": "基本的な管理者の机",
+		"price": 262,
+		"category": "生産物",
+		"defname": "FM_BasicManagerStation"
+	},
+	{
+		"abr": "塩",
+		"price": 5,
+		"category": "薬",
+		"defname": "HYSalt"
+	},
+	{
+		"abr": "大口径制圧銃",
+		"price": 3208,
+		"category": "遠距離武器",
+		"defname": "KJW_AMHMG"
+	},
+	{
+		"abr": "対戦車誘導ミサイルランチャー",
+		"price": 1867,
+		"category": "防衛",
+		"defname": "Korossa_mountedtow"
+	},
+	{
+		"abr": "小型対戦車誘導ミサイル",
+		"price": 80,
+		"category": "コロッサ弾薬",
+		"defname": "DR_rocket"
+	},
+	{
+		"abr": "干し草のスープ",
+		"price": 18,
+		"category": "調理済",
+		"defname": "EponaHaySoup"
+	},
+	{
+		"abr": "強化ウサギの耳",
+		"price": 1325,
+		"category": "強化",
+		"defname": "Celes_BionicEar"
+	},
+	{
+		"abr": "強化尻尾(ウルフェイン)",
+		"price": 992,
+		"category": "強化",
+		"defname": "Wolfein_BionicTail"
+	},
+	{
+		"abr": "強化尻尾(クーリン)",
+		"price": 942,
+		"category": "強化",
+		"defname": "Kurin_Bionic_Tail"
+	},
+	{
+		"abr": "強化尻尾(コロッサ)",
+		"price": 1575,
+		"category": "強化",
+		"defname": "Korossa_BionicTail"
+	},
+	{
+		"abr": "強化耳(ウルフェイン)",
+		"price": 842,
+		"category": "強化",
+		"defname": "Wolfein_BionicEar"
+	},
+	{
+		"abr": "強化耳(クーリン)",
+		"price": 1250,
+		"category": "強化",
+		"defname": "Kurin_Bionic_Ear"
+	},
+	{
+		"abr": "成形炸薬弾ロケット",
+		"price": 80,
+		"category": "コロッサ弾薬",
+		"defname": "PF_rocket"
+	},
+	{
+		"abr": "携帯用爆裂発電機",
+		"price": 867,
+		"category": "電力",
+		"defname": "EponaPortableGenerator"
+	},
+	{
+		"abr": "改良型アサルトライフル",
+		"price": 800,
+		"category": "遠距離武器",
+		"defname": "KJW_RIS"
+	},
+	{
+		"abr": "改良型バトルライフル",
+		"price": 1283,
+		"category": "ユニーク武器",
+		"defname": "KJW_OSW"
+	},
+	{
+		"abr": "改良型バトルライフル",
+		"price": 833,
+		"category": "遠距離武器",
+		"defname": "KJW_SA58a"
+	},
+	{
+		"abr": "改良型量産型ライフル",
+		"price": 775,
+		"category": "遠距離武器",
+		"defname": "KJW_Aliolio"
+	},
+	{
+		"abr": "改造型サブマシンガン",
+		"price": 367,
+		"category": "遠距離武器",
+		"defname": "KJW_TACTJNC"
+	},
+	{
+		"abr": "旧式リボルバー",
+		"price": 232,
+		"category": "遠距離武器",
+		"defname": "KJW_By2a"
+	},
+	{
+		"abr": "星砂",
+		"price": 25,
+		"category": "ドラッグ",
+		"defname": "HY_Starsand"
+	},
+	{
+		"abr": "月蝕刺激剤",
+		"price": 83,
+		"category": "ドラッグ",
+		"defname": "Wolfein_EclipseTrigger"
+	},
+	{
+		"abr": "未精製アクア",
+		"price": 1,
+		"category": "その他",
+		"defname": "HYRawAqua"
+	},
+	{
+		"abr": "機械化尻尾(ウルフェイン)",
+		"price": 992,
+		"category": "強化",
+		"defname": "Wolfein_CombatBionicTail"
+	},
+	{
+		"abr": "機械化耳(ウルフェイン)",
+		"price": 842,
+		"category": "強化",
+		"defname": "Wolfein_CombatBionicEar"
+	},
+	{
+		"abr": "機械化脚(ウルフェイン)",
+		"price": 1425,
+		"category": "強化",
+		"defname": "Wolfein_MechinalLeg"
+	},
+	{
+		"abr": "民用メカリンク制限ハッカー",
+		"price": 833,
+		"category": "機械技術",
+		"defname": "Celes_MechlinkAuthorization"
+	},
+	{
+		"abr": "水の知識",
+		"price": 333,
+		"category": "本",
+		"defname": "WaterKnows_Book"
+	},
+	{
+		"abr": "氷竜人ユキ",
+		"price": 16667,
+		"category": "家畜",
+		"defname": "yuki"
+	},
+	{
+		"abr": "汚染水",
+		"price": 0,
+		"category": "ヘヤン",
+		"defname": "WaterPolluted"
+	},
+	{
+		"abr": "汚染種ヘヤンコア",
+		"price": 167,
+		"category": "コア",
+		"defname": "PollutedHYCore"
+	},
+	{
+		"abr": "浄化剤",
+		"price": 25,
+		"category": "ドラッグ",
+		"defname": "P_pill"
+	},
+	{
+		"abr": "浄水器",
+		"price": 875,
+		"category": "生産物",
+		"defname": "HYPurifier"
+	},
+	{
+		"abr": "海水",
+		"price": 0,
+		"category": "ヘヤン",
+		"defname": "WaterSalt"
+	},
+	{
+		"abr": "海水種ヘヤンコア",
+		"price": 167,
+		"category": "コア",
+		"defname": "SalineHYCore"
+	},
+	{
+		"abr": "淡水",
+		"price": 0,
+		"category": "ヘヤン",
+		"defname": "WaterFresh"
+	},
+	{
+		"abr": "淡水種ヘヤンコア",
+		"price": 167,
+		"category": "コア",
+		"defname": "FreshHYCore"
+	},
+	{
+		"abr": "火力支援用ライトマシンガン",
+		"price": 1667,
+		"category": "遠距離武器",
+		"defname": "KJW_M249a"
+	},
+	{
+		"abr": "火力支援用多目的マシンガン",
+		"price": 1025,
+		"category": "防衛",
+		"defname": "Korossa_mountedpig"
+	},
+	{
+		"abr": "爆裂ニンジン",
+		"price": 13,
+		"category": "エポナ爆発物",
+		"defname": "Epona_Bombarrot_HE"
+	},
+	{
+		"abr": "爆裂ニンジンオルガン砲",
+		"price": 892,
+		"category": "防衛",
+		"defname": "EponaBuildingOrganGun"
+	},
+	{
+		"abr": "犬獣耳族クロ",
+		"price": 3333,
+		"category": "家畜",
+		"defname": "kuro"
+	},
+	{
+		"abr": "狐獣耳族コン",
+		"price": 3333,
+		"category": "家畜",
+		"defname": "kon"
+	},
+	{
+		"abr": "狼獣耳族シロ",
+		"price": 3333,
+		"category": "家畜",
+		"defname": "siro"
+	},
+	{
+		"abr": "玉瓊粉",
+		"price": 1,
+		"category": "モエロトル特殊品",
+		"defname": "Axolotl_JadeEssencePowder"
+	},
+	{
+		"abr": "生理食塩水",
+		"price": 17,
+		"category": "ドラッグ",
+		"defname": "SalineSolution"
+	},
+	{
+		"abr": "砲弾",
+		"price": 58,
+		"category": "迫撃砲弾",
+		"defname": "Epona_EponaCannonball_HE"
+	},
+	{
+		"abr": "管理者の机",
+		"price": 508,
+		"category": "生産物",
+		"defname": "FM_ManagerStation"
+	},
+	{
+		"abr": "精粹之柱",
+		"price": 583,
+		"category": "生産物",
+		"defname": "Axolotl_DeputyStove_Industrial"
+	},
+	{
+		"abr": "精製ナトリウム",
+		"price": 8,
+		"category": "加工品",
+		"defname": "HY_Sodium"
+	},
+	{
+		"abr": "紫陽花",
+		"price": 4,
+		"category": "植物原料",
+		"defname": "HYHydrangea"
+	},
+	{
+		"abr": "紫陽花茶",
+		"price": 17,
+		"category": "ドラッグ",
+		"defname": "HY_HydrangeaTea"
+	},
+	{
+		"abr": "羊獣角族アオメ",
+		"price": 2500,
+		"category": "家畜",
+		"defname": "aome"
+	},
+	{
+		"abr": "羊獣角族アカメ",
+		"price": 2500,
+		"category": "家畜",
+		"defname": "akame"
+	},
+	{
+		"abr": "翠玉竹",
+		"price": 4,
+		"category": "原材料",
+		"defname": "Axolotl_Bamboo"
+	},
+	{
+		"abr": "肉缶詰",
+		"price": 25,
+		"category": "調理済",
+		"defname": "HYMealSpam"
+	},
+	{
+		"abr": "脱塩剤",
+		"price": 25,
+		"category": "ドラッグ",
+		"defname": "D_pill"
+	},
+	{
+		"abr": "自己免疫抑制液",
+		"price": 25,
+		"category": "ドラッグ",
+		"defname": "HalofuginoneSolution"
+	},
+	{
+		"abr": "自己複製クリスタル",
+		"price": 20,
+		"category": "セレスティアナノ素材",
+		"defname": "CelesNanoMachine"
+	},
+	{
+		"abr": "自己解説型テクノロジーコア(ダストメカテック解析)",
+		"price": 833,
+		"category": "加工品",
+		"defname": "Celes_STC_MainTech_III"
+	},
+	{
+		"abr": "自己解説型テクノロジーコア(未解析)",
+		"price": 833,
+		"category": "加工品",
+		"defname": "Celes_STCLock"
+	},
+	{
+		"abr": "萌螈仰望派",
+		"price": 17,
+		"category": "調理済",
+		"defname": "Axolotl_StargazyPie"
+	},
+	{
+		"abr": "萌螈搗薬台",
+		"price": 159,
+		"category": "生産物",
+		"defname": "Axolotl_GrindingTable"
+	},
+	{
+		"abr": "萌螈機械式織機",
+		"price": 617,
+		"category": "生産物",
+		"defname": "Axolotl_ElectricHandBench"
+	},
+	{
+		"abr": "萌螈織機",
+		"price": 617,
+		"category": "生産物",
+		"defname": "Axolotl_HandBench"
+	},
+	{
+		"abr": "蛍石",
+		"price": 1,
+		"category": "原材料",
+		"defname": "HY_Fluorite"
+	},
+	{
+		"abr": "螈学書棚",
+		"price": 70,
+		"category": "家具",
+		"defname": "Axolotl_Bookcase"
+	},
+	{
+		"abr": "製薬ステーション",
+		"price": 600,
+		"category": "生産物",
+		"defname": "HYMedicalStation"
+	},
+	{
+		"abr": "覚醒剤",
+		"price": 58,
+		"category": "ドラッグ",
+		"defname": "HYStimPack"
+	},
+	{
+		"abr": "護身用pdw",
+		"price": 800,
+		"category": "遠距離武器",
+		"defname": "KJW_Urmmmiforgor"
+	},
+	{
+		"abr": "軽量型ライトマシンガン",
+		"price": 800,
+		"category": "遠距離武器",
+		"defname": "KJW_Ameli"
+	},
+	{
+		"abr": "通天鼎炉心",
+		"price": 5000,
+		"category": "モエロトル特殊品",
+		"defname": "Axolotl_CoreOfHeavenReachingCauldron"
+	},
+	{
+		"abr": "運気丹",
+		"price": 5000,
+		"category": "モエロトル特殊品",
+		"defname": "Axolotl_LotlqiPellet"
+	},
+	{
+		"abr": "運気丹剤",
+		"price": 5,
+		"category": "モエロトル特殊品",
+		"defname": "Axolotl_ingredient"
+	},
+	{
+		"abr": "野菜瓶詰",
+		"price": 25,
+		"category": "調理済",
+		"defname": "HYMealBottle"
+	},
+	{
+		"abr": "量産型サブマシンガン",
+		"price": 367,
+		"category": "遠距離武器",
+		"defname": "KJW_TJNC"
+	},
+	{
+		"abr": "量産型ライフル",
+		"price": 575,
+		"category": "遠距離武器",
+		"defname": "KJW_AKU"
+	},
+	{
+		"abr": "量産型ライフル",
+		"price": 742,
+		"category": "遠距離武器",
+		"defname": "KJW_Alioliowood"
+	},
+	{
+		"abr": "金属爪(ウルフェイン)",
+		"price": 1425,
+		"category": "強化",
+		"defname": "Wolfein_MetalClaw"
+	},
+	{
+		"abr": "金象嵌絹",
+		"price": 7,
+		"category": "織物",
+		"defname": "Axolotl_Silk"
+	},
+	{
+		"abr": "銃器工作台",
+		"price": 758,
+		"category": "生産物",
+		"defname": "TableMachining_korossa"
+	},
+	{
+		"abr": "防水布",
+		"price": 5,
+		"category": "織物",
+		"defname": "WaterproofCloth"
+	},
+	{
+		"abr": "非合法ライフル",
+		"price": 367,
+		"category": "遠距離武器",
+		"defname": "KJW_ILLEGAL"
+	},
+	{
+		"abr": "風切丸",
+		"price": 3333,
+		"category": "家畜",
+		"defname": "konf"
+	},
+	{
+		"abr": "高級オートピストル",
+		"price": 232,
+		"category": "遠距離武器",
+		"defname": "KJW_Governer"
+	},
+	{
+		"abr": "高級ダブルバレルショットガン",
+		"price": 425,
+		"category": "遠距離武器",
+		"defname": "KJW_DBS"
+	},
+	{
+		"abr": "高級モジュラーライフル",
+		"price": 1283,
+		"category": "ユニーク武器",
+		"defname": "KJW_SCAR_TAC"
+	},
+	{
+		"abr": "高級レバーアクションライフル",
+		"price": 425,
+		"category": "遠距離武器",
+		"defname": "KJW_Saddlegun"
+	},
+	{
+		"abr": "鬼人コヒメ",
+		"price": 16667,
+		"category": "家畜",
+		"defname": "kohime"
+	}
 	],
-	"total": 838
+	"total": 2042
 }

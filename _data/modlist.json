@@ -6,12 +6,6 @@
     "version": "2.4.1.0"
   },
   {
-    "author": "legodude17と Oskar Potocki",
-    "name": "Vanilla Backgrounds Expanded",
-    "steamId": "2775017012",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -156,6 +150,12 @@
     "version": "3.3.2.0"
   },
   {
+    "author": "LingLuo",
+    "name": "[Ling]Move Steam Geyser",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "We're in Heaven",
     "name": "Colony Manager Fork",
     "steamId": "3262932412",
@@ -246,21 +246,15 @@
     "version": "1.2.0.0"
   },
   {
-    "author": "sxcher",
-    "name": "Sxcher Backgrounds",
-    "steamId": null,
-    "version": null
+    "author": "SeoHyeon",
+    "name": "Safe Drug Policy Generator",
+    "steamId": "2582640021",
+    "version": "1.0.0.0"
   },
   {
     "author": "YAYO",
     "name": "Real Faction Guest (Forked)",
     "steamId": "3302093855",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SeoHyeon",
-    "name": "Safe Drug Policy Generator",
-    "steamId": "2582640021",
     "version": "1.0.0.0"
   },
   {
@@ -342,12 +336,6 @@
     "version": null
   },
   {
-    "author": "Sanoo6",
-    "name": "Haeyang Race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "rabiosus",
     "name": "Dragonian Strange Apparels",
     "steamId": null,
@@ -356,6 +344,12 @@
   {
     "author": "gyun",
     "name": "Korossa: scorched brass",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Feng Xinzi",
+    "name": "NewRatkinPlus[1.6]",
     "steamId": null,
     "version": null
   },
@@ -410,12 +404,6 @@
   {
     "author": "Lucifel",
     "name": "[ACS]Celestia Race 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Haeyang Race 日本語翻訳",
     "steamId": null,
     "version": null
   },

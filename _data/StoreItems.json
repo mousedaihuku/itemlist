@@ -6433,28 +6433,10 @@
 		"defname": "Celes_IAS2M"
 	},
 	{
-		"abr": "iedフッ化水素酸トラップ",
-		"price": 192,
-		"category": "防衛",
-		"defname": "HYTrapIED_HF"
-	},
-	{
-		"abr": "jp8",
-		"price": 33,
-		"category": "ドラッグ",
-		"defname": "HY_JP"
-	},
-	{
 		"abr": "mg-emarkiib'フルリッパー'",
 		"price": 2892,
 		"category": "遠距離武器",
 		"defname": "KJW_AMGE"
-	},
-	{
-		"abr": "mre",
-		"price": 25,
-		"category": "調理済",
-		"defname": "HYMealMRE"
 	},
 	{
 		"abr": "mya萌羊のミシン台",
@@ -6601,18 +6583,6 @@
 		"defname": "KJW_WRAITH"
 	},
 	{
-		"abr": "アイスクリーム製造機",
-		"price": 517,
-		"category": "生産物",
-		"defname": "HYIcecreamStation"
-	},
-	{
-		"abr": "アイスバー",
-		"price": 8,
-		"category": "ドラッグ",
-		"defname": "IcecreamBar"
-	},
-	{
 		"abr": "アオメの羊毛",
 		"price": 17,
 		"category": "毛",
@@ -6623,24 +6593,6 @@
 		"price": 17,
 		"category": "毛",
 		"defname": "akameWool"
-	},
-	{
-		"abr": "アクア",
-		"price": 13,
-		"category": "原材料",
-		"defname": "HYAquaStone"
-	},
-	{
-		"abr": "アクア抽出器",
-		"price": 833,
-		"category": "生産物",
-		"defname": "HYAquaProcessor"
-	},
-	{
-		"abr": "アクア深部ドリル",
-		"price": 2000,
-		"category": "生産物",
-		"defname": "HYAquaDeepDrill"
 	},
 	{
 		"abr": "アサルト対戦車ライフル",
@@ -8797,12 +8749,6 @@
 		"defname": "EponaBuildingTailor"
 	},
 	{
-		"abr": "キャラメルロール",
-		"price": 0,
-		"category": "食物",
-		"defname": "HYTootsie"
-	},
-	{
 		"abr": "キャロティウム",
 		"price": 2,
 		"category": "原材料",
@@ -9709,12 +9655,6 @@
 		"defname": "siroWool"
 	},
 	{
-		"abr": "ジン",
-		"price": 42,
-		"category": "ドラッグ",
-		"defname": "HY_Sapphire"
-	},
-	{
 		"abr": "スターブームパイ",
 		"price": 53,
 		"category": "調理済",
@@ -10087,12 +10027,6 @@
 		"defname": "CelesNanoManifold"
 	},
 	{
-		"abr": "チョコアイスクリーム",
-		"price": 17,
-		"category": "ドラッグ",
-		"defname": "IcecreamChoco"
-	},
-	{
 		"abr": "デストリエ",
 		"price": 6250,
 		"category": "Animal",
@@ -10133,18 +10067,6 @@
 		"price": 18,
 		"category": "毛",
 		"defname": "WoolDragonian"
-	},
-	{
-		"abr": "ナトリウム冷却装置",
-		"price": 33,
-		"category": "加工品",
-		"defname": "HY_SodiumCoolerModule"
-	},
-	{
-		"abr": "ナポリタン",
-		"price": 67,
-		"category": "ドラッグ",
-		"defname": "IcecreamNeapolitan"
 	},
 	{
 		"abr": "ニセウサギの耳",
@@ -10225,18 +10147,6 @@
 		"defname": "hanaWool"
 	},
 	{
-		"abr": "バニラアイスクリーム",
-		"price": 17,
-		"category": "ドラッグ",
-		"defname": "IcecreamVanila"
-	},
-	{
-		"abr": "ファブリックプリンター",
-		"price": 833,
-		"category": "生産物",
-		"defname": "HYFabricPrinter"
-	},
-	{
 		"abr": "プーカ",
 		"price": 2083,
 		"category": "家畜",
@@ -10261,24 +10171,6 @@
 		"defname": "T3_suppression"
 	},
 	{
-		"abr": "フッ化水素酸",
-		"price": 12,
-		"category": "加工品",
-		"defname": "HY_HydrogenFluorite"
-	},
-	{
-		"abr": "フッ化水素酸中和剤",
-		"price": 125,
-		"category": "ドラッグ",
-		"defname": "HY_HFCure"
-	},
-	{
-		"abr": "フッ化水素酸化学砲弾",
-		"price": 92,
-		"category": "迫撃砲弾",
-		"defname": "Shell_HF"
-	},
-	{
 		"abr": "ブラックアウトilo",
 		"price": 883,
 		"category": "遠距離武器",
@@ -10297,496 +10189,10 @@
 		"defname": "KJW_Supershotty"
 	},
 	{
-		"abr": "フロアアクアリウム",
-		"price": 650,
-		"category": "家具",
-		"defname": "HYFloorAquarium"
-	},
-	{
 		"abr": "プロテアーゼ抑制剤",
 		"price": 5333,
 		"category": "ドラッグ",
 		"defname": "Korossa_T3_Vial"
-	},
-	{
-		"abr": "ヘムパウダースチール",
-		"price": 58,
-		"category": "原材料",
-		"defname": "HYHemuAlloy"
-	},
-	{
-		"abr": "ヘヤン20mmバルカン",
-		"price": 2842,
-		"category": "遠距離武器",
-		"defname": "Gun_HYVulcan"
-	},
-	{
-		"abr": "ヘヤン30mmオートキャノン",
-		"price": 3383,
-		"category": "遠距離武器",
-		"defname": "Gun_HYBrrrt"
-	},
-	{
-		"abr": "ヘヤンgスーツタイプa",
-		"price": 3133,
-		"category": "ヘヤン衣服",
-		"defname": "HY_GSuitA"
-	},
-	{
-		"abr": "ヘヤンアサルトライフル",
-		"price": 992,
-		"category": "遠距離武器",
-		"defname": "Gun_HYAssaultRifle"
-	},
-	{
-		"abr": "ヘヤンヴェイパーガン",
-		"price": 1500,
-		"category": "遠距離武器",
-		"defname": "Gun_HYVapor"
-	},
-	{
-		"abr": "ヘヤンウォーターガン",
-		"price": 266,
-		"category": "遠距離武器",
-		"defname": "Gun_HYPistol"
-	},
-	{
-		"abr": "ヘヤンウォータージェット",
-		"price": 608,
-		"category": "ヘヤン武器",
-		"defname": "HYCutter"
-	},
-	{
-		"abr": "ヘヤンウォーターライフル",
-		"price": 492,
-		"category": "遠距離武器",
-		"defname": "Gun_HYRifle"
-	},
-	{
-		"abr": "ヘヤンエキゾチックセーラーコート",
-		"price": 550,
-		"category": "ヘヤン衣服",
-		"defname": "HY_KSailorCoat"
-	},
-	{
-		"abr": "ヘヤンエキゾチックセーラー服a",
-		"price": 550,
-		"category": "ヘヤン衣服",
-		"defname": "HY_KSailorA"
-	},
-	{
-		"abr": "ヘヤンエキゾチックセーラー服b",
-		"price": 550,
-		"category": "ヘヤン衣服",
-		"defname": "HY_KSailorB"
-	},
-	{
-		"abr": "ヘヤンケープa",
-		"price": 650,
-		"category": "ヘヤン衣服",
-		"defname": "HY_CapeA"
-	},
-	{
-		"abr": "ヘヤンケープb",
-		"price": 650,
-		"category": "ヘヤン衣服",
-		"defname": "HY_CapeB"
-	},
-	{
-		"abr": "ヘヤンケープc",
-		"price": 650,
-		"category": "ヘヤン衣服",
-		"defname": "HY_CapeC"
-	},
-	{
-		"abr": "ヘヤンサバイバルナイフ",
-		"price": 500,
-		"category": "ヘヤン武器",
-		"defname": "HYASEK"
-	},
-	{
-		"abr": "ヘヤンサブマシンガン",
-		"price": 783,
-		"category": "遠距離武器",
-		"defname": "Gun_HYSMG"
-	},
-	{
-		"abr": "ヘヤンシックル",
-		"price": 500,
-		"category": "ヘヤン武器",
-		"defname": "HYSickle"
-	},
-	{
-		"abr": "ヘヤンシャツa",
-		"price": 742,
-		"category": "ヘヤン衣服",
-		"defname": "HY_ShirtA"
-	},
-	{
-		"abr": "ヘヤンシャツb",
-		"price": 742,
-		"category": "ヘヤン衣服",
-		"defname": "HY_ShirtB"
-	},
-	{
-		"abr": "ヘヤンスイムスーツa",
-		"price": 274,
-		"category": "ヘヤン衣服",
-		"defname": "HY_SwimSuitA"
-	},
-	{
-		"abr": "ヘヤンスイムスーツb",
-		"price": 274,
-		"category": "ヘヤン衣服",
-		"defname": "HY_SwimSuitB"
-	},
-	{
-		"abr": "ヘヤンスイムスーツc",
-		"price": 274,
-		"category": "ヘヤン衣服",
-		"defname": "HY_SwimSuitC"
-	},
-	{
-		"abr": "ヘヤンストライプビキニa",
-		"price": 157,
-		"category": "ヘヤン衣服",
-		"defname": "HY_StripeA"
-	},
-	{
-		"abr": "ヘヤンセーラーキャップa",
-		"price": 163,
-		"category": "ヘヤン帽子",
-		"defname": "HY_SailorHatA"
-	},
-	{
-		"abr": "ヘヤンセーラーキャップb",
-		"price": 163,
-		"category": "ヘヤン帽子",
-		"defname": "HY_SailorHatB"
-	},
-	{
-		"abr": "ヘヤンセーラー服(半袖)a",
-		"price": 383,
-		"category": "ヘヤン衣服",
-		"defname": "HY_SailorA"
-	},
-	{
-		"abr": "ヘヤンセーラー服(半袖)b",
-		"price": 383,
-		"category": "ヘヤン衣服",
-		"defname": "HY_SailorB"
-	},
-	{
-		"abr": "ヘヤンセーラー服(半袖)c",
-		"price": 383,
-		"category": "ヘヤン衣服",
-		"defname": "HY_SailorC"
-	},
-	{
-		"abr": "ヘヤンセーラー服(長袖)a",
-		"price": 600,
-		"category": "ヘヤン衣服",
-		"defname": "HY_LongSailorA"
-	},
-	{
-		"abr": "ヘヤンセーラー服(長袖)b",
-		"price": 600,
-		"category": "ヘヤン衣服",
-		"defname": "HY_LongSailorB"
-	},
-	{
-		"abr": "ヘヤンセーラー服(長袖)c",
-		"price": 600,
-		"category": "ヘヤン衣服",
-		"defname": "HY_LongSailorC"
-	},
-	{
-		"abr": "ヘヤンドレスa",
-		"price": 742,
-		"category": "ヘヤン衣服",
-		"defname": "HY_DressA"
-	},
-	{
-		"abr": "ヘヤンドレスb",
-		"price": 742,
-		"category": "ヘヤン衣服",
-		"defname": "HY_DressB"
-	},
-	{
-		"abr": "ヘヤンバヨネット",
-		"price": 500,
-		"category": "ヘヤン武器",
-		"defname": "HYBayonet"
-	},
-	{
-		"abr": "ヘヤンフッ化水素酸スプレー",
-		"price": 1333,
-		"category": "遠距離武器",
-		"defname": "Gun_HYHFSpray"
-	},
-	{
-		"abr": "ヘヤンフライトヘルメット",
-		"price": 600,
-		"category": "ヘヤン帽子",
-		"defname": "HY_HMD"
-	},
-	{
-		"abr": "ヘヤンマグナジャベリン",
-		"price": 3867,
-		"category": "ヘヤン武器",
-		"defname": "HYJavelin"
-	},
-	{
-		"abr": "ヘヤンマグナシューターヘルメット",
-		"price": 3925,
-		"category": "ヘヤン帽子",
-		"defname": "HY_MagnaHelmetShoot"
-	},
-	{
-		"abr": "ヘヤンマグナビームライフル",
-		"price": 3800,
-		"category": "遠距離武器",
-		"defname": "Gun_HYBeamRifle"
-	},
-	{
-		"abr": "ヘヤンマグナベースアーマー",
-		"price": 4508,
-		"category": "ヘヤン衣服",
-		"defname": "HY_MagnaBase"
-	},
-	{
-		"abr": "ヘヤンマグナベースヘルメット",
-		"price": 2775,
-		"category": "ヘヤン帽子",
-		"defname": "HY_MagnaHelmetBase"
-	},
-	{
-		"abr": "ヘヤンマグナメレーアーマー",
-		"price": 5833,
-		"category": "ヘヤン衣服",
-		"defname": "HY_MagnaMelee"
-	},
-	{
-		"abr": "ヘヤンマグナメレーヘルメット",
-		"price": 3925,
-		"category": "ヘヤン帽子",
-		"defname": "HY_MagnaHelmetMelee"
-	},
-	{
-		"abr": "ヘヤンワンピースa",
-		"price": 367,
-		"category": "ヘヤン衣服",
-		"defname": "HY_OnepieceA"
-	},
-	{
-		"abr": "ヘヤンワンピースb",
-		"price": 367,
-		"category": "ヘヤン衣服",
-		"defname": "HY_OnepieceB"
-	},
-	{
-		"abr": "ヘヤン子供用セーラー服",
-		"price": 112,
-		"category": "ヘヤン衣服",
-		"defname": "HY_ChildSailor"
-	},
-	{
-		"abr": "ヘヤン子供用ビーチドレス",
-		"price": 112,
-		"category": "ヘヤン衣服",
-		"defname": "HY_ChildDress"
-	},
-	{
-		"abr": "ヘヤン守護の首飾り",
-		"price": 313,
-		"category": "ヘヤン衣服",
-		"defname": "HY_ShieldNecklace"
-	},
-	{
-		"abr": "ヘヤン幸運の首飾り",
-		"price": 367,
-		"category": "ヘヤン衣服",
-		"defname": "HY_FortuneNecklace"
-	},
-	{
-		"abr": "ヘヤン汎用セーラー服a",
-		"price": 733,
-		"category": "ヘヤン衣服",
-		"defname": "HY_VSailorA"
-	},
-	{
-		"abr": "ヘヤン汎用セーラー服b",
-		"price": 733,
-		"category": "ヘヤン衣服",
-		"defname": "HY_VSailorB"
-	},
-	{
-		"abr": "ヘヤン治癒の首飾り",
-		"price": 450,
-		"category": "ヘヤン衣服",
-		"defname": "HY_HealingNecklace"
-	},
-	{
-		"abr": "ヘヤン清楽ハンマー",
-		"price": 169,
-		"category": "ヘヤン武器",
-		"defname": "HYGgang"
-	},
-	{
-		"abr": "ヘヤン精神の首飾り",
-		"price": 367,
-		"category": "ヘヤン衣服",
-		"defname": "HY_PsychicNecklace"
-	},
-	{
-		"abr": "ヘヤン航空管制官用ヘッドセット",
-		"price": 13,
-		"category": "ヘヤン衣服",
-		"defname": "HY_Controller"
-	},
-	{
-		"abr": "ヘヤン軍用ジャケット",
-		"price": 1892,
-		"category": "ヘヤン衣服",
-		"defname": "HY_SealJacket"
-	},
-	{
-		"abr": "ヘヤン軍用スーツ",
-		"price": 3000,
-		"category": "ヘヤン衣服",
-		"defname": "HY_SealSuit"
-	},
-	{
-		"abr": "ヘヤン軍用ヘルメット",
-		"price": 733,
-		"category": "ヘヤン帽子",
-		"defname": "HY_Helmet"
-	},
-	{
-		"abr": "ヘヤン防弾ジャケット",
-		"price": 1467,
-		"category": "ヘヤン衣服",
-		"defname": "HY_FlakJacket"
-	},
-	{
-		"abr": "ヘヤン防弾チョッキ",
-		"price": 450,
-		"category": "ヘヤン衣服",
-		"defname": "HY_FlakVest"
-	},
-	{
-		"abr": "ヘヤンコア培養機",
-		"price": 833,
-		"category": "生産物",
-		"defname": "HYGestator"
-	},
-	{
-		"abr": "ヘヤンミーティングテーブル",
-		"price": 1367,
-		"category": "家具",
-		"defname": "HYTable1x3c"
-	},
-	{
-		"abr": "ヘヤン作業台",
-		"price": 600,
-		"category": "生産物",
-		"defname": "HYWorkBench"
-	},
-	{
-		"abr": "ヘヤン保温機能性薬剤",
-		"price": 25,
-		"category": "ヘヤン追加機能",
-		"defname": "HY_TemperatureMod"
-	},
-	{
-		"abr": "ヘヤン増粘剤",
-		"price": 25,
-		"category": "ヘヤン追加機能",
-		"defname": "HY_Thickener"
-	},
-	{
-		"abr": "ヘヤン将校用椅子",
-		"price": 1383,
-		"category": "家具",
-		"defname": "HY_ChairA"
-	},
-	{
-		"abr": "ヘヤン-汚染種",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "HY_Polluted_Race"
-	},
-	{
-		"abr": "ヘヤン-海水種",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "HY_Saline_Race"
-	},
-	{
-		"abr": "ヘヤン消毒機能性薬剤",
-		"price": 25,
-		"category": "ヘヤン追加機能",
-		"defname": "HY_DisinfectionMod"
-	},
-	{
-		"abr": "ヘヤン-淡水種",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "HY_Fresh_Race"
-	},
-	{
-		"abr": "ヘヤン減粘剤",
-		"price": 25,
-		"category": "ヘヤン追加機能",
-		"defname": "HY_ViscosityReducer"
-	},
-	{
-		"abr": "ヘヤン缶詰工場",
-		"price": 208,
-		"category": "生産物",
-		"defname": "HYCannery"
-	},
-	{
-		"abr": "ヘヤン缶詰-汚染種",
-		"price": 3333,
-		"category": "ヘヤン缶",
-		"defname": "PollutedHYCan"
-	},
-	{
-		"abr": "ヘヤン缶詰-海水種",
-		"price": 3333,
-		"category": "ヘヤン缶",
-		"defname": "SalineHYCan"
-	},
-	{
-		"abr": "ヘヤン缶詰-淡水種",
-		"price": 3333,
-		"category": "ヘヤン缶",
-		"defname": "FreshHYCan"
-	},
-	{
-		"abr": "ヘヤン芳香機能性薬剤",
-		"price": 25,
-		"category": "ヘヤン追加機能",
-		"defname": "HY_PerfumeMod"
-	},
-	{
-		"abr": "ヘヤン解剖学実習台",
-		"price": 325,
-		"category": "生産物",
-		"defname": "HYTableAnatomy"
-	},
-	{
-		"abr": "ヘヤン開缶場",
-		"price": 101,
-		"category": "生産物",
-		"defname": "HYTinOpener"
-	},
-	{
-		"abr": "ベリーアイスクリーム",
-		"price": 17,
-		"category": "ドラッグ",
-		"defname": "IcecreamBerry"
 	},
 	{
 		"abr": "ポイントディフェンスシステム",
@@ -10801,82 +10207,10 @@
 		"defname": "KJW_M2a"
 	},
 	{
-		"abr": "マグナsbd",
-		"price": 1750,
-		"category": "強化",
-		"defname": "HY_MagnaMastery"
-	},
-	{
-		"abr": "マグナクッキークリッカー",
-		"price": 1750,
-		"category": "強化",
-		"defname": "HY_MagnaCookieClicker"
-	},
-	{
-		"abr": "マグナダヴィンチ",
-		"price": 1750,
-		"category": "強化",
-		"defname": "HY_MagnaDaVinci"
-	},
-	{
-		"abr": "マグナデリバリーレッグ",
-		"price": 1750,
-		"category": "強化",
-		"defname": "HY_MagnaDeliveryLeg"
-	},
-	{
-		"abr": "マグナメガジーニーチップス",
-		"price": 1750,
-		"category": "強化",
-		"defname": "HY_MagnaMegaGenie"
-	},
-	{
-		"abr": "マリモ",
-		"price": 5,
-		"category": "原材料",
-		"defname": "HYMarimo"
-	},
-	{
-		"abr": "マリモ培養機",
-		"price": 833,
-		"category": "生産物",
-		"defname": "HYMarimoGestator"
-	},
-	{
-		"abr": "マリモ生地",
-		"price": 8,
-		"category": "織物",
-		"defname": "HY_MarimoFabric"
-	},
-	{
-		"abr": "マロ・テティス",
-		"price": 6667,
-		"category": "Animal",
-		"defname": "HY_Tethys"
-	},
-	{
 		"abr": "ミコの金色毛",
 		"price": 20,
 		"category": "毛",
 		"defname": "mikoWool"
-	},
-	{
-		"abr": "ミルクボール",
-		"price": 200,
-		"category": "家畜",
-		"defname": "HY_Milkball"
-	},
-	{
-		"abr": "ミルクボールの肉",
-		"price": 3,
-		"category": "生肉",
-		"defname": "Meat_HY_Milkball"
-	},
-	{
-		"abr": "メカリンク(ヘヤン)",
-		"price": 833,
-		"category": "機械技術",
-		"defname": "HYMechlink"
 	},
 	{
 		"abr": "モエロトル",
@@ -11473,12 +10807,6 @@
 		"defname": "KJW_Lasgun"
 	},
 	{
-		"abr": "ラム",
-		"price": 42,
-		"category": "ドラッグ",
-		"defname": "CptQ"
-	},
-	{
 		"abr": "リバースターゼ抑制剤",
 		"price": 1333,
 		"category": "ドラッグ",
@@ -11575,22 +10903,10 @@
 		"defname": "Lilin_Leather_LightGrey"
 	},
 	{
-		"abr": "ルシフェリウム抑制液",
-		"price": 58,
-		"category": "ドラッグ",
-		"defname": "LuciferiumSolution"
-	},
-	{
 		"abr": "レイヴンホークb.305",
 		"price": 800,
 		"category": "遠距離武器",
 		"defname": "KJW_Ravenhawk"
-	},
-	{
-		"abr": "レーションd",
-		"price": 12,
-		"category": "食物",
-		"defname": "HYChoco"
 	},
 	{
 		"abr": "レトロライフル",
@@ -11617,12 +10933,6 @@
 		"defname": "KJW_SCARH"
 	},
 	{
-		"abr": "人体粉末",
-		"price": 5,
-		"category": "原材料",
-		"defname": "HumanPowder"
-	},
-	{
 		"abr": "人工ニセ角(ヴェナ)",
 		"price": 142,
 		"category": "人造",
@@ -11645,12 +10955,6 @@
 		"price": 142,
 		"category": "人造",
 		"defname": "Wolfein_ArtificialEar"
-	},
-	{
-		"abr": "体外式膜型人工肺(ecmo)",
-		"price": 383,
-		"category": "人造",
-		"defname": "HY_ECMO"
 	},
 	{
 		"abr": "兎獣耳族ハナ",
@@ -11723,12 +11027,6 @@
 		"price": 262,
 		"category": "生産物",
 		"defname": "FM_BasicManagerStation"
-	},
-	{
-		"abr": "塩",
-		"price": 5,
-		"category": "薬",
-		"defname": "HYSalt"
 	},
 	{
 		"abr": "大口径制圧銃",
@@ -11839,22 +11137,10 @@
 		"defname": "KJW_By2a"
 	},
 	{
-		"abr": "星砂",
-		"price": 25,
-		"category": "ドラッグ",
-		"defname": "HY_Starsand"
-	},
-	{
 		"abr": "月蝕刺激剤",
 		"price": 83,
 		"category": "ドラッグ",
 		"defname": "Wolfein_EclipseTrigger"
-	},
-	{
-		"abr": "未精製アクア",
-		"price": 1,
-		"category": "その他",
-		"defname": "HYRawAqua"
 	},
 	{
 		"abr": "機械化尻尾(ウルフェイン)",
@@ -11881,64 +11167,10 @@
 		"defname": "Celes_MechlinkAuthorization"
 	},
 	{
-		"abr": "水の知識",
-		"price": 333,
-		"category": "本",
-		"defname": "WaterKnows_Book"
-	},
-	{
 		"abr": "氷竜人ユキ",
 		"price": 16667,
 		"category": "家畜",
 		"defname": "yuki"
-	},
-	{
-		"abr": "汚染水",
-		"price": 0,
-		"category": "ヘヤン",
-		"defname": "WaterPolluted"
-	},
-	{
-		"abr": "汚染種ヘヤンコア",
-		"price": 167,
-		"category": "コア",
-		"defname": "PollutedHYCore"
-	},
-	{
-		"abr": "浄化剤",
-		"price": 25,
-		"category": "ドラッグ",
-		"defname": "P_pill"
-	},
-	{
-		"abr": "浄水器",
-		"price": 875,
-		"category": "生産物",
-		"defname": "HYPurifier"
-	},
-	{
-		"abr": "海水",
-		"price": 0,
-		"category": "ヘヤン",
-		"defname": "WaterSalt"
-	},
-	{
-		"abr": "海水種ヘヤンコア",
-		"price": 167,
-		"category": "コア",
-		"defname": "SalineHYCore"
-	},
-	{
-		"abr": "淡水",
-		"price": 0,
-		"category": "ヘヤン",
-		"defname": "WaterFresh"
-	},
-	{
-		"abr": "淡水種ヘヤンコア",
-		"price": 167,
-		"category": "コア",
-		"defname": "FreshHYCore"
 	},
 	{
 		"abr": "火力支援用ライトマシンガン",
@@ -11989,12 +11221,6 @@
 		"defname": "Axolotl_JadeEssencePowder"
 	},
 	{
-		"abr": "生理食塩水",
-		"price": 17,
-		"category": "ドラッグ",
-		"defname": "SalineSolution"
-	},
-	{
 		"abr": "砲弾",
 		"price": 58,
 		"category": "迫撃砲弾",
@@ -12011,24 +11237,6 @@
 		"price": 583,
 		"category": "生産物",
 		"defname": "Axolotl_DeputyStove_Industrial"
-	},
-	{
-		"abr": "精製ナトリウム",
-		"price": 8,
-		"category": "加工品",
-		"defname": "HY_Sodium"
-	},
-	{
-		"abr": "紫陽花",
-		"price": 4,
-		"category": "植物原料",
-		"defname": "HYHydrangea"
-	},
-	{
-		"abr": "紫陽花茶",
-		"price": 17,
-		"category": "ドラッグ",
-		"defname": "HY_HydrangeaTea"
 	},
 	{
 		"abr": "羊獣角族アオメ",
@@ -12048,210 +11256,6 @@
 		"category": "原材料",
 		"defname": "Axolotl_Bamboo"
 	},
-	{
-		"abr": "肉缶詰",
-		"price": 25,
-		"category": "調理済",
-		"defname": "HYMealSpam"
-	},
-	{
-		"abr": "脱塩剤",
-		"price": 25,
-		"category": "ドラッグ",
-		"defname": "D_pill"
-	},
-	{
-		"abr": "自己免疫抑制液",
-		"price": 25,
-		"category": "ドラッグ",
-		"defname": "HalofuginoneSolution"
-	},
-	{
-		"abr": "自己複製クリスタル",
-		"price": 20,
-		"category": "セレスティアナノ素材",
-		"defname": "CelesNanoMachine"
-	},
-	{
-		"abr": "自己解説型テクノロジーコア(ダストメカテック解析)",
-		"price": 833,
-		"category": "加工品",
-		"defname": "Celes_STC_MainTech_III"
-	},
-	{
-		"abr": "自己解説型テクノロジーコア(未解析)",
-		"price": 833,
-		"category": "加工品",
-		"defname": "Celes_STCLock"
-	},
-	{
-		"abr": "萌螈仰望派",
-		"price": 17,
-		"category": "調理済",
-		"defname": "Axolotl_StargazyPie"
-	},
-	{
-		"abr": "萌螈搗薬台",
-		"price": 159,
-		"category": "生産物",
-		"defname": "Axolotl_GrindingTable"
-	},
-	{
-		"abr": "萌螈機械式織機",
-		"price": 617,
-		"category": "生産物",
-		"defname": "Axolotl_ElectricHandBench"
-	},
-	{
-		"abr": "萌螈織機",
-		"price": 617,
-		"category": "生産物",
-		"defname": "Axolotl_HandBench"
-	},
-	{
-		"abr": "蛍石",
-		"price": 1,
-		"category": "原材料",
-		"defname": "HY_Fluorite"
-	},
-	{
-		"abr": "螈学書棚",
-		"price": 70,
-		"category": "家具",
-		"defname": "Axolotl_Bookcase"
-	},
-	{
-		"abr": "製薬ステーション",
-		"price": 600,
-		"category": "生産物",
-		"defname": "HYMedicalStation"
-	},
-	{
-		"abr": "覚醒剤",
-		"price": 58,
-		"category": "ドラッグ",
-		"defname": "HYStimPack"
-	},
-	{
-		"abr": "護身用pdw",
-		"price": 800,
-		"category": "遠距離武器",
-		"defname": "KJW_Urmmmiforgor"
-	},
-	{
-		"abr": "軽量型ライトマシンガン",
-		"price": 800,
-		"category": "遠距離武器",
-		"defname": "KJW_Ameli"
-	},
-	{
-		"abr": "通天鼎炉心",
-		"price": 5000,
-		"category": "モエロトル特殊品",
-		"defname": "Axolotl_CoreOfHeavenReachingCauldron"
-	},
-	{
-		"abr": "運気丹",
-		"price": 5000,
-		"category": "モエロトル特殊品",
-		"defname": "Axolotl_LotlqiPellet"
-	},
-	{
-		"abr": "運気丹剤",
-		"price": 5,
-		"category": "モエロトル特殊品",
-		"defname": "Axolotl_ingredient"
-	},
-	{
-		"abr": "野菜瓶詰",
-		"price": 25,
-		"category": "調理済",
-		"defname": "HYMealBottle"
-	},
-	{
-		"abr": "量産型サブマシンガン",
-		"price": 367,
-		"category": "遠距離武器",
-		"defname": "KJW_TJNC"
-	},
-	{
-		"abr": "量産型ライフル",
-		"price": 575,
-		"category": "遠距離武器",
-		"defname": "KJW_AKU"
-	},
-	{
-		"abr": "量産型ライフル",
-		"price": 742,
-		"category": "遠距離武器",
-		"defname": "KJW_Alioliowood"
-	},
-	{
-		"abr": "金属爪(ウルフェイン)",
-		"price": 1425,
-		"category": "強化",
-		"defname": "Wolfein_MetalClaw"
-	},
-	{
-		"abr": "金象嵌絹",
-		"price": 7,
-		"category": "織物",
-		"defname": "Axolotl_Silk"
-	},
-	{
-		"abr": "銃器工作台",
-		"price": 758,
-		"category": "生産物",
-		"defname": "TableMachining_korossa"
-	},
-	{
-		"abr": "防水布",
-		"price": 5,
-		"category": "織物",
-		"defname": "WaterproofCloth"
-	},
-	{
-		"abr": "非合法ライフル",
-		"price": 367,
-		"category": "遠距離武器",
-		"defname": "KJW_ILLEGAL"
-	},
-	{
-		"abr": "風切丸",
-		"price": 3333,
-		"category": "家畜",
-		"defname": "konf"
-	},
-	{
-		"abr": "高級オートピストル",
-		"price": 232,
-		"category": "遠距離武器",
-		"defname": "KJW_Governer"
-	},
-	{
-		"abr": "高級ダブルバレルショットガン",
-		"price": 425,
-		"category": "遠距離武器",
-		"defname": "KJW_DBS"
-	},
-	{
-		"abr": "高級モジュラーライフル",
-		"price": 1283,
-		"category": "ユニーク武器",
-		"defname": "KJW_SCAR_TAC"
-	},
-	{
-		"abr": "高級レバーアクションライフル",
-		"price": 425,
-		"category": "遠距離武器",
-		"defname": "KJW_Saddlegun"
-	},
-	{
-		"abr": "鬼人コヒメ",
-		"price": 16667,
-		"category": "家畜",
-		"defname": "kohime"
-	}
 	],
-	"total": 2042
+	"total": 2009
 }

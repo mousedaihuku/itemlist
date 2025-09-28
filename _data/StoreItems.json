@@ -6669,13 +6669,13 @@
 	{
 		"abr": "ヴェナゴーストタイトコンバットスーツ",
 		"price": 1558,
-		"category": "ヴェナ防具",
+		"category": "ヴェナ特殊装備",
 		"defname": "Venarium_GhostUniform"
 	},
 	{
 		"abr": "ヴェナゴーストヘッドガード",
 		"price": 933,
-		"category": "ヴェナリオン装備",
+		"category": "ヴェナ帽子",
 		"defname": "Venarium_GBrowguard"
 	},
 	{
@@ -6729,7 +6729,7 @@
 	{
 		"abr": "ヴェナヘッドガード",
 		"price": 767,
-		"category": "ヴェナリオン装備",
+		"category": "ヴェナ帽子",
 		"defname": "Venarium_Browguard"
 	},
 	{
@@ -6771,7 +6771,7 @@
 	{
 		"abr": "ヴェナ将校帽",
 		"price": 925,
-		"category": "ヴェナリオン装備",
+		"category": "ヴェナ帽子",
 		"defname": "Venarium_OfficerHat"
 	},
 	{
@@ -6795,7 +6795,7 @@
 	{
 		"abr": "ヴェナ特殊作戦服",
 		"price": 1483,
-		"category": "ヴェナ防具",
+		"category": "ヴェナ特殊装備",
 		"defname": "Venarium_SfUniform"
 	},
 	{
@@ -6807,7 +6807,7 @@
 	{
 		"abr": "ヴェナ真空スーツ",
 		"price": 967,
-		"category": "ヴェナ防具",
+		"category": "ヴェナ特殊装備",
 		"defname": "Venarium_SpaceSuit"
 	},
 	{
@@ -6819,7 +6819,7 @@
 	{
 		"abr": "ヴェナ軍帽",
 		"price": 625,
-		"category": "ヴェナリオン装備",
+		"category": "ヴェナ帽子",
 		"defname": "Venarium_UniformHat"
 	},
 	{
@@ -6837,7 +6837,7 @@
 	{
 		"abr": "ヴェナ防寒コート",
 		"price": 583,
-		"category": "ヴェナリオン装備",
+		"category": "ヴェナ上着",
 		"defname": "Venarium_Coat"
 	},
 	{
@@ -10147,12 +10147,6 @@
 		"defname": "hanaWool"
 	},
 	{
-		"abr": "プーカ",
-		"price": 2083,
-		"category": "家畜",
-		"defname": "Epona_Pwca"
-	},
-	{
 		"abr": "フェーズ1抑制剤",
 		"price": 17,
 		"category": "ドラッグ",
@@ -11256,6 +11250,792 @@
 		"category": "原材料",
 		"defname": "Axolotl_Bamboo"
 	},
+	{
+		"abr": "《商君書》",
+		"price": 5333,
+		"category": "モエロトル研学書籍",
+		"defname": "Axolotl_Book_ScrollOfMercantileStratagems"
+	},
+	{
+		"abr": "《控弦術》",
+		"price": 3500,
+		"category": "モエロトル外功書籍",
+		"defname": "Axolotl_Book_BowstringDominionArt"
+	},
+	{
+		"abr": "《漁具詩》",
+		"price": 5333,
+		"category": "モエロトル研学書籍",
+		"defname": "Axolotl_Book_AnglerOde"
+	},
+	{
+		"abr": "《異物誌》",
+		"price": 5333,
+		"category": "モエロトル研学書籍",
+		"defname": "Axolotl_Book_BestiaryOfCuriousCreatures"
+	},
+	{
+		"abr": "《石工策》",
+		"price": 5333,
+		"category": "モエロトル研学書籍",
+		"defname": "Axolotl_Book_StoneworkerStratagem"
+	},
+	{
+		"abr": "《考工記》",
+		"price": 5333,
+		"category": "モエロトル研学書籍",
+		"defname": "Axolotl_Book_TomeOfArtisanExcellence"
+	},
+	{
+		"abr": "《詩賦経》",
+		"price": 5333,
+		"category": "モエロトル研学書籍",
+		"defname": "Axolotl_Book_CanonOfPoeticHarmony"
+	},
+	{
+		"abr": "《黄帝内経》",
+		"price": 6667,
+		"category": "モエロトル研学書籍",
+		"defname": "Axolotl_Book_InnerCanon"
+	},
+	{
+		"abr": "▽▽",
+		"price": 333,
+		"category": "家畜",
+		"defname": "YR_Shikigami_Snake"
+	},
+	{
+		"abr": "drエルテックスドレス(男性用)",
+		"price": 1217,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_PsychicDressMale"
+	},
+	{
+		"abr": "drバトルドレス(男性用)",
+		"price": 1217,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_BattleDressMale"
+	},
+	{
+		"abr": "dr普通のドレス(男性用)",
+		"price": 625,
+		"category": "ドラコニアン衣服",
+		"defname": "DR_BasicWearMale"
+	},
+	{
+		"abr": "emp爆弾",
+		"price": 858,
+		"category": "スペシャル",
+		"defname": "RK_EmpBomb"
+	},
+	{
+		"abr": "rkウールの帽子",
+		"price": 98,
+		"category": "RK 衣服",
+		"defname": "RK_WoolenHat"
+	},
+	{
+		"abr": "rkウッドシールド",
+		"price": 392,
+		"category": "RK 衣服",
+		"defname": "RK_WoodenShield"
+	},
+	{
+		"abr": "rkエプロンスカート",
+		"price": 248,
+		"category": "RK 衣服",
+		"defname": "RK_ApronSkirt"
+	},
+	{
+		"abr": "rkカーディガン",
+		"price": 283,
+		"category": "RK 衣服",
+		"defname": "RK_Cardigan"
+	},
+	{
+		"abr": "rkガスマスク",
+		"price": 1092,
+		"category": "RK 衣服",
+		"defname": "RK_Mask"
+	},
+	{
+		"abr": "rkガスマスクb",
+		"price": 1092,
+		"category": "RK 衣服",
+		"defname": "RK_MaskB"
+	},
+	{
+		"abr": "rkガンランス(拡散型)",
+		"price": 1283,
+		"category": "白兵戦武器",
+		"defname": "RK_Gunlance_SpreadType"
+	},
+	{
+		"abr": "rkガンランス(通常型)",
+		"price": 1283,
+		"category": "白兵戦武器",
+		"defname": "RK_Gunlance_NormalType"
+	},
+	{
+		"abr": "rkグレートヘルム",
+		"price": 320,
+		"category": "RK 衣服",
+		"defname": "RK_PlateHelmC"
+	},
+	{
+		"abr": "rkクロスバック",
+		"price": 187,
+		"category": "RK 衣服",
+		"defname": "RK_CrossBack"
+	},
+	{
+		"abr": "rkクロスボウ",
+		"price": 158,
+		"category": "遠距離武器",
+		"defname": "RK_Crossbow"
+	},
+	{
+		"abr": "rkクワ",
+		"price": 283,
+		"category": "白兵戦武器",
+		"defname": "RK_Hockey"
+	},
+	{
+		"abr": "rkコイフ",
+		"price": 121,
+		"category": "RK 衣服",
+		"defname": "RK_Coif"
+	},
+	{
+		"abr": "rkサマードレス",
+		"price": 267,
+		"category": "RK 衣服",
+		"defname": "RK_SummerDress"
+	},
+	{
+		"abr": "rkサンタ帽",
+		"price": 98,
+		"category": "RK 衣服",
+		"defname": "RK_SantaHat"
+	},
+	{
+		"abr": "rkサンタ衣装",
+		"price": 342,
+		"category": "RK 衣服",
+		"defname": "RK_SantaRobe"
+	},
+	{
+		"abr": "rkサンタ袋",
+		"price": 683,
+		"category": "RK 衣服",
+		"defname": "RK_SantaSack"
+	},
+	{
+		"abr": "rkシェフの帽子",
+		"price": 162,
+		"category": "RK 衣服",
+		"defname": "RK_ChefHat"
+	},
+	{
+		"abr": "rkシェフの服",
+		"price": 375,
+		"category": "RK 衣服",
+		"defname": "RK_ChefSuit"
+	},
+	{
+		"abr": "rkシスタードレス",
+		"price": 775,
+		"category": "RK 衣服",
+		"defname": "RK_SistersDerss"
+	},
+	{
+		"abr": "rkショットガン",
+		"price": 567,
+		"category": "遠距離武器",
+		"defname": "RK_Rifle_line"
+	},
+	{
+		"abr": "rkスピア",
+		"price": 280,
+		"category": "白兵戦武器",
+		"defname": "RK_Spear"
+	},
+	{
+		"abr": "rkダガー",
+		"price": 128,
+		"category": "白兵戦武器",
+		"defname": "RK_Dagger"
+	},
+	{
+		"abr": "rkツーハンドソード",
+		"price": 817,
+		"category": "白兵戦武器",
+		"defname": "RK_TwoHanded"
+	},
+	{
+		"abr": "rkニセ尻尾",
+		"price": 240,
+		"category": "人造",
+		"defname": "RK_FakeTail"
+	},
+	{
+		"abr": "rkニセ耳",
+		"price": 152,
+		"category": "人造",
+		"defname": "RK_FakeEar"
+	},
+	{
+		"abr": "rkバックパック",
+		"price": 215,
+		"category": "RK 衣服",
+		"defname": "RK_Backpack"
+	},
+	{
+		"abr": "rkバトルスーツ",
+		"price": 1767,
+		"category": "RK 衣服",
+		"defname": "RK_BattleSuit"
+	},
+	{
+		"abr": "rkバリスタ",
+		"price": 1117,
+		"category": "防衛",
+		"defname": "RK_Ballista_Strait_Body"
+	},
+	{
+		"abr": "rkバリスタの矢(貫通)",
+		"price": 92,
+		"category": "バリスタの矢",
+		"defname": "BallistaBolt_AP"
+	},
+	{
+		"abr": "rkバリスタの矢(通常)",
+		"price": 92,
+		"category": "バリスタの矢",
+		"defname": "BallistaBolt_Normal"
+	},
+	{
+		"abr": "rkバリスタの矢(高威力)",
+		"price": 92,
+		"category": "バリスタの矢",
+		"defname": "BallistaBolt_Heavy"
+	},
+	{
+		"abr": "rkハルバード",
+		"price": 508,
+		"category": "白兵戦武器",
+		"defname": "RK_Halberd"
+	},
+	{
+		"abr": "rkフォーク",
+		"price": 283,
+		"category": "白兵戦武器",
+		"defname": "RK_Fork"
+	},
+	{
+		"abr": "rkフラットカラーコート",
+		"price": 742,
+		"category": "RK 衣服",
+		"defname": "RK_FlatColorCoat"
+	},
+	{
+		"abr": "rkフリルワンピース",
+		"price": 742,
+		"category": "RK 衣服",
+		"defname": "RK_FrillOnepiece"
+	},
+	{
+		"abr": "rkプレートアーマー",
+		"price": 733,
+		"category": "RK 衣服",
+		"defname": "RK_Plate"
+	},
+	{
+		"abr": "rkプレートヘルム",
+		"price": 320,
+		"category": "RK 衣服",
+		"defname": "RK_PlateHelmA"
+	},
+	{
+		"abr": "rkプレートヘルム(開)",
+		"price": 320,
+		"category": "RK 衣服",
+		"defname": "RK_PlateHelmB"
+	},
+	{
+		"abr": "rkフレシェットスナイパーライフル",
+		"price": 775,
+		"category": "遠距離武器",
+		"defname": "RK_FlechetteSniperRifle"
+	},
+	{
+		"abr": "rkフレシェットライフル",
+		"price": 658,
+		"category": "遠距離武器",
+		"defname": "RK_FlechetteRifle"
+	},
+	{
+		"abr": "rkヘアーコサージュ",
+		"price": 358,
+		"category": "RK 衣服",
+		"defname": "RK_HairCorsage"
+	},
+	{
+		"abr": "rkベール",
+		"price": 392,
+		"category": "RK 衣服",
+		"defname": "RK_SistersVeil"
+	},
+	{
+		"abr": "rkヘビーシールド",
+		"price": 800,
+		"category": "RK 衣服",
+		"defname": "RK_HeavyShield"
+	},
+	{
+		"abr": "rkヘビーランス",
+		"price": 875,
+		"category": "白兵戦武器",
+		"defname": "RK_HeavyLance"
+	},
+	{
+		"abr": "rkホワイトコート",
+		"price": 2600,
+		"category": "RK 衣服",
+		"defname": "RK_WhiteCoat"
+	},
+	{
+		"abr": "rkマフラー",
+		"price": 132,
+		"category": "RK 衣服",
+		"defname": "RK_Muffler"
+	},
+	{
+		"abr": "rkミシン台",
+		"price": 225,
+		"category": "生産物",
+		"defname": "RK_HandTailoringBench"
+	},
+	{
+		"abr": "rkメイス",
+		"price": 425,
+		"category": "白兵戦武器",
+		"defname": "RK_Mace"
+	},
+	{
+		"abr": "rkラットキンアウトドアバック",
+		"price": 311,
+		"category": "RK 衣服",
+		"defname": "RK_OutdoorBackpack"
+	},
+	{
+		"abr": "rkラットキンスナイパーライフル",
+		"price": 592,
+		"category": "遠距離武器",
+		"defname": "RK_SniperRifle"
+	},
+	{
+		"abr": "rkラットキンのメガネ",
+		"price": 103,
+		"category": "RK 衣服",
+		"defname": "RK_ResearchGlasses"
+	},
+	{
+		"abr": "rkラットキンの赤い服",
+		"price": 325,
+		"category": "RK 衣服",
+		"defname": "RK_WorkerWear"
+	},
+	{
+		"abr": "rkラットキンライフル",
+		"price": 467,
+		"category": "遠距離武器",
+		"defname": "RK_Rifle"
+	},
+	{
+		"abr": "rkラットキン戦闘服",
+		"price": 1100,
+		"category": "RK 衣服",
+		"defname": "RK_OrderUniform"
+	},
+	{
+		"abr": "rkラットキン耳コス",
+		"price": 342,
+		"category": "RK 衣服",
+		"defname": "RK_EarCostume"
+	},
+	{
+		"abr": "rkラットキン軍用ヘルメット",
+		"price": 525,
+		"category": "RK 衣服",
+		"defname": "RK_BulletProofHelmet"
+	},
+	{
+		"abr": "rkリボンヘアバンド",
+		"price": 358,
+		"category": "RK 衣服",
+		"defname": "RK_RibbonHairBand"
+	},
+	{
+		"abr": "rkロイヤルクラウン",
+		"price": 400,
+		"category": "RK 衣服",
+		"defname": "RK_RoyalCrown"
+	},
+	{
+		"abr": "rkロイヤルローブ",
+		"price": 458,
+		"category": "RK 衣服",
+		"defname": "RK_RoyalRobe"
+	},
+	{
+		"abr": "rkロッティ帽子",
+		"price": 57,
+		"category": "RK 衣服",
+		"defname": "RK_RottiHat"
+	},
+	{
+		"abr": "rkワンハンドソード",
+		"price": 425,
+		"category": "白兵戦武器",
+		"defname": "RK_OneHanded"
+	},
+	{
+		"abr": "rk冬のローブ",
+		"price": 342,
+		"category": "RK 衣服",
+		"defname": "RK_WinterRobe"
+	},
+	{
+		"abr": "rk園芸ソード",
+		"price": 592,
+		"category": "白兵戦武器",
+		"defname": "RK_LongSword"
+	},
+	{
+		"abr": "rk大型ヘビーシールド",
+		"price": 1008,
+		"category": "RK 衣服",
+		"defname": "RK_HeavyShield_Big"
+	},
+	{
+		"abr": "rk大型制圧ライフル3000",
+		"price": 3133,
+		"category": "遠距離武器",
+		"defname": "RK_BFR"
+	},
+	{
+		"abr": "rk大砲",
+		"price": 1058,
+		"category": "防衛",
+		"defname": "RK_Cannon_Strait_Body"
+	},
+	{
+		"abr": "rk大砲の砲弾",
+		"price": 92,
+		"category": "RK 大砲の砲弾",
+		"defname": "Big_mouse"
+	},
+	{
+		"abr": "rk工作台",
+		"price": 367,
+		"category": "生産物",
+		"defname": "RK_FueledSmithy"
+	},
+	{
+		"abr": "rk庭師の制服",
+		"price": 442,
+		"category": "RK 衣服",
+		"defname": "RK_GaurdenUniform"
+	},
+	{
+		"abr": "rk強化クロスボウ",
+		"price": 263,
+		"category": "遠距離武器",
+		"defname": "RK_EnhanceCrossBow"
+	},
+	{
+		"abr": "rk強化尻尾",
+		"price": 1717,
+		"category": "強化",
+		"defname": "RK_BionicTail"
+	},
+	{
+		"abr": "rk探索帽子",
+		"price": 141,
+		"category": "RK 衣服",
+		"defname": "RK_ExplorerHat"
+	},
+	{
+		"abr": "rk探索者の服",
+		"price": 358,
+		"category": "RK 衣服",
+		"defname": "RK_ExplorerWear"
+	},
+	{
+		"abr": "rk斧",
+		"price": 283,
+		"category": "白兵戦武器",
+		"defname": "RK_Axe"
+	},
+	{
+		"abr": "rk木製ランス",
+		"price": 400,
+		"category": "白兵戦武器",
+		"defname": "RK_LightLance"
+	},
+	{
+		"abr": "rk機械クロスボウ",
+		"price": 550,
+		"category": "遠距離武器",
+		"defname": "RK_AutoCrossBow"
+	},
+	{
+		"abr": "rk研究用白衣",
+		"price": 375,
+		"category": "RK 衣服",
+		"defname": "RK_ResearchGown"
+	},
+	{
+		"abr": "rk肉切り包丁",
+		"price": 247,
+		"category": "白兵戦武器",
+		"defname": "RK_Cleaver"
+	},
+	{
+		"abr": "rk試作型パルスライフル",
+		"price": 2150,
+		"category": "遠距離武器",
+		"defname": "RK_PrototypePulseRifle"
+	},
+	{
+		"abr": "rk鉢巻き",
+		"price": 383,
+		"category": "RK 衣服",
+		"defname": "RK_HeadBand"
+	},
+	{
+		"abr": "rk電動ミシン台",
+		"price": 542,
+		"category": "生産物",
+		"defname": "RK_ElectricTailoringBench"
+	},
+	{
+		"abr": "rk電動工作台",
+		"price": 533,
+		"category": "生産物",
+		"defname": "RK_ElectricSmithy"
+	},
+	{
+		"abr": "rk風呂敷",
+		"price": 683,
+		"category": "RK 衣服",
+		"defname": "RK_Sack"
+	},
+	{
+		"abr": "rk魔法の杖",
+		"price": 104,
+		"category": "白兵戦武器",
+		"defname": "RK_MagicWand"
+	},
+	{
+		"abr": "rk麦わら帽子",
+		"price": 41,
+		"category": "RK 衣服",
+		"defname": "RK_StrawHat"
+	},
+	{
+		"abr": "いちごビール",
+		"price": 25,
+		"category": "ドラッグ",
+		"defname": "RK_StrawberryBeer"
+	},
+	{
+		"abr": "ヴェナゴミ保管スペース",
+		"price": 173,
+		"category": "家具",
+		"defname": "VenariumToxicWasteStorage"
+	},
+	{
+		"abr": "ヴェナサイドテーブル",
+		"price": 106,
+		"category": "家具",
+		"defname": "Venarium_BedTable"
+	},
+	{
+		"abr": "ヴェナシングルベッド",
+		"price": 155,
+		"category": "家具",
+		"defname": "Venarium_bedSingle"
+	},
+	{
+		"abr": "ヴェナダブルベッド",
+		"price": 292,
+		"category": "家具",
+		"defname": "Venarium_bedDouble"
+	},
+	{
+		"abr": "ヴェナテーブル",
+		"price": 367,
+		"category": "家具",
+		"defname": "Venarium_TableA"
+	},
+	{
+		"abr": "ヴェナドレッサー",
+		"price": 179,
+		"category": "家具",
+		"defname": "Venarium_Dresser"
+	},
+	{
+		"abr": "ヴェナナースキャップ",
+		"price": 458,
+		"category": "ヴェナ帽子",
+		"defname": "Venarium_NurseHat"
+	},
+	{
+		"abr": "ヴェナナース服",
+		"price": 517,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_Nurse"
+	},
+	{
+		"abr": "ヴェナバックパック",
+		"price": 392,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_Backpack"
+	},
+	{
+		"abr": "ヴェナハンティングショットガン",
+		"price": 433,
+		"category": "ヴェナ遠隔武器",
+		"defname": "Venarium_HunterShotgun_Basic"
+	},
+	{
+		"abr": "ヴェナメカニターデバイスキット",
+		"price": 783,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_MechanistDevice"
+	},
+	{
+		"abr": "ヴェナメカニターヘッドユニット",
+		"price": 1192,
+		"category": "ヴェナ帽子",
+		"defname": "Venarium_MechanistHeadgear"
+	},
+	{
+		"abr": "ヴェナメカニター制服",
+		"price": 1650,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_MechanistOutfit"
+	},
+	{
+		"abr": "ヴェナラウンドテーブル",
+		"price": 383,
+		"category": "家具",
+		"defname": "Venarium_TableB"
+	},
+	{
+		"abr": "ヴェナ医療用バックパック",
+		"price": 392,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_MedicalBackpack"
+	},
+	{
+		"abr": "ヴェナ学生服",
+		"price": 155,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_Studentuniform"
+	},
+	{
+		"abr": "ヴェナ巨大な龍",
+		"price": 134,
+		"category": "家具",
+		"defname": "Venarium_Dragon"
+	},
+	{
+		"abr": "ヴェナ椅子",
+		"price": 180,
+		"category": "家具",
+		"defname": "Venarium_Chair"
+	},
+	{
+		"abr": "ヴェナ研究服",
+		"price": 517,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_LabCoat"
+	},
+	{
+		"abr": "ヴェナ重装軍服",
+		"price": 1217,
+		"category": "ヴェナリオン装備",
+		"defname": "Venarium_HeavyUniform"
+	},
+	{
+		"abr": "ヴェナ屠殺台",
+		"price": 302,
+		"category": "生産物",
+		"defname": "Venarium_TableButcher"
+	},
+	{
+		"abr": "ヴェナ研究卓",
+		"price": 350,
+		"category": "生産物",
+		"defname": "Venarium_ResearchBench"
+	},
+	{
+		"abr": "ヴェナ電気コンロ",
+		"price": 375,
+		"category": "生産物",
+		"defname": "Venarium_ElectricStove"
+	},
+	{
+		"abr": "エポナ聖王シャトルスーツ",
+		"price": 1917,
+		"category": "エポナ着物",
+		"defname": "Epona_Apparel_ImperatorPowerArmorFitted"
+	},
+	{
+		"abr": "エポナ聖王の冠",
+		"price": 2367,
+		"category": "エポナ帽子",
+		"defname": "Epona_Apparel_Hat_ImperatorPowerArmorHa"
+	},
+	{
+		"abr": "エポナ車両級移動要塞",
+		"price": 12975,
+		"category": "エポナパック",
+		"defname": "Epona_Apparel_fortress"
+	},
+	{
+		"abr": "エポナキッチン(爆裂ニンジン)",
+		"price": 567,
+		"category": "生産物",
+		"defname": "EponaBuildingKitchenE"
+	},
+	{
+		"abr": "エポナキッチン(電力)",
+		"price": 467,
+		"category": "生産物",
+		"defname": "EponaBuildingKitchenF"
+	},
+	{
+		"abr": "エポネーター-6000(電力)",
+		"price": 525,
+		"category": "生産物",
+		"defname": "EponaBuildingTailorD"
+	},
+	{
+		"abr": "カメの式神",
+		"price": 333,
+		"category": "家畜",
+		"defname": "YR_Shikigami_Turtle"
+	},
+	{
+		"abr": "カメの賽銭箱",
+		"price": 1033,
+		"category": "生産物",
+		"defname": "YR_Shikigami_BuildingTurtle_tributebox"
+	}
 	],
-	"total": 2009
+	"total": 2140
 }

@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.4.1.0"
+    "version": "2.4.2.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -33,7 +33,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
   },
   {
     "author": "Captolamia",
@@ -81,7 +81,7 @@
     "author": "Uuugggg",
     "name": "TD Enhancement Pack - Continued",
     "steamId": "",
-    "version": "1.0.0+8903dce780011e85ff19cd80847764c632fdd965"
+    "version": "1.0.0+4bd707cb53e0308051bb39555a868fad48e93811"
   },
   {
     "author": "DerekBickley",
@@ -396,6 +396,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Roo",
+    "name": "Yuran race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hoxise",
+    "name": "Yuran Furshaved Continue",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "psychelo",
     "name": "kemomimihouse",
     "steamId": "2075974335",
@@ -458,6 +470,12 @@
   {
     "author": "Proxyer",
     "name": "Colony Manager 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Yuran race 日本語翻訳",
     "steamId": null,
     "version": null
   },

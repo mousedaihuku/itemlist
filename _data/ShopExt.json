@@ -3225,7 +3225,7 @@
       },
       "description": "げっ歯類の遺伝子を持つ人間とよく似た個体です。\nその起源は不明ですが、農耕社会を主な基盤とした王政を築いて生活しています。男性よりも女性の個体が多いので、外見を見ても個体の性別を見分けるのは困難です。",
       "defName": "Ratkin_Su",
-      "enabled": true,
+      "enabled": false,
       "name": "ラットキン実験体",
       "price": 3333
     },
@@ -3287,7 +3287,7 @@
       },
       "description": "巫女は特別な血筋を受け継いだ家系に属するユランの一種の義務で,村のために奉仕し,また管理する役割を果たしています.",
       "defName": "Yuran_Race_Miko",
-      "enabled": true,
+      "enabled": false,
       "name": "ユラン巫女",
       "price": 4667
     },
@@ -3410,7 +3410,7 @@
       },
       "description": "彼女は呪術がお手の物の巫女です.記録によれば,彼女は死さえも克服したという.",
       "defName": "Yuran_Race_Miko_BlackSnake",
-      "enabled": true,
+      "enabled": false,
       "name": "ユラン黒蛇",
       "price": 4667
     }

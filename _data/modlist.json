@@ -240,6 +240,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "MemeGoddess",
+    "name": "Search and Destroy (Continued)",
+    "steamId": "3232242247",
+    "version": "1.0.0+24e588176646ead840143da894cfa4f803e5d0bf"
+  },
+  {
     "author": "Stmast",
     "name": "Shella Backgrounds",
     "steamId": "2853407446",
@@ -408,10 +420,22 @@
     "version": null
   },
   {
+    "author": "gguake",
+    "name": "Vivi Race",
+    "steamId": "3241577976",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "psychelo",
     "name": "kemomimihouse",
     "steamId": "2075974335",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Proxyer",
+    "name": "Simple sidearms 日本語翻訳追加",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Lucifel",
@@ -488,6 +512,12 @@
   {
     "author": "Proxyer",
     "name": "Mid-saver Saver 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Vivi Race 日本語翻訳",
     "steamId": null,
     "version": null
   },

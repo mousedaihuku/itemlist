@@ -12036,6 +12036,570 @@
 		"category": "生産物",
 		"defname": "YR_Shikigami_BuildingTurtle_tributebox"
 	},
+	{
+		"abr": "アイスフラワーティ",
+		"price": 16,
+		"category": "ドラッグ",
+		"defname": "VV_FloralIceTea"
+	},
+	{
+		"abr": "ウォータードロップ",
+		"price": 525,
+		"category": "魔法植物",
+		"defname": "VV_Waterdrops"
+	},
+	{
+		"abr": "ウォータードロップの種",
+		"price": 105,
+		"category": "魔法の種",
+		"defname": "VV_Seed_Waterdrops"
+	},
+	{
+		"abr": "ウォータードロップランプ",
+		"price": 15,
+		"category": "ビビ建築物",
+		"defname": "VV_WaterdropLamp"
+	},
+	{
+		"abr": "エヴァーフラワー",
+		"price": 5600,
+		"category": "魔法植物",
+		"defname": "VV_Everflower"
+	},
+	{
+		"abr": "エヴァーフラワーの種",
+		"price": 2500,
+		"category": "魔法の種",
+		"defname": "VV_Seed_Everflower"
+	},
+	{
+		"abr": "エンバーブルーム",
+		"price": 525,
+		"category": "魔法植物",
+		"defname": "VV_EmberBloom"
+	},
+	{
+		"abr": "エンバーブルームの種",
+		"price": 105,
+		"category": "魔法の種",
+		"defname": "VV_Seed_EmberBloom"
+	},
+	{
+		"abr": "キングハムスター",
+		"price": 750,
+		"category": "家畜",
+		"defname": "RK_KingHamster"
+	},
+	{
+		"abr": "キングハムスターの毛皮",
+		"price": 4,
+		"category": "革",
+		"defname": "RK_Leather_KingHamster"
+	},
+	{
+		"abr": "キングハムスターの肉",
+		"price": 3,
+		"category": "生肉",
+		"defname": "Meat_RK_KingHamster"
+	},
+	{
+		"abr": "キングハムスター毛",
+		"price": 4,
+		"category": "毛",
+		"defname": "RK_Wool_KingHamster"
+	},
+	{
+		"abr": "コーンスプリンクラー",
+		"price": 542,
+		"category": "魔法植物",
+		"defname": "VV_Cornlauncher"
+	},
+	{
+		"abr": "コーンスプリンクラーの種",
+		"price": 108,
+		"category": "魔法の種",
+		"defname": "VV_Seed_Cornlauncher"
+	},
+	{
+		"abr": "サクランボ",
+		"price": 2,
+		"category": "生野菜",
+		"defname": "YR_yedoensisBerries"
+	},
+	{
+		"abr": "サンダーペタル",
+		"price": 525,
+		"category": "魔法植物",
+		"defname": "VV_Thunderpetals"
+	},
+	{
+		"abr": "サンダーペタルの種",
+		"price": 105,
+		"category": "魔法の種",
+		"defname": "VV_Seed_Thunderpetals"
+	},
+	{
+		"abr": "シャルロシウム",
+		"price": 210,
+		"category": "原材料",
+		"defname": "Shirehorseium"
+	},
+	{
+		"abr": "シュータス",
+		"price": 542,
+		"category": "魔法植物",
+		"defname": "VV_Shootus"
+	},
+	{
+		"abr": "シュータスの種",
+		"price": 108,
+		"category": "魔法の種",
+		"defname": "VV_Seed_Shootus"
+	},
+	{
+		"abr": "ショックネットトラップ",
+		"price": 57,
+		"category": "ビビ建築物",
+		"defname": "VV_ShockNetTrap"
+	},
+	{
+		"abr": "スカイウィード",
+		"price": 525,
+		"category": "魔法植物",
+		"defname": "VV_Skyweed"
+	},
+	{
+		"abr": "スカイウィードの種",
+		"price": 105,
+		"category": "魔法の種",
+		"defname": "VV_Seed_Skyweed"
+	},
+	{
+		"abr": "スカイウィードの綿毛",
+		"price": 5,
+		"category": "花びら",
+		"defname": "VV_SkyweedFluff"
+	},
+	{
+		"abr": "スターリットフラワー",
+		"price": 475,
+		"category": "魔法植物",
+		"defname": "VV_Starlitflower"
+	},
+	{
+		"abr": "スターリットフラワーの種",
+		"price": 95,
+		"category": "魔法の種",
+		"defname": "VV_Seed_Starlitflower"
+	},
+	{
+		"abr": "タヌキの式神",
+		"price": 333,
+		"category": "家畜",
+		"defname": "YR_Shikigami_Raccoon"
+	},
+	{
+		"abr": "タヌキの賽銭箱",
+		"price": 1033,
+		"category": "生産物",
+		"defname": "YR_Shikigami_BuildingRaccoon_tributebox"
+	},
+	{
+		"abr": "ニセ翅(ビビ)",
+		"price": 153,
+		"category": "人造",
+		"defname": "VV_FakeWing"
+	},
+	{
+		"abr": "ニセ触角(ビビ)",
+		"price": 90,
+		"category": "人造",
+		"defname": "VV_FakeAntennae"
+	},
+	{
+		"abr": "ハチミツ水の実",
+		"price": 5,
+		"category": "ビビ資源",
+		"defname": "VV_HoneyWaterFruit"
+	},
+	{
+		"abr": "ビーンスプレー",
+		"price": 542,
+		"category": "魔法植物",
+		"defname": "VV_Peashooter"
+	},
+	{
+		"abr": "ビーンスプレーの種",
+		"price": 108,
+		"category": "魔法の種",
+		"defname": "VV_Seed_Peashooter"
+	},
+	{
+		"abr": "ビビ",
+		"price": 2083,
+		"category": "Animal",
+		"defname": "VV_Vivi"
+	},
+	{
+		"abr": "ビビエルテックスニードル",
+		"price": 6283,
+		"category": "ビビ武器",
+		"defname": "VV_EltexNeedle"
+	},
+	{
+		"abr": "ビビショックダーツ",
+		"price": 94,
+		"category": "ビビ武器",
+		"defname": "VV_ShockDart"
+	},
+	{
+		"abr": "ビビストロー",
+		"price": 126,
+		"category": "ビビ個人道具",
+		"defname": "VV_StrawTool"
+	},
+	{
+		"abr": "ビビスノーマンランチャー",
+		"price": 1133,
+		"category": "魔法武器",
+		"defname": "VV_SnowmanLauncher"
+	},
+	{
+		"abr": "ビビスピア",
+		"price": 285,
+		"category": "ビビ武器",
+		"defname": "VV_ViviSpear"
+	},
+	{
+		"abr": "ビビスリングショット",
+		"price": 56,
+		"category": "ビビ武器",
+		"defname": "VV_Slingshot"
+	},
+	{
+		"abr": "ビビチェインライトニングピストル",
+		"price": 1125,
+		"category": "魔法武器",
+		"defname": "VV_ChainThunderPistol"
+	},
+	{
+		"abr": "ビビティアラ",
+		"price": 392,
+		"category": "帽子",
+		"defname": "VV_Crown"
+	},
+	{
+		"abr": "ビビバトルコート",
+		"price": 2700,
+		"category": "ビビ衣服",
+		"defname": "VV_GuardianCoat"
+	},
+	{
+		"abr": "ビビパン帽子",
+		"price": 175,
+		"category": "帽子",
+		"defname": "VV_HuntingCap"
+	},
+	{
+		"abr": "ビビフロストスティンガースナイパークロスボウ",
+		"price": 983,
+		"category": "魔法武器",
+		"defname": "VV_FroststingCrossbow"
+	},
+	{
+		"abr": "ビビラヴァシュレッダー",
+		"price": 983,
+		"category": "魔法武器",
+		"defname": "VV_LavaShredder"
+	},
+	{
+		"abr": "ビビリピータークロスボウ",
+		"price": 278,
+		"category": "ビビ武器",
+		"defname": "VV_RepeatingCrossbow"
+	},
+	{
+		"abr": "ビビロングジャベリン",
+		"price": 254,
+		"category": "ビビ武器",
+		"defname": "VV_ViviLongJavelin"
+	},
+	{
+		"abr": "ビビ万能ブラシ",
+		"price": 161,
+		"category": "ビビ個人道具",
+		"defname": "VV_MultiuseBrushTool"
+	},
+	{
+		"abr": "ビビ作業服",
+		"price": 203,
+		"category": "ビビ衣服",
+		"defname": "VV_BasicWorkerCostume"
+	},
+	{
+		"abr": "ビビ儀礼用ランス",
+		"price": 3542,
+		"category": "ビビ武器",
+		"defname": "VV_RitualLance"
+	},
+	{
+		"abr": "ビビ冬のコート",
+		"price": 248,
+		"category": "ビビ衣服",
+		"defname": "VV_WinterCape"
+	},
+	{
+		"abr": "ビビ制服",
+		"price": 299,
+		"category": "ビビ衣服",
+		"defname": "VV_WorkerUniformDress"
+	},
+	{
+		"abr": "ビビ制服ヘルメット",
+		"price": 205,
+		"category": "頭装備",
+		"defname": "VV_UniformHelmet"
+	},
+	{
+		"abr": "ビビ制服帽子",
+		"price": 175,
+		"category": "帽子",
+		"defname": "VV_UniformHat"
+	},
+	{
+		"abr": "ビビ子供服",
+		"price": 148,
+		"category": "ビビ衣服",
+		"defname": "VV_Childrenswear"
+	},
+	{
+		"abr": "ビビ水蒸気放射器",
+		"price": 1117,
+		"category": "魔法武器",
+		"defname": "VV_Steamthrower"
+	},
+	{
+		"abr": "ビビ防水コート",
+		"price": 254,
+		"category": "ビビ衣服",
+		"defname": "VV_WaterproofCoat"
+	},
+	{
+		"abr": "ビビクリーム",
+		"price": 0,
+		"category": "ビビ資源",
+		"defname": "VV_Vivicream"
+	},
+	{
+		"abr": "ビビの卵",
+		"price": 83,
+		"category": "卵(有精卵)",
+		"defname": "VV_ViviEgg"
+	},
+	{
+		"abr": "ビビの肉",
+		"price": 1,
+		"category": "生肉",
+		"defname": "Meat_VV_Vivi"
+	},
+	{
+		"abr": "ビビミツ(未精製)",
+		"price": 2,
+		"category": "ビビ生産物",
+		"defname": "VV_RawHoney"
+	},
+	{
+		"abr": "ビビミツ(精製)",
+		"price": 4,
+		"category": "ビビ生産物",
+		"defname": "VV_FilteredHoney"
+	},
+	{
+		"abr": "ビビミツ酒",
+		"price": 30,
+		"category": "ドラッグ",
+		"defname": "VV_Mead"
+	},
+	{
+		"abr": "ビビミツ酒(熟成中)",
+		"price": 17,
+		"category": "加工品",
+		"defname": "VV_UnfermentedMead"
+	},
+	{
+		"abr": "ビビ加工作業台",
+		"price": 272,
+		"category": "生産物",
+		"defname": "VV_RefiningWorkbench"
+	},
+	{
+		"abr": "ビビ孵化器",
+		"price": 55,
+		"category": "ビビ建築物",
+		"defname": "VV_ViviHatchery"
+	},
+	{
+		"abr": "ビビ戦闘ホルモンゼリー",
+		"price": 85,
+		"category": "ドラッグ",
+		"defname": "VV_CombatHormoneJelly"
+	},
+	{
+		"abr": "ビビ蜜蝋",
+		"price": 0,
+		"category": "ビビ資源",
+		"defname": "VV_Viviwax"
+	},
+	{
+		"abr": "ピュリフィミント",
+		"price": 525,
+		"category": "魔法植物",
+		"defname": "VV_Purifimint"
+	},
+	{
+		"abr": "ピュリフィミントの種",
+		"price": 105,
+		"category": "魔法の種",
+		"defname": "VV_Seed_Purifimint"
+	},
+	{
+		"abr": "ピリピリする花びら",
+		"price": 8,
+		"category": "花びら",
+		"defname": "VV_SparklingPetal"
+	},
+	{
+		"abr": "フラッシュバッド",
+		"price": 525,
+		"category": "魔法植物",
+		"defname": "VV_Shockerbud"
+	},
+	{
+		"abr": "フラッシュバッドの種",
+		"price": 105,
+		"category": "魔法の種",
+		"defname": "VV_Seed_Shockerbud"
+	},
+	{
+		"abr": "フロストブルーム",
+		"price": 525,
+		"category": "魔法植物",
+		"defname": "VV_FrostBloom"
+	},
+	{
+		"abr": "フロストブルームの種",
+		"price": 105,
+		"category": "魔法の種",
+		"defname": "VV_Seed_FrostBloom"
+	},
+	{
+		"abr": "プロポリス",
+		"price": 8,
+		"category": "ビビ資源",
+		"defname": "VV_Propolis"
+	},
+	{
+		"abr": "ホットフラワーティ",
+		"price": 16,
+		"category": "ドラッグ",
+		"defname": "VV_FloralHotTea"
+	},
+	{
+		"abr": "マナ放出装置",
+		"price": 342,
+		"category": "ビビ建築物",
+		"defname": "VV_ManaEmitter"
+	},
+	{
+		"abr": "マナ肥料",
+		"price": 6,
+		"category": "ビビ資源",
+		"defname": "VV_Fertilizer"
+	},
+	{
+		"abr": "ミルクフラワーティ",
+		"price": 14,
+		"category": "ドラッグ",
+		"defname": "VV_FloralMilkTea"
+	},
+	{
+		"abr": "ユラン",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "Yuran_Race"
+	},
+	{
+		"abr": "ユラン偉梳",
+		"price": 170,
+		"category": "ユラン帽子",
+		"defname": "YR_AP_Maidhat"
+	},
+	{
+		"abr": "ユラン光背",
+		"price": 5167,
+		"category": "ユラン衣服",
+		"defname": "YR_AP_Demigod_Normal"
+	},
+	{
+		"abr": "ユラン大きなリボン",
+		"price": 170,
+		"category": "ユラン帽子",
+		"defname": "YR_AP_Ribbon_BIg"
+	},
+	{
+		"abr": "ユラン大地の護符",
+		"price": 103,
+		"category": "ユラン護符",
+		"defname": "YR_AP_Sharp"
+	},
+	{
+		"abr": "ユラン大弓",
+		"price": 154,
+		"category": "ユラン武器",
+		"defname": "YR_WP_Bow"
+	},
+	{
+		"abr": "ユラン大海の護符",
+		"price": 103,
+		"category": "ユラン護符",
+		"defname": "YR_AP_Heat"
+	},
+	{
+		"abr": "ユラン太刀",
+		"price": 392,
+		"category": "ユラン武器",
+		"defname": "YR_WP_katana"
+	},
+	{
+		"abr": "ユラン奇跡の丸丹",
+		"price": 4333,
+		"category": "ユラン加工品",
+		"defname": "YR_PsychicAmplifier_Evol"
+	},
+	{
+		"abr": "ユラン小さなリボン",
+		"price": 170,
+		"category": "ユラン帽子",
+		"defname": "YR_AP_Ribbon_Small"
+	},
+	{
+		"abr": "ユラン弥針台",
+		"price": 312,
+		"category": "生産物",
+		"defname": "YR_P_sewingmachine"
+	},
+	{
+		"abr": "ユラン循環の硬貨",
+		"price": 42,
+		"category": "ユラン加工品",
+		"defname": "YR_Coin"
+	},
+	{
+		"abr": "ユラン投槍",
+		"price": 383,
+		"category": "ユラン武器",
+		"defname": "YR_WP_Spear"
+	}
 	],
-	"total": 2140
+	"total": 2234
 }

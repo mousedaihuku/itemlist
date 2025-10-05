@@ -18,6 +18,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.6.3.3"
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -84,12 +90,6 @@
     "version": "1.0.0+4bd707cb53e0308051bb39555a868fad48e93811"
   },
   {
-    "author": "DerekBickley",
-    "name": "[LTO] Colony Groups",
-    "steamId": "2345493945",
-    "version": "1.0.06"
-  },
-  {
     "author": "Dark",
     "name": "Job In Bar",
     "steamId": "2086300611",
@@ -126,6 +126,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
     "author": "VouLT",
     "name": "Better Pawn Control",
     "steamId": "1541460369",
@@ -144,10 +150,16 @@
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Camera+",
-    "steamId": "867467808",
-    "version": "3.3.2.0"
+    "author": "ray1203",
+    "name": "SimpleCameraSetting",
+    "steamId": "3232415388",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "aedbia",
+    "name": "AB's Head Apparel Tweaker",
+    "steamId": "2990606008",
+    "version": "1.0.0.0"
   },
   {
     "author": "LingLuo",
@@ -156,16 +168,28 @@
     "version": null
   },
   {
-    "author": "We're in Heaven",
-    "name": "Colony Manager Fork",
-    "steamId": "3262932412",
-    "version": "1.6"
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "3512466087",
+    "version": "1.0.17"
+  },
+  {
+    "author": "Defi",
+    "name": "Auto-Cut Blight - 1.6",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mlie",
     "name": "Custom Prisoner Interactions",
     "steamId": "2841231775",
     "version": "1.6.0"
+  },
+  {
+    "author": "We're in Heaven",
+    "name": "Colony Manager Fork",
+    "steamId": "3262932412",
+    "version": "1.6"
   },
   {
     "author": "FrozenSnowFox",
@@ -228,6 +252,12 @@
     "version": "1.6.1"
   },
   {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Liebasam",
     "name": "We Had a Trader? (Continued)",
     "steamId": "1541408076",
@@ -250,6 +280,36 @@
     "name": "Search and Destroy (Continued)",
     "steamId": "3232242247",
     "version": "1.0.0+24e588176646ead840143da894cfa4f803e5d0bf"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Custom Portraits",
+    "steamId": "1569605867",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrus",
+    "name": "Colonist Bar Adjuster",
+    "steamId": "2673413930",
+    "version": "1.6.3.0"
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Patricia?!",
+    "name": "Patricia's Moveable Monoliths",
+    "steamId": "3219733061",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Arquebus",
+    "name": "Hotseat - Dynamic Storyteller Switcher",
+    "steamId": "2175327693",
+    "version": "1.1.3.0"
   },
   {
     "author": "Stmast",
@@ -306,6 +366,24 @@
     "version": "1.12.0+a59cdba300ba869f4aa5e1b82eebf783ea26f517"
   },
   {
+    "author": "Updated by Ogliss",
+    "name": "Pawn Badge Fan Fork [Adopted]",
+    "steamId": "2526040241",
+    "version": "1.0.0"
+  },
+  {
+    "author": "ZXZero",
+    "name": "Custom Badges Bloat Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yorbil",
+    "name": "Missing Fabrication Recipes",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Feng Xinziと Mya",
     "name": "Mya's fufu",
     "steamId": "3266224389",
@@ -324,20 +402,14 @@
     "version": null
   },
   {
-    "author": "balistafreak",
-    "name": "Standalone Hot Spring",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "seeki",
-    "name": "Standalone Hot Spring addon patch",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ponpeco",
     "name": "Ponpeco Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "balistafreak",
+    "name": "Standalone Hot Spring",
     "steamId": null,
     "version": null
   },
@@ -378,6 +450,12 @@
     "version": null
   },
   {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
     "author": "Haduki, Heliとaoi_nasuko",
     "name": "Ancient Species(Unofficial)",
     "steamId": null,
@@ -396,7 +474,7 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "LazyBread, EoralMilkと玖日长弓",
+    "author": "LazyBread, Maustと玖日长弓",
     "name": "Epona Dynastic Rise",
     "steamId": "3514746737",
     "version": "1.0.0.0"
@@ -429,6 +507,30 @@
     "author": "psychelo",
     "name": "kemomimihouse",
     "steamId": "2075974335",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Velc",
+    "name": "Hardworking KEMOMIMIHOUSE",
+    "steamId": "2142587186",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Crimson",
+    "name": "[CF] Bionic Eye Removal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arkymn",
+    "name": "Performance - Slower Pawn Tick Rate",
+    "steamId": "3524116050",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
     "version": "1.0.0.0"
   },
   {
@@ -486,20 +588,14 @@
     "version": null
   },
   {
-    "author": "Proxyer",
-    "name": "Colony Groups 日本語翻訳追加",
+    "author": "Lucifel",
+    "name": "Yuran race 日本語翻訳",
     "steamId": null,
     "version": null
   },
   {
     "author": "Proxyer",
     "name": "Colony Manager 日本語翻訳追加",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Yuran race 日本語翻訳",
     "steamId": null,
     "version": null
   },
@@ -524,6 +620,18 @@
   {
     "author": "namidasechi",
     "name": "RimHUD 日本語追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Dubs Mint Menus 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Performance Optimizer 日本語翻訳追加",
     "steamId": null,
     "version": null
   }

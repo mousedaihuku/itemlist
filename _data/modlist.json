@@ -27,7 +27,7 @@
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
-    "version": "1.0.0.0"
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
   },
   {
     "author": "nry",
@@ -60,6 +60,12 @@
     "version": null
   },
   {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "3210544395",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Krypt",
     "name": "RWLayout",
     "steamId": "2209393954",
@@ -87,7 +93,7 @@
     "author": "Uuugggg",
     "name": "TD Enhancement Pack - Continued",
     "steamId": "",
-    "version": "1.0.0+4bd707cb53e0308051bb39555a868fad48e93811"
+    "version": "1.0.0+d2d7eeacd8438045c8f9e435ec7ed48fc9e97e3a"
   },
   {
     "author": "Dark",
@@ -246,12 +252,6 @@
     "version": null
   },
   {
-    "author": "YAYO",
-    "name": "VOTE and LEADER (Continued)",
-    "steamId": "2896484287",
-    "version": "1.6.1"
-  },
-  {
     "author": "Sandy",
     "name": "RPG Style Inventory Revamped",
     "steamId": "2478833213",
@@ -315,7 +315,7 @@
     "author": "Stmast",
     "name": "Shella Backgrounds",
     "steamId": "2853407446",
-    "version": "1.2.0.0"
+    "version": "1.6.0.0"
   },
   {
     "author": "SeoHyeon",
@@ -414,34 +414,10 @@
     "version": null
   },
   {
-    "author": "Roo",
-    "name": "Gloomy Dragonian race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rabiosus",
-    "name": "Dragonian Strange Apparels",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "gyun",
-    "name": "Korossa: scorched brass",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Feng Xinzi",
     "name": "NewRatkinPlus[1.6]",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "HenTaiLoliTeam",
-    "name": "MoeLotl Race",
-    "steamId": "3292351432",
-    "version": "1.0.0.0"
   },
   {
     "author": "Yukishiro",
@@ -450,57 +426,21 @@
     "version": null
   },
   {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Haduki, Heliとaoi_nasuko",
-    "name": "Ancient Species(Unofficial)",
+    "author": "Runne Latki",
+    "name": "Rabbie The Moonrabbit race",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Alopex Callisto Studio",
-    "name": "[ACS]Celestia Race",
+    "author": "Outremerと Fortified_Home",
+    "name": "Miho, the celestial fox",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "MelonDoveと Ancot",
-    "name": "Wolfein Race",
-    "steamId": "3473140562",
-    "version": "1.0.0.0"
   },
   {
     "author": "LazyBread, Maustと玖日长弓",
     "name": "Epona Dynastic Rise",
     "steamId": "3514746737",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "いのしし_3",
-    "name": "Kurin, The Three Tailed Fox [Deluxe Edition]: Lite",
-    "steamId": "3523131215",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Roo",
-    "name": "Yuran race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "hoxise",
-    "name": "Yuran Furshaved Continue",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "gguake",
-    "name": "Vivi Race",
-    "steamId": "3241577976",
     "version": "1.0.0.0"
   },
   {
@@ -522,6 +462,12 @@
     "version": null
   },
   {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
     "author": "Arkymn",
     "name": "Performance - Slower Pawn Tick Rate",
     "steamId": "3524116050",
@@ -541,55 +487,13 @@
   },
   {
     "author": "Lucifel",
-    "name": "[ACS]Celestia Race 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Korossa: scorched brass 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "MoeLotl Race 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
     "name": "Venarium Race 日本語翻訳",
     "steamId": null,
     "version": null
   },
   {
     "author": "Lucifel",
-    "name": "Wolfein Race 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Gloomy Dragonian race 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Kurin, The Three Tailed Fox [Deluxe Edition]: Lite 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
     "name": "Epona Dynastic Rise 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Yuran race 日本語翻訳",
     "steamId": null,
     "version": null
   },
@@ -612,8 +516,14 @@
     "version": null
   },
   {
+    "author": "Proxyer",
+    "name": "Rabbie The Moonrabbit 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Lucifel",
-    "name": "Vivi Race 日本語翻訳",
+    "name": "Miho,the celestial fox 日本語翻訳",
     "steamId": null,
     "version": null
   },

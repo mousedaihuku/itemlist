@@ -60,12 +60,6 @@
     "version": null
   },
   {
-    "author": "Syrchalis",
-    "name": "[SYR] Processor Framework",
-    "steamId": "3210544395",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Krypt",
     "name": "RWLayout",
     "steamId": "2209393954",
@@ -93,7 +87,7 @@
     "author": "Uuugggg",
     "name": "TD Enhancement Pack - Continued",
     "steamId": "",
-    "version": "1.0.0+d2d7eeacd8438045c8f9e435ec7ed48fc9e97e3a"
+    "version": "1.0.0+1563443b3a737eb5d46850c1ee5825fa899e9d9b"
   },
   {
     "author": "Dark",
@@ -408,12 +402,6 @@
     "version": null
   },
   {
-    "author": "balistafreak",
-    "name": "Standalone Hot Spring",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Feng Xinzi",
     "name": "NewRatkinPlus[1.6]",
     "steamId": null,
@@ -426,8 +414,8 @@
     "version": null
   },
   {
-    "author": "Runne Latki",
-    "name": "Rabbie The Moonrabbit race",
+    "author": "Nemonian",
+    "name": "Moyo2.0-Blood stained business",
     "steamId": null,
     "version": null
   },
@@ -516,12 +504,6 @@
     "version": null
   },
   {
-    "author": "Proxyer",
-    "name": "Rabbie The Moonrabbit 日本語翻訳追加",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Lucifel",
     "name": "Miho,the celestial fox 日本語翻訳",
     "steamId": null,
@@ -536,6 +518,12 @@
   {
     "author": "Proxyer",
     "name": "Dubs Mint Menus 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Moyo2.0-Blood stained business 日本語翻訳",
     "steamId": null,
     "version": null
   },

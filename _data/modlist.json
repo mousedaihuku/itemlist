@@ -228,6 +228,12 @@
     "version": null
   },
   {
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.12.25+b263d046e7f8db787745d2bbb0c944413e79de97"
+  },
+  {
     "author": "legodude17",
     "name": "Smarter Deconstruction and Mining (Continued)",
     "steamId": "3261302741",
@@ -300,6 +306,18 @@
     "version": null
   },
   {
+    "author": "hahayes",
+    "name": "Item Randomizer",
+    "steamId": "2563163989",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nibato",
+    "name": "AutoExtractGenes",
+    "steamId": "2882834449",
+    "version": "1.0.0+5c371409c52a1621802cb4c641e76425b215c2c8"
+  },
+  {
     "author": "Owlchemist",
     "name": "Mid-saver Saver",
     "steamId": "3261311100",
@@ -316,6 +334,12 @@
     "name": "Toggleable Readouts",
     "steamId": "3261317086",
     "version": "1.6"
+  },
+  {
+    "author": "Lowli",
+    "name": "Gene Bank Plus",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Scherub",
@@ -366,15 +390,15 @@
     "version": "1.0.0"
   },
   {
-    "author": "Taranchuk",
-    "name": "Performance Optimizer",
-    "steamId": "2664723367",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Arkymn",
     "name": "Performance - Slower Pawn Tick Rate",
     "steamId": "3524116050",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
     "version": "1.0.0.0"
   },
   {
@@ -392,6 +416,12 @@
   {
     "author": "namidasechi",
     "name": "RimHUD 日本語追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Map Preview 日本語翻訳追加",
     "steamId": null,
     "version": null
   },

@@ -12,12 +12,6 @@
     "version": "12.0.0"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -54,10 +48,16 @@
     "version": "1.6.0"
   },
   {
-    "author": "Hatena",
-    "name": "Range Animal Framework",
-    "steamId": null,
-    "version": null
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "KeirLoire",
+    "name": "Let Me Drink",
+    "steamId": "3286825355",
+    "version": "1.0.0+5d0434d3394a6440af97cda416e5326ec08356ad"
   },
   {
     "author": "Krypt",
@@ -86,14 +86,8 @@
   {
     "author": "Uuugggg",
     "name": "TD Enhancement Pack - Continued",
-    "steamId": "",
-    "version": "1.0.0+1563443b3a737eb5d46850c1ee5825fa899e9d9b"
-  },
-  {
-    "author": "Dark",
-    "name": "Job In Bar",
-    "steamId": "2086300611",
-    "version": "1.6.7"
+    "steamId": "3525414162",
+    "version": "1.0.0+7bbb929a30c1515b84cb1553e792a110a113d62c"
   },
   {
     "author": "avilmask",
@@ -104,14 +98,14 @@
   {
     "author": "Uuugggg",
     "name": "TD Find Lib - Continued",
-    "steamId": "",
+    "steamId": "3529443295",
     "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
     "name": "TDS Bug Fixes - Continued",
     "steamId": "3529433984",
-    "version": "1.0.0+51b4236fa18697d459fc30755b31fa25941ac46e"
+    "version": "1.0.0+6774eeaf3b060a9241f8fe7553ef3a024fe7c391"
   },
   {
     "author": "Uuugggg",
@@ -122,7 +116,7 @@
   {
     "author": "Uuugggg",
     "name": "Everybody Gets One - Continued",
-    "steamId": "",
+    "steamId": "3530806680",
     "version": "1.0.0.0"
   },
   {
@@ -240,18 +234,6 @@
     "version": "1.6.0"
   },
   {
-    "author": "Ben Lubar",
-    "name": "Prison Commons (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sandy",
-    "name": "RPG Style Inventory Revamped",
-    "steamId": "2478833213",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Liebasam",
     "name": "We Had a Trader? (Continued)",
     "steamId": "1541408076",
@@ -264,16 +246,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": "927155256",
-    "version": "1.4.6.0"
-  },
-  {
-    "author": "MemeGoddess",
-    "name": "Search and Destroy (Continued)",
-    "steamId": "3232242247",
-    "version": "1.0.0+24e588176646ead840143da894cfa4f803e5d0bf"
+    "author": "Billnotic",
+    "name": "Actually Vanilla Music Expansion",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Nals",
@@ -285,13 +261,13 @@
     "author": "Syrus",
     "name": "Colonist Bar Adjuster",
     "steamId": "2673413930",
-    "version": "1.6.3.0"
+    "version": "1.6.4.0"
   },
   {
     "author": "Doug",
     "name": "No Job Authors",
     "steamId": "2009825774",
-    "version": "1.0.0.0"
+    "version": "0.1.0.0+5a5fdba525197d5c19538e44b7eb7b731a8a7c40"
   },
   {
     "author": "Patricia?!",
@@ -315,12 +291,6 @@
     "author": "SeoHyeon",
     "name": "Safe Drug Policy Generator",
     "steamId": "2582640021",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "YAYO",
-    "name": "Real Faction Guest (Forked)",
-    "steamId": "3302093855",
     "version": "1.0.0.0"
   },
   {
@@ -348,16 +318,10 @@
     "version": "1.6"
   },
   {
-    "author": "YukiAiko",
-    "name": "No HAR Hairs on Humans",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Scherub",
     "name": "Planning Extended",
     "steamId": "2877392159",
-    "version": "1.12.0+a59cdba300ba869f4aa5e1b82eebf783ea26f517"
+    "version": "1.16.0+5feb7361587ff24a7a0ebd48d58f23456bf34830"
   },
   {
     "author": "Updated by Ogliss",
@@ -372,76 +336,10 @@
     "version": null
   },
   {
-    "author": "Yorbil",
-    "name": "Missing Fabrication Recipes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Feng Xinziと Mya",
-    "name": "Mya's fufu",
-    "steamId": "3266224389",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "UNAGI",
-    "name": "UNAGI CAFE",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ponpeco",
     "name": "Ponpeco Hair",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Feng Xinzi",
-    "name": "NewRatkinPlus[1.6]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Yukishiro",
-    "name": "Venarium Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nemonian",
-    "name": "Moyo2.0-Blood stained business",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Outremerと Fortified_Home",
-    "name": "Miho, the celestial fox",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LazyBread, Maustと玖日长弓",
-    "name": "Epona Dynastic Rise",
-    "steamId": "3514746737",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "psychelo",
-    "name": "kemomimihouse",
-    "steamId": "2075974335",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Velc",
-    "name": "Hardworking KEMOMIMIHOUSE",
-    "steamId": "2142587186",
-    "version": "1.0.0.0"
   },
   {
     "author": "Crimson",
@@ -450,16 +348,22 @@
     "version": null
   },
   {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Arkymn",
-    "name": "Performance - Slower Pawn Tick Rate",
-    "steamId": "3524116050",
-    "version": "1.0.0.0"
+    "author": "Nals",
+    "name": "[NL] Facial Animation - Experimentals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jamiejamboy2021",
+    "name": "The Potato Project",
+    "steamId": "3653896530",
+    "version": "1.0.0"
   },
   {
     "author": "Taranchuk",
@@ -468,22 +372,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Proxyer",
-    "name": "Simple sidearms 日本語翻訳追加",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Venarium Race 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Epona Dynastic Rise 日本語翻訳",
-    "steamId": null,
-    "version": null
+    "author": "Arkymn",
+    "name": "Performance - Slower Pawn Tick Rate",
+    "steamId": "3524116050",
+    "version": "1.0.0.0"
   },
   {
     "author": "Proxyer",
@@ -492,20 +384,8 @@
     "version": null
   },
   {
-    "author": "Lucifel",
-    "name": "Mya's fufu 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Proxyer",
     "name": "Mid-saver Saver 日本語翻訳追加",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lucifel",
-    "name": "Miho,the celestial fox 日本語翻訳",
     "steamId": null,
     "version": null
   },
@@ -522,8 +402,8 @@
     "version": null
   },
   {
-    "author": "Lucifel",
-    "name": "Moyo2.0-Blood stained business 日本語翻訳",
+    "author": "Proxyer",
+    "name": "Dubs Bad Hygiene 日本語翻訳追加",
     "steamId": null,
     "version": null
   },

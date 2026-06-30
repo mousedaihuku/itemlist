@@ -12,6 +12,12 @@
     "version": "12.0.0"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -48,10 +54,22 @@
     "version": "1.6.0"
   },
   {
+    "author": "telardo",
+    "name": "Better Gene Graphics Framework",
+    "steamId": "2880940958",
+    "version": "1.6.0.1+972cbbe1a9fded8c7ea997800ee529e99479958b"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
     "version": "2.7.7366"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornsonと Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
   },
   {
     "author": "KeirLoire",
@@ -76,12 +94,6 @@
     "name": "Clothing Sorter",
     "steamId": "2275655161",
     "version": "1.6.0"
-  },
-  {
-    "author": "Krypt",
-    "name": "Grouped Pawns Lists",
-    "steamId": "2340773428",
-    "version": "1.0.0+72ec5504f8dfc442d87f0781e681999f48317a61"
   },
   {
     "author": "Uuugggg",
@@ -151,6 +163,12 @@
   },
   {
     "author": "aedbia",
+    "name": "Fashion Wardrobe",
+    "steamId": "3117351706",
+    "version": "1.1.1.1"
+  },
+  {
+    "author": "aedbia",
     "name": "AB's Head Apparel Tweaker",
     "steamId": "2990606008",
     "version": "1.0.0.0"
@@ -174,10 +192,16 @@
     "version": null
   },
   {
+    "author": "金兔子拉面と telardo",
+    "name": "AFU Cosmetic Gene Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mlie",
     "name": "Custom Prisoner Interactions",
     "steamId": "2841231775",
-    "version": "1.6.0"
+    "version": "1.6.2"
   },
   {
     "author": "We're in Heaven",
@@ -237,7 +261,7 @@
     "author": "legodude17",
     "name": "Smarter Deconstruction and Mining (Continued)",
     "steamId": "3261302741",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "author": "Liebasam",
@@ -252,8 +276,20 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "misonomi",
+    "name": "Mod Beards Only",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Billnotic",
     "name": "Actually Vanilla Music Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "harvestingseason",
+    "name": "mofumofu_yttakin",
     "steamId": null,
     "version": null
   },
@@ -273,7 +309,13 @@
     "author": "Doug",
     "name": "No Job Authors",
     "steamId": "2009825774",
-    "version": "0.1.0.0+5a5fdba525197d5c19538e44b7eb7b731a8a7c40"
+    "version": "0.1.0.0+79c030b5e7b541fd9c4b84c8b3ad3f8bef12f98f"
+  },
+  {
+    "author": "Krypt",
+    "name": "Grouped Pawns Lists",
+    "steamId": "2340773428",
+    "version": "1.0.0+72ec5504f8dfc442d87f0781e681999f48317a61"
   },
   {
     "author": "Patricia?!",
@@ -282,10 +324,46 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Arquebus",
-    "name": "Hotseat - Dynamic Storyteller Switcher",
-    "steamId": "2175327693",
-    "version": "1.1.3.0"
+    "author": "SeoHyeon",
+    "name": "Safe Drug Policy Generator",
+    "steamId": "2582640021",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Allie, Erin, Major Quadrangle, Matsayと Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LanYv",
+    "name": "Spawn Female Pawns Only",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LanYv",
+    "name": "Cosmetic Gene Removal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "レズ化洗脳手術",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "レズビアン信奉者",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "Super Size Bed!",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Stmast",
@@ -294,28 +372,16 @@
     "version": "1.6.0.0"
   },
   {
-    "author": "SeoHyeon",
-    "name": "Safe Drug Policy Generator",
-    "steamId": "2582640021",
-    "version": "1.0.0.0"
+    "author": "Nibato",
+    "name": "AutoExtractGenes",
+    "steamId": "2882834449",
+    "version": "1.0.0+5c371409c52a1621802cb4c641e76425b215c2c8"
   },
   {
     "author": "seeki",
     "name": "Want to Sleep with Spouse or Lover",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "hahayes",
-    "name": "Item Randomizer",
-    "steamId": "2563163989",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nibato",
-    "name": "AutoExtractGenes",
-    "steamId": "2882834449",
-    "version": "1.0.0+5c371409c52a1621802cb4c641e76425b215c2c8"
   },
   {
     "author": "Owlchemist",
@@ -345,7 +411,7 @@
     "author": "Scherub",
     "name": "Planning Extended",
     "steamId": "2877392159",
-    "version": "1.16.0+5feb7361587ff24a7a0ebd48d58f23456bf34830"
+    "version": "1.17.0+9a34ba7f7ec623027869c7ba922aabec9466e1ed"
   },
   {
     "author": "Updated by Ogliss",
@@ -366,6 +432,24 @@
     "version": null
   },
   {
+    "author": "Outremerと Fortified_Home",
+    "name": "Miho, the celestial fox",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Realistic Body",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LanYv",
+    "name": "Standard Body Only",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Crimson",
     "name": "[CF] Bionic Eye Removal",
     "steamId": null,
@@ -378,16 +462,46 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "LanYv",
+    "name": "Hooman Cute Reborn",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nals",
     "name": "[NL] Facial Animation - Experimentals",
     "steamId": null,
     "version": null
   },
   {
-    "author": "jamiejamboy2021",
-    "name": "The Potato Project",
-    "steamId": "3653896530",
-    "version": "1.0.0"
+    "author": "塔洛斯",
+    "name": "Miho Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Barbariank",
+    "name": "Hooman cute",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GilieArt",
+    "name": "LEWD Hooman Apparel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LanYv",
+    "name": "Bunny Armour From Hooman Cute",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LanYv",
+    "name": "Hooman Cute Reborn Extra Mod Support",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Arkymn",
@@ -400,12 +514,6 @@
     "name": "Performance Optimizer",
     "steamId": "2664723367",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Proxyer",
-    "name": "Colony Manager 日本語翻訳追加",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Proxyer",
@@ -433,6 +541,12 @@
   },
   {
     "author": "Proxyer",
+    "name": "Colony Manager 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
     "name": "Dubs Bad Hygiene 日本語翻訳追加",
     "steamId": null,
     "version": null
@@ -440,6 +554,18 @@
   {
     "author": "Proxyer",
     "name": "Performance Optimizer 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Miho,the celestial fox 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Vanilla Expanded Framework 日本語翻訳追加",
     "steamId": null,
     "version": null
   }

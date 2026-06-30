@@ -2199,6 +2199,128 @@
       },
       "defName": "Hygienic",
       "name": "不潔症"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmyは異種族を心底嫌っていて,全く信用していません.家畜のような存在と見なしています.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HAR_Xenophobia",
+      "name": "異種族嫌い"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmyは異種族にエキゾチックな魅力を感じており,興味深々です.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HAR_Xenophobia",
+      "name": "異種族好き"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy possesses an unnatural, almost pristine beauty that makes 彼を stand out among others of 彼の kind.",
+      "stats": [
+        "+3.0 美しさ"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3.0 美しさ"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "angelicbeauty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at 彼を is enough to make other people nauseous.",
+      "stats": [
+        "-3.0 美しさ"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-3.0 美しさ"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "repulsive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "放火魔ほどではありませんが,火が大好きです.",
+      "stats": [
+        "炎瞑想フォーカスタイプが許可されています。"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "炎瞑想フォーカスタイプが許可されています。"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Miho, the celestial fox",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Miho_EnergyMeditation_Trait",
+      "name": "火魅狐"
     }
   ],
   "races": [
@@ -2247,6 +2369,47 @@
       "enabled": false,
       "name": "ヒト",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 重量",
+          "+100% 燃えやすさ",
+          "+$900 金額",
+          "+4 名誉値",
+          "+50 輸送能力",
+          "+30% 身につけやすさ",
+          "+100% 精神感応性",
+          "+100% 休息しやすさ",
+          "+100% 免疫を得る速度",
+          "+120% 基本的な作業速度",
+          "+0 食料調達量",
+          "+100.00% 外交力",
+          "+100.00% 政治力",
+          "+100.00% 商人の勘",
+          "+25 生皮の量",
+          "+75% 痛みへの限界値",
+          "+20.0C 快適と感じる最低気温",
+          "+31.0C 快適と感じる最高気温",
+          "-20% 毒耐性",
+          "+0% 毒環境耐性",
+          "+4.10 移動速度",
+          "+90% 照準時間",
+          "+2.0 回避率(白兵戦)",
+          "+3.0 命中率(白兵戦)",
+          "+50.0% アーマー - 熱系",
+          "+150% 学習率係数",
+          "-1.00 ニューラルヒート回復レート"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "オーディナリーをはじめとする多くのミホ種の共通祖先は,人間ではなくアカギツネと推定されています.当然,自然進化ではなくアルコテックな何かによって知性化(意識高く)されたものと思われます.人間のように見えますが人間ではありません.彼女らの体には体内のメカナイトと連動する日照量によって仙術の強度が決まるカスミ器官があります.この器官のおかげで,キツネたちは太陽とエネルギーを崇めています.",
+      "defName": "Alien_Miho",
+      "enabled": true,
+      "name": "ミホ",
+      "price": 1500
     }
   ]
 }

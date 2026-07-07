@@ -5845,54 +5845,6 @@
 		"defname": "SSB_SuperRoyalBedVIIII"
 	},
 	{
-		"abr": "advancedpowerbunnyarmor",
-		"price": 11683,
-		"category": "アーマー",
-		"defname": "Apparel_AdvancedPowerBunnyArmor"
-	},
-	{
-		"abr": "advancedpowerbunnyear",
-		"price": 6883,
-		"category": "頭装備",
-		"defname": "Apparel_AdvancedPowerBunnyEar"
-	},
-	{
-		"abr": "alphapack",
-		"price": 167,
-		"category": "その他",
-		"defname": "AG_Alphapack"
-	},
-	{
-		"abr": "ancienthospitalbed",
-		"price": 667,
-		"category": "家具",
-		"defname": "AG_RuinedHospitalBed"
-	},
-	{
-		"abr": "ancientshelf",
-		"price": 6,
-		"category": "家具",
-		"defname": "AG_AncientShelf"
-	},
-	{
-		"abr": "archotechendogenefier",
-		"price": 833,
-		"category": "Gene tools",
-		"defname": "AG_ArchoEndogenefier"
-	},
-	{
-		"abr": "archotechgeneremover",
-		"price": 833,
-		"category": "Gene tools",
-		"defname": "AG_ArchoGeneRemover"
-	},
-	{
-		"abr": "archotechxenogenefier",
-		"price": 167,
-		"category": "Gene tools",
-		"defname": "AG_ArchoXenogenefier"
-	},
-	{
 		"abr": "bodysuittypea",
 		"price": 467,
 		"category": "その他",
@@ -5929,28 +5881,10 @@
 		"defname": "BodysuitF"
 	},
 	{
-		"abr": "bunnyear",
-		"price": 254,
-		"category": "頭装備",
-		"defname": "Apparel_BunnyEar"
-	},
-	{
 		"abr": "bunnysuit",
 		"price": 667,
 		"category": "アーマー",
 		"defname": "Apparel_Bunnysuit"
-	},
-	{
-		"abr": "bunnysuit",
-		"price": 1350,
-		"category": "アーマー",
-		"defname": "Apparel_BunnySuit"
-	},
-	{
-		"abr": "compositebodysuit",
-		"price": 1667,
-		"category": "その他",
-		"defname": "Apparel_CompositeBodysuit"
 	},
 	{
 		"abr": "dancercostume",
@@ -5965,28 +5899,10 @@
 		"defname": "Apparel_DancerHeadpiece"
 	},
 	{
-		"abr": "endogenefier",
-		"price": 167,
-		"category": "Gene tools",
-		"defname": "AG_Endogenefier"
-	},
-	{
-		"abr": "flakbunnyear",
-		"price": 617,
-		"category": "頭装備",
-		"defname": "Apparel_FlakBunnyEar"
-	},
-	{
 		"abr": "flakbunnysuit",
 		"price": 483,
 		"category": "アーマー",
 		"defname": "Apparel_Flakbunny"
-	},
-	{
-		"abr": "flakbunnysuit",
-		"price": 1083,
-		"category": "アーマー",
-		"defname": "Apparel_FlakBunny"
 	},
 	{
 		"abr": "flakinivest",
@@ -5995,189 +5911,57 @@
 		"defname": "LEWD_Apparel_FlakiniVest"
 	},
 	{
-		"abr": "forsakenarmor",
-		"price": 5858,
-		"category": "アーマー",
-		"defname": "AG_ForsakenMarineArmor"
-	},
-	{
-		"abr": "forsakenassaultrifle",
-		"price": 3175,
-		"category": "武器",
-		"defname": "AG_ForsakenAssaultRifle"
-	},
-	{
-		"abr": "forsakenbattleaxe",
-		"price": 1700,
-		"category": "武器",
-		"defname": "AG_ForsakenBattleAxe"
-	},
-	{
-		"abr": "forsakenblackhydra",
-		"price": 1917,
-		"category": "武器",
-		"defname": "AG_ForsakenHydra"
-	},
-	{
-		"abr": "forsakenbow",
-		"price": 209,
-		"category": "武器",
-		"defname": "AG_ForsakenBow"
-	},
-	{
-		"abr": "forsakenbulksword",
-		"price": 933,
-		"category": "武器",
-		"defname": "AG_ForsakenBulkSword"
-	},
-	{
-		"abr": "forsakencloak",
-		"price": 1125,
-		"category": "その他",
-		"defname": "AG_ForsakenCloak"
-	},
-	{
-		"abr": "forsakenforge",
-		"price": 358,
-		"category": "生産物",
-		"defname": "AG_ForsakenForge"
-	},
-	{
-		"abr": "forsakenhelmet",
-		"price": 1367,
-		"category": "頭装備",
-		"defname": "AG_ForsakenMarineHelmet"
-	},
-	{
-		"abr": "forsakenhood",
-		"price": 517,
-		"category": "帽子",
-		"defname": "AG_Forsaken_Hood"
-	},
-	{
-		"abr": "forsakenkidcloak",
-		"price": 708,
-		"category": "その他",
-		"defname": "AG_ForsakenCloak_Child"
-	},
-	{
-		"abr": "forsakenkidhood",
-		"price": 286,
-		"category": "帽子",
-		"defname": "AG_Forsaken_Hood_Child"
-	},
-	{
-		"abr": "forsakenlongblade",
-		"price": 1700,
-		"category": "武器",
-		"defname": "AG_ForsakenLongBlade"
-	},
-	{
-		"abr": "forsakenpsycasterhelmet",
-		"price": 1500,
-		"category": "頭装備",
-		"defname": "AG_ForsakenMarineHelmetPsy"
-	},
-	{
-		"abr": "forsakenshotgun",
-		"price": 2958,
-		"category": "武器",
-		"defname": "AG_ForsakenShotgun"
-	},
-	{
-		"abr": "forsakensniperrifle",
-		"price": 2892,
-		"category": "武器",
-		"defname": "AG_ForsakenSniper"
-	},
-	{
-		"abr": "forsakenspear",
-		"price": 358,
-		"category": "武器",
-		"defname": "AG_ForsakenSpear"
-	},
-	{
-		"abr": "generemover",
-		"price": 167,
-		"category": "Gene tools",
-		"defname": "AG_GeneRemover"
-	},
-	{
-		"abr": "genepackdisruptor",
-		"price": 167,
-		"category": "Gene tools",
-		"defname": "AG_GenepackDisruptor"
-	},
-	{
-		"abr": "genepacktweaker",
-		"price": 167,
-		"category": "Gene tools",
-		"defname": "AG_GenepackTweaker"
-	},
-	{
-		"abr": "germlinemutator",
-		"price": 167,
-		"category": "Gene tools",
-		"defname": "AG_GermlineMutator"
-	},
-	{
-		"abr": "humanegg(fert.)",
-		"price": 167,
-		"category": "卵(有精卵)",
-		"defname": "AG_HumanEgg"
-	},
-	{
 		"abr": "kurinblackunderwear",
 		"price": 112,
-		"category": "Kurin underwear apparel",
+		"category": "クーリンの下着",
 		"defname": "Kurin_Underwear_Black"
 	},
 	{
 		"abr": "kurinprudeunderwear",
 		"price": 112,
-		"category": "Kurin underwear apparel",
+		"category": "クーリンの下着",
 		"defname": "Kurin_Underwear_Prude"
 	},
 	{
 		"abr": "kurinredunderwear",
 		"price": 112,
-		"category": "Kurin underwear apparel",
+		"category": "クーリンの下着",
 		"defname": "Kurin_Underwear_Red"
 	},
 	{
 		"abr": "kurinslimunderwear",
 		"price": 112,
-		"category": "Kurin underwear apparel",
+		"category": "クーリンの下着",
 		"defname": "Kurin_Underwear_Slim"
 	},
 	{
 		"abr": "kurinstripedunderwear",
 		"price": 112,
-		"category": "Kurin underwear apparel",
+		"category": "クーリンの下着",
 		"defname": "Kurin_Underwear_Striped_Stuffed"
 	},
 	{
 		"abr": "kurintribalunderwear",
 		"price": 112,
-		"category": "Kurin underwear apparel",
+		"category": "クーリンの下着",
 		"defname": "Kurin_Underwear_tribal"
 	},
 	{
 		"abr": "kurinunderwear",
 		"price": 112,
-		"category": "Kurin underwear apparel",
+		"category": "クーリンの下着",
 		"defname": "Kurin_Underwear_Stuffed"
 	},
 	{
 		"abr": "kurinwhitestripedbra",
 		"price": 112,
-		"category": "Kurin underwear apparel",
+		"category": "クーリンの下着",
 		"defname": "Kurin_Underwear_Striped"
 	},
 	{
 		"abr": "kurinwhiteunderwear",
 		"price": 112,
-		"category": "Kurin underwear apparel",
+		"category": "クーリンの下着",
 		"defname": "Kurin_Underwear"
 	},
 	{
@@ -6185,24 +5969,6 @@
 		"price": 110,
 		"category": "衣服",
 		"defname": "LEWD_Apparel_MicroSkirt"
-	},
-	{
-		"abr": "mixedpack",
-		"price": 167,
-		"category": "その他",
-		"defname": "AG_Mixedpack"
-	},
-	{
-		"abr": "powerbunnyarmor",
-		"price": 5292,
-		"category": "アーマー",
-		"defname": "Apparel_PowerBunnyArmor"
-	},
-	{
-		"abr": "powerbunnyear",
-		"price": 3025,
-		"category": "頭装備",
-		"defname": "Apparel_PowerBunnyEar"
 	},
 	{
 		"abr": "powerbunnyarmor",
@@ -6217,30 +5983,6 @@
 		"defname": "LEWD_Apparel_TubeTop"
 	},
 	{
-		"abr": "ultimafabric",
-		"price": 3,
-		"category": "織物",
-		"defname": "AG_Ultima"
-	},
-	{
-		"abr": "xenogenefier",
-		"price": 167,
-		"category": "Gene tools",
-		"defname": "AG_Xenogenefier"
-	},
-	{
-		"abr": "xenotypeinjector",
-		"price": 167,
-		"category": "Gene tools",
-		"defname": "AG_XenotypeInjector"
-	},
-	{
-		"abr": "xenotypenullifier",
-		"price": 167,
-		"category": "Gene tools",
-		"defname": "AG_XenotypeNullifier"
-	},
-	{
 		"abr": "エキゾチック物質",
 		"price": 260,
 		"category": "加工品",
@@ -6251,12 +5993,6 @@
 		"price": 3,
 		"category": "原材料",
 		"defname": "Miho_Ceramics"
-	},
-	{
-		"abr": "テックプリント(advancedpowerbunnyarmor)",
-		"price": 5000,
-		"category": "テックプリント",
-		"defname": "Techprint_Lan_AdvancedPowerBunnyArmor"
 	},
 	{
 		"abr": "ひまわりの花びら",
@@ -6290,7 +6026,7 @@
 	},
 	{
 		"abr": "ミホ",
-		"price": 1500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Miho"
 	},
@@ -7045,6 +6781,60 @@
 		"defname": "MihoR_Apparel_OnSkin_Celestial"
 	},
 	{
+		"abr": "bionicovipositor",
+		"price": 867,
+		"category": "強化",
+		"defname": "SEX_BionicOvipositor"
+	},
+	{
+		"abr": "humanegg",
+		"price": 40,
+		"category": "卵(有精卵)",
+		"defname": "SEX_HumanEgg"
+	},
+	{
+		"abr": "humanegg(ruined)",
+		"price": 40,
+		"category": "卵(無精卵)",
+		"defname": "SEX_HumanEgg_Ruined"
+	},
+	{
+		"abr": "meiosisformer",
+		"price": 600,
+		"category": "生体",
+		"defname": "SEX_Meiosis"
+	},
+	{
+		"abr": "ovipositor",
+		"price": 1000,
+		"category": "生体",
+		"defname": "SEX_Ovipositor"
+	},
+	{
+		"abr": "roseofrebirthseed",
+		"price": 1000,
+		"category": "その他",
+		"defname": "RotR_RoseOfRebirthSeed"
+	},
+	{
+		"abr": "スターダストブレスレット",
+		"price": 917,
+		"category": "ユーティリティ",
+		"defname": "RotR_StardustBracelet"
+	},
+	{
+		"abr": "バイオニック子宮",
+		"price": 850,
+		"category": "強化",
+		"defname": "SEX_BionicWomb"
+	},
+	{
+		"abr": "バイオニック男根",
+		"price": 717,
+		"category": "強化",
+		"defname": "SEX_BionicPenis"
+	},
+	{
 		"abr": "미호트루퍼슈트(r)",
 		"price": 1225,
 		"category": "ミホ衣服",
@@ -7159,6 +6949,18 @@
 		"defname": "Miho_CelestialScale"
 	},
 	{
+		"abr": "子宮",
+		"price": 667,
+		"category": "生体",
+		"defname": "SEX_Womb"
+	},
+	{
+		"abr": "恋慕の指輪",
+		"price": 917,
+		"category": "ユーティリティ",
+		"defname": "RotR_LongingRing"
+	},
+	{
 		"abr": "狐刃蝶",
 		"price": 833,
 		"category": "家畜",
@@ -7189,6 +6991,12 @@
 		"defname": "Miho_Sunlamp"
 	},
 	{
+		"abr": "男根",
+		"price": 667,
+		"category": "生体",
+		"defname": "SEX_Penis"
+	},
+	{
 		"abr": "紫狐",
 		"price": 167,
 		"category": "家畜",
@@ -7213,6 +7021,12 @@
 		"defname": "Miho_Ebony_SilkCloth"
 	},
 	{
+		"abr": "避妊薬",
+		"price": 11,
+		"category": "加工品",
+		"defname": "SEX_Contraceptive"
+	},
+	{
 		"abr": "野戦用核融合炉",
 		"price": 667,
 		"category": "スペシャル",
@@ -7229,7 +7043,427 @@
 		"price": 1,
 		"category": "生野菜",
 		"defname": "RawPosMoss"
+	},
+	{
+		"abr": "aiチップ",
+		"price": 1517,
+		"category": "強化",
+		"defname": "AIChip"
+	},
+	{
+		"abr": "ma-aiチップ",
+		"price": 725,
+		"category": "加工品",
+		"defname": "EPOE_MAAI_Chip"
+	},
+	{
+		"abr": "スチールアーム",
+		"price": 173,
+		"category": "人造",
+		"defname": "SteelArm"
+	},
+	{
+		"abr": "バイオニクス義肢製造台",
+		"price": 1433,
+		"category": "生産物",
+		"defname": "TableBionics"
+	},
+	{
+		"abr": "パワーアーム",
+		"price": 2575,
+		"category": "強化",
+		"defname": "PowerArm"
+	},
+	{
+		"abr": "フック付き義手",
+		"price": 31,
+		"category": "人造",
+		"defname": "HookHand"
+	},
+	{
+		"abr": "中空肋骨の交換",
+		"price": 642,
+		"category": "強化",
+		"defname": "SimpleRib"
+	},
+	{
+		"abr": "人造受光器",
+		"price": 383,
+		"category": "人造",
+		"defname": "LightReceptor"
+	},
+	{
+		"abr": "人造疑似鼻",
+		"price": 153,
+		"category": "人造",
+		"defname": "ArtificialNose"
+	},
+	{
+		"abr": "人造義手",
+		"price": 329,
+		"category": "人造",
+		"defname": "SimpleProstheticHand"
+	},
+	{
+		"abr": "人造義指",
+		"price": 28,
+		"category": "人造",
+		"defname": "SimpleProstheticFinger"
+	},
+	{
+		"abr": "人造義足",
+		"price": 329,
+		"category": "人造",
+		"defname": "SimpleProstheticFoot"
+	},
+	{
+		"abr": "人造義趾",
+		"price": 28,
+		"category": "人造",
+		"defname": "SimpleProstheticToe"
+	},
+	{
+		"abr": "人造義顎(水圧式)",
+		"price": 383,
+		"category": "人造",
+		"defname": "HydraulicJaw"
+	},
+	{
+		"abr": "人造脊椎",
+		"price": 433,
+		"category": "人造",
+		"defname": "SimpleSpine"
+	},
+	{
+		"abr": "人造臓器(肝臓)",
+		"price": 1717,
+		"category": "強化",
+		"defname": "SyntheticLiver"
+	},
+	{
+		"abr": "人造臓器(肺)",
+		"price": 1717,
+		"category": "強化",
+		"defname": "SyntheticLung"
+	},
+	{
+		"abr": "人造臓器(腎臓)",
+		"price": 1717,
+		"category": "強化",
+		"defname": "SyntheticKidney"
+	},
+	{
+		"abr": "人造骨",
+		"price": 329,
+		"category": "体の修復",
+		"defname": "EPIA_SyntheticBone"
+	},
+	{
+		"abr": "代用臓器(肝臓)",
+		"price": 383,
+		"category": "人造",
+		"defname": "SurrogateLiver"
+	},
+	{
+		"abr": "代用臓器(肺)",
+		"price": 383,
+		"category": "人造",
+		"defname": "SurrogateLung"
+	},
+	{
+		"abr": "代用臓器(胃)",
+		"price": 383,
+		"category": "人造",
+		"defname": "SurrogateStomach"
+	},
+	{
+		"abr": "代用臓器(腎臓)",
+		"price": 383,
+		"category": "人造",
+		"defname": "SurrogateKidney"
+	},
+	{
+		"abr": "保護外骨格",
+		"price": 4983,
+		"category": "ウルトラテック",
+		"defname": "EPIA_ProtectiveExoskeleton"
+	},
+	{
+		"abr": "先進パワーアーム",
+		"price": 3400,
+		"category": "ウルトラテック",
+		"defname": "AdvancedPowerArm"
+	},
+	{
+		"abr": "先進強化上肢",
+		"price": 2542,
+		"category": "ウルトラテック",
+		"defname": "AdvancedBionicArm"
+	},
+	{
+		"abr": "先進強化下肢",
+		"price": 2542,
+		"category": "ウルトラテック",
+		"defname": "AdvancedBionicLeg"
+	},
+	{
+		"abr": "先進強化義手",
+		"price": 1800,
+		"category": "ウルトラテック",
+		"defname": "AdvancedBionicHand"
+	},
+	{
+		"abr": "先進強化義足",
+		"price": 1800,
+		"category": "ウルトラテック",
+		"defname": "AdvancedBionicFoot"
+	},
+	{
+		"abr": "先進強化義顎",
+		"price": 2133,
+		"category": "ウルトラテック",
+		"defname": "AdvancedBionicJaw"
+	},
+	{
+		"abr": "先進強化聴覚センサー",
+		"price": 1800,
+		"category": "ウルトラテック",
+		"defname": "AdvancedBionicEar"
+	},
+	{
+		"abr": "先進強化脊椎",
+		"price": 2542,
+		"category": "ウルトラテック",
+		"defname": "AdvancedBionicSpine"
+	},
+	{
+		"abr": "先進強化視覚センサー",
+		"price": 2542,
+		"category": "ウルトラテック",
+		"defname": "AdvancedBionicEye"
+	},
+	{
+		"abr": "合成ナノプリンター",
+		"price": 1433,
+		"category": "生産物",
+		"defname": "TableOrgans"
+	},
+	{
+		"abr": "合成組織",
+		"price": 287,
+		"category": "体の修復",
+		"defname": "SyntheticSkin"
+	},
+	{
+		"abr": "強化外骨格スーツ",
+		"price": 4067,
+		"category": "ウルトラテック",
+		"defname": "ExoskeletonSuit"
+	},
+	{
+		"abr": "強化義手",
+		"price": 1308,
+		"category": "強化",
+		"defname": "BionicHand"
+	},
+	{
+		"abr": "強化義指",
+		"price": 392,
+		"category": "強化",
+		"defname": "BionicFinger"
+	},
+	{
+		"abr": "強化義足",
+		"price": 1308,
+		"category": "強化",
+		"defname": "BionicFoot"
+	},
+	{
+		"abr": "強化義趾",
+		"price": 392,
+		"category": "強化",
+		"defname": "BionicToe"
+	},
+	{
+		"abr": "強化義顎(無声)",
+		"price": 1308,
+		"category": "強化",
+		"defname": "SilentJaw"
+	},
+	{
+		"abr": "感覚最適化ナノボット",
+		"price": 2033,
+		"category": "有機オプティマイザー",
+		"defname": "EPOE_InstinctOptimizingNanobots"
+	},
+	{
+		"abr": "戦術情報角膜表示装置",
+		"price": 3217,
+		"category": "ウルトラテック",
+		"defname": "TacticalCorneaImplant"
+	},
+	{
+		"abr": "戦術生体眼",
+		"price": 3300,
+		"category": "ウルトラテック",
+		"defname": "EPIA_TacticalBionicEye"
+	},
+	{
+		"abr": "有機最適化ナノボット",
+		"price": 1725,
+		"category": "有機オプティマイザー",
+		"defname": "EPOE_OrganicOptimizingNanobots"
+	},
+	{
+		"abr": "機械化鎌状刃",
+		"price": 342,
+		"category": "人造",
+		"defname": "EPIA_ScytherBlade"
+	},
+	{
+		"abr": "眼球",
+		"price": 667,
+		"category": "生体",
+		"defname": "Eye"
+	},
+	{
+		"abr": "破損した機械化鎌状刃",
+		"price": 33,
+		"category": "加工品",
+		"defname": "EPOE_DamagedScytherBlade"
+	},
+	{
+		"abr": "神経再生網",
+		"price": 1775,
+		"category": "体の修復",
+		"defname": "NeurocureFramework"
+	},
+	{
+		"abr": "神経筋骨格",
+		"price": 1133,
+		"category": "体の修復",
+		"defname": "NeuromuscularFramework"
+	},
+	{
+		"abr": "筋肉刺激装置",
+		"price": 1717,
+		"category": "強化",
+		"defname": "MuscleStimulator"
+	},
+	{
+		"abr": "耳",
+		"price": 417,
+		"category": "生体",
+		"defname": "Ear"
+	},
+	{
+		"abr": "肋骨(アルコール投与)",
+		"price": 958,
+		"category": "強化",
+		"defname": "DruggedRib"
+	},
+	{
+		"abr": "肋骨(ウェイクアップ投与)",
+		"price": 1017,
+		"category": "強化",
+		"defname": "WakeUpRib"
+	},
+	{
+		"abr": "肋骨(冷却効果)",
+		"price": 725,
+		"category": "強化",
+		"defname": "CoolerRib"
+	},
+	{
+		"abr": "肋骨(加熱効果)",
+		"price": 725,
+		"category": "強化",
+		"defname": "HeaterRib"
+	},
+	{
+		"abr": "肋骨(医療用)",
+		"price": 1025,
+		"category": "強化",
+		"defname": "MedicalRib"
+	},
+	{
+		"abr": "肋骨(呼吸補助)",
+		"price": 1667,
+		"category": "強化",
+		"defname": "RespirationRib"
+	},
+	{
+		"abr": "肋骨(痛覚軽減)",
+		"price": 1167,
+		"category": "強化",
+		"defname": "PainkillerRib"
+	},
+	{
+		"abr": "肋骨(興奮剤投与)",
+		"price": 900,
+		"category": "強化",
+		"defname": "AdrenalineRib"
+	},
+	{
+		"abr": "肋骨(血液凝固)",
+		"price": 1142,
+		"category": "強化",
+		"defname": "CoagulatorRib"
+	},
+	{
+		"abr": "胃",
+		"price": 833,
+		"category": "生体",
+		"defname": "Stomach"
+	},
+	{
+		"abr": "脚",
+		"price": 1250,
+		"category": "生体",
+		"defname": "Leg"
+	},
+	{
+		"abr": "脳刺激装置",
+		"price": 467,
+		"category": "人造",
+		"defname": "BrainStimulator"
+	},
+	{
+		"abr": "腕",
+		"price": 1250,
+		"category": "生体",
+		"defname": "Arm"
+	},
+	{
+		"abr": "補助ai(労働)",
+		"price": 3217,
+		"category": "ウルトラテック",
+		"defname": "EPIA_AuxiliaryAI_Worker"
+	},
+	{
+		"abr": "補助ai(戦闘)",
+		"price": 4333,
+		"category": "ウルトラテック",
+		"defname": "EPIA_AuxiliaryAI_Combat"
+	},
+	{
+		"abr": "金色人造義眼",
+		"price": 26,
+		"category": "人造",
+		"defname": "GoldenEye"
+	},
+	{
+		"abr": "顎",
+		"price": 417,
+		"category": "生体",
+		"defname": "Jaw"
+	},
+	{
+		"abr": "鼻",
+		"price": 167,
+		"category": "生体",
+		"defname": "Nose"
 	}
 	],
-	"total": 1205
+	"total": 1244
 }

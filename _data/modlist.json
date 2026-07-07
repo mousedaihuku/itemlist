@@ -6,6 +6,12 @@
     "version": "2.4.2.0"
   },
   {
+    "author": "Aleksey",
+    "name": "Better Stacktraces",
+    "steamId": "3541579129",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -66,10 +72,16 @@
     "version": "2.7.7366"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornsonと Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
+    "author": "Victorique, Auraniと Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Plasteel Surgery (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "KeirLoire",
@@ -330,20 +342,14 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Allie, Erin, Major Quadrangle, Matsayと Sarg",
-    "name": "Alpha Genes",
-    "steamId": "2891845502",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "LanYv",
-    "name": "Spawn Female Pawns Only",
+    "name": "Cosmetic Gene Removal",
     "steamId": null,
     "version": null
   },
   {
-    "author": "LanYv",
-    "name": "Cosmetic Gene Removal",
+    "author": "seeki",
+    "name": "Forced Rearmament",
     "steamId": null,
     "version": null
   },
@@ -364,6 +370,30 @@
     "name": "Super Size Bed!",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Sergkart",
+    "name": "WVC - Work Modes",
+    "steamId": "2888380373",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "turkler",
+    "name": "Intimacy - Friends n' Lovers",
+    "steamId": "3498422643",
+    "version": "0.1.0.0"
+  },
+  {
+    "author": "turkler",
+    "name": "Intimacy - Gender Works",
+    "steamId": "3534254491",
+    "version": "0.1.0.0"
+  },
+  {
+    "author": "telardo",
+    "name": "Romance On The Rim",
+    "steamId": "2654432921",
+    "version": "1.6.1.0+c6a702899132d9cceb8457e42c3ca8508d780df8"
   },
   {
     "author": "Stmast",
@@ -493,12 +523,6 @@
   },
   {
     "author": "LanYv",
-    "name": "Bunny Armour From Hooman Cute",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LanYv",
     "name": "Hooman Cute Reborn Extra Mod Support",
     "steamId": null,
     "version": null
@@ -514,6 +538,18 @@
     "name": "Performance Optimizer",
     "steamId": "2664723367",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Olli",
+    "name": "Butter++",
+    "steamId": "3643170015",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "ViralReaction",
+    "name": "Missile Girl - Performance Mod",
+    "steamId": "3712928623",
+    "version": "0.6.3.2421"
   },
   {
     "author": "Proxyer",
@@ -560,12 +596,6 @@
   {
     "author": "Lucifel",
     "name": "Miho,the celestial fox 日本語翻訳",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Proxyer",
-    "name": "Vanilla Expanded Framework 日本語翻訳追加",
     "steamId": null,
     "version": null
   }

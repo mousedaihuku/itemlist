@@ -2249,58 +2249,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy possesses an unnatural, almost pristine beauty that makes 彼を stand out among others of 彼の kind.",
-      "stats": [
-        "+3.0 美しさ"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3.0 美しさ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AG_Beauty",
-      "name": "angelicbeauty"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at 彼を is enough to make other people nauseous.",
-      "stats": [
-        "-3.0 美しさ"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-3.0 美しさ"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AG_Beauty",
-      "name": "repulsive"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 0,
       "description": "放火魔ほどではありませんが,火が大好きです.",
       "stats": [
@@ -2321,6 +2269,68 @@
       },
       "defName": "Miho_EnergyMeditation_Trait",
       "name": "火魅狐"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyは孤独を好みます。彼は親密さを求めていません。",
+      "stats": [],
+      "conflicts": [
+        "愛情深い",
+        "サイコパス"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "愛情深い",
+          "サイコパス"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Intimacy - Friends n' Lovers",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SEX_Solitary",
+      "name": "孤独"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyはなかなか社交的な人です。彼は親密さを求める傾向が強いです。",
+      "stats": [
+        "x200% 全体的な信仰度の損失率",
+        "x150% 親密さの欲求倍増"
+      ],
+      "conflicts": [
+        "孤独",
+        "サイコパス"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "孤独",
+          "サイコパス"
+        ],
+        "stats": [
+          "x200% 全体的な信仰度の損失率",
+          "x150% 親密さの欲求倍増"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Intimacy - Friends n' Lovers",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SEX_Affectionate",
+      "name": "愛情深い"
     }
   ],
   "races": [

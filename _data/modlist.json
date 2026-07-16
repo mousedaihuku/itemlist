@@ -66,6 +66,12 @@
     "version": "1.6.0.1+972cbbe1a9fded8c7ea997800ee529e99479958b"
   },
   {
+    "author": "ilyvion",
+    "name": "ilyvion's Laboratory",
+    "steamId": "3296362231",
+    "version": "0.20.0+798ec1862a32ca605234d16f0aaaee258b75b1f2"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
@@ -192,8 +198,8 @@
     "version": null
   },
   {
-    "author": "Hatti",
-    "name": "QualityBuilder",
+    "author": "Hattiとpkp24",
+    "name": "QualityBuilder Unofficial 1.6",
     "steamId": "3512466087",
     "version": "1.0.17"
   },
@@ -216,10 +222,10 @@
     "version": "1.6.2"
   },
   {
-    "author": "We're in Heaven",
-    "name": "Colony Manager Fork",
-    "steamId": "3262932412",
-    "version": "1.6"
+    "author": "ilyvionと Fluffy",
+    "name": "Colony Manager Redux",
+    "steamId": "3310027356",
+    "version": "0.15.0+7776e89bfbb2a28343e20564529b2a4822061211"
   },
   {
     "author": "FrozenSnowFox",
@@ -324,12 +330,6 @@
     "version": "0.1.0.0+79c030b5e7b541fd9c4b84c8b3ad3f8bef12f98f"
   },
   {
-    "author": "Krypt",
-    "name": "Grouped Pawns Lists",
-    "steamId": "2340773428",
-    "version": "1.0.0+72ec5504f8dfc442d87f0781e681999f48317a61"
-  },
-  {
     "author": "Patricia?!",
     "name": "Patricia's Moveable Monoliths",
     "steamId": "3219733061",
@@ -348,12 +348,6 @@
     "version": null
   },
   {
-    "author": "seeki",
-    "name": "Forced Rearmament",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Udon",
     "name": "レズ化洗脳手術",
     "steamId": null,
@@ -364,6 +358,18 @@
     "name": "レズビアン信奉者",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "turkler",
+    "name": "Intimacy - Friends n' Lovers",
+    "steamId": "3498422643",
+    "version": "0.1.0.0"
+  },
+  {
+    "author": "turkler",
+    "name": "Intimacy - Gender Works",
+    "steamId": "3534254491",
+    "version": "0.1.0.0"
   },
   {
     "author": "Udon",
@@ -378,16 +384,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "turkler",
-    "name": "Intimacy - Friends n' Lovers",
-    "steamId": "3498422643",
-    "version": "0.1.0.0"
-  },
-  {
-    "author": "turkler",
-    "name": "Intimacy - Gender Works",
-    "steamId": "3534254491",
-    "version": "0.1.0.0"
+    "author": "Krypt",
+    "name": "Grouped Pawns Lists",
+    "steamId": "2340773428",
+    "version": "1.0.0+72ec5504f8dfc442d87f0781e681999f48317a61"
   },
   {
     "author": "telardo",
@@ -418,6 +418,12 @@
     "name": "Mid-saver Saver",
     "steamId": "3261311100",
     "version": "1.6"
+  },
+  {
+    "author": "seeki",
+    "name": "Forced Rearmament",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Owlchemist",
@@ -464,12 +470,6 @@
   {
     "author": "Outremerと Fortified_Home",
     "name": "Miho, the celestial fox",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Realistic Body",
     "steamId": null,
     "version": null
   },
@@ -524,6 +524,12 @@
   {
     "author": "LanYv",
     "name": "Hooman Cute Reborn Extra Mod Support",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LanYv",
+    "name": "Bunny Armour From Hooman Cute",
     "steamId": null,
     "version": null
   },

@@ -5383,12 +5383,6 @@
 		"defname": "Building_OutfitStand"
 	},
 	{
-		"abr": "ai管理者",
-		"price": 7833,
-		"category": "生産物",
-		"defname": "FM_AIManager"
-	},
-	{
 		"abr": "largegenebank",
 		"price": 783,
 		"category": "生産物",
@@ -5491,12 +5485,6 @@
 		"defname": "Fountain"
 	},
 	{
-		"abr": "基本的な管理者の机",
-		"price": 262,
-		"category": "生産物",
-		"defname": "FM_BasicManagerStation"
-	},
-	{
 		"abr": "堆肥容器(バイオ肥料)",
 		"price": 146,
 		"category": "衛生",
@@ -5597,12 +5585,6 @@
 		"price": 517,
 		"category": "衛生",
 		"defname": "ToiletSpacer"
-	},
-	{
-		"abr": "管理者の机",
-		"price": 508,
-		"category": "生産物",
-		"defname": "FM_ManagerStation"
 	},
 	{
 		"abr": "簡易シャワー",
@@ -6781,36 +6763,6 @@
 		"defname": "MihoR_Apparel_OnSkin_Celestial"
 	},
 	{
-		"abr": "bionicovipositor",
-		"price": 867,
-		"category": "強化",
-		"defname": "SEX_BionicOvipositor"
-	},
-	{
-		"abr": "humanegg",
-		"price": 40,
-		"category": "卵(有精卵)",
-		"defname": "SEX_HumanEgg"
-	},
-	{
-		"abr": "humanegg(ruined)",
-		"price": 40,
-		"category": "卵(無精卵)",
-		"defname": "SEX_HumanEgg_Ruined"
-	},
-	{
-		"abr": "meiosisformer",
-		"price": 600,
-		"category": "生体",
-		"defname": "SEX_Meiosis"
-	},
-	{
-		"abr": "ovipositor",
-		"price": 1000,
-		"category": "生体",
-		"defname": "SEX_Ovipositor"
-	},
-	{
 		"abr": "roseofrebirthseed",
 		"price": 1000,
 		"category": "その他",
@@ -6821,18 +6773,6 @@
 		"price": 917,
 		"category": "ユーティリティ",
 		"defname": "RotR_StardustBracelet"
-	},
-	{
-		"abr": "バイオニック子宮",
-		"price": 850,
-		"category": "強化",
-		"defname": "SEX_BionicWomb"
-	},
-	{
-		"abr": "バイオニック男根",
-		"price": 717,
-		"category": "強化",
-		"defname": "SEX_BionicPenis"
 	},
 	{
 		"abr": "미호트루퍼슈트(r)",
@@ -6949,12 +6889,6 @@
 		"defname": "Miho_CelestialScale"
 	},
 	{
-		"abr": "子宮",
-		"price": 667,
-		"category": "生体",
-		"defname": "SEX_Womb"
-	},
-	{
 		"abr": "恋慕の指輪",
 		"price": 917,
 		"category": "ユーティリティ",
@@ -6991,12 +6925,6 @@
 		"defname": "Miho_Sunlamp"
 	},
 	{
-		"abr": "男根",
-		"price": 667,
-		"category": "生体",
-		"defname": "SEX_Penis"
-	},
-	{
 		"abr": "紫狐",
 		"price": 167,
 		"category": "家畜",
@@ -7019,12 +6947,6 @@
 		"price": 9,
 		"category": "織物",
 		"defname": "Miho_Ebony_SilkCloth"
-	},
-	{
-		"abr": "避妊薬",
-		"price": 11,
-		"category": "加工品",
-		"defname": "SEX_Contraceptive"
 	},
 	{
 		"abr": "野戦用核融合炉",
@@ -7463,7 +7385,67 @@
 		"price": 167,
 		"category": "生体",
 		"defname": "Nose"
+	},
+	{
+		"abr": "ai管理者",
+		"price": 7833,
+		"category": "生産物",
+		"defname": "CM_AIManager"
+	},
+	{
+		"abr": "bionicovipositor",
+		"price": 867,
+		"category": "強化",
+		"defname": "SEX_BionicOvipositor"
+	},
+	{
+		"abr": "humanegg",
+		"price": 40,
+		"category": "卵(有精卵)",
+		"defname": "SEX_HumanEgg"
+	},
+	{
+		"abr": "humanegg(ruined)",
+		"price": 40,
+		"category": "卵(無精卵)",
+		"defname": "SEX_HumanEgg_Ruined"
+	},
+	{
+		"abr": "meiosisformer",
+		"price": 600,
+		"category": "生体",
+		"defname": "SEX_Meiosis"
+	},
+	{
+		"abr": "ovipositor",
+		"price": 1000,
+		"category": "生体",
+		"defname": "SEX_Ovipositor"
+	},
+	{
+		"abr": "advancedpowerbunnyear",
+		"price": 6883,
+		"category": "頭装備",
+		"defname": "Apparel_AdvancedPowerBunnyEar"
+	},
+	{
+		"abr": "bunnyear",
+		"price": 254,
+		"category": "頭装備",
+		"defname": "Apparel_BunnyEar"
+	},
+	{
+		"abr": "bunnysuit",
+		"price": 1350,
+		"category": "アーマー",
+		"defname": "Apparel_BunnySuit"
+	},
+	{
+		"abr": "compositebodysuit",
+		"price": 1667,
+		"category": "その他",
+		"defname": "Apparel_CompositeBodysuit"
 	}
 	],
-	"total": 1244
+	"total": 1254
 }
